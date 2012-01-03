@@ -8,7 +8,7 @@
 
 #### (2) Conduct of programs
 
-&emsp;Programs supported under this section may be conducted through grants and contractswith public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
+&emsp;Programs supported under this section may be conducted through grants and contracts with public agencies and private nonprofit organizations, including recipients of Federal assistance under other provisions of this chapter, that the Secretary determines have an understanding of the unemployment problems of veterans described in paragraph (1), familiarity with the area to be served, and the capability to administer effectively a program of workforce investment activities for such veterans.
 
 #### (3) Required activities
 
@@ -35,6 +35,10 @@
 &emsp;&emsp;(B) consult with the Secretary of Veterans Affairs and take steps to ensure that programs supported under this section are coordinated, to the maximum extent feasible, with related programs and activities conducted under title 38, including programs and activities conducted under chapter 63 of such title, chapters 30, 31, 32, and 34 of such title, and sections 1712A, 1720A, 3687, and 4103A of such title.
 
 (Pub. L. 105–220, title I, §168, Aug. 7, 1998, 112 Stat. 1027; Pub. L. 109–233, title IV, §402(e)(4), June 15, 2006, 120 Stat. 411.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a)(2), (3)(C), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -82,7 +86,7 @@ Conditions.—Under the pilot program, each grant to a State shall be subject to
 
 &emsp;“(1) The State shall repay to the Secretary, on such date as shall be determined by the Secretary, any amount received under the pilot program that is not used for the purposes described in subsection (c).
 
-&emsp;“(2) The State shall submit to the Secretary, at such times and containing such information as the Secretary shall require, reports on the use of grant funds.
+&emsp;“(2) The State shall submit to the Secretary, at such times and containing such information as theSecretary shall require, reports on the use of grant funds.
 
 “(e)
 
@@ -206,7 +210,7 @@ Definition.—In this section, the term ‘veteran’ has the meaning given such
 
 #### Veterans’ Job Training Act
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22,1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, §704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, §212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, §4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, §201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, §901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, §201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(25), (f)(17)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 #### “short title
 
@@ -354,7 +358,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “payments to employers; overpayment
 
-“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section 9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
+“Sec. 8. (a)(1) Except as provided in paragraph (3) and subsection (b) and subject to the provisions of section9, the Administrator shall make quarterly payments to an employer of a veteran participating in an approved program of job training under this Act. Subject to section 5(c) and paragraph (2), the amount paid to an employer on behalf of a veteran for any period of time shall be 50 percent of the product of (A) the starting hourly rate of wages paid to the veteran by the employer (without regard to overtime or premium pay), and (B) the number of hours worked by the veteran during that period.
 
 “(2) The total amount that may be paid to an employer on behalf of a veteran participating in a program of job training under this Act is $10,000.
 
@@ -406,13 +410,13 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “inspection of records; investigations
 
-“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other records that the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
+“Sec. 12. (a) The records and accounts of employers pertaining to veterans on behalf of whom assistance has been paid under this Act, as well as other recordsthat the Administrator determines to be necessary to ascertain compliance with the requirements established under this Act, shall be available at reasonable times for examination by authorized representatives of the Federal Government.
 
 “(b) The Administrator may monitor employers and veterans participating in programs of job training under this Act to determine compliance with the requirements established under this Act.
 
 “(c) The Administrator may investigate any matter the Administrator considers necessary to determine compliance with the requirements established under this Act. The investigations authorized by this subsection may include examining records (including making certified copies of records), questioning employees, and entering into any premises or onto any site where any part of a program of job training is conducted under this Act, or where any of the records of the employer offering or providing such program are kept.
 
-“(d) The Administrator may administer functions under subsections (b) and (c) in accordance with anagreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
+“(d) The Administrator may administer functions under subsections (b) and (c) in accordance with an agreement between the Administrator and the Secretary providing for the administration of such subsections (or any portion of such subsections) by the Department of Labor. Under such an agreement, any entity of the Department of Labor specified in the agreement may administer such subsections, notwithstanding section 4(b).
 
 #### “coordination with other programs
 

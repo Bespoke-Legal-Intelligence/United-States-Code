@@ -12,7 +12,7 @@ The Secretary shall modify delinquent farmer program loans made or insured under
 
 To be eligible to obtain assistance under subsection (a) of this section—
 
-&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary,except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section;
+&emsp;(1) the delinquency must be due to circumstances beyond the control of the borrower, as defined in regulations issued by the Secretary, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section;
 
 &emsp;(2) the borrower must have acted in good faith with the Secretary in connection with the loan as defined in regulations issued by the Secretary;
 
@@ -86,7 +86,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (5) Restructuring of loans
 
-&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, theSecretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
 
 #### (6) Termination of loan obligations
 
@@ -96,7 +96,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;&emsp;(B) the value of the restructured loan is less than the recovery value; and
 
-&emsp;&emsp;(C) not later than 90 days after receipt of the notification described in paragraph\(4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the current market value.
+&emsp;&emsp;(C) not later than 90 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the current market value.
 
 #### (7) Negotiation of appraisal
 
@@ -278,17 +278,17 @@ Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L.
 
 #### Amendments
 
-2002—Subsec. (e)(7)(D). Pub. L. 107–171 added subpar. (D).
+<b>2002</b>—Subsec. (e)(7)(D). Pub. L. 107–171 added subpar. (D).
 
-2000—Subsec. (e)(7). Pub. L. 106–387 added par. (7).
+<b>2000</b>—Subsec. (e)(7). Pub. L. 106–387 added par. (7).
 
-1999—Subsec. (c)(3)(C). Pub. L. 106–31 substituted “110 percent” for “100 percent”.
+<b>1999</b>—Subsec. (c)(3)(C). Pub. L. 106–31 substituted “110 percent” for “100 percent”.
 
-1998—Subsec. (c)(3)(C). Pub. L. 105–277, §101(a) \[title VIII, §808\], substituted “100 percent” for “110 percent”.
+<b>1998</b>—Subsec. (c)(3)(C). Pub. L. 105–277, §101(a) \[title VIII, §808\], substituted “100 percent” for “110 percent”.
 
 Subsec. (e)(6). Pub. L. 105–277, §101(a) \[title VIII, §807\], added par. (6).
 
-1996—Subsec. (c)(3)(C). Pub. L. 104–127, §645(1)(A), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
+<b>1996</b>—Subsec. (c)(3)(C). Pub. L. 104–127, §645(1)(A), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
 
 “(i)
 
@@ -308,11 +308,11 @@ Pub. L. 104–127, §645(3), redesignated subsec. (m) as (<i>l</i>).
 
 Subsecs. (m) to (p). Pub. L. 104–127, §645(3), redesignated subsecs. (m) to (p) as (<i>l</i>) to (<i>o</i>), respectively.
 
-1991—Subsec. (c)(6)(A)(ii). Pub. L. 102–237, §501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
+<b>1991</b>—Subsec. (c)(6)(A)(ii). Pub. L. 102–237, §501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
 
 Subsec. (m). Pub. L. 102–237, §501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–624, §1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) of this section that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a) of this section”.
 
 Subsec. (c)(2)(A). Pub. L. 101–624, §1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
 

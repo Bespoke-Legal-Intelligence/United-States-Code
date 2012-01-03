@@ -8,5 +8,5 @@
 
 #### Amendments
 
-1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in subsecs. (a) and (b).
+<b>1996</b>—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in subsecs. (a) and (b).
 

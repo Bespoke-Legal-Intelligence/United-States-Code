@@ -18,7 +18,7 @@ Congress finds the following:
 
 &emsp;(3) By encouraging volunteer programs and donations and fostering non-Federal partnerships with hatchery facilities, Federal funding for the hatcheries can be supplemented.
 
-&emsp;(4) By encouraging hatchery educational programs, public awareness of the resources of the System and public participation in the conservation of aquatic resources can be promoted.
+&emsp;(4) By encouraging hatchery educational programs, public awareness of the resources of the System and public participation in theconservation of aquatic resources can be promoted.
 
 #### (b) Purposes
 

@@ -10,7 +10,7 @@
 
 #### (b) Conditions
 
-(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
+(1) The Secretary may issue a Federal guarantee instrument for a qualified infrastructure project only after a certificate of public convenience and necessity under section 720a(b) of this title or an amended certificate under section 719g of this title has been issued for the project, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project.
 
 (2) The Secretary may issue a Federal guarantee instrument under this section for a qualified infrastructure project only if the loan or other debt obligation guaranteed by the instrument has been issued by an eligible lender.
 
@@ -48,7 +48,7 @@ In this section:
 
 #### (2) Eligible lender
 
-&emsp;The term “eligible lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), including—
+&emsp;The term “eligible lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued underthe Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of title 26) that is a qualified institutional buyer; and
 

@@ -14,9 +14,9 @@ Section 1416, Pub. L. 89–563, title I, §156, as added Pub. L. 93–492, title
 
 Section 1417, Pub. L. 89–563, title I, §157, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475, related to exemption for inconsequential defect or failure to comply with motor vehicle safety standard. See sections 30118 and 30120 of Title 49.
 
-Section 1418, Pub. L. 89–563, title I, §158, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475; amended Pub. L. 95–599, title III, §317, Nov. 6, 1978, 92 Stat. 2752; Pub. L. 97–331, §4(a), Oct. 15, 1982, 96 Stat. 1619, related to information, disclosure, and recordkeeping, and to confidential information. See sections 30117, 30166, and 30167 of Title 49.
+Section 1418, Pub. L. 89–563, title I, §158, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1475; amended Pub. L. 95–599, title III, §317, Nov. 6, 1978, 92Stat. 2752; Pub. L. 97–331, §4(a), Oct. 15, 1982, 96 Stat. 1619, related to information, disclosure, and recordkeeping, and to confidential information. See sections 30117, 30166, and 30167 of Title 49.
 
 Section 1419, Pub. L. 89–563, title I, §159, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1476, provided definitions for purposes of this part. See section 30102 of Title 49.
 
-Section 1420, Pub. L. 89–563, title I, §160, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1477,provided that this part did not create or affect warranty obligations under State or Federal law and that consumer remedies under this part were in addition to, and not in lieu of, rights or remedies under State or Federal law. See section 30103 of Title 49.
+Section 1420, Pub. L. 89–563, title I, §160, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1477, provided that this part did not create or affect warranty obligations under State or Federal law and that consumer remedies under this part were in addition to, and not in lieu of, rights or remedies under State or Federal law. See section 30103 of Title 49.
 

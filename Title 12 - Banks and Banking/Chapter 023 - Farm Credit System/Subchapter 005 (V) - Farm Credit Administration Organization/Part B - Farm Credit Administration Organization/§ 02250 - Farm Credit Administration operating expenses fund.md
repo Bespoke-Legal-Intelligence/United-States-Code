@@ -26,7 +26,7 @@
 
 #### (1) Treasury fund
 
-&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
+&emsp;The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall bemaintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\], to pay the expenses of the Farm Credit Administration.
 
 #### (2) Nongovernment funds
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-(Pub. L. 92–181, title V, §5.15, formerly §5.16, Dec. 10, 1971, 85 Stat. 620; renumbered §5.15 and amended Pub. L. 99–205, title II, §§201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, §432(a), Jan. 6, 1988, 101 Stat.1660; Pub. L. 100–399, title IV, §416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, §510, Oct. 28, 1992, 106 Stat. 4132.)
+(Pub. L. 92–181, title V, §5.15, formerly §5.16, Dec. 10, 1971, 85 Stat. 620; renumbered §5.15 and amended Pub. L. 99–205, title II, §§201(5), 205(g)(6), Dec. 23, 1985, 99 Stat. 1690, 1707; Pub. L. 100–233, title IV, §432(a), Jan. 6, 1988, 101 Stat. 1660; Pub. L. 100–399, title IV, §416(a), (b), Aug. 17, 1988, 102 Stat. 1004; Pub. L. 102–552, title V, §510, Oct. 28, 1992, 106 Stat. 4132.)
 
 #### References in Text
 
@@ -58,9 +58,9 @@ A prior section 5.15 of Pub. L. 92–181 was renumbered section 5.14 and is clas
 
 #### Amendments
 
-1992—Subsec. (b)(1). Pub. L. 102–552 inserted “, for purposes of sequestration,” after “regard” and struck out “or any other law” before “, to pay the expenses”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–552 inserted “, for purposes of sequestration,” after “regard” and struck out “or any other law” before “, to pay the expenses”.
 
-1988—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows:
+<b>1988</b>—Pub. L. 100–233 amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Farm Credit Administration shall prior to the first day of each fiscal year estimate the cost of administrative expenses for the ensuing fiscal year in administering this chapter, including official functions, and shall apportion the amount so determined among the institutions of the System on such equitable basis as the Farm Credit Administration shall determine, and shall assess against and collect in advance the amounts so apportioned from the institutions among which the apportionment is made.
 
@@ -70,7 +70,7 @@ Subsec. (a)(2)(A). Pub. L. 100–399, §416(a), substituted “the assessment de
 
 Subsec. (a)(2)(C). Pub. L. 100–399, §416(b), substituted “described” for “specified”.
 
-1985—Subsec. (b). Pub. L. 99–205, §205(g)(6), substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
+<b>1985</b>—Subsec. (b). Pub. L. 99–205, §205(g)(6), substituted “the Farm Credit Administration” for “said Administration” twice in first sentence, and for “the Administration” and “such Administration” in second sentence.
 
 #### Effective Date of 1988 Amendment
 

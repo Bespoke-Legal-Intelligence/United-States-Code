@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the United States district court for
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–460, §646(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–460, §646(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 100–460, §646(2), added par. (3).
 

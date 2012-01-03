@@ -156,7 +156,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §7102(a)(1)(A), substituted “25” for “31”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7102(a)(1)(A), substituted “25” for “31”.
 
 Subsec. (b)(3). Pub. L. 110–246, §7102(a)(1)(B), added par. (3) and struck out former par. (3) which related to membership categories and directed that the Advisory Board consist of members from each of the categories listed in former subpars. (A) to (EE).
 
@@ -166,7 +166,7 @@ Subsec. (g)(1). Pub. L. 110–246, §7102(a)(2), substituted “$500,000” for 
 
 Subsec. (h). Pub. L. 110–246, §7102(a)(3), substituted “2012” for “2007”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, §7209(a)(1), substituted “31 members” for “30 members”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–171, §7209(a)(1), substituted “31 members” for “30 members”.
 
 Subsec. (b)(3)(R) to (EE). Pub. L. 107–171, §7209(a)(2), added subpar. (R) and redesignated former subpars. (R) to (DD) as (S) to (EE), respectively.
 
@@ -176,35 +176,39 @@ Subsec. (d)(1). Pub. L. 107–171, §7209(a)(4), inserted “consult with any ap
 
 Subsec. (h). Pub. L. 107–171, §7133, substituted “2007” for “2002”.
 
-1998—Subsec. (b)(7). Pub. L. 105–185, §222(a), added par. (7).
+<b>1998</b>—Subsec. (b)(7). Pub. L. 105–185, §222(a), added par. (7).
 
 Subsec. (d). Pub. L. 105–185, §222(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsecs. (g), (h). Pub. L. 105–185, §222(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board and provided for membership, chairperson and vice-chairperson, meetings, panels of the Board, responsibilities of the Board, reports by the Board, and a report by the Secretary of Agriculture on manner in which recommendations of Board had been incorporated into programs of Department of Agriculture.
+<b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board and provided for membership, chairperson and vice-chairperson, meetings, panels of the Board, responsibilities of the Board, reports by the Board, and a report by the Secretary of Agriculture on manner in which recommendations of Board had been incorporated into programs of Department of Agriculture.
 
-1995—Subsec. (g)(1). Pub. L. 104–66, §1012(f), inserted “may provide” before “a written report” in first sentence.
+<b>1995</b>—Subsec. (g)(1). Pub. L. 104–66, §1012(f), inserted “may provide” before “a written report” in first sentence.
 
 Subsec. (g)(2), (3). Pub. L. 104–66, §1011(t), redesignated par. (3) as (2) and struck out former par. (2) which required Advisory Board to submit to the President and congressional committees a report containing appraisal by Board of President's proposed budget for food and agricultural sciences and recommendations of Secretary.
 
-1991—Subsec. (e). Pub. L. 102–237, §402(2)(A), substituted “Government” for “government”.
+<b>1991</b>—Subsec. (e). Pub. L. 102–237, §402(2)(A), substituted “Government” for “government”.
 
 Subsec. (g)(1). Pub. L. 102–237, §402(2)(B), substituted “federally” for “Federally”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board to expire on Sept. 30, 1990, authorized membership of Board at 25 representatives, provided for selection of chairman and vice-chairman, provided for meetings at least once during each three month period, authorized establishment of panels to assist Board in meeting its responsibilities, and outlined general and specific responsibilities of Board, including the submission of reports.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established National Agricultural Research and Extension Users Advisory Board to expire on Sept. 30, 1990, authorized membership of Board at 25 representatives, provided for selection of chairman and vice-chairman, provided for meetings at least once during each three month period, authorized establishment of panels to assist Board in meeting its responsibilities, and outlined general and specific responsibilities of Board, including the submission of reports.
 
-1985—Subsec. (a). Pub. L. 99–198, §1406(a), substituted “1990” for “1985”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1406(a), substituted “1990” for “1985”.
 
 Subsec. (f)(2)(G). Pub. L. 99–198, §1406(b), added subpar. (G).
 
-1981—Subsec. (a). Pub. L. 97–98, §1408(a), substituted “that expires September 30, 1985” for “of five years”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98, §1408(a), substituted “that expires September 30, 1985” for “of five years”.
 
 Subsec. (b). Pub. L. 97–98, §1408(b), in provision preceding par. (1) substituted “twenty-five” for “twenty-one” and inserted “to serve staggered terms” and in par. (1) substituted “eight” for “four” and “agricultural, forestry, and aquacultural products, from various geographical regions” for “agricultural commodities, forest products, and aquacultural products”.
 
 Subsec. (f)(2)(E). Pub. L. 97–98, §1408(c)(1), substituted “July 1” for “October 1”.
 
 Subsec. (f)(2)(F). Pub. L. 97–98, §1408(c)(2), substituted “February 20 of” for “March 1 of”.
+
+#### Change of Name
+
+Subcommittee on Agriculture, Rural Development, and Related Agencies of the Committee on Appropriations of the Senate changed to Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the Senate.
 
 #### Effective Date of 2008 Amendment
 

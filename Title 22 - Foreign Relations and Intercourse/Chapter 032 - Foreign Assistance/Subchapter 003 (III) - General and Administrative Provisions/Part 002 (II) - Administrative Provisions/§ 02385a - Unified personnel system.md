@@ -14,7 +14,7 @@ The regulations submitted to the Congress pursuant to subsection (a)—
 
 #### (c) Force and effect of regulations
 
-Regulations which take effect pursuant to this section shall have the force and effect of law and shall apply with respect to the personnel of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], notwithstanding and <sup>1</sup> inconsistent provision of law unless that provision of law specifically states that it supersedes regulations issued under this section.
+Regulations which take effect pursuant to this section shall have the force and effect of law and shall apply with respect to the personnel of the agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], notwithstanding and <sup>1</sup> inconsistent provision of law unless that provision oflaw specifically states that it supersedes regulations issued under this section.
 
 (Pub. L. 95–424, title IV, §401, Oct. 6, 1978, 92 Stat. 956; Pub. L. 96–53, title V, §503(a), Aug. 14, 1979, 93 Stat. 378.)
 

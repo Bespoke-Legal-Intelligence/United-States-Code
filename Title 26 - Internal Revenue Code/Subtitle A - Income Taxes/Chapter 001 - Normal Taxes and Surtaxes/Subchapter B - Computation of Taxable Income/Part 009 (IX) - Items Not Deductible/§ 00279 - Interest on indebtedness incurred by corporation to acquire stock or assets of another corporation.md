@@ -46,7 +46,7 @@ For purposes of subsection (b)(4)—
 
 #### (2) Ratio of debt to equity
 
-&emsp;The term “ratio of debt to equity” means the ratio which the total indebtedness of the issuing corporation bears to the sum of itsmoney and all its other assets (in an amount equal to their adjusted basis for determining gain) less such total indebtedness.
+&emsp;The term “ratio of debt to equity” means the ratio which the total indebtedness of the issuing corporation bears to the sum of its money and all its other assets (in an amount equal to their adjusted basis for determining gain) less such total indebtedness.
 
 #### (3) Projected earnings
 
@@ -102,7 +102,7 @@ In applying this section—
 
 #### (3) Redetermination where control, etc., is acquired
 
-&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation in which clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
+&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation inwhich clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
 
 #### (4) Special 3-year rule
 

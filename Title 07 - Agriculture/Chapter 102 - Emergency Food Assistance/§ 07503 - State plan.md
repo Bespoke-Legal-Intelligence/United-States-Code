@@ -38,9 +38,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §4201(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4201(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “To receive commodities under this chapter, a State shall submit a plan of operation and administration every 4 years to the Secretary for approval. The plan may be amended at any time, with the approval of the Secretary.”
 
-1996—Pub. L. 104–193 amended section generally, substituting present provisions for provisions relating to availability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
+<b>1996</b>—Pub. L. 104–193 amended section generally, substituting present provisions for provisions relating to availability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
 
 #### Effective Date of 2008 Amendment
 

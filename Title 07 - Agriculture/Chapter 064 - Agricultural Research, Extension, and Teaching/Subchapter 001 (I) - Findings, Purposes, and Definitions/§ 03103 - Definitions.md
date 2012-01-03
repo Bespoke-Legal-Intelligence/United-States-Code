@@ -198,7 +198,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Par. (4). Pub. L. 110–246, §7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
+<b>2008</b>—Par. (4). Pub. L. 110–246, §7101(a)(1), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively, of subpar. (A), and added subpar. (B).
 
 Pars. (5) to (8). Pub. L. 110–246, §7101(a)(2), designated pars. (16) and (5) to (7) as (5) to (8), respectively. Former par. (8) redesignated (9).
 
@@ -216,7 +216,7 @@ Par. (14). Pub. L. 110–246, §7101(a)(6), added par. (14). Former par. (14) re
 
 Pars. (15) to (20). Pub. L. 110–246, §7101(a)(2), redesignated pars. (12) to (14), (17), (18), and (15) as (15) to (20), respectively. Former par. (16) redesignated (5).
 
-2002—Pars. (10) to (12). Pub. L. 107–171, §7502(a)(1), (2), redesignated pars. (10) and (11) as (11) and (12), respectively, and added par. (10). Former par. (12) redesignated (13).
+<b>2002</b>—Pars. (10) to (12). Pub. L. 107–171, §7502(a)(1), (2), redesignated pars. (10) and (11) as (11) and (12), respectively, and added par. (10). Former par. (12) redesignated (13).
 
 Par. (13). Pub. L. 107–171, §7502(a)(3), added par. (13) and struck out former par. (13) which read as follows: “The term ‘State’ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.”
 
@@ -224,7 +224,7 @@ Pub. L. 107–171, §7502(a)(1), redesignated par. (12) as (13). Former par. (13
 
 Pars. (14) to (18). Pub. L. 107–171, §7502(a)(1), redesignated pars. (13) to (17) as (14) to (18), respectively.
 
-1998—Pub. L. 105–185, §221(c)(1), substituted “chapter:” for “chapter—” in introductory provisions.
+<b>1998</b>—Pub. L. 105–185, §221(c)(1), substituted “chapter:” for “chapter—” in introductory provisions.
 
 Pars. (1) to (3). Pub. L. 105–185, §221(c)(2), (5), substituted “The term” for “the term” and period for semicolon at end.
 
@@ -252,7 +252,7 @@ Par. (16)(F). Pub. L. 105–185, §221(c)(6), substituted period for “; and�
 
 Par. (17). Pub. L. 105–185, §221(c)(2), substituted “The term” for “the term”.
 
-1996—Par. (1). Pub. L. 104–127, §802(b)(1), substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
+<b>1996</b>—Par. (1). Pub. L. 104–127, §802(b)(1), substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board” for “National Agricultural Research and Extension Users Advisory Board”.
 
 Par. (3). Pub. L. 104–127, §820(a), inserted “ornamental fish,” after “reptile,”.
 
@@ -260,15 +260,15 @@ Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amen
 
 Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
 
-1991—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
+<b>1991</b>—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
 
-1990—Par. (16)(F). Pub. L. 101–624, §1603(2), inserted reference to subchapter VI of this chapter.
+<b>1990</b>—Par. (16)(F). Pub. L. 101–624, §1603(2), inserted reference to subchapter VI of this chapter.
 
 Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
-1985—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
+<b>1985</b>—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-1981—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
+<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) “basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to” for “sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of”, in subpar. (E) “including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;” for “human nutrition, and family life; and”, and in subpar. (F) “community welfare and development” for “and community development”, and added subpars. (G) to (I).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out “except as provided in subchapter VII of this chapter,” before “the term” and included within term “State” American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 

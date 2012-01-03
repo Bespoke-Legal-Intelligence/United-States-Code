@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (d) Deduction recaptured as ordinary income on sale, etc.
 
-Solely for purposes of section 1245, in the case of property to which a qualified disaster expense would have been capitalized but for this section—
+Solely for purposes of section 1245, in the case of property to which a qualified disaster expensewould have been capitalized but for this section—
 
 &emsp;(1) the deduction allowed by this section for such expense shall be treated as a deduction for depreciation, and
 

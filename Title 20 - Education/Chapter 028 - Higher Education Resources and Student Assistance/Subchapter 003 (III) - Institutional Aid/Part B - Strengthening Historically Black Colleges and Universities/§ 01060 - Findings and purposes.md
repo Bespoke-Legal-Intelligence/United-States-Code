@@ -32,7 +32,7 @@ Ex. Ord. No. 12677, Apr. 28, 1989, 54 F.R. 18869, which provided for the develop
 
 #### Executive Order No. 12876
 
-Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, formerly set out below.
+Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Department of Education the President's Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee,was revoked by Ex. Ord. No. 13256, §11, Feb. 12, 2002, 67 F.R. 6825, formerly set out below.
 
 #### Executive Order No. 13256
 
@@ -40,11 +40,11 @@ Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office
 
 #### Ex. Ord. No. 13532. Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities
 
-Ex. Ord. No. 13532, Feb.26, 2010, 75 F.R. 9749, provided:
+Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, §4, Apr. 5, 2011, 76 F.R. 19891, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to advance the development of the Nation's full human potential and to advance equal opportunity in higher education, strengthen the capacity of historically black colleges and universities to provide the highest quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that our Nation has the highest proportion of college graduates in the world by the year 2020, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Historically black colleges and universities (HBCUs) have made historic and ongoing contributions to the general welfare and prosperity of our country. Established by visionary leaders, America'sHBCUs, for over 150 years, have produced many of the Nation's leaders in business, government, academia, and the military and have provided generations of American men and women with hope and educational opportunity. The Nation's 105 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands and serve more than 300,000 undergraduate and graduate students. These institutions continue to be important engines of economic growth and community service, and they are proven ladders of intergenerational advancement for men and women of all ethnic, racial, and economic backgrounds, especially African Americans. These institutions also produce a high number of baccalaureate recipients who go on to assume leadership and service roles in their communities and who successfully complete graduate and professional degree programs.
+Section 1. <i>Policy</i>. Historically black colleges and universities (HBCUs) have made historic and ongoing contributions to the general welfare and prosperity of our country. Established by visionary leaders, America's HBCUs, for over 150 years, have produced many of the Nation's leaders in business, government, academia, and the military and have provided generations of American men and women with hope and educational opportunity. The Nation's 105 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands and serve more than 300,000 undergraduate and graduate students. These institutions continue to be important engines of economic growth and community service, and they are proven ladders of intergenerational advancement for men and women of all ethnic, racial, and economic backgrounds, especially African Americans. These institutions also produce a high number of baccalaureate recipients who go on to assume leadership and service roles in their communities and who successfully complete graduate and professional degree programs.
 
 Sec. 2. <i>White House Initiative on HBCUs.</i>
 
@@ -102,11 +102,11 @@ Sec. 3. <i>President's Board of Advisors on HBCUs.</i>
 
 (d) <i>Report</i>. As part of the annual report of the Initiative, the Board shall report to the President and the Secretary on their progress in carrying out its duties under this section.
 
-Sec. 4. <i>General Provisions</i>. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 C.F.R. 602.8.
+Sec. 4. <i>General Provisions</i>. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 C.F.R. 608.2.
 
 (b) This order shall apply to executive departments and agencies designated by the Secretary. Those departments and agencies shall provide timely reports and such information as is required to effectively carry out the objectives of this order.
 
-(c) The heads of executive departments and agencies shall assist and provide information through the WhiteHouse Initiative to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
+(c) The heads of executive departments and agencies shall assist and provide information through the White House Initiative to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
 
 (d) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -139,6 +139,8 @@ Term of President's Board of Advisors on Historically Black Colleges and Univers
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of President's Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Determinations Regarding President's Board of Advisors
 

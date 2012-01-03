@@ -84,7 +84,7 @@ This chapter, referred to in subsec. (e), was in the original “this Act” mea
 
 #### Amendments
 
-2007—Subsec. (a). Pub. L. 110–81, §201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title,” and “such quarterly period” for “such semiannual period”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–81, §201(a)(1), substituted, in heading, “Quarterly” for “Semiannual” and, in text, “20 days after the end of the quarterly period beginning on the first day of January, April, July, and October of each year in which a registrant is registered under section 1603 of this title, or on the first business day after such 20th day if the 20th day is not a business day,” for “45 days after the end of the semiannual period beginning on the first day of each January and the first day of July of each year in which a registrant is registered under section 1603 of this title,” and “such quarterly period” for “such semiannual period”.
 
 Subsec. (b). Pub. L. 110–81, §201(a)(2)(A), substituted “quarterly report” for “semiannual report” in introductory provisions.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 110–81, §203(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 110–81, §205, added subsec. (e).
 
-1998—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–166 struck out par. (3) which read as follows: “A registrant that reports lobbying expenditures pursuant to section 6033(b)(8) of title 26 may satisfy the requirement to report income or expenses by filing with the Secretary of the Senate and the Clerk of the House of Representatives a copy of the form filed in accordance with section 6033(b)(8).”
 
 #### Effective Date of 2007 Amendment
 

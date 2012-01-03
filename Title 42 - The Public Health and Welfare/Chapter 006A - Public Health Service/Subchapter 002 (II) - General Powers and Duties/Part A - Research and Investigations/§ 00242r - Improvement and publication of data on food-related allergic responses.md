@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
+The Secretary of Health and Human Services, acting through the Director of the Centers forDisease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
 
 &emsp;(1) the prevalence of food allergies;
 

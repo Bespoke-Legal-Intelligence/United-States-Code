@@ -38,7 +38,7 @@ Security Programs.—(1) The Under Secretary shall prescribe regulations under s
 
 &emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
-&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
+&emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliancewith the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
 (B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
@@ -138,7 +138,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;(5)
 
-Use of biometric technology in airport access control systems.—In issuing guidanceunder paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
+Use of biometric technology in airport access control systems.—In issuing guidance under paragraph (4)(E), the Assistant Secretary of Homeland Security (Transportation Security Administration) in consultation with representatives of the aviation industry, the biometric identifier industry, and the National Institute of Standards and Technology, shall establish, at a minimum—
 
 &emsp;&emsp;(A) comprehensive technical and operational system requirements and performance standards for the use of biometric identifier technology in airport access control systems (including airport perimeter access control systems) to ensure that the biometric identifier systems are effective, reliable, and secure;
 
@@ -176,7 +176,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(iv) apply to all Federal, State, local, tribal, and territorial government law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, or territorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
+&emsp;&emsp;&emsp;(v) establish a process by which the travel credential or system may be used to verify the identity, using biometric technology, of a Federal, State, local, tribal, orterritorial law enforcement officer seeking to carry a weapon on board a commercial aircraft, without unnecessarily disclosing to the public that the individual is a law enforcement officer.
 
 &emsp;&emsp;(C)
 
@@ -222,7 +222,7 @@ False non-match.—The term “false non-match” means the rejection of a valid
 
 &emsp;&emsp;(F)
 
-Secure area of an airport.—The term “secure area of an airport” means the sterile area and the Secure Identification DisplayArea of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+Secure area of an airport.—The term “secure area of an airport” means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -262,7 +262,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the “piggy-backing” phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currentlyavailable technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -370,7 +370,7 @@ In general.—The Assistant Secretary shall establish a timely and fair process 
 
 &emsp;&emsp;&emsp;(ii)
 
-Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers andother individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
+Records.—The process shall include the establishment of a method by which the Assistant Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Transportation Security Administration record shall contain information determined by the Assistant Secretary to authenticate the identity of such a passenger or individual.
 
 &emsp;&emsp;(H)
 
@@ -404,7 +404,33 @@ Security procedures.—The Secretary of Defense, in consultation with the Secret
 
 Armed forces defined.—In this paragraph, the term “armed forces” has the meaning given that term by section 101(a)(4) of title 10.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179.)
+(m)
+
+Security Screening for Members of the Armed Forces.—
+
+&emsp;(1)
+
+In general.—The Assistant Secretary of Homeland Security (Transportation Security Administration), in consultation with the Department of Defense, shall develop and implement a plan to provide expedited security screening services for a member of the armed forces, and, to the extent possible, any accompanying family member, if the member of the armed forces, while in uniform, presents documentation indicating official orders for air transportation departing from a primary airport (as defined in section 47102).
+
+&emsp;(2)
+
+Protocols.—In developing the plan, the Assistant Secretary shall consider—
+
+&emsp;&emsp;(A) leveraging existing security screening models used to reduce passenger wait times;
+
+&emsp;&emsp;(B) establishing standard guidelines for the screening of military uniform items, including combat boots; and
+
+&emsp;&emsp;(C) incorporating any new screening protocols into an existing trusted passenger program, as established pursuant to section 109(a)(3) of the Aviation and Transportation Security Act (49 U.S.C. 114 note), or into the development of any new credential or system that incorporates biometric technology and other applicable technologies to verify the identity of individuals traveling in air transportation.
+
+&emsp;(3)
+
+Rule of construction.—Nothing in this subsection shall affect the authority of the Assistant Secretary to require additional screening of a member of the armed forces if intelligence or law enforcement information indicates that additional screening is necessary.
+
+&emsp;(4)
+
+Report to congress.—The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307; Pub. L. 108–176, title VI, §606(a), Dec. 12, 2003, 117 Stat. 2568; Pub. L. 108–458, title IV, §§4011(a), 4012(a)(1), Dec. 17, 2004, 118 Stat. 3712, 3714; Pub. L. 110–53, title XVI, §1615(a), Aug. 3, 2007, 121 Stat. 486; Pub. L. 111–83, title V, §553, Oct. 28, 2009, 123 Stat. 2179; Pub. L. 112–86, §2(a), Jan. 3, 2012, 125 Stat. 1874.)
 
 Historical and Revision Notes
 
@@ -456,7 +482,7 @@ In subsection (c)(1), the words “traveling in air transportation or intrastate
 
 In subsection (c)(2)(A), before clause (i), the words “under this section” are omitted as surplus. The words “or an amendment in an existing program” are substituted for “and may approve an amendment to a security program of an airport operator approved by the Administrator under subsection (b)” to eliminate unnecessary words. In clause (ii), the word “monetary” is substituted for “financial” for consistency.
 
-In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departmentsand agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
+In subsection (e), the words “Notwithstanding any other provisions of law”, “the commission of”, “considered”, and “the moment when” before “such door” are omitted as surplus. The words “to allow passengers to leave” are substituted for “disembarkation”, and the words “the aircraft” are added, for clarity. The words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies” for consistency in the revised title and with other titles of the Code. The words “as may be . . . the purposes of” are omitted as surplus.
 
 #### References in Text
 
@@ -475,6 +501,8 @@ The date of enactment of this Act, referred to in subsec. (j)(1), probably means
 Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is section 607 of Pub. L. 108–176, which is set out as a note below.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (m). Pub. L. 112–86 added subsec. (m).
 
 <b>2009</b>—Subsec. (j)(2)(C)(v). Pub. L. 111–83 added cl. (v).
 
@@ -544,6 +572,10 @@ Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 Subsec. (g). Pub. L. 106–528, §4, added subsec. (g).
 
+#### Effective Date of 2012 Amendment
+
+Pub. L. 112–86, §2(b), Jan. 3, 2012, 125 Stat. 1875, provided that: “Not later than 180 days after the date of enactment of this Act \[Jan. 3, 2012\], the Assistant Secretary shall implement the plan required by this Act \[amending this section and enacting provisions set out as a note under section 40101 of this title\].”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -560,7 +592,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, includingthe functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Strategic Plan To Test and Implement Advanced Passenger Prescreening System
 
@@ -776,7 +808,7 @@ Pub. L. 107–71, title I, §106(e), Nov. 19, 2001, 115 Stat. 610, provided that
 
 #### Airline Computer Reservation Systems
 
-Pub. L. 107–71, title I, §117, Nov. 19, 2001, 115 Stat. 624, provided that: “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passenger manifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
+Pub. L. 107–71, title I, §117, Nov. 19, 2001, 115 Stat. 624, provided that: “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passengermanifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
 
 #### Authorization of Funds for Reimbursement of Airports for Security Mandates
 
@@ -870,7 +902,7 @@ Training and background of law enforcement officers.—
 
 &emsp;&emsp;“(A)
 
-In general.—Under the program, to qualify to serve as a Deputy United States Marshal underthe program, a State or local law enforcement officer shall—
+In general.—Under the program, to qualify to serve as a Deputy United States Marshal under the program, a State or local law enforcement officer shall—
 
 &emsp;&emsp;&emsp;“(i) meet the minimum background and training requirements for a law enforcement officer under part 107 of title 14, Code of Federal Regulations (or equivalent requirements established by the Attorney General); and
 

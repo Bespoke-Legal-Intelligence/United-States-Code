@@ -32,7 +32,7 @@ There is authorized to be appropriated to carry out this subsection $2,000,000 f
 
 #### References in Text
 
-The National Wildlife Refuge System Administration Act of 1966, referred to in par. (1)(C), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
+The National Wildlife Refuge System Administration Act of 1966, referred to in par. (1)(C), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927 and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 #### Codification
 
@@ -61,8 +61,4 @@ Par. (2). Pub. L. 108–327, §3(2), substituted “project” for “pilot proj
 Par. (3). Pub. L. 108–327, §3(4), substituted “after October 16, 2004, and every 3 years thereafter” for “after October 5, 1998” and “projects” for “pilot projects”.
 
 Par. (4). Pub. L. 108–327, §3(5), substituted “for each fiscal year through fiscal year 2009” for “each of fiscal years 1999 through 2002”.
-
-#### Change of Name
-
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -14,7 +14,7 @@ In order to strengthen the administrative capability and financial responsibilit
 
 &emsp;&emsp;(C) institutions with a significant fluctuation in Federal Stafford Loan volume, Federal Direct Stafford/Ford Loan volume, or Federal Pell Grant award volume, or any combination thereof, in the year for which the determination is made, compared to the year prior to such year, that are not accounted for by changes in the Federal Stafford Loan program, the Federal Direct Stafford/Ford Loan program, or the Pell Grant program, or any combination thereof;
 
-&emsp;&emsp;(D) institutions reported to have deficiencies or financial aid problems by theState licensing or authorizing agency, or by the appropriate accrediting agency or association;
+&emsp;&emsp;(D) institutions reported to have deficiencies or financial aid problems by the State licensing or authorizing agency, or by the appropriate accrediting agency or association;
 
 &emsp;&emsp;(E) institutions with high annual dropout rates; and
 

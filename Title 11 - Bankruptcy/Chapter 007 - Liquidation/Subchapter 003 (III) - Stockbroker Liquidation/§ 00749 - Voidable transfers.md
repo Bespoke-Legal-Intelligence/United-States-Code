@@ -12,15 +12,15 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
-Section 749 indicates that if the trustee avoids a transfer, property recovered is customer property to any extent it would have been customer property but for the transfer. The section clarifies that a customer who receives a transfer of property of the debtor is a creditor and that property in a customer's account is property of a creditor for purposes of the avoiding powers.
+Section 749 indicates that if the trustee avoids a transfer, property recovered is customer property to any extent it would have been customer property but for the transfer. The section clarifies that a customerwho receives a transfer of property of the debtor is a creditor and that property in a customer's account is property of a creditor for purposes of the avoiding powers.
 
 #### Amendments
 
-2009—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
+<b>2009</b>—Subsec. (b). Pub. L. 111–16 substituted “seven days” for “five days” in introductory provisions.
 
-1982—Pub. L. 97–222 substituted “(a) Except as otherwise provided in this section, any” for “Any”, and “but” for “except”, inserted “such property”, substituted “or 549” for “549, or 724(a)”, and added subsec. (b).
+<b>1982</b>—Pub. L. 97–222 substituted “(a) Except as otherwise provided in this section, any” for “Any”, and “but” for “except”, inserted “such property”, substituted “or 549” for “549, or 724(a)”, and added subsec. (b).
 
 #### Effective Date of 2009 Amendment
 

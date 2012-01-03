@@ -40,7 +40,7 @@ In this chapter:
 
 #### (B) List of precursors
 
-&emsp;&emsp;Precursors which have been identified for the application of verification measuresunder Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+&emsp;&emsp;Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
 #### (8) Purposes not prohibited by this chapter
 
@@ -64,7 +64,7 @@ In this chapter:
 
 #### (9) Technical Secretariat
 
-&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organization for the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
+&emsp;The term “Technical Secretariat” means the Technical Secretariat of the Organizationfor the Prohibition of Chemical Weapons established by the Chemical Weapons Convention.
 
 #### (10) Schedule 1 chemical agent
 
@@ -228,7 +228,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
+&emsp;&emsp;The term “toxic chemical” means any chemical which through its chemical actionon life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
 
 #### (B) List of toxic chemicals
 

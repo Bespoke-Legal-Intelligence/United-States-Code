@@ -76,7 +76,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit ifunder the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
+&emsp;&emsp;For purposes of subparagraph (A), a plan fully subsidizes the costs of a benefit if under the plan the failure to waive such benefit by a participant would not result in a decrease in any plan benefits with respect to such participant and would not result in increased contributions from such participant.
 
 #### (6) Applicable election period defined
 
@@ -148,7 +148,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (3) Security interests taken into account
 
-&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason ofa loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
+&emsp;For purposes of paragraphs (1) and (2), any security interest held by the plan by reason of a loan outstanding to the participant shall be taken into account in determining the amount of the qualified preretirement survivor annuity.
 
 #### (d) Survivor annuities need not be provided if participant and spouse married less than 1 year
 
@@ -204,7 +204,7 @@ For purposes of this section and section 401(a)(11)—
 
 &emsp;&emsp;For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) if—
 
-&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
+&emsp;&emsp;&emsp;(i) section 430(h)(2)(D) were applied by substituting the average yields for themonth described in subparagraph (C) for the average yields for the 24-month period described in such section,
 
 &emsp;&emsp;&emsp;(ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
 
@@ -240,7 +240,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (B) Special rule for disability benefits
 
-&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit isto be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
+&emsp;&emsp;For purposes of subparagraph (A), the first day of the first period for which a benefit is to be received by reason of disability shall be treated as the annuity starting date only if such benefit is not an auxiliary benefit.
 
 #### (3) Earliest retirement age
 
@@ -380,7 +380,7 @@ Pub. L. 109–280, title XI, §1102(a)(3), Aug. 17, 2006, 120 Stat. 1056, provid
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement EquityAct of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
+Amendment by section 1139(b) of Pub. L. 99–514 applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, Pub. L. 98–397, with additional provisions relating to reductions in accrued benefits, see section 1139(d) of Pub. L. 99–514, set out as a note under section 411 of this title.
 
 Section 1898(b)(4)(C) of Pub. L. 99–514 provided that:
 

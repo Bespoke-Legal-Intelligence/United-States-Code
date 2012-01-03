@@ -98,7 +98,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) for which the factors of medical risk or types of medical intervention are different for women, or for which it is unknown whether such factors or types are different for women; or
 
-&emsp;&emsp;(C) with respect to which there has been insufficient clinical research involvingwomen as subjects or insufficient clinical data on women.
+&emsp;&emsp;(C) with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
 
 &emsp;(2) The term “research on women's health” means research on women's health conditions, including research on preventing such conditions.
 

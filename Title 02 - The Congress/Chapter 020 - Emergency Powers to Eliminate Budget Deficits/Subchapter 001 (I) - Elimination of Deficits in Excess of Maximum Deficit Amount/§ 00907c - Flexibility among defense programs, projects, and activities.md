@@ -40,7 +40,7 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 (1) In the Senate, debate on a joint resolution introduced under subsection (d) of this section, amendments thereto, and all debatable motions and appeals in connection therewith shall be limited to not more than 10 hours, which shall be divided equally between the majority leader and the minority leader (or their designees).
 
-(2) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order. In the Senate, a motion to recommit the joint resolution is not in order.
+(2) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote bywhich the joint resolution is agreed to or disagreed to is not in order. In the Senate, a motion to recommit the joint resolution is not in order.
 
 #### (h) Amendment of joint resolution
 
@@ -48,7 +48,7 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 (2) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended, so long as the amendment makes or maintains mathematical consistency. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
-(3) It shall not be in order in the Senate to consider any amendment to any joint resolution introduced under subsection (d) of this section or any conference report thereon if such amendment or conference report would have the effectof decreasing any specific budget outlay reductions below the level of such outlay reductions provided in such joint resolution unless such amendment or conference report makes a reduction in other specific budget outlays at least equivalent to any increase in outlays provided by such amendment or conference report.
+(3) It shall not be in order in the Senate to consider any amendment to any joint resolution introduced under subsection (d) of this section or any conference report thereon if such amendment or conference report would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided in such joint resolution unless such amendment or conference report makes a reduction in other specific budget outlays at least equivalent to any increase in outlays provided by such amendment or conference report.
 
 (4) For purposes of the application of paragraph (3), the level of outlays and specific budget outlay reductions provided in an amendment shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.
 
@@ -85,10 +85,6 @@ If, before the passage by the Senate of a joint resolution of the Senate introdu
 If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) of this section after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 (Pub. L. 99–177, title II, §258B, as added Pub. L. 101–508, title XIII, §13101(g), Nov. 5, 1990, 104 Stat. 1388–597.)
-
-#### Termination of Section
-
-<i>Section expired Sept. 30, 2002. See section 275(b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of this title.</i>
 
 #### References in Text
 

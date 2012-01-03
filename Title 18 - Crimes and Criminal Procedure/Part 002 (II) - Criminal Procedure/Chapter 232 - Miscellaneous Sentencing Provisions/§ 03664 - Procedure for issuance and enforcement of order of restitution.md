@@ -70,7 +70,7 @@
 
 (j)(1) If a victim has received compensation from insurance or any other source with respect to a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
 
-(2) Any amount paid to a victim under an order of restitution shall be reduced by any amount later recovered as compensatory damages for the same loss by the victim in—
+(2) Any amount paid to a victim under an order of restitution shall be reduced by anyamount later recovered as compensatory damages for the same loss by the victim in—
 
 &emsp;(A) any Federal civil proceeding; and
 

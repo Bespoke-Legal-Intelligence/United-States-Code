@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved in the transaction has in effect, as of the date of the approval of such transaction, a law that—
+&emsp;&emsp;A merger transaction may be approved pursuant to paragraph (1) before June 1, 1997, if the home State of each bank involved inthe transaction has in effect, as of the date of the approval of such transaction, a law that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -100,7 +100,7 @@
 
 #### (C) Effectiveness of State deposit caps
 
-&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount of deposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
+&emsp;&emsp;No provision of this subsection shall be construed as affecting the authority of any State to limit, by statute, regulation, or order, the percentage of the total amount ofdeposits of insured depository institutions in the State which may be held or controlled by any bank or bank holding company (including all insured depository institutions which are affiliates of the bank or bank holding company) to the extent the application of such limitation does not discriminate against out-of-State banks, out-of-State bank holding companies, or subsidiaries of such banks or holding companies.
 
 #### (D) Exceptions to subparagraph (B)
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(A) each bank involved in the transaction is adequately capitalized as of the date the application is filed; and
 
-&emsp;&emsp;(B) the responsible agency determines that the resulting bank will continue to be adequately capitalized and adequately managed upon the consummation of the transaction.
+&emsp;&emsp;(B) the responsible agency determines that the resulting bank will be well capitalized and well managed upon the consummation of the transaction.
 
 #### (5) Surrender of charter after merger transaction
 
@@ -176,7 +176,7 @@
 
 #### (1) Continued operations
 
-&emsp;A resulting bank may, subject to the approval of the appropriate Federal banking agency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
+&emsp;A resulting bank may, subject to the approval of the appropriate Federal bankingagency, retain and operate, as a main office or a branch, any office that any bank involved in an interstate merger transaction was operating as a main office or a branch immediately before the merger transaction.
 
 #### (2) Additional branches
 
@@ -200,7 +200,7 @@ If an application under subsection (a)(1) of this section for approval of a merg
 
 #### (1) In general
 
-&emsp;In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of any out-of-State insured depository institution in such State under this section,the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved (or in the case of a governmental entity located in such State, paid) from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by—
+&emsp;In the case of any State that has a constitutional provision that sets a maximum lawful annual percentage rate of interest on any contract at not more than 5 percent above the discount rate for 90-day commercial paper in effect at the Federal reserve bank for the Federal reserve district in which such State is located, except as provided in paragraph (2), upon the establishment in such State of a branch of any out-of-State insured depository institution in such State under this section, the maximum interest rate or amount of interest, discount points, finance charges, or other similar charges that may be charged, taken, received, or reserved (or in the case of a governmental entity located in such State, paid) from time to time in any loan or discount made or upon any note, bill of exchange, financing transaction, or other evidence of debt by—
 
 &emsp;&emsp;(A) any insured depository institution whose home State is such State shall be equal to not more than the greater of—
 
@@ -302,7 +302,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term “resulting bank” means a bank that has resulted from an interstate merger transaction under this section.
 
-(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343; amended Pub. L. 106–102, title VII, §731, Nov. 12, 1999, 113 Stat. 1477; Pub. L. 111–32, title V, §504(a), June 24, 2009, 123 Stat. 1880; Pub. L. 111–83, title V, §563(a), (b), Oct. 28, 2009, 123 Stat. 2183.)
+(Sept. 21, 1950, ch. 967, §2\[44\], as added Pub. L. 103–328, title I, §102(a), Sept. 29, 1994, 108 Stat. 2343; amended Pub. L. 106–102, title VII, §731, Nov. 12, 1999, 113 Stat. 1477; Pub. L. 111–32, title V, §504(a), June 24, 2009, 123 Stat. 1880; Pub. L. 111–83, title V, §563(a), (b), Oct. 28, 2009, 123 Stat. 2183; Pub. L. 111–203, title VI, §607(b), July 21, 2010, 124 Stat. 1608.)
 
 #### References in Text
 
@@ -310,7 +310,9 @@ The American Recovery and Reinvestment Act of 2009, referred to in subsec. (f)(1
 
 #### Amendments
 
-2009—Subsec. (f)(1). Pub. L. 111–83, §563(a)(1), inserted “(or in the case of a governmental entity located in such State, paid)” after “received, or reserved” in introductory provisions.
+<b>2010</b>—Subsec. (b)(4)(B). Pub. L. 111–203 substituted “will be well capitalized and well managed” for “will continue to be adequately capitalized and adequately managed”.
+
+<b>2009</b>—Subsec. (f)(1). Pub. L. 111–83, §563(a)(1), inserted “(or in the case of a governmental entity located in such State, paid)” after “received, or reserved” in introductory provisions.
 
 Pub. L. 111–32 substituted “evidence of debt by—” for “evidence of debt by”, inserted subpar. (A) designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, realigned margins, and added subpar. (B).
 
@@ -328,7 +330,13 @@ Subsec. (f)(1)(B)(ii), (iii). Pub. L. 111–83, §563(a)(2)(B), (D), added cl. (
 
 Subsec. (f)(2). Pub. L. 111–83, §563(b), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
 
-1999—Subsecs. (f), (g). Pub. L. 106–102 added subsec. (f) and redesignated former subsec. (f) as (g).
+<b>1999</b>—Subsecs. (f), (g). Pub. L. 106–102 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 2010 Amendment
+
+Pub. L. 111–203, title VI, §607(c), July 21, 2010, 124 Stat. 1608, provided that: “The amendments made by this section \[amending this section and section 1842 of this title\] shall take effect on the transfer date.”
+
+\[For definition of “transfer date” as used in section 607(c) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
 #### Effective Date of 2009 Amendment
 

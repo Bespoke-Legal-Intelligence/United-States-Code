@@ -26,7 +26,7 @@ Privileged Information.—(1) The Secretary concerned shall withhold from person
 
 (2) If a debriefing report contains non-derogatory information about the status and whereabouts of a missing person other than the source of the debriefing report or about unnamed missing persons, the Secretary concerned shall prepare an extract of the non-derogatory information. That extract, following a review by the source of the debriefing report, shall be placed in the personnel file of each missing person named in the debriefing report in such a manner as to protect the identity of the source providing the information. Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.
 
-(3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the filecontains a notice that withheld information exists.
+(3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 
 (e)
 
@@ -52,5 +52,5 @@ Subsec. (d)(3). Pub. L. 105–85, §599(g)(2), inserted “, or part of a debri
 
 <b>1996</b>—Subsecs. (e), (f). Pub. L. 104–201 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “
 
-Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and status of a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both.”
+Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and statusof a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both.”
 

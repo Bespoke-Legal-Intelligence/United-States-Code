@@ -2,7 +2,7 @@
 
 #### (a) Composition; election and return
 
-<sup>1</sup> The voluntary contribution account shall be the sum of unrefunded amounts voluntarily contributed prior to February 15, 1981, by any participant or former participant under any prior law authorizing such contributions to the Fund, plus interest compounded at the rate of 3 percent per year to the date of separation from the Service or (in case of participant or former participant separated with entitlement to a deferred annuity) to the date the voluntary contribution account is claimed, the commencing date fixed for the deferred annuity, or the date of death, whichever is earlier. Effective on thedate the participant becomes eligible for an annuity or a deferred annuity and at the election of the participant, his or her account shall be—
+<sup>1</sup> The voluntary contribution account shall be the sum of unrefunded amounts voluntarily contributed prior to February 15, 1981, by any participant or former participant under any prior law authorizing such contributions to the Fund, plus interest compounded at the rate of 3 percent per year to the date of separation from the Service or (in case of participant or former participant separated with entitlement to a deferred annuity) to the date the voluntary contribution account is claimed, the commencing date fixed for the deferred annuity, or the date of death, whichever is earlier. Effective on the date the participant becomes eligible for an annuity or a deferred annuity and at the election of the participant, his or her account shall be—
 
 &emsp;(1) returned in a lump sum;
 

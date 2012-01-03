@@ -28,7 +28,7 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 102–550, Oct. 28, 1992, 10
 
 #### Prior Provisions
 
-A prior section 4511, Pub. L. 102–550, title XIII, §1311, Oct. 28, 1992, 106 Stat. 3944, related to establishment of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, §1101, July 30, 2008, 122 Stat. 2661.
+A prior section 4511, Pub. L. 102–550, title XIII, §1311, Oct. 28, 1992, 106 Stat. 3944, related to establishment ofthe Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, §1101, July 30, 2008, 122 Stat. 2661.
 
 #### Transfer and Rights of Certain HUD Employees
 
@@ -138,7 +138,7 @@ Agency services.—Any agency, department, or other instrumentality of the Unite
 
 “(e)
 
-Continuation of Services.—The Director may use the services of employees and other personnel of the Office of Federal Housing Enterprise Oversight, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tables for classification\] or any amendment made by this Act to any other provision of law.
+Continuation of Services.—The Director may use the services of employees and other personnel of the Office of Federal Housing Enterprise Oversight, on a reimbursable basis, to perform functions which have been transferred to the Director for such time as is reasonable to facilitate the orderly transfer of functions pursuant to any other provision of this Act \[see Tablesfor classification\] or any amendment made by this Act to any other provision of law.
 
 “(f)
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of grants
 
-Any amounts received from grants under this section may only be used to carry out a programto provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
+Any amounts received from grants under this section may only be used to carry out a program to provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
 
 #### (1) Short-term supported housing
 

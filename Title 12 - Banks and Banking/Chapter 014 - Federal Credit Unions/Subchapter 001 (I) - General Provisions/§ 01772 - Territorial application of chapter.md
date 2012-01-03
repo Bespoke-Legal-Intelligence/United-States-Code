@@ -10,9 +10,9 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-1974—Pub. L. 93–383 inserted reference to trust territories.
+<b>1974</b>—Pub. L. 93–383 inserted reference to trust territories.
 
-1959—Pub. L. 86–354 provided for application of chapter to the States, the District of Columbia, the Territories and possessions of the United States and Puerto Rico and struck out specific reference to the Virgin Islands.
+<b>1959</b>—Pub. L. 86–354 provided for application of chapter to the States, the District of Columbia, the Territories and possessions of the United States and Puerto Rico and struck out specific reference to the Virgin Islands.
 
-1952—Act May 8, 1952, amended section to extend provisions of this chapter to the Virgin Islands.
+<b>1952</b>—Act May 8, 1952, amended section to extend provisions of this chapter to the Virgin Islands.
 

@@ -28,7 +28,7 @@ Sole source task or delivery order.—The term “sole source task or delivery o
 
 (b)
 
-Regulations Required.—The Federal Acquisition Regulation shall require enhanced competition in the purchase of property and services by all executive agencies pursuant to multiple award contracts.
+Regulations Required.—The Federal Acquisition Regulation shall require enhanced competition in the purchase of property andservices by all executive agencies pursuant to multiple award contracts.
 
 (c)
 
@@ -84,7 +84,7 @@ Public notice required.—The Federal Acquisition Regulation shall require the h
 
 &emsp;(2)
 
-Exemption.—This subsection does not require the public availability of informationthat is exempt from public disclosure under section 552(b) of title 5.
+Exemption.—This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
 (e)
 

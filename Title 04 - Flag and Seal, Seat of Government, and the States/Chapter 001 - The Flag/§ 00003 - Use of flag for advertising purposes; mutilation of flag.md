@@ -6,5 +6,5 @@ Any person who, within the District of Columbia, in any manner, for exhibition o
 
 #### Amendments
 
-1968—Pub. L. 90–381 struck out “; or who, within the District of Columbia, shall publicly mutilate, deface, defile or defy, trample upon, or cast contempt, either by word or act, upon any such flag, standard, colors, or ensign,” after “substance on which so placed”.
+<b>1968</b>—Pub. L. 90–381 struck out “; or who, within the District of Columbia, shall publicly mutilate, deface, defile or defy, trample upon, or cast contempt, either by word or act, upon any such flag, standard, colors, or ensign,” after “substance on which so placed”.
 

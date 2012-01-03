@@ -2,7 +2,7 @@
 
 (a)
 
-Duty to Provide.—A wire or electronic communication service provider shall complywith a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
+Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
 (b)
 
@@ -54,7 +54,7 @@ Subsec. (b)(1). Pub. L. 107–56, §505(a)(2), struck out “in a position not l
 
 &emsp;“(B) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801); and”.
 
-Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
+Subsec. (b)(2). Pub. L. 107–56, §505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person isnot conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
 
 &emsp;“(A) the information sought is relevant to an authorized foreign counterintelligence investigation; and
 

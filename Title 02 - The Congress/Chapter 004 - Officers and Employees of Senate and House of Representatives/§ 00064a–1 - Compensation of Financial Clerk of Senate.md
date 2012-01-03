@@ -6,7 +6,7 @@ The Financial Clerk of the Senate may be paid at a maximum annual rate of compen
 
 #### Amendments
 
-1975—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
+<b>1975</b>—Pub. L. 94–59 substituted “$39,000” for “$37,620”, effective July 1, 1975.
 
 #### Effective Date
 

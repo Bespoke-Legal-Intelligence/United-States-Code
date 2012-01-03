@@ -56,7 +56,7 @@ The Secretary, acting through the Natural Resources Conservation Service, may pr
 
 #### (2) Renegotiation
 
-&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretary may renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
+&emsp;Notwithstanding paragraph (1), as part of the provision of financial assistance under subsection (b) of this section, the Secretarymay renegotiate the original agreement for the covered water resource project entered into between the Secretary and the local organization regarding responsibility for the operation and maintenance of the project when the rehabilitation is finished.
 
 #### (e) Application for rehabilitation assistance
 
@@ -140,7 +140,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Textread as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
 &emsp;“(1) $5,000,000 for fiscal year 2001;
 

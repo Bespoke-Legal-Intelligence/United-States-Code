@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Purpose.—There is a working capital fund for the necessary expenses of administrative support services including accounting, budget, personnel, legal support and other related services; and the maintenance and operation of printing and reproduction facilities in support of the functions of the General Services Administration, other Federal agencies, and other entities; and other such administrative and management services that the Administrator of GSA deems appropriate and advantageous (subject to prior notice to the Office of Management and Budget).
+Establishment and Purpose.—There is a working capital fund for the necessary expenses of administrative support services including accounting, budget, personnel, legal support andother related services; and the maintenance and operation of printing and reproduction facilities in support of the functions of the General Services Administration, other Federal agencies, and other entities; and other such administrative and management services that the Administrator of GSA deems appropriate and advantageous (subject to prior notice to the Office of Management and Budget).
 
 (b)
 
@@ -18,7 +18,7 @@ Cost and capital requirements.—The Administrator shall determine the cost and 
 
 (c)
 
-Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, aftermaking provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
+Deposit of Excess Amounts in the Treasury.—At the close of each fiscal year, after making provision for anticipated operating needs reflected in the cost and capital plan developed under subsection (b), the uncommitted balance of any funds remaining in the Fund shall be transferred to the general fund of the Treasury as miscellaneous receipts.
 
 (d)
 

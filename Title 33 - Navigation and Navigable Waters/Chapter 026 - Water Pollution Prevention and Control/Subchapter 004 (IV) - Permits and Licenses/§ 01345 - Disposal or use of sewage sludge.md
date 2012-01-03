@@ -80,7 +80,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 #### (2) Through other permits
 
-&emsp;In the case of a treatment works described in paragraph (1) that is not subject to section 1342 of this title and to which none of the other above listed permit programs nor approved State permit authority apply, the Administrator may issue a permit to such treatment works solely to impose requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section. The Administrator shall include in the permit appropriate requirements to assure compliance with the regulations established pursuant to subsection (d) of this section. The Administrator shall establish procedures for issuing permits pursuant to this paragraph.
+&emsp;In the case of a treatment works described in paragraph (1) that is not subject to section1342 of this title and to which none of the other above listed permit programs nor approved State permit authority apply, the Administrator may issue a permit to such treatment works solely to impose requirements for the use and disposal of sludge that implement the regulations established pursuant to subsection (d) of this section. The Administrator shall include in the permit appropriate requirements to assure compliance with the regulations established pursuant to subsection (d) of this section. The Administrator shall establish procedures for issuing permits pursuant to this paragraph.
 
 #### (g) Studies and projects
 

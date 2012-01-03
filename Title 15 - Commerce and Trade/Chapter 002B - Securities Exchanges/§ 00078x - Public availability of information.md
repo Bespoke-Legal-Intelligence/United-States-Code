@@ -14,7 +14,7 @@ The Commission may, in its discretion and upon a showing that such information i
 
 #### (d) Records obtained from foreign securities authorities
 
-Except as provided in subsection (g) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Except as provided in subsection (g) of this section, the Commission shall not be compelledto disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Freedom of Information Act
 
@@ -60,7 +60,7 @@ For purposes of section 552(b)(8) of title 5 (commonly referred to as the Freedo
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “privilege” includes any work-product privilege, attorney-client privilege, governmental privilege, or otherprivilege recognized under Federal, State, or foreign law;
+&emsp;&emsp;(A) the term “privilege” includes any work-product privilege, attorney-client privilege, governmental privilege, or other privilege recognized under Federal, State, or foreign law;
 
 &emsp;&emsp;(B) the term “foreign law enforcement authority” means any foreign authority that is empowered under foreign law to detect, investigate or prosecute potential violations of law; and
 

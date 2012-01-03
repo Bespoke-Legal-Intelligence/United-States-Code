@@ -76,7 +76,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1). Pub. L. 110–246, §7205(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7205(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.”
 
 Subsec. (d). Pub. L. 110–246, §7205(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.”
 
@@ -86,7 +86,7 @@ Subsec. (e)(5). Pub. L. 110–246, §7205(3)(B), added par. (5) and struck out f
 
 Subsecs. (f), (g). Pub. L. 110–246, §7205(4), (5), redesignated subsec. (g) as (f) and substituted “2012” for “2007”.
 
-2002—Subsec. (g). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–171 substituted “2007” for “2002”.
 
 #### Effective Date of 2008 Amendment
 

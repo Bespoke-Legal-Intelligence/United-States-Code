@@ -106,7 +106,7 @@ In subsection (c), the word “Under” is substituted for the words “Subject 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shall be made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
+<b>1996</b>—Subsec. (c). Pub. L. 104–316 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Under such regulations as the Comptroller General may prescribe, payments under subsection (a) shallbe made by the military department concerned or the Department of Transportation, as the case may be. Payment under clause (6) of subsection (a) shall be made—
 
 &emsp;“(1) upon settlement by the General Accounting Office; or
 

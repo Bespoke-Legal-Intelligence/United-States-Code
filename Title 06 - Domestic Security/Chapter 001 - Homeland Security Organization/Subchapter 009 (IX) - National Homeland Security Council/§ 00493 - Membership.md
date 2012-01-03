@@ -24,5 +24,5 @@ The Chairman of the Joint Chiefs of Staff (or, in the absence of the Chairman, t
 
 #### Amendments
 
-2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

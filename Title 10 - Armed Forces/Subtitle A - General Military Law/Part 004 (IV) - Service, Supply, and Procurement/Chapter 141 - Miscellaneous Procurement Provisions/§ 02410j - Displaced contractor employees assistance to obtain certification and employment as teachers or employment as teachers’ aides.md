@@ -40,7 +40,7 @@ Defense Contractor Applications.—(1) A defense contractor desiring to enter in
 
 &emsp;(D) A commitment to help fund the costs associated with the placement program by paying 50 percent of the stipend provided under subsection (g) to an employee or former employee of the contractor selected to receive assistance under this section.
 
-(2) Once a cooperative agreement is entered into under subsection (a) between the Secretary and the defense contractor, the contractor shall publicize the program and distribute applications to prospective participants, and assist theprospective participants with the State screening process.
+(2) Once a cooperative agreement is entered into under subsection (a) between the Secretary and the defense contractor, the contractor shall publicize the program and distribute applications to prospective participants, and assist the prospective participants with the State screening process.
 
 (d)
 

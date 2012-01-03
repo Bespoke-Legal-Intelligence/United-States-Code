@@ -40,7 +40,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (C) Standard of review
 
-&emsp;&emsp;The court shall not set aside or remand the order unless the court finds that there isnot substantial evidence in the record, taken as a whole, to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.
+&emsp;&emsp;The court shall not set aside or remand the order unless the court finds that there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.
 
 #### (D) Prohibition on additional penalties
 

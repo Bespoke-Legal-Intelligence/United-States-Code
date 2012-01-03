@@ -44,7 +44,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;&emsp;(ii) an individual who is a citizen or resident of the United States, a domestic partnership, or a domestic corporation, if such labor or services are performed for an office or place of business maintained in a foreign country or in a possession of the United States by such individual, partnership, or corporation.
 
-> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
+> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual inconnection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
 
 #### (4) Rentals and royalties
 
@@ -316,7 +316,7 @@ Amendment by section 7811(i)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -426,7 +426,7 @@ Section 1036(c) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 For effective date of amendment by section 1051(h)(3) of Pub. L. 94–455, see section 1051(i)(1) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(26)(A), (B), (c)(7) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1904(b)(10)(B) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after date of enactment of this Act \[Oct. 4, 1976\], see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
@@ -476,7 +476,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Dividends Received or Accrued During 1987
 
-Subsec. (a)(2)(B) of this section to be applied by substituting “100/80ths” for the fraction specified therein with regard to dividends received or accrued during1987, see section 1006(b)(1)(B) of Pub. L. 100–647 set out as a note under section 245 of this title.
+Subsec. (a)(2)(B) of this section to be applied by substituting “100/80ths” for the fraction specified therein with regard to dividends received or accrued during 1987, see section 1006(b)(1)(B) of Pub. L. 100–647 set out as a note under section 245 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -500,7 +500,7 @@ Certain amendments not to apply to the extent inconsistent with treaties.—The 
 
 &emsp;&emsp;“(ii) such amendments relate to income of a nonresident from the sale or exchange of inventory property which would otherwise be sourced under section 865(e)(2) of the 1986 Code.
 
-&emsp;“(B) The amendments made by section 1212(a) of the Reform Act \[amending section 863 of this title\]; except for purposes of determining the amount of the foreign tax credit.
+&emsp;“(B) The amendments made by section 1212(a) of the Reform Act \[amending section 863 of this title\];except for purposes of determining the amount of the foreign tax credit.
 
 &emsp;“(C) The amendments made by subsections (b) and (c) of section 1212 of the Reform Act \[enacting section 887 of this title and amending sections 872 and 883 of this title\].
 
@@ -596,7 +596,7 @@ In general.—Except as provided in this subsection, this section shall apply to
 
 &emsp;“(2)
 
-Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
+Reduction in amounts to which section applies.—Notwithstanding paragraph (1), this section shall only apply to that portion of the qualified research and experimental expenditures for the taxableyear referred to in paragraph (1) which bears the same ratio to the total amount of such expenditures as—
 
 &emsp;&emsp;“(A) the lesser of 4 months or the number of months in the taxable year, bears to
 

@@ -1,6 +1,8 @@
 ### §3102. Basic entitlement
 
-A person shall be entitled to a rehabilitation program under the terms and conditions of this chapter if—
+(a)
+
+In General.—A person shall be entitled to a rehabilitation program under the terms and conditions of this chapter if—
 
 &emsp;(1) the person—
 
@@ -22,13 +24,45 @@ A person shall be entitled to a rehabilitation program under the terms and condi
 
 &emsp;&emsp;(B) is determined by the Secretary to be in need of rehabilitation because of a serious employment handicap.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323.)
+(b)
+
+Additional Rehabilitation Programs for Persons Who Have Exhausted Rights to Unemployment Benefits Under State Law.—(1) Except as provided in paragraph (4), a person who has completed a rehabilitation program under this chapter shall be entitled to an additional rehabilitation program under the terms and conditions of this chapter if—
+
+&emsp;(A) the person is described by paragraph (1) or (2) of subsection (a); and
+
+&emsp;(B) the person—
+
+&emsp;&emsp;(i) has exhausted all rights to regular compensation under the State law or under Federal law with respect to a benefit year;
+
+&emsp;&emsp;(ii) has no rights to regular compensation with respect to a week under such State or Federal law; and
+
+&emsp;&emsp;(iii) is not receiving compensation with respect to such week under the unemployment compensation law of Canada; and
+
+&emsp;(C) begins such additional rehabilitation program within six months of the date of such exhaustion.
+
+(2) For purposes of paragraph (1)(B)(i), a person shall be considered to have exhausted such person's rights to regular compensation under a State law when—
+
+&emsp;(A) no payments of regular compensation can be made under such law because such person has received all regular compensation available to such person based on employment or wages during such person's base period; or
+
+&emsp;(B) such person's rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
+
+(3) In this subsection, the terms “compensation”, “regular compensation”, “benefit year”, “State”, “State law”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+
+(4) No person shall be entitled to an additional rehabilitation program under paragraph (1) from whom the Secretary receives an application therefor after March 31, 2014.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1502; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–508, title VIII, §8021(a), Nov. 5, 1990, 104 Stat. 1388–347; Pub. L. 102–16, §3(a), Mar. 22, 1991, 105 Stat. 49; renumbered §3102, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title IV, §404(a), Oct. 29, 1992, 106 Stat. 4338; Pub. L. 104–275, title I, §101(b), Oct. 9, 1996, 110 Stat. 3323; Pub. L. 112–56, title II, §233(a)(1), Nov. 21, 2011, 125 Stat. 719.)
+
+#### References in Text
+
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (b)(3), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 
 Prior section 3102 was renumbered section 5302 of this title.
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–56 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1996</b>—Par. (1)(A)(i). Pub. L. 104–275, §101(b)(1), substituted “rated at 20 percent or more” for “which is, or but for the receipt of retired pay would be, compensable at a rate of 20 percent or more under chapter 11 of this title and”.
 
@@ -45,6 +79,10 @@ Par. (1)(B). Pub. L. 102–16 substituted “or receiving outpatient medical car
 <b>1990</b>—Par. (1). Pub. L. 101–508 substituted “compensable at a rate of 20 percent or more” for “compensable” in cls. (A) and (B).
 
 <b>1989</b>—Pub. L. 101–237 substituted “Secretary determines” for “Administrator determines” in par. (1)(B) and “Secretary” for “Administrator” in par. (2).
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 112–56, title II, §233(c), Nov. 21, 2011, 125 Stat. 720, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 3103 and 3105 of this title\] shall take effect on June 1, 2012, and shall apply with respect to rehabilitation programs beginning after such date.”
 
 #### Effective Date of 1992 Amendment
 

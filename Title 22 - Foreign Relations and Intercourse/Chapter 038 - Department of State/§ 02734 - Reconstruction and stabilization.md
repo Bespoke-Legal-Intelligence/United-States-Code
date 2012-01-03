@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) Monitoring, in coordination with relevant bureaus and offices of the Department of State and the United States Agency for International Development (USAID), political and economic instability worldwide to anticipate the need for mobilizing United States and international assistance for the reconstruction and stabilization of a country or region that is at risk of, in, or are <sup>1</sup> in transition from, conflict or civil strife.
 
-&emsp;&emsp;(B) Assessing the various types of reconstruction and stabilization crises that could occur and cataloging and monitoring the non-military resources and capabilities of agencies (as such term is defined in section 1603 of the Reconstruction and StabilizationCivilian Management Act of 2008) that are available to address such crises.
+&emsp;&emsp;(B) Assessing the various types of reconstruction and stabilization crises that could occur and cataloging and monitoring the non-military resources and capabilities of agencies (as such term is defined in section 1603 of the Reconstruction and Stabilization Civilian Management Act of 2008) that are available to address such crises.
 
 &emsp;&emsp;(C) Planning, in conjunction with USAID, to address requirements, such as demobilization, disarmament, rebuilding of civil society, policing, human rights monitoring, and public information, that commonly arise in reconstruction and stabilization crises.
 

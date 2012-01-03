@@ -18,7 +18,7 @@ In making the determination under subsection (a) of this section the Commission 
 
 &emsp;(1) such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
-&emsp;(2) such terms and conditions as the Commission deems appropriate to insure that suchfacility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
+&emsp;(2) such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
 
 #### (d) Violation of terms of exemption
 

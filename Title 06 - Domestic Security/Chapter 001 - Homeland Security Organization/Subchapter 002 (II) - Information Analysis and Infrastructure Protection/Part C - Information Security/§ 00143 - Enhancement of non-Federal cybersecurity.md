@@ -14,7 +14,7 @@ In carrying out the responsibilities under section 121 of this title, the Under 
 
 #### Amendments
 
-2007—Pub. L. 110–53 substituted “Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
+<b>2007</b>—Pub. L. 110–53 substituted “Under Secretary for Intelligence and Analysis, in cooperation with the Assistant Secretary for Infrastructure Protection” for “Under Secretary for Information Analysis and Infrastructure Protection” in introductory provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

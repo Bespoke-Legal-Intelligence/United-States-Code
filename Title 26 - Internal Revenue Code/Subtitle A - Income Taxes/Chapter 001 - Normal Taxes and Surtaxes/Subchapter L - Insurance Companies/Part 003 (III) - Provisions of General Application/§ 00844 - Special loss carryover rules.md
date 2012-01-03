@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 99–514, §1024(c)(12), added subsec. (b) and struck out f
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §211(b)(11)(A), substituted “section 810 (or the corresponding provisions of prior law),” for “section 812” and “section 810(a)” for “section 812(a)” in provisions following par. (2).
 
-Subsec. (b). Pub. L. 98–369, §211(b)(11)(B), substituted “section 810(a)” for “section 812(a)” in introductoryprovisions, and “section 810(b)(1)(C)” for “section 812(b)(1)(C)” in par. (2).
+Subsec. (b). Pub. L. 98–369, §211(b)(11)(B), substituted “section 810(a)” for “section 812(a)” in introductory provisions, and “section 810(b)(1)(C)” for “section 812(b)(1)(C)” in par. (2).
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(25), substituted “section 812(b)(1)(C)” for “section 812(b)(1)(A)(iii)”.
 

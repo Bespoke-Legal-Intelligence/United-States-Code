@@ -64,7 +64,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1123 of the House amendment represents a compromise between similar provisions in the House bill and Senate amendment. The section has been clarified to clearly indicate that both secured and unsecured claims, or either of them, may be impaired in a case under title 11. In addition assumption or rejection of an executory contract under a plan must comply with section 365 of title 11. Moreover, section 1123(a)(1) has been substantively modified to permit classification of certain kinds of priority claims. This is important for purposes of confirmation under section 1129(a)(9).
 
@@ -90,17 +90,17 @@ Subsection (c) protects an individual debtor's exempt property by prohibiting it
 
 #### Amendments
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
 
 Subsec. (a)(8). Pub. L. 109–8, §321(b), added par. (8).
 
-1994—Subsec. (a)(1). Pub. L. 103–394, §§304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–394, §§304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
 
 Subsec. (b)(5), (6). Pub. L. 103–394, §206, added par. (5) and redesignated former par. (5) as (6).
 
 Subsec. (d). Pub. L. 103–394, §305(a), added subsec. (d).
 
-1984—Subsec. (a). Pub. L. 98–353, §507(a)(1), in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §507(a)(1), in provisions preceding par. (1) substituted “Notwithstanding any otherwise applicable nonbankruptcy law, a” for “A”.
 
 Subsec. (a)(1). Pub. L. 98–353, §507(a)(2), inserted a comma after “classes of claims” and substituted “507(a)(7) of this title,” for “507(a)(6) of this title”.
 

@@ -30,17 +30,17 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 At any time prior to the completion of payments under a confirmed plan, the plan may be modified, after notice and hearing, to change the amount of payments to creditors or a particular class of creditors and to extend or reduce the payment period. A modified plan may not contain any provision which could not be included in an original plan as prescribed by section 1322. A modified plan may not call for payments to be made beyond four years as measured from the date of the commencement of payments under the original plan.
 
 #### Amendments
 
-2005—Subsec. (a)(4). Pub. L. 109–8, §102(i), added par. (4).
+<b>2005</b>—Subsec. (a)(4). Pub. L. 109–8, §102(i), added par. (4).
 
 Subsec. (c). Pub. L. 109–8, §318(4), substituted “the applicable commitment period under section 1325(b)(1)(B)” for “three years”.
 
-1984—Subsec. (a). Pub. L. 98–353, §§319, 533(1), (2), inserted “of the plan” after “confirmation”, substituted “such plan” for “a plan”, and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §§319, 533(1), (2), inserted “of the plan” after “confirmation”, substituted “such plan” for “a plan”, and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
 
 Subsec. (a)(3). Pub. L. 98–353, §533(3), substituted “plan to” for “plan, to”.
 

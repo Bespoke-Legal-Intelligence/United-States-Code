@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State shall establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds allocated to local areas under subchapter II of this chapter. Such procedures shall ensure that all financial transactions carried out under subchapter II of this chapter are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
+&emsp;Each State shall establish such fiscal control and fund accounting procedures as may benecessary to assure the proper disbursal of, and accounting for, Federal funds allocated to local areas under subchapter II of this chapter. Such procedures shall ensure that all financial transactions carried out under subchapter II of this chapter are conducted and records maintained in accordance with generally accepted accounting principles applicable in each State.
 
 #### (2) Cost principles
 
@@ -104,7 +104,7 @@
 
 #### (1) In general
 
-&emsp;Every recipient of funds under this chapter shall repay to the United States amounts found not to have been expended in accordance with this chapter.
+&emsp;Every recipient of funds under this chapter shall repay to the United States amountsfound not to have been expended in accordance with this chapter.
 
 #### (2) Offset of repayment
 
@@ -157,6 +157,10 @@ If the Secretary determines that any recipient under this chapter has discharged
 The remedies described in this section shall not be construed to be the exclusive remedies available for violations described in this section.
 
 (Pub. L. 105–220, title I, §184, Aug. 7, 1998, 112 Stat. 1042.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(2)(A), (3)(A), (B), (b)(1), (c)(1) to (3), (5), (d)(1), (2)(D), (3), and (f), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 

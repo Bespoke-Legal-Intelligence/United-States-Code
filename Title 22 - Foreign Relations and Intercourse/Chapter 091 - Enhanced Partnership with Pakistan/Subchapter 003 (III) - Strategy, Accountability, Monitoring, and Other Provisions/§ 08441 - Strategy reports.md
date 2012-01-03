@@ -60,7 +60,7 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 
 #### (2) Comprehensive regional security strategy
 
-&emsp;The President shall develop a comprehensive interagency regional security strategy toeliminate terrorist threats and close safe havens in Pakistan, including by working with the Government of Pakistan and other relevant governments and organizations in the region and elsewhere, as appropriate, to best implement effective counterinsurgency and counterterrorism efforts in and near the border areas of Pakistan and Afghanistan, including the FATA, the NWFP, parts of Balochistan, and parts of Punjab.
+&emsp;The President shall develop a comprehensive interagency regional security strategy to eliminate terrorist threats and close safe havens in Pakistan, including by working with the Government of Pakistan and other relevant governments and organizations in the region and elsewhere, as appropriate, to best implement effective counterinsurgency and counterterrorism efforts in and near the border areas of Pakistan and Afghanistan, including the FATA, the NWFP, parts of Balochistan, and parts of Punjab.
 
 #### (3) Report
 

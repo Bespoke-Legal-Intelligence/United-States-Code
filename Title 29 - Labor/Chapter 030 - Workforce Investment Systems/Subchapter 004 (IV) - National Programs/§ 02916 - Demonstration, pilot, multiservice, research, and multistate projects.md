@@ -190,7 +190,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 &emsp;&emsp;Under the program established under paragraph (1), the Secretary, acting through the Bureau of Labor Statistics, where appropriate, shall collect and analyze labor market data to track workforce trends resulting from energy-related initiatives carried out under this subsection. Activities carried out under this paragraph shall include—
 
-&emsp;&emsp;&emsp;(i) tracking and documentation of academic and occupational competencies as well as future skill needs with respect torenewable energy and energy efficiency technology;
+&emsp;&emsp;&emsp;(i) tracking and documentation of academic and occupational competencies as well as future skill needs with respect to renewable energy and energy efficiency technology;
 
 &emsp;&emsp;&emsp;(ii) tracking and documentation of occupational information and workforce training data with respect to renewable energy and energy efficiency technology;
 
@@ -238,7 +238,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (ii) Activities
 
-&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to provide funding to the State agency that administers the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] and State unemployment compensation programs to carry out the following activities using State agency merit staff:
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to provide funding to the State agency that administers the Wagner-Peyser Act \[29 U.S.C. 49 et seq.\] and State unemployment compensation programs to carry out thefollowing activities using State agency merit staff:
 
 &emsp;&emsp;&emsp;&emsp;(I) The identification of job openings in the renewable energy and energy efficiency sector.
 
@@ -254,7 +254,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (ii) Partnerships
 
-&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to award competitive grants to eligible StateEnergy Sector Partnerships to enable such Partnerships to coordinate with existing apprenticeship and labor management training programs and implement training programs that lead to the economic self-sufficiency of trainees.
+&emsp;&emsp;&emsp;A State shall use amounts awarded under a grant under this subparagraph to award competitive grants to eligible State Energy Sector Partnerships to enable such Partnerships to coordinate with existing apprenticeship and labor management training programs and implement training programs that lead to the economic self-sufficiency of trainees.
 
 #### (iii) Eligibility
 
@@ -394,7 +394,7 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### (B) Evaluation
 
-&emsp;&emsp;Not later than 3 years after December 19, 2007, the Secretary shall transmit to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and theHouse Committee on Energy and Commerce an assessment of such program and an evaluation of the activities carried out by entities receiving funding from such program.
+&emsp;&emsp;Not later than 3 years after December 19, 2007, the Secretary shall transmit to the Senate Committee on Energy and Natural Resources, the Senate Committee on Health, Education, Labor, and Pensions, the House Committee on Education and Labor, and the House Committee on Energy and Commerce an assessment of such program and an evaluation of the activities carried out by entities receiving funding from such program.
 
 #### (7) Definition
 
@@ -414,6 +414,8 @@ Of the amount made available pursuant to section 2862(a)(2)(A) of this title for
 
 #### References in Text
 
+This chapter, referred to in subsecs. (b)(1)(H) and (c)(2)(B)(i)(II), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+
 The Wagner-Peyser Act, referred to in subsec. (e)(2)(C)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
@@ -423,6 +425,10 @@ This Act, referred to in subsec. (e)(4)(B), is Pub. L. 105–220, Aug. 7, 1998, 
 <b>2007</b>—Subsec. (e). Pub. L. 110–140 added subsec. (e).
 
 <b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–277, which directed the amendment of subsec. (b)(2) of this section by substituting “in accordance with generally applicable Federal requirements.” for “ ‘only on a competitive’ and all that follows through the period”, was executed to subsec. (b)(2)(A) by making the substitution for “only on a competitive basis, except that a noncompetitive award may be made in the case of a project that is funded jointly with other public or private sector entities that provide a portion of the funding for the project.”, to reflect the probable intent of Congress.
+
+#### Change of Name
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2007 Amendment
 

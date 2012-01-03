@@ -66,17 +66,19 @@ Relationship to Other Pay and Allowances.—Assignment or special duty pay paid 
 
 (f)
 
-Repayment.—A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of such pay shall be subject to the repayment provisions of section 373 of this title.
+Repayment.—A member who receives assignment or special duty pay under this section and who fails to fulfill the eligibility requirements under subsection (a) for receipt of suchpay shall be subject to the repayment provisions of section 373 of this title.
 
 (g)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2011.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2012.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 173; amended Pub. L. 111–84, div. A, title VI, §§614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(7), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(7), Dec. 31, 2011, 125 Stat. 1450.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+
+Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §618(c), inserted at end “If paid monthly, the Secretary concerned may prorate the monthly amount of the assignment or special duty pay for a member who does not satisfy the eligibility requirement for an entire month to reflect the duration of the member's actual qualifying service during the month.”
 

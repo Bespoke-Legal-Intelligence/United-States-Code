@@ -8,7 +8,7 @@ The Secretary shall establish and carry out an electronic product radiation cont
 
 &emsp;(2) plan, conduct, coordinate, and support research, development, training, and operational activities to minimize the emissions of and the exposure of people to, unnecessary electronic product radiation;
 
-&emsp;(3) maintain liaison with and receive information from other Federal and State departments and agencies with related interests, professional organizations, industry, industryand labor associations, and other organizations on present and future potential electronic product radiation;
+&emsp;(3) maintain liaison with and receive information from other Federal and State departments and agencies with related interests, professional organizations, industry, industry and labor associations, and other organizations on present and future potential electronic product radiation;
 
 &emsp;(4) study and evaluate emissions of, and conditions of exposure to, electronic product radiation and intense magnetic fields;
 

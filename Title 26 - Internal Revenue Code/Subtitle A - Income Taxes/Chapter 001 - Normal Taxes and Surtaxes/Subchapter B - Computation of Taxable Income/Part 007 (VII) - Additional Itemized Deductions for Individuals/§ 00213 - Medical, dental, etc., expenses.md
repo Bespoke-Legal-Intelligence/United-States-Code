@@ -230,7 +230,7 @@ Subsec. (d)(8). Pub. L. 98–369, §482(a), redesignated par. (7) as (8).
 
 Subsec. (e). Pub. L. 98–369, §474(r)(9), substituted “section 21” for “section 44A”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percentof the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §202(a), substituted provisions that there shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 5 percent of adjusted gross income, for provision allowing as deductions the amount by which the amount of the expenses paid during the taxable year (reduced by any amount deductible under paragraph (2)) for medical care of the taxpayer, his spouse, and dependents (as defined in section 152) exceeded 3 percent of the adjusted gross income, and an amount (not in excess of $150) equal to one-half of the expenses paid during the taxable year for insurance which constituted medical care for the taxpayer, his spouse, and dependents.
 
 Subsec. (b). Pub. L. 97–248, §202(b)(1), amended subsec. (b) generally, substituting provision that an amount paid during the taxable year for medicine or a drug shall be taken into account under subsec. (a) only if such medicine or drug is a prescribed drug or is insulin for former provision that amounts paid during the taxable year for medicine and drugs which (but for this subsection) would have been taken into account in computing the deduction under subsec. (a) would be taken into account only to the extent that the aggregate of such amounts exceeded 1 percent of the adjusted gross income.
 
@@ -300,7 +300,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) of Pub. L. 104–191, set out as a note under section 162 of this title.
+Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) ofPub. L. 104–191, set out as a note under section 162 of this title.
 
 #### Effective Date of 1993 Amendment
 

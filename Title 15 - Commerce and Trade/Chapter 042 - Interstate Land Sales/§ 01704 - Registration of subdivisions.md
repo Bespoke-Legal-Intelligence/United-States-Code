@@ -2,25 +2,25 @@
 
 #### (a) Filing of statement of record
 
-A subdivision may be registered by filing with the Secretary a statement of record, meeting the requirements of this chapter and such rules and regulations as may be prescribed by the Secretary in furtherance of the provisions of this chapter. A statement of record shall be deemed effective only as to the lots specified therein.
+A subdivision may be registered by filing with the Director a statement of record, meeting the requirements of this chapter and such rules and regulations as may be prescribed by the Director in furtherance of the provisions of this chapter. A statement of record shall be deemed effective only as to the lots specified therein.
 
-#### (b) Payment of fees; use by Secretary
+#### (b) Payment of fees; use by Director
 
-At the time of filing a statement of record, or any amendment thereto, the developer shall pay to the Secretary a fee, not in excess of $1,000, in accordance with a schedule to be fixed by the regulations of the Secretary, which fees may be used by the Secretary to cover all or part of the cost of rendering services under this chapter, and such expenses as are paid from such fees shall be considered nonadministrative.
+At the time of filing a statement of record, or any amendment thereto, the developer shall pay to the Director a fee, not in excess of $1,000, in accordance with a schedule to be fixed by the regulations of the Director, which fees may be used by the Director to cover all or part of the cost of rendering services under this chapter, and such expenses as are paid from such fees shall be considered nonadministrative.
 
 #### (c) Filing deemed to have taken place upon receipt of statement of record accompanied by fee
 
-The filing with the Secretary of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b) of this section.
+The filing with the Director of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b) of this section.
 
 #### (d) Availability of information to public
 
-The information contained in or filed with any statement of record shall be made available to the public under such regulations as the Secretary may prescribe and copies thereof shall be furnished to every applicant at such reasonable charge as the Secretary may prescribe.
+The information contained in or filed with any statement of record shall be made available to the public under such regulations as the Director may prescribe and copies thereof shall be furnished to every applicant at such reasonable charge as the Director may prescribe.
 
 (Pub. L. 90–448, title XIV, §1405, Aug. 1, 1968, 82 Stat. 592; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
-#### Amendment of Section
+#### Amendments
 
-<i>Pub. L. 111–203, title X, §§1098A(1), 1100H, July 21, 2010, 124 Stat. 2105, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Secretary” each place that term appears and inserting “Director”. See Effective Date of 2010 Amendment note below.</i>
+<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

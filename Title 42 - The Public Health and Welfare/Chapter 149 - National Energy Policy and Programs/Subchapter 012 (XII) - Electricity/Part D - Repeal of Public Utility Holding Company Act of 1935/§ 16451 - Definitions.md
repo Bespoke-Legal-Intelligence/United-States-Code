@@ -84,7 +84,7 @@ For purposes of this part:
 
 #### (15) State commission
 
-&emsp;The term “State commission” means any commission, board, agency, or officer, by whatever name designated, of a State, municipality, or other political subdivision of a Statethat, under the laws of such State, has jurisdiction to regulate public utility companies.
+&emsp;The term “State commission” means any commission, board, agency, or officer, by whatever name designated, of a State, municipality, or other political subdivision of a State that, under the laws of such State, has jurisdiction to regulate public utility companies.
 
 #### (16) Subsidiary company
 

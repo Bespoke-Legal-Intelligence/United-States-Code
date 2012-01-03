@@ -50,7 +50,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(II) is certified before January 1, 2006, by the State as being a necessary provider of health care services to residents in the area;
 
-&emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines are necessary for ensuring access to emergency care services in each area served by a critical access hospital;
+&emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines arenecessary for ensuring access to emergency care services in each area served by a critical access hospital;
 
 &emsp;&emsp;&emsp;(iii) provides not more than 25 acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;
 
@@ -336,7 +336,7 @@ The Secretary is authorized to waive such provisions of this part and part E of 
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
+There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund formaking grants to all States under subsection (g) of this section, $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g) of this section, $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
 
@@ -348,15 +348,13 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (g)(3)(A)
 
 Section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h)(3), is section 405(h)(1) of Pub. L. 108–173, which amended this section. See 2003 Amendment note below.
 
-Part E of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (g)(3)(A). Pub. L. 111–148, §3129(b)(1), inserted “and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
 Subsec. (g)(3)(E). Pub. L. 111–148, §3129(b)(2), substituted “, to offset” for “, and to offset” and inserted “and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary” before period at end.
 
-Subsec. (j). Pub. L. 111–148, §3129(a), substituted “2010, for” for “2010, and for” and inserted “and for makinggrants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
+Subsec. (j). Pub. L. 111–148, §3129(a), substituted “2010, for” for “2010, and for” and inserted “and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended” before period at end.
 
 <b>2008</b>—Subsec. (g)(1)(D). Pub. L. 110–275, §121(d), added subpar. (D).
 
@@ -722,7 +720,7 @@ Initial period.—Subject to clause (ii), the transition period described in thi
 
 &emsp;“(ii)
 
-Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998, the Secretary shall provide for an appropriate extension of the transition period.”
+Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998,the Secretary shall provide for an appropriate extension of the transition period.”
 
 #### GAO Reports
 

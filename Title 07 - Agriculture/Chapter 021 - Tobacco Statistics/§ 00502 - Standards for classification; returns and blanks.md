@@ -6,5 +6,5 @@ The Secretary of Agriculture shall establish standards for the classification of
 
 #### Amendments
 
-1935—Act Aug. 27, 1935, inserted “and such returns shall show the types, groups of grades, qualities, colors, and/or grades and such other information as the Secretary may require” in last sentence.
+<b>1935</b>—Act Aug. 27, 1935, inserted “and such returns shall show the types, groups of grades, qualities, colors, and/or grades and such other information as the Secretary may require” in last sentence.
 

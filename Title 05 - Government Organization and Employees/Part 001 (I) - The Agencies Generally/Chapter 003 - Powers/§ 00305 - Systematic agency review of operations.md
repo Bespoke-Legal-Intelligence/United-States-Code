@@ -60,9 +60,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1983—Subsec. (a)(3) to (8). Pub. L. 97–468 struck out par. (3), which excluded The Alaska Railroad, and redesignated pars. (4) to (8) as (3) to (7), respectively.
+<b>1983</b>—Subsec. (a)(3) to (8). Pub. L. 97–468 struck out par. (3), which excluded The Alaska Railroad, and redesignated pars. (4) to (8) as (3) to (7), respectively.
 
-1979—Subsec. (a)(7). Pub. L. 96–70 substituted “Commission” for “Company”.
+<b>1979</b>—Subsec. (a)(7). Pub. L. 96–70 substituted “Commission” for “Company”.
 
 Subsec. (b). Pub. L. 96–54 substituted “President” for “Director of the Bureau of the Budget”.
 

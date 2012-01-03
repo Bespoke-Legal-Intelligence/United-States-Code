@@ -24,7 +24,7 @@ Notwithstanding any of the provisions of this chapter and without regard to limi
 
 &emsp;&emsp;(C) a mortgage that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note) and is refinanced under this paragraph may have a term of not more than 30 years; or
 
-&emsp;(8) executed in connection with the sale by the Government of any housing acquired pursuant to section 1013 of the Demonstration Cities and Metropolitan Act of 1966 \[42 U.S.C. 3374\].
+&emsp;(8) executed in connection with the sale by the Government of any housing acquired pursuant to section 3374 of title 42.
 
 #### (b) Insurance of mortgages given to refinance mortgages covering existing property or projects in urban renewal areas
 
@@ -56,19 +56,19 @@ The Secretary shall also have authority to insure under this chapter any mortgag
 
 &emsp;(D) the project shall meet all applicable underwriting and other requirements of the Secretary at the time the loan is to be made.
 
-(4) Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B). The Secretary is authorized to collect a premium charge for insurance of loans pursuant to this subsection in any amount computed at the same premium rate as is applicable to the original mortgage. This premium shall be payable in cash or in debentures of the insurance fund under which the loan is insured at par plus accrued interest. In the event of a failure of the borrower to make any payment due under such loan or under the original mortgage, both the loan and original mortgage shall be considered in default, and if such default continues for a period of thirty days, the lender shall be entitled to insurance benefits, computed in the same manner as for the original mortgage, except that in determining the interest rate under section 1715<i>o</i> of this title for the debentures representing the portion of the claim applicable to the loan, the date of the commitment to insure the loan and the insurance date of the loan shall be taken into consideration rather than the commitment or insurance date for the original mortgage.
+(4) Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B). The Secretary is authorized to collect a premium charge for insurance of loans pursuant to this subsection in an amount computed at the same premium rate as is applicable to the original mortgage. This premium shall be payable in cash or in debentures of the insurance fund under which the loan is insured at par plus accrued interest. In the event of a failure of the borrower to make any payment due under suchloan or under the original mortgage, both the loan and original mortgage shall be considered in default, and if such default continues for a period of thirty days, the lender shall be entitled to insurance benefits, computed in the same manner as for the original mortgage, except that in determining the interest rate under section 1715<i>o</i> of this title for the debentures representing the portion of the claim applicable to the loan, the date of the commitment to insure the loan and the insurance date of the loan shall be taken into consideration rather than the commitment or insurance date for the original mortgage.
 
 (5) A loan involving a project covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be the obligation of such fund, and loans involving projects covered by a mortgage insured under section 1715z–1 of this title or under any section of this subchapter pursuant to subsection (e) of this section shall be the obligation of the Special Risk Insurance Fund.
 
-(6) In determining the amount of an operating loss loan to be insured pursuant to this subsection, the Secretary shall not reduce such amount solely to reflect any amounts placed in escrow (at the time the existing project mortgage was insured) for initial operating deficits. If an operating loss loan was insured by the Secretary pursuant to this subsection before October 28, 1992, and was reduced solely to reflect the amount placed in escrow for initial operating deficits, the Secretary shall insure, to the extent of the availability of insurance authority provided in appropriation Acts, an increase in the existing loan or a separate loan, in an amount equal to the lesser of (A) the maximum amount permitted under this subsection and theapplicable underwriting requirements established by the Secretary and in effect at the time the loan is to be made, or (B) the amount of the escrow for initial operating deficits.
+(6) In determining the amount of an operating loss loan to be insured pursuant to this subsection, the Secretary shall not reduce such amount solely to reflect any amounts placed in escrow (at the time the existing project mortgage was insured) for initial operating deficits. If an operating loss loan was insured by the Secretary pursuant to this subsection before October 28, 1992, and was reduced solely to reflect the amount placed in escrow for initial operating deficits, the Secretary shall insure, to the extent of the availability of insurance authority provided in appropriation Acts, an increase in the existing loan or a separate loan, in an amount equal to the lesser of (A) the maximum amount permitted under this subsection and the applicable underwriting requirements established by the Secretary and in effect at the time the loan is to be made, or (B) the amount of the escrow for initial operating deficits.
 
 #### (e) Insurance of mortgages executed in connection with repair, rehabilitation, construction, or purchase of property in older, declining urban areas
 
-Notwithstanding any of the provisions of this chapter except section 1715c of this title, and without regard to limitations upon eligibility contained in any section of this subchapter or subchapter IX–B of this chapter, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter or subchapter IX–B of this chapter a mortgage executed in connection with the repair, rehabilitation, construction, or purchase of property located in an older, declining urban area in which the conditions are such that one or more of the eligibility requirements applicable to the section or subchapter under which insurance is sought could not be met if the Secretary finds that (1) the area is reasonably viable, giving consideration to the need for providing adequate housing or group practice facilities for families of low and moderate income in such area, and (2) the property is an acceptable risk in view of such consideration. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
+Notwithstanding any of the provisions of this chapter except section 1715c of this title, and without regard to limitations upon eligibility contained in any section of this subchapter or subchapter IX–B, other than the limitation in section 1709(g) of this title, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter or subchapter IX–B a mortgage executed in connection with the repair, rehabilitation, construction, or purchase of property located in an older, declining urban area in which the conditions are such that one or more of the eligibility requirements applicable to the section or subchapter under which insurance is sought could not be met, if the Secretary finds that (1) the area is reasonably viable, giving consideration to the need for providing adequate housing or group practice facilities for families of low and moderate income in such area, and (2) the property is an acceptable risk in view of such consideration. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
 
 #### (f) Insurance of mortgages executed in connection with purchase or refinancing of existing multifamily housing project; refinancing of existing debt of existing hospital, or purchase or refinancing of rental rehabilitated property; terms and conditions, etc.
 
-(1) Notwithstanding any of the provisions of this chapter, the Secretary is authorized, in his discretion, to insure under any section of this subchapter a mortgage executed in connection with the purchase of refinancing of an existing multifamily housing project or the purchase or refinancing of existing debt of an existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof).
+(1) Notwithstanding any of the provisions of this chapter, the Secretary is authorized, in his discretion, to insure under any section of this subchapter a mortgage executed in connection with the purchase of <sup>2</sup> refinancing of an existing multifamily housing project or the purchase or refinancing of existing debt of an existing hospital (or existing nursing home, existing assisted living facility, existing intermediate care facility, existing board and care home, or any combination thereof).
 
 (2) In the case of the purchase or refinancing under this subsection of a multifamily housing project located in an older, declining urban area, the Secretary shall make available an amount not to exceed $30,000,000 of available purchase authority pursuant to section 1720 <sup>1</sup> of this title to reduce interest rates on low- and moderate-income rental housing in projects having 100 units or less which otherwise could not support refinancing and moderate rehabilitation without causing excessive rent burdens on current tenants due to rent increases. The Secretary shall prescribe such terms and conditions as he deems necessary to assure that—
 
@@ -94,7 +94,7 @@ Notwithstanding any of the provisions of this chapter except section 1715c of th
 
 &emsp;(D) the applicable requirements for certificates, studies, and statements of section 1715w of this title (for the existing nursing home, existing assisted living facility, intermediate care facility, board and care home, or any combination thereof, proposed to be refinanced) or of section 1715z–7 of this title (for the existing hospital proposed to be refinanced) have been met.
 
-(5) In the case of any purchase or refinancing under this subsection involving property to berehabilitated or developed under section 1437<i>o</i> <sup>1</sup> of title 42, the Secretary may—
+(5) In the case of any purchase or refinancing under this subsection involving property to be rehabilitated or developed under section 1437<i>o</i> <sup>1</sup> of title 42, the Secretary may—
 
 &emsp;(A) include rehabilitation or development costs of not to exceed $20,000 per unit, except that the Secretary may increase such amount by not to exceed 25 per centum for specific properties where cost levels so require;
 
@@ -109,6 +109,8 @@ Notwithstanding any other provisions of this chapter, the Secretary may, in his 
 (June 27, 1934, ch. 847, title II, §223, as added Aug. 2, 1954, ch. 649, title I, §125, 68 Stat. 605; amended Aug. 4, 1955, ch. 543, ch. 11, §201, 69 Stat. 484; Aug. 11, 1955, ch. 783, title I, §102(k), 69 Stat. 636; Pub. L. 85–104, title I, §114, July 12, 1957, 71 Stat. 298; Pub. L. 85–240, §4, Aug. 30, 1957, 71 Stat. 528; Pub. L. 85–900, §12, Sept. 2, 1958, 72 Stat. 1735; Pub. L. 87–70, title I, §101(d), title VI, §612(h), June 30, 1961, 75 Stat. 154, 182; Pub. L. 88–560, title I, §116, Sept. 2, 1964, 78 Stat. 779; Pub. L. 89–117, title I, §108(e), title II, §213, Aug. 10, 1965, 79 Stat. 461, 471; Pub. L. 89–754, title X, §1013(h), Nov. 3, 1966, 80 Stat. 1292; Pub. L. 90–19, §1(a)(3), (h), May 25, 1967, 81 Stat. 17, 18; Pub. L. 90–448, title I, §103(a), title III, §312, Aug. 1, 1968, 82 Stat. 486, 510; Pub. L. 91–152, title IV, §418(c), (d), Dec. 24, 1969, 83 Stat. 402; Pub. L. 93–383, title III, §311(a), Aug. 22, 1974, 88 Stat. 683; Pub. L. 95–557, title III, §326, Oct. 31, 1978, 92 Stat. 2104; Pub. L. 96–399, title III, §327, Oct. 8, 1980, 94 Stat. 1650; Pub. L. 97–35, title III, §339B(b), Aug. 13, 1981, 95 Stat. 417; Pub. L. 98–181, title III, §303(b), Nov. 30, 1983, 97 Stat. 1207; Pub. L. 98–479, title II, §204(a)(7), Oct. 17, 1984, 98 Stat. 2232; Pub. L. 100–242, title IV, §§406(b)(15), (16), 408(a), 409(a), (b), 419(b), 427, 429(d), Feb. 5, 1988, 101 Stat. 1901, 1903, 1913, 1916, 1918; Pub. L. 102–550, title V, §§510, 511(f), Oct. 28, 1992, 106 Stat. 3784, 3786; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316; Pub. L. 105–276, title VI, §601(e), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 107–116, title VI, §615, Jan. 10, 2002, 115 Stat. 2225; Pub. L. 109–115, div. A, title III, §323, Nov. 30, 2005, 119 Stat. 2466.)
 
 #### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 Public Law 849, Seventy-sixth Congress, as amended, referred to in subsec. (a)(1), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the “Lanham Public War Housing Act”, which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 42 and Tables.
 
@@ -152,9 +154,9 @@ Section 1437<i>o</i> of title 42, referred to in subsec. (f)(5), was repealed by
 
 #### Amendments
 
-2005—Subsec. (f)(1). Pub. L. 109–115 inserted “purchase or” before “refinancing of existing debt”.
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–115 inserted “purchase or” before “refinancing of existing debt”.
 
-2002—Subsec. (a)(7). Pub. L. 107–116, §615(1), substituted “under this chapter, or an existing mortgage held by the Secretary that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note), provided that—” for “under this chapter: <i>Provided</i>, That”.
+<b>2002</b>—Subsec. (a)(7). Pub. L. 107–116, §615(1), substituted “under this chapter, or an existing mortgage held by the Secretary that is subject to a mortgage restructuring and rental assistance sufficiency plan pursuant to the Multifamily Assisted Housing Reform and Affordability Act of 1997 (42 U.S.C. 1437f note), provided that—” for “under this chapter: <i>Provided</i>, That”.
 
 Subsec. (a)(7)(A). Pub. L. 107–116, §615(1)–(5), designated as subpar. (A) existing provisions beginning “the principal amount of any such refinancing mortgage shall not exceed” and ending “a new insurance contract”, redesignated former cls. (A) to (D) as (i) to (iv), respectively, of subpar. (A), and inserted “; and” at end after “a new insurance contract”.
 
@@ -164,17 +166,17 @@ Subsec. (a)(7)(C). Pub. L. 107–116, §615(8), added subpar. (C). Former cl. (C
 
 Subsec. (a)(7)(D). Pub. L. 107–116, §615(5), redesignated cl. (D) as cl. (iv) of subpar. (A).
 
-1998—Subsec. (c). Pub. L. 105–276 substituted “the Secretary” for “him” in two places and inserted “, including a sale through another entity acting under authority of the fourth sentence of section 1710(g) of this title,” before “of any property acquired”.
+<b>1998</b>—Subsec. (c). Pub. L. 105–276 substituted “the Secretary” for “him” in two places and inserted “, including a sale through another entity acting under authority of the fourth sentence of section 1710(g) of this title,” before “of any property acquired”.
 
-1994—Subsec. (a)(7)(D). Pub. L. 103–327 added cl. (D).
+<b>1994</b>—Subsec. (a)(7)(D). Pub. L. 103–327 added cl. (D).
 
-1992—Subsec. (d)(6). Pub. L. 102–550, §510, added par. (6).
+<b>1992</b>—Subsec. (d)(6). Pub. L. 102–550, §510, added par. (6).
 
 Subsec. (f)(1), (4). Pub. L. 102–550, §511(f), inserted “existing assisted living facility,” after “existing nursing home,” wherever appearing.
 
-1988—Subsec. (a). Pub. L. 100–242, §406(b)(15), inserted “other than the limitation in section 1709(g) of this title,” after first reference to “this chapter,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §406(b)(15), inserted “other than the limitation in section 1709(g) of this title,” after first reference to “this chapter,”.
 
-Subsec. (a)(7). Pub. L. 100–242, §429(d)(1), substituted in first proviso “such rate as may be agreed upon by the mortgagor and the mortgagee” for “a rate not in excess of the maximum rate prescribed under the applicable section or subchapter of this chapter”, substituted in second proviso “maturity and a principal obligation” for “maturity, a principal obligation, and an interest rate”, and inserted before semicolon at end “, and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee”.
+Subsec. (a)(7). Pub. L. 100–242, §429(d)(1), substituted in first proviso “such rate as may be agreed upon by the mortgagor and the mortgagee” for “a rate not in excess of the maximum rate prescribed under the applicable section or subchapter of this chapter”, substituted in second proviso “maturity and a principal obligation” for “maturity, a principal obligation, and an interest rate”, and inserted before semicolon at end“, and shall bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee”.
 
 Pub. L. 100–242, §419(b), in first proviso, inserted cl. (B) and designated former cl. (B) as (C).
 
@@ -182,7 +184,7 @@ Pub. L. 100–242, §408(a), in first proviso, inserted cl. (B) designation and 
 
 Subsec. (d). Pub. L. 100–242, §427, added pars. (1) to (3), inserted par. (4) designation and “Any loan insured pursuant to this subsection shall (A) bear interest at such rate as may be agreed upon by the mortgagor and mortgagee; (B) be secured in such manner as the Secretary shall require; (C) be limited to a term not exceeding the unexpired term of the original mortgage; and (D) be insured under the same section as the original mortgage. The Secretary may provide insurance pursuant to paragraph (2) or (3), or pursuant to both such paragraphs, in connection with an existing project mortgage, except that the Secretary may not provide insurance pursuant to both such paragraphs in connection with the same period of months referred to in paragraphs (2)(B) and (3)(B).”, inserted par. (5) designation, and struck out former first and second sentences of subsec. (d) which read as follows: “With respect to any mortgage, other than a mortgage covering a one- to four-family structure, heretofore or hereafter insured by the Secretary, and notwithstanding any other provision of this chapter, when the taxes, interest on the mortgage debt, mortgage insurance premiums, hazard insurance premiums, and the expense of maintenance and operation of the project covered by such mortgage during the first two years following the date of completion of the project, as determined by the Secretary, exceed the project income, the Secretary may, in his discretion and upon such terms and conditions as he may prescribe, insure under the same section as the original mortgage a loan by the mortgagee in an amount not exceeding the excess of the foregoing expenses over the project income. Such loan shall (1) bear interest (exclusive of premium charges for insurance) at not to exceed the per centum per annum currently permitted for mortgages insured under the section under which it is to be insured, (2) be secured in such manner as the Secretary shall require, and (3) be limited to a term not exceeding the unexpired term of the original mortgage.”
 
-Pub. L. 100–242, §429(d)(2), which directed substitution of “bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee” for “bear interest (exclusive of premium charges for insurance) at not to exceed the per centum per annum currently permitted for mortgages insured under the section under which it is to be insured” in cl. (1) of sentence beginning “Such loan shall”, could not be executed because of previousamendment by Pub. L. 100–242, §427, see above, which directed in part the striking out of second sentence of subsec. (d)(1), which contained the language sought to be amended.
+Pub. L. 100–242, §429(d)(2), which directed substitution of “bear interest at such rate as may be agreed upon by the mortgagor and the mortgagee” for “bear interest (exclusive of premium charges for insurance) at not to exceed the per centum per annum currently permitted for mortgages insured under the section under which it is to be insured” in cl. (1) of sentence beginning “Such loan shall”, could not be executed because of previous amendment by Pub. L. 100–242, §427, see above, which directed in part the striking out of second sentence of subsec. (d)(1), which contained the language sought to be amended.
 
 Subsec. (e). Pub. L. 100–242, §406(b)(16), inserted reference to limitation in section 1709(g) of this title.
 
@@ -192,13 +194,13 @@ Subsec. (f)(4)(A) to (C). Pub. L. 100–242, §409(b)(2), inserted parenthetical
 
 Subsec. (f)(4)(D). Pub. L. 100–242, §409(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “such existing hospital has received such certifications from a State agency designated in accordance with section 291d(a)(1) or section 300m of title 42 for the State in which the hospital is located as the Secretary deems necessary and appropriate and comparable to the certification required for hospitals insured under section 1715z–7 of this title and that such State agency additionally certify that the services being provided by such existing hospital at the time of refinancing are appropriate as determined pursuant to section 300m–2(a)(6) title 42.”
 
-1984—Subsec. (f)(2). Pub. L. 98–479 in provisions preceding subpar. (A) inserted “a” before “multifamily”.
+<b>1984</b>—Subsec. (f)(2). Pub. L. 98–479 in provisions preceding subpar. (A) inserted “a” before “multifamily”.
 
-1983—Subsec. (f)(5). Pub. L. 98–181 added par. (5).
+<b>1983</b>—Subsec. (f)(5). Pub. L. 98–181 added par. (5).
 
-1981—Subsec. (f). Pub. L. 97–35 inserted “and” after the semicolon at end of par. (2)(A), and redesignated par. (5) as (4).
+<b>1981</b>—Subsec. (f). Pub. L. 97–35 inserted “and” after the semicolon at end of par. (2)(A), and redesignated par. (5) as (4).
 
-1980—Subsec. (f)(1). Pub. L. 96–399, §327(1), redesignated first sentence of subsec. (f) as par. (1).
+<b>1980</b>—Subsec. (f)(1). Pub. L. 96–399, §327(1), redesignated first sentence of subsec. (f) as par. (1).
 
 Subsec. (f)(2). Pub. L. 96–399, §327(2)–(6), redesignated second sentence of subsec. (f) as par. (2), inserted applicability to purchases, provisions authorizing the Secretary to make not to exceed $30,000,000 available for purchase authority, and provisions authorizing rent increases to maintain reasonable profit levels, and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
 
@@ -206,15 +208,15 @@ Subsec. (f)(3). Pub. L. 96–399, §327(7), added par. (3).
 
 Subsec. (f)(5). Pub. L. 96–399, §327(8), redesignated third sentence of subsec. (f) as par. (5).
 
-1978—Subsec. (f). Pub. L. 95–557 inserted “or the refinancing of existing debt of an existing hospital” after “housing project”, substituted “multifamily housing project” for “housing project”, and inserted provisions relating to the prescription of terms and conditions in the case of refinancing of an existing hospital.
+<b>1978</b>—Subsec. (f). Pub. L. 95–557 inserted “or the refinancing of existing debt of an existing hospital” after “housing project”, substituted “multifamily housing project” for “housing project”, and inserted provisions relating to the prescription of terms and conditions in the case of refinancing of an existing hospital.
 
-1974—Subsecs. (f), (g). Pub. L. 93–383 added subsecs. (f) and (g).
+<b>1974</b>—Subsecs. (f), (g). Pub. L. 93–383 added subsecs. (f) and (g).
 
-1969—Subsec. (d). Pub. L. 91–152, §418(c), inserted provision that any loan involving a project covered by a mortgage insured under section 1715e, 1715z–1, or any section of this subchapter pursuant to subsec. (e) of this section be the obligation of the specified Fund.
+<b>1969</b>—Subsec. (d). Pub. L. 91–152, §418(c), inserted provision that any loan involving a project covered by a mortgage insured under section 1715e, 1715z–1, or any section of this subchapter pursuant to subsec. (e) of this section be the obligation of the specified Fund.
 
-Subsec. (e). Pub. L. 91–152, §418(d), substituted “this chapter” for “this subchapter” and inserted references to subchapter IX–B of this chapter.
+Subsec. (e). Pub. L. 91–152, §418(d), substituted “this chapter” for “this subchapter” and inserted references to subchapter IX–B.
 
-1968—Subsec. (a). Pub. L. 90–448, §312(a)(1), substituted “chapter” for “subchapter”, “any section or subchapter of this chapter” for “section 1709, 1713, 1715e, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715w, or 1715x of this title” and “under any section or subchapter of this chapter” for “under either of said sections”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448, §312(a)(1), substituted “chapter” for “subchapter”, “any section or subchapter of this chapter” for “section 1709, 1713, 1715e, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715w, or 1715x of this title” and “under any section or subchapter of this chapter” for “under either of said sections”.
 
 Subsec. (a)(7). Pub. L. 90–448, §312(a)(2), substituted “prescribed under the applicable section or subchapter of this chapter” for “applicable to loans insured under section 1709, 1713, 1715e, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715w, or 1715x of this title” in two places.
 
@@ -224,35 +226,35 @@ Subsec. (d). Pub. L. 90–448, §312(b), substituted “insure under the same se
 
 Subsec. (e). Pub. L. 90–448, §103(a), added subsec. (e).
 
-1967—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a) preceding par. (1), (a)(7), and (b) to (d).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a) preceding par. (1), (a)(7), and (b) to (d).
 
 Subsec. (a)(2). Pub. L. 90–19, §1(h), substituted “Secretary of Housing and Urban Development” and “Secretary” for “Public Housing Administration” and “said Administration”, respectively.
 
-1966—Subsec. (a)(8). Pub. L. 89–754 substituted “Government” and “section 3374 of title 42” for “Commissioner” and “section 1735h of this title”, respectively.
+<b>1966</b>—Subsec. (a)(8). Pub. L. 89–754 substituted “Government” and “section 3374 of title 42” for “Commissioner” and “section 1735h of this title”, respectively.
 
-1965—Subsec. (a)(7). Pub. L. 89–117, §213, substituted “this Act” for “section 608 of title VI prior to the effective date of the Housing Act of 1954 or under section 220, 221, 903, or section 908”, which for purposes of codification has been changed to “this chapter”.
+<b>1965</b>—Subsec. (a)(7). Pub. L. 89–117, §213, substituted “this Act” for “section 608 of title VI prior to the effective date of the Housing Act of 1954 or under section 220, 221, 903, or section 908”, which for purposes of codification has been changed to “this chapter”.
 
 Subsec. (a)(8). Pub. L. 89–117, §108(e)(2), added par. (8).
 
-1964—Subsec. (c). Pub. L. 88–560 substituted “limitations or requirements contained in this subchapter upon the eligibility of the mortgage, upon the payment of insurance premiums, or upon the terms and conditions of insurance settlement and the benefits of the insurance to be included in such settlement (except that in any case the payment of insurance shall be in debentures)” for “limitation upon eligibility contained in this subchapter”.
+<b>1964</b>—Subsec. (c). Pub. L. 88–560 substituted “limitations or requirements contained in this subchapter upon the eligibility of the mortgage, upon the payment of insurance premiums, or upon the terms and conditions of insurance settlement and the benefits of the insurance to be included in such settlement (except that in any case the payment of insurance shall be in debentures)” for “limitation upon eligibility contained in this subchapter”.
 
-1961—Subsec. (a). Pub. L. 87–70, §612(h)(1), (2), included sections 1715k, 1715<i>l</i>, 1715v, 1715w and 1715x in the opening provisions, and, in par. (7), substituted “section 1715k, 1715<i>l</i>, 1750b, or 1750g of this title” for “section 1750b or 1750g of this title,” “1715e, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715w, or 1715x of this title” for “1715e or 1715m of this title” in two places, and struck out “insured under section 1743 of section 1750g of this title” after “refinancing of a loan”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–70, §612(h)(1), (2), included sections 1715k, 1715<i>l</i>, 1715v, 1715w and 1715x in the opening provisions, and, in par. (7), substituted “section 1715k, 1715<i>l</i>, 1750b, or 1750g of this title” for “section 1750b or 1750g of this title,” “1715e, 1715k, 1715<i>l</i>, 1715m, 1715v, 1715w, or 1715x of this title” for “1715e or 1715m of this title” in two places, and struck out “insured under section 1743 of section 1750g of this title” after “refinancing of a loan”.
 
 Subsecs. (b), (c). Pub. L. 87–70, §101(d), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (d). Pub. L. 87–70, §612(h)(3), added subsec. (d).
 
-1958—Subsec. (a)(3). Pub. L. 85–900 authorized insurance of mortgages executed in connection with the sale of property constructed under the Boulder Canyon Project Act and located in Boulder City.
+<b>1958</b>—Subsec. (a)(3). Pub. L. 85–900 authorized insurance of mortgages executed in connection with the sale of property constructed under the Boulder Canyon Project Act and located in Boulder City.
 
-1957—Subsec. (a). Pub. L. 85–104, §114(1), substituted “1715e, or 1715m of this title” for “or 1715e of this title”.
+<b>1957</b>—Subsec. (a). Pub. L. 85–104, §114(1), substituted “1715e, or 1715m of this title” for “or 1715e of this title”.
 
 Subsec. (a)(3). Pub. L. 85–240 authorized insurance of mortgages executed in connection with the sale of Government housing at Coulee Dam.
 
 Subsec. (a)(4). Pub. L. 85–104, §114(2), inserted “this chapter or” after “prescribed by”.
 
-Subsec. (a)(7). Pub. L. 85–104, §114(3), substituted “1715e, or 1715m of this title” for “or 1715e of this title” in first proviso, and substituted provisions of second proviso for former provisions which required mortgages described in pars. (1), (2), (3), (4), (5), or (6) to have maturity satisfactory to Commissioner but forbade maturity of such mortgage to exceed maximum terms of loans insured under sections 1709, 1713, or 1715e of thistitle, forbade principal obligation to exceed 90 percent of value of property, and forbade interest rate to exceed rate of loans made under either of said sections, with the exception that where such mortgage covered property held by certain nonprofit cooperatives, principal obligation should not exceed 95 percent of appraised value.
+Subsec. (a)(7). Pub. L. 85–104, §114(3), substituted “1715e, or 1715m of this title” for “or 1715e of this title” in first proviso, and substituted provisions of second proviso for former provisions which required mortgages described in pars. (1), (2), (3), (4), (5), or (6) to have maturity satisfactory to Commissioner but forbade maturity of such mortgage to exceed maximum terms of loans insured under sections 1709, 1713, or 1715e of this title, forbade principal obligation to exceed 90 percent of value of property, and forbade interest rate to exceed rate of loans made under either of said sections, with the exception that where such mortgage covered property held by certain nonprofit cooperatives, principal obligation should not exceed 95 percent of appraised value.
 
-1955—Subsec. (a). Act Aug. 11, 1955, substituted “section 1709, 1713, or 1715e of this title” for “section 1709 or 1713 of this title” wherever appearing.
+<b>1955</b>—Subsec. (a). Act Aug. 11, 1955, substituted “section 1709, 1713, or 1715e of this title” for “section 1709 or 1713 of this title” wherever appearing.
 
 Act Aug. 4, 1955, added par. (4), and redesignated pars. (4) to (6) as (5) to (7), respectively.
 
@@ -295,4 +297,6 @@ Secretary of Housing and Urban Development to implement system of mortgage insur
 Section 125 of act Aug. 2, 1954, as amended by Pub. L. 90–19, §10(b), May 25, 1967, 81 Stat. 22, in enacting this section, provided in part that the purpose thereof was to transfer to title II of the National Housing Act \[this subchapter\] “the mortgage insurance program in connection with the sale of certain publicly owned property as contained in section 610 of title VI \[section 1745 of this title\]; the insurance of mortgages to refinance existing loans insured under section 608 of title VI and sections 903 and 908 of title IX \[sections 1743, 1750b and 1750g of this title\]; and to authorize the insurance under title II \[this subchapter\] of mortgages assigned to the Secretary of Housing and Urban Development under insurance contracts and mortgages held by the Secretary of Housing and Urban Development in connection with the sale of property acquired under insurance contracts”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “or”.</i>
 

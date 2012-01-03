@@ -78,7 +78,7 @@ Subsec. (a)(3)(A). Pub. L. 105–34, §1014(e)(2), inserted “nonqualified pref
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–88 struck out “or approved by the Interstate Commerce Commission under subchapter IV of chapter 113 of title 49,” after “Code,”.
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are,in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 struck out subsec. (d) “Exchanges under the final system plan for ConRail” which read as follows: “No gain or loss shall be recognized if stock or securities in a corporation are, in pursuance of an exchange to which paragraph (1) or (2) of section 374(c) applies, exchanged solely for stock of the Consolidated Rail Corporation, securities of such Corporation, certificates of value of the United States Railway Association, or any combination thereof.”
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–589, §4(e)(1), redesignated existing pars. (A) and (B) as par. (A)(i), (ii), and added par. (B).
 

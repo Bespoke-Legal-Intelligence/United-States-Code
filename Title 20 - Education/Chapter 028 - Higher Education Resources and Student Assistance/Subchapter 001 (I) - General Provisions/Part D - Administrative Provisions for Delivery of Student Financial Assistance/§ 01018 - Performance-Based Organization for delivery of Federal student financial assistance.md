@@ -30,7 +30,7 @@
 
 &emsp;Notwithstanding any other provision of this part, the Secretary shall maintain responsibility for the development and promulgation of policy and regulations relating to the programs of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42. In the exercise of its functions, the PBO shall be subject to the direction of the Secretary. The Secretary shall—
 
-&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;(A) request the advice of, and work in cooperation with, the Chief Operating Officer in developing regulations, policies, administrative guidance, or procedures affecting the Federal student financial assistance programs authorized under subchapter IV ofthis chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;&emsp;(B) request cost estimates from the Chief Operating Officer for system changes required by specific policies proposed by the Secretary; and
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;(C) The results achieved by the PBO during the year relative to the goals established in the organization's performance plan.
 
-&emsp;&emsp;(D) The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and\(e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
+&emsp;&emsp;(D) The evaluation rating of the performance of the Chief Operating Officer and senior managers under subsections (d)(4) and (e)(2) of this section, including the amounts of bonus compensation awarded to these individuals.
 
 &emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
 
@@ -274,7 +274,7 @@ The Secretary shall allocate from funds made available under section 1087h of th
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(B), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
-The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Prior Provisions
 
@@ -356,7 +356,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Study of Market Mechanisms in Federal Student Loan Programs
 
-Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, which directed the Comptroller General and Secretary of Education, in consultation with a study group, to design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of certain student loans made pursuantto title IV of the Higher Education Act (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) and to transmit a final report to congressional committees not later than May 15, 2001, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
+Pub. L. 105–244, title VIII, §801, Oct. 7, 1998, 112 Stat. 1803, which directed the Comptroller General and Secretary of Education, in consultation with a study group, to design and conduct a study to identify and evaluate means of establishing a market mechanism for the delivery of certain student loans made pursuant to title IV of the Higher Education Act (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) and to transmit a final report to congressional committees not later than May 15, 2001, was repealed by Pub. L. 110–315, title IX, §931(1), Aug. 14, 2008, 122 Stat. 3456.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

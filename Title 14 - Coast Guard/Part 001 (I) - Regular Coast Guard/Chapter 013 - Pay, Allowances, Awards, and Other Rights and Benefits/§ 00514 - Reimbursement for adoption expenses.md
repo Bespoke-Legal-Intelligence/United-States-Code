@@ -58,11 +58,11 @@ Definitions.—In this section:
 
 #### Amendments
 
-1996—Subsec. (g)(1). Pub. L. 104–201, §652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
 
 Subsec. (g)(3). Pub. L. 104–201, §652(b)(2), added par. (3).
 
-1992—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
+<b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
 
 #### Effective Date
 

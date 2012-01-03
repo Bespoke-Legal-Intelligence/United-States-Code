@@ -6,7 +6,7 @@ Grant Authority.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $50,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
+In general.—The Secretary of Transportation may make grants for technical assistance to local communities and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. The amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Technical assistance defined.—In this subsection, the term “technical assist
 
 (b)
 
-Prohibited Uses.—Funds provided under this section may not be used for lobbying or in direct support of litigation.
+Prohibited Uses.—Funds provided under this section to grant recipients and their contractors may not be used for lobbying, for direct advocacy for or against a pipeline construction or expansion project, or in direct support of litigation.
 
 (c)
 
@@ -34,7 +34,7 @@ Annual Report.—
 
 &emsp;(1)
 
-In general.—Not later than 90 days after the last day of each fiscal year for whichgrants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
+In general.—Not later than 90 days after the last day of each fiscal year for which grants are made by the Secretary under this section, the Secretary shall report to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives on grants made under this section in the preceding fiscal year.
 
 &emsp;(2)
 
@@ -48,15 +48,21 @@ Contents.—The report shall include—
 
 (d)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,000,000 for each of the fiscal years 2003 through 2010. Such amounts shall not be derived from user fees collected under section 60301.
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $1,500,000 for each of fiscal years 2012 through 2015. Such amounts shall not be derived from user fees collected under section 60301.
 
-(Added Pub. L. 107–355, §9(a), Dec. 17, 2002, 116 Stat. 2994; amended Pub. L. 109–468, §5, Dec. 29, 2006, 120 Stat. 3490.)
+(Added Pub. L. 107–355, §9(a), Dec. 17, 2002, 116 Stat. 2994; amended Pub. L. 109–468, §5, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §32(e), Jan. 3, 2012, 125 Stat. 1923.)
 
 #### References in Text
 
 Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 576, as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90, §32(e)(1), substituted “$100,000” for “$50,000”.
+
+Subsec. (b). Pub. L. 112–90, §32(e)(2), inserted “to grant recipients and their contractors” after “this section” and “, for direct advocacy for or against a pipeline construction or expansion project,” after “for lobbying”.
+
+Subsec. (d). Pub. L. 112–90, §32(e)(3), substituted “$1,500,000 for each of fiscal years 2012 through 2015” for “$1,000,000 for each of the fiscal years 2003 through 2010”.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–468, §5(1), substituted “No grants may be awarded under section 60114(g) until the Secretary has established competitive” for “The Secretary shall establish competitive”.
 

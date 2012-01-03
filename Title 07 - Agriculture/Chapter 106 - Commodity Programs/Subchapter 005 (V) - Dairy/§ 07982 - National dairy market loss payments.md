@@ -92,9 +92,9 @@ Section 805 of the Agriculture, Rural Development, Food and Drug Administration,
 
 #### Amendments
 
-2007—Subsec. (c)(3). Pub. L. 110–28 inserted “and” at end of subpar. (A), substituted “September 30, 2007, 34 percent.” for “August 31, 2007, 34 percent; and” in subpar. (B), and struck out subpar. (C), which read as follows: “during the period beginning on September 1, 2007, 0 percent.”
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–28 inserted “and” at end of subpar. (A), substituted “September 30, 2007, 34 percent.” for “August 31, 2007, 34 percent; and” in subpar. (B), and struck out subpar. (C), which read as follows: “during the period beginning on September 1, 2007, 0 percent.”
 
-2006—Subsec. (c)(3). Pub. L. 109–171, §1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–171, §1101(a), added par. (3) and struck out former par. (3) which read as follows: “45 percent.”
 
 Subsec. (f). Pub. L. 109–171, §1101(b), substituted “2007” for “2005”.
 

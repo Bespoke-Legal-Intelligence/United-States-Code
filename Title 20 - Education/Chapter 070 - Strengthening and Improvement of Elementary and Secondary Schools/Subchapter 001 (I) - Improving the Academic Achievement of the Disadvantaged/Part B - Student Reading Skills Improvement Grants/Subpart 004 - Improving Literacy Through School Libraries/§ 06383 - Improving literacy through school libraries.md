@@ -38,7 +38,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 #### (1) Allotments
 
-&emsp;From funds made available under subsection (c)(2) of this section and not reserved undersubsections (b) and (j) of this section for a fiscal year, the Secretary shall allot to each State educational agency having an application approved under subsection (f)(1) of this section an amount that bears the same relation to the funds as the amount the State educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all such State educational agencies received under part A of this subchapter for the preceding fiscal year, to increase literacy and reading skills by improving school libraries.
+&emsp;From funds made available under subsection (c)(2) of this section and not reserved under subsections (b) and (j) of this section for a fiscal year, the Secretary shall allot to each State educational agency having an application approved under subsection (f)(1) of this section an amount that bears the same relation to the funds as the amount the State educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount all such State educational agencies received under part A of this subchapter for the preceding fiscal year, to increase literacy and reading skills by improving school libraries.
 
 #### (2) Competitive grants to eligible local educational agencies
 
@@ -72,7 +72,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 &emsp;Each State educational agency desiring assistance under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
 
-&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies in meeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
+&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies inmeeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
 
 &emsp;&emsp;(B) the standards and techniques the State educational agency will use to evaluate the quality and impact of activities carried out under this section by eligible local educational agencies to determine the need for technical assistance and whether to continue to provide additional funding to the agencies under this section.
 
@@ -129,8 +129,4 @@ Funds made available under this section shall be used to supplement, and not sup
 &emsp;The Secretary shall transmit the State reports received under subsection (h)(2) of this section and the evaluations conducted under paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
 (Pub. L. 89–10, title I, §1251, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567.)
-
-#### Change of Name
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

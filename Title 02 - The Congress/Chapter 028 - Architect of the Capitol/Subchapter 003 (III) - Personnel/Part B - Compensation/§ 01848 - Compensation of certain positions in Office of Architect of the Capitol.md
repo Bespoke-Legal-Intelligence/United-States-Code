@@ -36,11 +36,11 @@ Section was classified to section 166b–3a of former Title 40, prior to the ena
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–163 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The positions referred to in subsection (a) of this section are: (1) the two positions of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings ‘
+<b>1989</b>—Subsec. (b). Pub. L. 101–163 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The positions referred to in subsection (a) of this section are: (1) the two positions of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings ‘
 
 Office of the Architect of the Capitol’ and ‘
 
-Salaries’ in the LegislativeBranch Appropriation Act, 1971 (40 U.S.C. 164a), and (2) the seven positions provided for in the third and fourth undesignated paragraphs under the center subheadings ‘
+Salaries’ in the Legislative Branch Appropriation Act, 1971 (40 U.S.C. 164a), and (2) the seven positions provided for in the third and fourth undesignated paragraphs under the center subheadings ‘
 
 Office of the Architect of the Capitol’ and ‘
 

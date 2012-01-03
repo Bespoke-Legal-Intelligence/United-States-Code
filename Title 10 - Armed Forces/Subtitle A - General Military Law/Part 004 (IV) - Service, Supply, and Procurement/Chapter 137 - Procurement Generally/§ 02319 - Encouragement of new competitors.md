@@ -12,7 +12,7 @@
 
 &emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursable basis, a prompt opportunity to demonstrate its ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
 
-&emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources andwho shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
+&emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of clause (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources and who shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
 
 &emsp;(6) ensure that a potential offeror seeking qualification is promptly informed as to whether qualification is attained and, in the event qualification is not attained, is promptly furnished specific information why qualification was not attained.
 

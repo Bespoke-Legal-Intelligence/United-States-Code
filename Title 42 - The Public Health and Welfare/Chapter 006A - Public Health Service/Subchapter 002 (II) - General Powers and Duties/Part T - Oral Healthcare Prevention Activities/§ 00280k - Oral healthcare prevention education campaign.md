@@ -14,7 +14,7 @@ In establishing the campaign, the Secretary shall—
 
 #### (c) Planning and implementation
 
-Not later than 2 years after March 23, 2010, the Secretary shall begin implementing the 5-year campaign. During the 2-year period referred to in the previous sentence, the Secretary shall conduct planning activities with respect to the campaign.
+Not later than 2 years after March 23, 2010, the Secretary shall begin implementing the 5-year campaign. During the 2-year period referred to in the previous sentence, the Secretary shallconduct planning activities with respect to the campaign.
 
 (July 1, 1944, ch. 373, title III, §399LL, as added Pub. L. 111–148, title IV, §4102(a), Mar. 23, 2010, 124 Stat. 550.)
 

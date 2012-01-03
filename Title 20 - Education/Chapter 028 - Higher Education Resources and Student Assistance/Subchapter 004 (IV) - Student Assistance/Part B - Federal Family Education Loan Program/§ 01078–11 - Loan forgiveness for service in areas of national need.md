@@ -48,7 +48,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;&emsp;(i) in an elementary school or secondary school as a teacher of a critical foreign language;
 
-&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularlyrequires the use of such critical foreign language; or
+&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularly requires the use of such critical foreign language; or
 
 &emsp;&emsp;&emsp;(iii) in an institution of higher education as a faculty member or instructor teaching a critical foreign language.
 
@@ -184,7 +184,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (2) Maximum amount
 
-&emsp;The Secretary shall not forgive more than $10,000 in the aggregate for any borrower under this section, and no borrower shall receive loan forgiveness under this section for more than five years of service.
+&emsp;The Secretary shall not forgive more than $10,000 in the aggregate for any borrower underthis section, and no borrower shall receive loan forgiveness under this section for more than five years of service.
 
 #### (d) Priority
 

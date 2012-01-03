@@ -40,9 +40,9 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 #### Amendments
 
-1996—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
+<b>1996</b>—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted “, except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996” after “filing”.
 
-1994—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
+<b>1994</b>—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Obligation by end of grant year
 
-Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the “grant year for the award”), except as provided in subsection (c)(1).
+Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made toa State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the “grant year for the award”), except as provided in subsection (c)(1).
 
 #### (b) Supplemental grants; cancellation of unobligated balance of grant award
 
@@ -28,7 +28,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 &emsp;&emsp;(A) The unobligated funds are available for expenditure by the State involved for the one-year period beginning upon the expiration of the grant year (referred to in this section as the “carryover year”).
 
-&emsp;&emsp;(B) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of theaward, and shall require the State to return any amounts from such balance that have been disbursed to the State.
+&emsp;&emsp;(B) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State.
 
 #### (3) Use of cancelled balances
 

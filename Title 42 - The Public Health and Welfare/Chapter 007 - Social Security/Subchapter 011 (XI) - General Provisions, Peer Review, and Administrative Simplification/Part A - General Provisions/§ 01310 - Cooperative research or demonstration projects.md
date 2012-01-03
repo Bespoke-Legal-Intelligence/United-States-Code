@@ -28,7 +28,7 @@
 
 (2) Not later than 18 months after March 2, 2004, the Commissioner of Social Security shall submit a report on the survey conducted in accordance with paragraph (1) to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug.15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
+(Aug. 14, 1935, ch. 531, title XI, §1110, as added Aug. 1, 1956, ch. 836, title III, §331, 70 Stat. 850; amended Pub. L. 90–248, title II, §246, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–265, title V, §505(b), June 9, 1980, 94 Stat. 474; Pub. L. 98–369, div. B, title III, §2331(a), July 18, 1984, 98 Stat. 1088; Pub. L. 99–272, title XII, §12101(d), Apr. 7, 1986, 100 Stat. 283; Pub. L. 103–296, title I, §108(b)(7), Aug. 15, 1994, 108 Stat. 1482; Pub. L. 105–33, title V, §5524, Aug. 5, 1997, 111 Stat. 623; Pub. L. 106–170, title IV, §404(a), Dec. 17, 1999, 113 Stat. 1910; Pub. L. 108–203, title I, §107(a), Mar. 2, 2004, 118 Stat. 506.)
 
 #### Amendments
 

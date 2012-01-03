@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, “commissioned service obligation”, with respect to an officer who is agraduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+(d) In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a midshipman who is not a citizen or national of the United States.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 99–145 (other than with respect to the authority of the S
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 541(b) of Pub. L. 98–525 applicable with respect to agreements entered into underthis section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
+Amendment by section 541(b) of Pub. L. 98–525 applicable with respect to agreements entered into under this section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

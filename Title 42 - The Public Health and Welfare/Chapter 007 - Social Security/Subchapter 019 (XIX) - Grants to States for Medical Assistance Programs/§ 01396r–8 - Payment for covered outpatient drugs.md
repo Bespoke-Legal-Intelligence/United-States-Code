@@ -894,9 +894,9 @@ In this section—
 
 <i>Pub. L. 111–148, title IV, §4107(b), (d), Mar. 23, 2010, 124 Stat. 560, 561, provided that, effective Oct. 1, 2010, subsection (d)(2)(F) of this section, as redesignated by section 2502(a) of Pub. L. 111–148, is amended by inserting before the period at the end: “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title, agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation”.</i>
 
-#### References in Text
+<i>See 2010 Amendment notes below.</i>
 
-Parts A, B, C, and D of subchapter XVIII of this chapter, referred to in subsecs. (a)(1) and (c)(1)(C)(i)(VI), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
+#### References in Text
 
 The amendments made by subsections (a)(1), (b), (c), and (d) of section 2501 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(1)(C)(i)(II), mean the amendments made by section 2501(a)(1), (b), (c), and (d) of Pub. L. 111–148, which amended this section and section 1396b of this title.
 
@@ -967,6 +967,20 @@ Pub. L. 111–148, §2501(d)(1), added subpar. (C).
 Subsec. (c)(2)(D). Pub. L. 111–148, §2501(e), added subpar. (D).
 
 Subsec. (c)(3)(B). Pub. L. 111–148, §2501(b), struck out “and” at end of cl. (i), inserted “and before January 1, 2010,” after “December 31, 1993,” and substituted “; and” for period at end in cl. (ii), and added cl. (iii).
+
+Subsec. (d)(2)(E). Pub. L. 111–148, §2502(a)(1), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “Agents when used to promote smoking cessation.”
+
+Subsec. (d)(2)(F). Pub. L. 111–148, §4107(b), inserted “, except, in the case of pregnant women when recommended in accordance with the Guideline referred to in section 1396d(bb)(2)(A) of this title, agents approved by the Food and Drug Administration under the over-the-counter monograph process for purposes of promoting, and when used to promote, tobacco cessation” before period at end.
+
+Pub. L. 111–148, §2502(a)(1), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+
+Subsec. (d)(2)(G) to (K). Pub. L. 111–148, §2502(a)(1), redesignated subpars. (H) and (K) as (G) and (H), respectively, and struck out subpars. (I) and (J) which read as follows:
+
+“(I) Barbiturates.
+
+“(J) Benzodiazepines.”
+
+Subsec. (d)(7). Pub. L. 111–148, §2502(a)(2), added par. (7).
 
 Subsec. (e)(4). Pub. L. 111–148, §2503(a)(1)(A), struck out “(or, effective January 1, 2007, two or more)” after “three or more”.
 
@@ -1102,7 +1116,7 @@ Subsec. (k)(3)(E). Pub. L. 103–66, §13602(a)(2)(B)(ii)(I), struck out “\* 
 
 Subsec. (k)(3)(F). Pub. L. 103–66, §13602(a)(2)(B)(ii)(II), which directed amendment of subpar. (F) by substituting “services and services provided by an intermediate care facility for the mentally retarded” for “services”, was executed by making the substitution for “sevices” to reflect the probable intent of Congress because the word “services” did not appear.
 
-Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears inpeer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
+Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
 
 Subsec. (k)(7)(A)(i). Pub. L. 103–66, §13602(a)(2)(B)(iv), substituted “rebate period” for “calendar quarter” in introductory provisions.
 
@@ -1162,7 +1176,7 @@ Pub. L. 109–171, title VI, §6004(b), Feb. 8, 2006, 120 Stat. 61, provided tha
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–91 applicable to drugs dispensed on or after Jan. 1, 2006, see section 104(d) of Pub. L. 109–91, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 109–91 applicable to drugs dispensed on or after Jan. 1, 2006, see section 104(d) of Pub.L. 109–91, set out as a note under section 1396b of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -1240,11 +1254,11 @@ Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment 
 
 #### Reports on Best Price Changes and Payment of Rebates
 
-Section 601(d) of Pub. L. 102–585 provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayed the same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary's best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs which are considered significant expenditures under medicaid program, and contained requirements for initial report.
+Section 601(d) of Pub. L. 102–585 provided that not later than 90 days after the expiration of each calendar quarter beginning on or after Oct. 1, 1992, and ending on or before Dec. 31, 1995, Secretary of Health and Human Services was to submit to Congress a report containing information as to percentage of single source drugs whose best price either increased, decreased, or stayedthe same in comparison to best price during previous calendar quarter, median and mean percentage increase or decrease of such price, and, with respect to drugs for which manufacturers were required to pay rebates under subsec. (c) of this section, Secretary's best estimate, on State-by-State and national aggregate basis, of total amount of rebates paid under subsec. (c) of this section and percentages of such total amounts attributable to rebates paid under pars. (1) to (3) of subsec. (c) of this section, limited consideration to drugs which are considered significant expenditures under medicaid program, and contained requirements for initial report.
 
 #### Demonstration Projects To Evaluate Efficiency and Cost-Effectiveness of Prospective Drug Utilization Review
 
-Section 4401(c) of title IV of Pub. L. 101–508 directed Secretary of Health and Human Services to establish statewide demonstration projects to evaluate efficiency and cost-effectiveness of prospective drug utilization review and to evaluate impact on quality of care and cost-effectiveness of paying pharmacists under thissubchapter whether or not drugs were dispensed for drug use review services, with two reports to be submitted to Congress, the first not later than Jan. 1, 1994, and the second not later than Jan. 1, 1995.
+Section 4401(c) of title IV of Pub. L. 101–508 directed Secretary of Health and Human Services to establish statewide demonstration projects to evaluate efficiency and cost-effectiveness of prospective drug utilization review and to evaluate impact on quality of care and cost-effectiveness of paying pharmacists under this subchapter whether or not drugs were dispensed for drug use review services, with two reports to be submitted to Congress, the first not later than Jan. 1, 1994, and the second not later than Jan. 1, 1995.
 
 #### Study of Drug Purchasing and Billing Practices in Health Care Industry; Report
 

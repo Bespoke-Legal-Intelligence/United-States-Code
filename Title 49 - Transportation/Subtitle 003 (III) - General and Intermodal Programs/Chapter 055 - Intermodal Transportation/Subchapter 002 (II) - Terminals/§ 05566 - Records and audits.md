@@ -42,5 +42,5 @@ In this section, the word “undertaking” is omitted as being included in “p
 
 In subsection (a), before clause (1), the word “fully” is omitted as surplus.
 
-In subsection (b), the words “the expiration of” and “of the United States” are omitted as surplus. The words “or any of their duly authorized representatives” are omitted as unnecessary because of 49:322(b) and 31:711(2). The words “may audit and inspect” are substituted for “shall have access for the purpose of audit and examination” for consistency in the revised title and with other titles of the United States Code. The word “recipient” is substituted for “such receipts” to correct an error in the underlying source provisions.
+In subsection (b), the words “the expiration of” and “of the United States” are omitted as surplus. The words “or any of their duly authorized representatives” are omitted as unnecessary because of 49:322(b) and 31:711(2). The words “may audit and inspect” are substituted for “shall have access for the purpose of auditand examination” for consistency in the revised title and with other titles of the United States Code. The word “recipient” is substituted for “such receipts” to correct an error in the underlying source provisions.
 

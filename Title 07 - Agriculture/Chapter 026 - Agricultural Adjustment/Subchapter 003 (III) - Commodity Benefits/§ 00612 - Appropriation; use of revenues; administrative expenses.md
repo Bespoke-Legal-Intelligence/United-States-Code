@@ -12,13 +12,13 @@ To enable the Secretary of Agriculture to finance under such terms and condition
 
 #### Amendments
 
-1937—Subsec. (a). Act June 3, 1937, §2(j), struck out “and production adjustments” after “surplus reductions” in second par.
+<b>1937</b>—Subsec. (a). Act June 3, 1937, §2(j), struck out “and production adjustments” after “surplus reductions” in second par.
 
-1935—Subsec. (a). Act Aug. 24, 1935, §19, substituted “payments authorized to be made under section 608” for “rental and benefit payments made with respect to reduction in acreage or reduction in production for market under part 2 of this title”.
+<b>1935</b>—Subsec. (a). Act Aug. 24, 1935, §19, substituted “payments authorized to be made under section 608” for “rental and benefit payments made with respect to reduction in acreage or reduction in production for market under part 2 of this title”.
 
 Subsec. (b). Act Aug. 24, 1935, §3, amended subsec. (b) generally.
 
-1934—Subsec. (a). Act Apr. 7, 1934, added second par.
+<b>1934</b>—Subsec. (a). Act Apr. 7, 1934, added second par.
 
 #### Validity of Section Affirmed
 

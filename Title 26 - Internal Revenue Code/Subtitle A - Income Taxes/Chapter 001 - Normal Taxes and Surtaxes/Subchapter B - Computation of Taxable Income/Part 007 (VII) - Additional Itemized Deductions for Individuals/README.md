@@ -21,7 +21,7 @@
 
 #### Amendment of Analysis
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination</i><i>Dates of 2001 Amendment note set out under section 1 of this title.</i>
 
 #### Amendments
 

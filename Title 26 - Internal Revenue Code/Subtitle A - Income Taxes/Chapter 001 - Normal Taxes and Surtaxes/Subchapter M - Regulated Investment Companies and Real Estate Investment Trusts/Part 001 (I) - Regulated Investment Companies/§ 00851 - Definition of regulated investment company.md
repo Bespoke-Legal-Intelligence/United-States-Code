@@ -40,7 +40,7 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;&emsp;&emsp;(iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
 
-> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from apartnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
 
 #### (c) Rules applicable to subsection (b)(3)
 
@@ -94,7 +94,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;&emsp;&emsp;&emsp;(II) $10,000,000, and
 
-&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time periodprescribed by the Secretary and in the manner prescribed by the Secretary, or
+&emsp;&emsp;&emsp;(ii)(I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation's identification of the failure to satisfy the requirements of such subsection occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
 
 &emsp;&emsp;&emsp;(II) the requirements of such subsection are otherwise met within the time period specified in subclause (I).
 
@@ -152,7 +152,7 @@ For purposes of this title—
 
 &emsp;&emsp;(A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
 
-&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+&emsp;&emsp;(B) the basis of the assets of such trust which are treated under subparagraph (A) asbeing owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
 
 &emsp;&emsp;(C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
 
@@ -216,7 +216,7 @@ Subsec. (h). Pub. L. 108–357, §331(d), added subsec. (h).
 
 Subsec. (b)(2). Pub. L. 105–34, §1271(a), inserted “and” at end.
 
-Subsec. (b)(3), (4). Pub. L. 105–34, §1271(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
+Subsec. (b)(3), (4). Pub. L. 105–34, §1271(a), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
 
 &emsp;“(A) stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended),
 

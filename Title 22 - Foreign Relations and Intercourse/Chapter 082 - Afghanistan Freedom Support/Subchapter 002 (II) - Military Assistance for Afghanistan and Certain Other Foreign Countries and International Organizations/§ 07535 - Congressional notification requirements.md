@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The President may provide assistance under this subchapter to any eligible foreign country or eligible international organization if the President determines that such assistance is important to the national security interest of the United States and notifies the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate of such determination at least 15 days in advance of providing such assistance.
+The President may provide assistance under this subchapter to any eligible foreign country or eligible international organization if the President determines that such assistance is important to the national security interest of the United States and notifies the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senateof such determination at least 15 days in advance of providing such assistance.
 
 #### (b) Notification
 

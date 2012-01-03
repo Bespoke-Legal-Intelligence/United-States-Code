@@ -76,13 +76,13 @@ Section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009, re
 
 #### Amendments
 
-2009—Subsec. (a). Pub. L. 111–84, §1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
 
 Subsecs. (b) to (d). Pub. L. 111–84, §1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L.111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
+Amendment by Pub. L. 111–84 effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2010, with transition and savings provisions, see sections 1914, 1915, and 1919(b) of Pub. L. 111–84, set out in a Non-Foreign Area Retirement Equity Assurance note under section 5304 of this title.
 
 #### Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors
 
@@ -212,7 +212,7 @@ Payment of Non-Foreign Area Post Differentials and Cost-of-Living Allowances.
 
 Sec. 209.
 
-Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a non-foreign area post differential or a non-foreign area cost-of-living allowance under this Part shall, if he isserving under a contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive said differential and allowance.
+Persons Serving Under Contract. Any other provision of this Part notwithstanding, any person who would otherwise be eligible to receive a non-foreign area post differential or a non-foreign area cost-of-living allowance under this Part shall, if he is serving under a contract, be compensated according to the terms of such contract for the period thereof and shall, during such period, be ineligible to receive said differential and allowance.
 
 Sec. 210.
 

@@ -68,7 +68,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 &emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
 
-&emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
+&emsp;&emsp;&nbsp;If any increase determined under the preceding sentence is not a multiple of $100,such increase shall be rounded to the next lowest multiple of $100.
 
 #### (c) Housing cost amount
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) 30 percent (adjusted as may be provided under subparagraph (B)) of the amount (computed on a daily basis) in effect under subsection (b)(2)(D) for the calendar year in which the taxable year of the individual begins, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period describedin subparagraph (A) or (B) of subsection (d)(1).
+&emsp;&emsp;&emsp;(ii) the number of days of such taxable year within the applicable period described in subparagraph (A) or (B) of subsection (d)(1).
 
 #### (B) Regulations
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (E) Foreign earned income
 
-&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard to the limitation of subparagraph (A) of subsection (b)(2).
+&emsp;&emsp;For purposes of this paragraph, an individual's foreign earned income for any taxable year shall be determined without regard tothe limitation of subparagraph (A) of subsection (b)(2).
 
 #### (d) Definitions and special rules
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Taxpayer engaged in trade or business
 
-&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personalservices and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
+&emsp;&emsp;In the case of a taxpayer engaged in a trade or business in which both personal services and capital are material income-producing factors, under regulations prescribed by the Secretary, a reasonable allowance as compensation for the personal services rendered by the taxpayer, not in excess of 30 percent of his share of the net profits of such trade or business, shall be considered as earned income.
 
 #### (3) Tax home
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
-&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
+&emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, aforeign country for any day during which such individual was present in such country during such period.
 
 #### (B) Regulations
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An election under subsection (a) shall apply to the taxable year for which made and to allsubsequent taxable years unless revoked under paragraph (2).
+&emsp;An election under subsection (a) shall apply to the taxable year for which made and to all subsequent taxable years unless revoked under paragraph (2).
 
 #### (2) Revocation
 
@@ -482,7 +482,7 @@ Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
+Amendment by section 401(b)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 1201 of this title.
 
 Section 701(u)(10)(B) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §107(a)(1)(B), Apr. 1, 1980, 94 Stat. 222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning in calendar year 1978 but only in the case of taxpayers who make an election under section 209(c) of the Foreign Earned Income Act of 1978 \[section 209(c) of Pub. L. 95–615, set out below\].”
 
@@ -544,7 +544,7 @@ Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Cana
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as anEffective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 

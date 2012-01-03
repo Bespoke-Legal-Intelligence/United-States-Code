@@ -6,5 +6,5 @@ All rates or charges made for any stockyard services furnished at a stockyard by
 
 #### Amendments
 
-1978—Pub. L. 95–409 inserted proviso that rates and charges based upon percentages of gross sales of livestock shall not be prohibited merely because based on such percentages rather than on a per head basis.
+<b>1978</b>—Pub. L. 95–409 inserted proviso that rates and charges based upon percentages of gross sales of livestock shall not be prohibited merely because based on such percentages rather than on a per head basis.
 

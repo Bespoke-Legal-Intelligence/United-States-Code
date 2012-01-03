@@ -32,9 +32,9 @@ In this section, the term “designated rural development program” means a pro
 
 #### Amendments
 
-1999—Subsec. (b). Pub. L. 106–113 substituted “natural resources” for “forestry” and substituted “National Forest System land resources” for “national forest resources” in two places.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 substituted “natural resources” for “forestry” and substituted “National Forest System land resources” for “national forest resources” in two places.
 
-1996—Subsec. (e). Pub. L. 104–127, §753(b)(1)(A), struck out “, as defined in section 2008(b)(2) of this title,” before “during any”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–127, §753(b)(1)(A), struck out “, as defined in section 2008(b)(2) of this title,” before “during any”.
 
 Subsec. (g). Pub. L. 104–127, §753(b)(1)(B), added subsec. (g).
 

@@ -192,9 +192,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
+<b>2008</b>—Pub. L. 110–246, §4401, amended section generally, substituting subsecs. (a) to (g) establishing the Bill Emerson National Hunger Fellowship Program and the Mickey Leland International Hunger Fellowship Program for former subsecs. (a) to (j) which established the Congressional Hunger Fellows Program.
 
-2007—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting “may” for “shall” and striking out “annual.”, was executed by making the substitution and striking out “annual” before “audit”, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (f)(4)(A). Pub. L. 110–161, which directed that subpar. (A) be amended by substituting “may” for “shall” and striking out “annual.”, was executed by making the substitution and striking out “annual” before “audit”, to reflect the probable intent of Congress.
 
 #### Effective Date of 2008 Amendment
 
@@ -207,4 +207,6 @@ Pub. L. 110–234, title IV, §4407, May 22, 2008, 122 Stat. 1142, and Pub. L. 1
 #### Effective Date
 
 Pub. L. 107–171, title IV, §4405, May 13, 2002, 116 Stat. 341, provided that: “Except as otherwise provided in this title \[see Short Title of 2002 Amendment note set out under section 2011 of Title 7, Agriculture\], the amendments made by this title take effect on October 1, 2002.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section:”.</i>
 

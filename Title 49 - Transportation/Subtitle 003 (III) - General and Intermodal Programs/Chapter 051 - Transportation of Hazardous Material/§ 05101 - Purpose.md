@@ -80,7 +80,7 @@ Sense of Congress; Requirement Regarding Notice.—
 
 “(c)
 
-Prohibition of Contracts.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contractor subcontract made with funds provided pursuant to this title, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
+Prohibition of Contracts.—If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contract or subcontract made with funds provided pursuant to this title, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
 
 “(d)
 

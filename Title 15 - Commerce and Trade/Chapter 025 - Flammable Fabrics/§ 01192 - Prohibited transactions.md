@@ -6,7 +6,7 @@ The manufacture for sale, the sale, or the offering for sale, in commerce, or th
 
 #### (b) Nonconforming components
 
-The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to anapplicable standard or regulation issued or amended under section 1193 of this title, and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to an applicable standard or regulation issued or amended under section 1193 of this title, and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 (June 30, 1953, ch. 164, §3, 67 Stat. 111; Pub. L. 90–189, §2, Dec. 14, 1967, 81 Stat. 568.)
 

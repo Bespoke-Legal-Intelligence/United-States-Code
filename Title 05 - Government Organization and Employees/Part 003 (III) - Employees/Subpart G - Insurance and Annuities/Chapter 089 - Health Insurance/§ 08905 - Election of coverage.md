@@ -92,31 +92,31 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2000—Subsec. (h). Pub. L. 106–394 added subsec. (h).
+<b>2000</b>—Subsec. (h). Pub. L. 106–394 added subsec. (h).
 
-1998—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+<b>1998</b>—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1992—Subsec. (b). Pub. L. 102–378, §2(77)(A), substituted “this chapter” for “this subchapter.” at end.
+<b>1992</b>—Subsec. (b). Pub. L. 102–378, §2(77)(A), substituted “this chapter” for “this subchapter.” at end.
 
 Subsec. (c)(1). Pub. L. 102–378, §2(77)(B), inserted comma after “8341(h)” in last sentence.
 
-1988—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
+<b>1988</b>—Subsec. (d). Pub. L. 100–654, §202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
 
 Subsecs. (e), (f)(1), (2). Pub. L. 100–654, §201(c), (d)(1), substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse”.
 
 Subsec. (f)(3). Pub. L. 100–654, §201(d)(2), added par. (3).
 
-1986—Subsec. (b). Pub. L. 99–251, §103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
+<b>1986</b>—Subsec. (b). Pub. L. 99–251, §103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
 
 Subsec. (c)(1). Pub. L. 99–335 inserted in subpar. (B) “or 8417(b)” and substituted in provision following subpar. (B) “8345(j), 8445, or 8467” for “or 8345(j)”.
 
 Subsec. (f). Pub. L. 99–251, §104(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
 
-1985—Subsecs. (a), (c)(1). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
+<b>1985</b>—Subsecs. (a), (c)(1). Pub. L. 99–53, §2(a), inserted reference to section 8903a of this title.
 
 Subsec. (f). Pub. L. 99–53, §2(a), (c), inserted reference to section 8903a of this title and substituted “such plan” for “plan described by that section”.
 
-1984—Subsec. (c). Pub. L. 98–615, §3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
+<b>1984</b>—Subsec. (c). Pub. L. 98–615, §3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 98–615, §3(4)(A), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 98–615, §3(4), redesignated former subsec. (d) as (e) an
 
 Subsec. (f). Pub. L. 98–615, §3(4), redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
 
-1978—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+<b>1978</b>—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
 #### Effective Date of 1988 Amendment
 

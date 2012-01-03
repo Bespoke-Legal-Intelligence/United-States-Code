@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of part IV of subchapter B of this chapter (relating to tax exemption requirements for State and local bonds), the term “exempt facility bond” includes any bond issued as part of an issue 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of which are to be used to provide any enterprise zone facility.
+For purposes of part IV of subchapter B of this chapter (relating to tax exemption requirementsfor State and local bonds), the term “exempt facility bond” includes any bond issued as part of an issue 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of which are to be used to provide any enterprise zone facility.
 
 #### (b) Enterprise zone facility
 
@@ -96,7 +96,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (2) Loss of deductions where facility ceases to be qualified
 
-&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent such interest accrues during the period beginning on the first day of the calendar year which includes the date on which—
+&emsp;No deduction shall be allowed under this chapter for interest on any financing provided from any bond to which subsection (a) applies with respect to any facility to the extent suchinterest accrues during the period beginning on the first day of the calendar year which includes the date on which—
 
 &emsp;&emsp;(A) substantially all of the facility with respect to which the financing was provided ceases to be used in an empowerment zone or enterprise community, or
 

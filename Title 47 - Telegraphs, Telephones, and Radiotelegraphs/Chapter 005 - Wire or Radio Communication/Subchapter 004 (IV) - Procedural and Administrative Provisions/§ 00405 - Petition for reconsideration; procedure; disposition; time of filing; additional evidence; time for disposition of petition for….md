@@ -6,7 +6,7 @@
 
 (2) Any order issued under paragraph (1) shall be a final order and may be appealed under section 402(a) of this title.
 
-(June 19, 1934, ch. 652, title IV, §405, 48 Stat. 1095; July 16, 1952, ch. 879, §15, 66 Stat. 720; Pub. L. 86–752, §4(c), Sept. 13, 1960, 74 Stat. 892; Pub. L. 87–192, §3, Aug. 31, 1961, 75 Stat. 421; Pub. L.97–259, title I, §§122, 127(c), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 100–594, §8(d), Nov. 3, 1988, 102 Stat. 3023.)
+(June 19, 1934, ch. 652, title IV, §405, 48 Stat. 1095; July 16, 1952, ch. 879, §15, 66 Stat. 720; Pub. L. 86–752, §4(c), Sept. 13, 1960, 74 Stat. 892; Pub. L. 87–192, §3, Aug. 31, 1961, 75 Stat. 421; Pub. L. 97–259, title I, §§122, 127(c), Sept. 13, 1982, 96 Stat. 1097, 1099; Pub. L. 100–594, §8(d), Nov. 3, 1988, 102 Stat. 3023.)
 
 #### Codification
 

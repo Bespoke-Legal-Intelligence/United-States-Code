@@ -34,7 +34,7 @@ This section may not be construed to authorize the withholding, or to prohibit t
 
 #### Amendments
 
-2008—Subsecs. (a) to (e). Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
+<b>2008</b>—Subsecs. (a) to (e). Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
 

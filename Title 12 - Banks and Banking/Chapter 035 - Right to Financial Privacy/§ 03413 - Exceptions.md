@@ -88,9 +88,9 @@ This chapter shall not apply to the examination by or disclosure to employees or
 
 This chapter shall not apply to the examination by or disclosure to the Resolution Trust Corporation or its employees or agents of financial records or information in the exercise of its conservatorship, receivership, or liquidation functions with respect to a financial institution.
 
-#### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Board or Federal home loan banks
+#### (<i>o</i>) Disclosure to, or examination by, Federal Housing Finance Agency or Federal home loan banks
 
-This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in theexercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
+This chapter shall not apply to the examination by or disclosure to the Federal Housing Finance Agency or any of the Federal home loan banks of financial records or information in the exercise of the Federal Housing Finance Agency's authority to extend credit (either directly or through a Federal home loan bank) to financial institutions or others.
 
 #### (p) Access to information necessary for administration of certain veteran benefits laws
 
@@ -102,7 +102,11 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 
-(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112 Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792.)
+#### (r) Disclosure to the Bureau of Consumer Financial Protection
+
+Nothing in this chapter shall apply to the examination by or disclosure to the Bureau of Consumer Financial Protection of financial records or information in the exercise of its authority with respect to a financial institution.
+
+(Pub. L. 95–630, title XI, §1113, Nov. 10, 1978, 92 Stat. 3706; Pub. L. 98–21, title I, §121(c)(3)(C), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1353(b), Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 100–690, title VI, §6186(c), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §942, Aug. 9, 1989, 103 Stat. 497; Pub. L. 101–647, title I, §104, Nov. 29, 1990, 104 Stat. 4791; Pub. L. 102–242, title IV, §411(2)–(4), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–568, title VI, §603(a), Oct. 29, 1992, 106 Stat. 4342; Pub. L. 105–264, §2(c)(1), Oct. 19, 1998, 112Stat. 2351; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, §14205, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, §4(a), title XIV, §14205, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 110–289, div. A, title II, §1216(a), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title X, §1099(3), July 21, 2010, 124 Stat. 2105.)
 
 #### References in Text
 
@@ -114,7 +118,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (g), is 
 
 The effective date of this chapter, referred to in subsec. (h)(3), is the date upon the expiration of 120 days after Nov. 10, 1978. See section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
-The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
@@ -124,35 +128,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (k). Pub. L. 110–246, §14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
+<b>2010</b>—Subsec. (r). Pub. L. 111–203 added subsec. (r).
+
+<b>2008</b>—Subsec. (k). Pub. L. 110–246, §14205, inserted heading, added pars. (2) and (3), and struck out former par. (2) which read as follows: “Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of the Treasury, the Social Security Administration, or the Railroad Retirement Board and shall be barred from redisclosure by the financial institution or its agents.”
 
 Subsec. (<i>o</i>). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board” and “Federal Housing Finance Agency's” for “Federal Housing Finance Board's”.
 
-2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1998—Subsec. (q). Pub. L. 105–264 added subsec. (q).
+<b>1998</b>—Subsec. (q). Pub. L. 105–264 added subsec. (q).
 
-1992—Subsec. (p). Pub. L. 102–568 added subsec. (p).
+<b>1992</b>—Subsec. (p). Pub. L. 102–568 added subsec. (p).
 
-1991—Subsec. (h)(1)(A), (4). Pub. L. 102–242, §411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
+<b>1991</b>—Subsec. (h)(1)(A), (4). Pub. L. 102–242, §411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
 
 Subsec. (<i>l</i>). Pub. L. 102–242, §411(4), inserted at end “No supervisory agency which transfers any such record under this subsection shall be deemed to have waived any privilege applicable to that record under law.”
 
-1990—Subsec. (<i>l</i>)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
+<b>1990</b>—Subsec. (<i>l</i>)(2). Pub. L. 101–647 inserted before period at end “or of section 1956 or 1957 of title 18”.
 
-1989—Subsec. (b). Pub. L. 101–73, §942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–73, §942(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Nothing in this chapter prohibits examination by or disclosure to any supervisory agency of financial records or information in the exercise of its supervisory, regulatory, or monetary functions with respect to a financial institution.”
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 101–73, §942(2), added subsecs. (m) to (<i>o</i>).
 
-1988—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l</i>).
+<b>1988</b>—Subsec. (<i>l</i>). Pub. L. 100–690 added subsec. (<i>l</i>).
 
-1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (i). Pub. L. 99–570 inserted “, except that a court shall have authority to order a financial institution, on which a grand jury subpoena for customer records has been served, not to notify the customer of the existence of the subpoena or information that has been furnished to the grand jury, under the circumstances and for the period specified and pursuant to the procedures established in section 3409 of this title”.
 
 Subsec. (k)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1983—Subsec. (k). Pub. L. 98–21 added subsec. (k).
+<b>1983</b>—Subsec. (k). Pub. L. 98–21 added subsec. (k).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

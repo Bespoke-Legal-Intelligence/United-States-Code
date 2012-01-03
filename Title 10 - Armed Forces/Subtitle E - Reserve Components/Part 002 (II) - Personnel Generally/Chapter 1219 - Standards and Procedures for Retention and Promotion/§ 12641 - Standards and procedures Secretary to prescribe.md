@@ -4,7 +4,7 @@
 
 &emsp;(1) standards and qualifications for the retention and promotion of members of the reserve components under his jurisdiction; and
 
-&emsp;(2) equitable procedures for the periodic determination of the compliance of each such Reserve with those standards and qualifications.
+&emsp;(2) equitable procedures for the periodic determination of the compliance of each suchReserve with those standards and qualifications.
 
 (b) If a Reserve fails to comply with the standards and qualifications prescribed under subsection (a), he shall—
 

@@ -66,7 +66,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12931, Oct. 13, 1994, 59 F.R. 52387, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure effective and efficientspending of public funds through fundamental reforms in Government procurement, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure effective and efficient spending of public funds through fundamental reforms in Government procurement, it is hereby ordered as follows:
 
 Section 1. To make procurement more effective in support of mission accomplishment and consistent with recommendations of the National Performance Review, heads of executive agencies engaged in the procurement of supplies and services shall:
 

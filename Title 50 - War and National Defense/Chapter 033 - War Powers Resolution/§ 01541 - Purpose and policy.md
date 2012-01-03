@@ -10,7 +10,7 @@ Under article I, section 8, of the Constitution, it is specifically provided tha
 
 #### (c) Presidential executive power as Commander-in-Chief; limitation
 
-The constitutional powers of the President as Commander-in-Chief to introduce United StatesArmed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
+The constitutional powers of the President as Commander-in-Chief to introduce United States Armed Forces into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, are exercised only pursuant to (1) a declaration of war, (2) specific statutory authorization, or (3) a national emergency created by attack upon the United States, its territories or possessions, or its armed forces.
 
 (Pub. L. 93–148, §2, Nov. 7, 1973, 87 Stat. 555.)
 
@@ -88,7 +88,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas in 1990 in response to Iraq's war of aggression against and illegal occupation of Kuwait, the United States forged a coalition of nations to liberate Kuwait and its people in order to defend the national security of the United States and enforce United Nations Security Council resolutions relating to Iraq;
 
-“Whereas after the liberation of Kuwait in 1991, Iraq entered into a United Nations sponsored cease-fire agreement pursuant to which Iraq unequivocally agreed, among other things, to eliminate its nuclear, biological, and chemical weapons programs and the means to deliver and develop them, and to end its support for international terrorism;
+“Whereas after the liberation of Kuwait in 1991, Iraq entered into a United Nations sponsored cease-fireagreement pursuant to which Iraq unequivocally agreed, among other things, to eliminate its nuclear, biological, and chemical weapons programs and the means to deliver and develop them, and to end its support for international terrorism;
 
 “Whereas the efforts of international weapons inspectors, United States intelligence agencies, and Iraqi defectors led to the discovery that Iraq had large stockpiles of chemical weapons and a large scale biological weapons program, and that Iraq had an advanced nuclear weapons development program that was much closer to producing a nuclear weapon than intelligence reporting had previously indicated;
 
@@ -118,11 +118,11 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas in December 1991, Congress expressed its sense that it ‘supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 687 as being consistent with the Authorization of Use of Military Force Against Iraq Resolution (Public Law 102–1),’ that Iraq's repression of its civilian population violates United Nations Security Council Resolution 688 and ‘constitutes a continuing threat to the peace, security, and stability of the Persian Gulf region,’ and that Congress, ‘supports the use of all necessary means to achieve the goals of United Nations Security Council Resolution 688’;
 
-“Whereas the Iraq Liberation Act of 1998 (Public Law 105–338) \[22 U.S.C. 2151 note\] expressed the sense of Congress that it should be the policy of the United States to support efforts to remove from power the current Iraqi regime and promote the emergence of a democratic government to replace that regime;
+“Whereas the Iraq Liberation Act of 1998 (Public Law 105–338) \[former 22 U.S.C. 2151 note\] expressed the sense of Congress that it should be the policy of the United States to support efforts to remove from power the current Iraqi regime and promote the emergence of a democratic government to replace that regime;
 
 “Whereas on September 12, 2002, President Bush committed the United States to ‘work with the United Nations Security Council to meet our common challenge’ posed by Iraq and to ‘work for the necessary resolutions,’ while also making clear that ‘the Security Council resolutions will be enforced, and the just demands of peace and security will be met, or action will be unavoidable’;
 
-“Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in directviolation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
+“Whereas the United States is determined to prosecute the war on terrorism and Iraq's ongoing support for international terrorist groups combined with its development of weapons of mass destruction in direct violation of its obligations under the 1991 cease-fire and other United Nations Security Council resolutions make clear that it is in the national security interests of the United States and in furtherance of the war on terrorism that all relevant United Nations Security Council resolutions be enforced, including through the use of force if necessary;
 
 “Whereas Congress has taken steps to pursue vigorously the war on terrorism through the provision of authorities and funding requested by the President to take the necessary actions against international terrorists and terrorist organizations, including those nations, organizations, or persons who planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such persons or organizations;
 
@@ -180,7 +180,7 @@ Applicability of other requirements.—Nothing in this joint resolution supersed
 
 “(a)
 
-Reports.—The President shall, at least once every 60 days, submit to the Congress a report on matters relevant to this joint resolution, including actions taken pursuant to the exercise of authority granted in section 3 and the status of planning for efforts that are expected to be required after such actions are completed, including those actions described in section 7 of the Iraq Liberation Act of 1998 (Public Law 105–338) \[22 U.S.C. 2151 note\].
+Reports.—The President shall, at least once every 60 days, submit to the Congress a report on matters relevant to this joint resolution, including actions taken pursuant to the exercise of authority granted in section 3 and the status of planning for efforts that are expected to be required after such actions are completed, including those actions described in section 7 of the Iraq Liberation Act of 1998 (Public Law 105–338) \[former 22 U.S.C. 2151 note\].
 
 “(b)
 
@@ -214,7 +214,7 @@ Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
 
 “(a)
 
-In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against theUnited States by such nations, organizations or persons.
+In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
 
 “(b)
 
@@ -312,7 +312,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 5. REPORT ON UNITED STATES AGREEMENTS.
 
-“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congresson all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
+“Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
 
 #### “SEC. 6. TRANSITION TO UNITED NATIONS MISSION IN HAITI.
 
@@ -510,7 +510,7 @@ Sec. 2. (a) The Congress finds that—
 
 “
 
-Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon, subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
+Sec. 3. The President is authorized, for purposes of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\], to continue participation by United States Armed Forces in the Multinational Force in Lebanon,subject to the provisions of section 6 of this joint resolution. Such participation shall be limited to performance of the functions, and shall be subject to the limitations, specified in the agreement establishing the Multinational Force in Lebanon as set forth in the exchange of letters between the Governments of the United States and Lebanon dated September 25, 1982, except that this shall not preclude such protective measures as may be necessary to ensure the safety of the Multinational Force in Lebanon.
 
 #### “reports to the congress
 
@@ -574,7 +574,7 @@ Sec. 8. (a) Any joint resolution or bill introduced to amend or repeal this Act 
 
 #### Adherence to War Powers Resolution
 
-Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is therefore the sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
+Pub. L. 96–342, title X, §1008, Sept. 8, 1980, 94 Stat. 1122, provided that: “Whereas, the National Command Authority must have the capacity to carry out any military mission which is essential to the national security of the United States having in its hands in the Rapid Deployment Force an increased capability to extend the reach of our military power in an expedited manner; and whereas, without the significant safeguard of the War Powers Resolution (Public Law 93–148) \[this chapter\], United States foreign and defense policies could be subject to misinterpretation; it is thereforethe sense of the Congress that the provisions of the War Powers Resolution be strictly adhered to and that the congressional consultation process specified by such Resolution be utilized strictly according to the terms of the War Powers Resolution.”
 
 #### Delegation of Certain Reporting Authority
 

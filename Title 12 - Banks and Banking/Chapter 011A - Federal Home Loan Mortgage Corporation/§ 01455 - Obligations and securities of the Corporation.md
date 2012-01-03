@@ -100,7 +100,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 #### (D) Reports to Congress
 
-&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, andBanking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
+&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
 
 #### (2) Rights; sale of obligations and securities
 
@@ -112,7 +112,15 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 &emsp;&emsp;The Secretary of the Treasury may, at any time, subject to the terms of the security or otherwise upon terms and conditions and at prices determined by the Secretary, sell any obligation or security acquired by the Secretary under this subsection.
 
-#### (C) Application of sunset to purchased obligations or securities
+#### (C) Deficit reduction
+
+&emsp;&emsp;The Secretary of the Treasury shall deposit in the General Fund of the Treasury any amounts received by the Secretary from the sale of any obligation acquired by the Secretary under this subsection, where such amounts shall be—
+
+&emsp;&emsp;&emsp;(i) dedicated for the sole purpose of deficit reduction; and
+
+&emsp;&emsp;&emsp;(ii) prohibited from use as an offset for other spending increases or revenue reductions.
+
+#### (D) Application of sunset to purchased obligations or securities
 
 &emsp;&emsp;The authority of the Secretary of the Treasury to hold, exercise any rights received in connection with, or sell, any obligations or securities purchased is not subject to the provisions of paragraph (4).
 
@@ -128,7 +136,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 &emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Corporation, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(Pub. L. 91–351, title III, §306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, §316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, §6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, §5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, §441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, §1382(n), Oct. 28, 1992, 106 Stat. 4005; Pub. L. 110–289, div. A, title I, §§1117(b), 1161(c)(2), July 30, 2008, 122 Stat. 2684, 2780.)
+(Pub. L. 91–351, title III, §306, July 24, 1970, 84 Stat. 455; Pub. L. 96–153, title III, §316(a), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 97–289, §6, Oct. 6, 1982, 96 Stat. 1232; Pub. L. 98–35, §5, May 26, 1983, 97 Stat. 198; Pub. L. 98–440, title II, §§210, 211, Oct. 3, 1984, 98 Stat. 1697; Pub. L. 100–242, title IV, §441(b), Feb. 5, 1988, 101 Stat. 1921; Pub. L. 101–73, title VII, §731(g)–(i), Aug. 9, 1989, 103 Stat. 434; Pub. L. 102–550, title XIII, §1382(n), Oct. 28, 1992, 106 Stat. 4005; Pub. L. 110–289, div. A, title I, §§1117(b), 1161(c)(2), July 30, 2008, 122 Stat. 2684, 2780; Pub. L. 111–203, title XIII, §1304(b), July 21, 2010, 124 Stat. 2134.)
 
 #### References in Text
 
@@ -138,7 +146,9 @@ This chapter, referred to in subsec. (<i>l</i>)(1)(A), was in the original “th
 
 #### Amendments
 
-2008—Subsec. (c)(2). Pub. L. 110–289, §1161(c)(2)(A), inserted “the” after “Secretary of”.
+<b>2010</b>—Subsec. (<i>l</i>)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
+
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–289, §1161(c)(2)(A), inserted “the” after “Secretary of”.
 
 Subsec. (i). Pub. L. 110–289, §1161(c)(2)(B)(ii), made technical amendment to reference in original act which appears in text as reference to section 4516 of this title.
 
@@ -148,27 +158,41 @@ Subsec. (j)(2). Pub. L. 110–289, §1161(c)(2)(C), substituted “or substantia
 
 Subsec. (<i>l</i>). Pub. L. 110–289, §1117(b), added subsec. (<i>l</i>).
 
-1992—Subsec. (h). Pub. L. 102–550, §1382(n)(1), designated existing provisions as par. (1) and added par. (2).
+<b>1992</b>—Subsec. (h). Pub. L. 102–550, §1382(n)(1), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (i). Pub. L. 102–550, §1382(n)(2), substituted “sections 1452(c) and 1455(c) of this title and assessments pursuant to section 4516 of this title” for “section 1452(c) or 1455(c) of this title”.
 
-1989—Subsec. (c). Pub. L. 101–73, §731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in section 1453 of this title).”
+<b>1989</b>—Subsec. (c). Pub. L. 101–73, §731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in section 1453 of this title).”
 
 Subsec. (f). Pub. L. 101–73, §731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under section 1453 of this title as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
 
 Subsecs. (j), (k). Pub. L. 101–73, §731(i), added subsecs. (j) and (k).
 
-1988—Subsec. (i). Pub. L. 100–242 added subsec. (i).
+<b>1988</b>—Subsec. (i). Pub. L. 100–242 added subsec. (i).
 
-1984—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+<b>1984</b>—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
 Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 
-1983—Subsec. (g). Pub. L. 98–35 added subsec. (g).
+<b>1983</b>—Subsec. (g). Pub. L. 98–35 added subsec. (g).
 
-1982—Subsec. (f). Pub. L. 97–289 added subsec. (f).
+<b>1982</b>—Subsec. (f). Pub. L. 97–289 added subsec. (f).
 
-1979—Subsec. (e). Pub. L. 96–153 added subsec. (e).
+<b>1979</b>—Subsec. (e). Pub. L. 96–153 added subsec. (e).
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
+
+#### Repayment of Fees
+
+Pub. L. 111–203, title XIII, §1304(d), July 21, 2010, 124 Stat. 2134, provided that: “Any periodic commitment fee or any other fee or assessment paid by the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation to the Secretary of the Treasury as a result of any preferred stock purchase agreement, mortgage-backed security purchase program, or any other program or activity authorized or carried out pursuant to the authorities granted to the Secretary of the Treasury under section 1117 of the Housing and Economic Recovery Act of 2008 (Public Law 110–289; 122 Stat. 2683) \[amending this section and sections 1431 and 1719 of this title\], including any fee agreed to by contract between the Secretary and the Association or Corporation, shall be deposited in the General Fund of the Treasury where such amounts shall be—
+
+&emsp;“(1) dedicated for the sole purpose of deficit reduction; and
+
+&emsp;“(2) prohibited from use as an offset for other spending increases or revenue reductions.”
+
+\[For definitions of terms used in section 1304(d) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

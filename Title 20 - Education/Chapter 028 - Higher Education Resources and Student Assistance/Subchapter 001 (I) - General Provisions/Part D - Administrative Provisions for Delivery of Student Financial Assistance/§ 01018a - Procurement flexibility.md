@@ -162,7 +162,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (6) Documentation
 
-&emsp;The basis for an award of a contract under this subsection shall be documented. However, a justification pursuant to section 3304(e) oftitle 41 or section 637(h) of title 15 is not required.
+&emsp;The basis for an award of a contract under this subsection shall be documented. However, a justification pursuant to section 3304(e) of title 41 or section 637(h) of title 15 is not required.
 
 #### (7) Simplified source-selection procedures
 

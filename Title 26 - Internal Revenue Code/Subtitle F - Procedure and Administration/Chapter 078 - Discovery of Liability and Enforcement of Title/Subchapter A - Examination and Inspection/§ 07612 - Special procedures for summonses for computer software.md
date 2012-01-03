@@ -84,7 +84,7 @@ For purposes of this title—
 
 &emsp;&emsp;(H) the software shall be treated as return information for purposes of section 6103.
 
-> &emsp;For purposes of subparagraph (C), the owner shall make available any necessary equipmentor materials for analysis of computer software source code required to be conducted on the owner's premises. The owner of any interest in the software shall be considered a party to any agreement described in subparagraph (G).
+> &emsp;For purposes of subparagraph (C), the owner shall make available any necessary equipment or materials for analysis of computer software source code required to be conducted on the owner's premises. The owner of any interest in the software shall be considered a party to any agreement described in subparagraph (G).
 
 #### (d) Definitions
 

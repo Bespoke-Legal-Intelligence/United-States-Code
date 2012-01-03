@@ -66,7 +66,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(16) “Secretary” means the Secretary of the Interior;
 
-&emsp;(17) “shelter” means the provision of temporary refuge and related assistance in compliance with applicable Federal and tribal lawsand regulations governing the provision, on a regular basis, of shelter, safe homes, meals, and related assistance to victims of family violence or their dependents; and
+&emsp;(17) “shelter” means the provision of temporary refuge and related assistance in compliance with applicable Federal and tribal laws and regulations governing the provision, on a regular basis, of shelter, safe homes, meals, and related assistance to victims of family violence or their dependents; and
 
 &emsp;(18) “Service” means the Indian Health Service of the Department of Health and Human Services.
 

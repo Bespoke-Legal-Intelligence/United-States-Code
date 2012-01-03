@@ -6,7 +6,7 @@
 
 (c) The Board may to the greatest extent practicable perform its functions under this section through contracts with private sector entities.
 
-(d) A mortgage, lease, equipment trust agreement, conditional sales agreement, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of or security interest in vessels, railroad cars, locomotives, or other rolling stock, or accessories used on such railroadcars, locomotives, or other rolling stock (including superstructures and racks), or any assignment thereof, which—
+(d) A mortgage, lease, equipment trust agreement, conditional sales agreement, or other instrument evidencing the mortgage, lease, conditional sale, or bailment of or security interest in vessels, railroad cars, locomotives, or other rolling stock, or accessories used on such railroad cars, locomotives, or other rolling stock (including superstructures and racks), or any assignment thereof, which—
 
 &emsp;(1) is duly constituted under the laws of a country other than the United States; and
 

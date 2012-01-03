@@ -50,7 +50,7 @@ As used in this part, unless otherwise specified, the term—
 
 > &emsp;but does not include service in the National Guard except when ordered to active duty in the service of the United States;
 
-&emsp;(10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditable service (creditable under part I or II of this subchapter);
+&emsp;(10) “pro rata share”, in the case of any former spouse of any participant or former participant, means a percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the creditable service (creditable under part I or II of this subchapter) of that participant is of (B) the total number of years of such creditableservice (creditable under part I or II of this subchapter);
 
 &emsp;(11) “spousal agreement” means any written agreement between—
 
@@ -118,7 +118,7 @@ Par. (14). Pub. L. 99–335, §402(a)(3), inserted “under this part” after �
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I,§145(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
+Pub. L. 105–382, §4, Nov. 13, 1998, 112 Stat. 3409, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §145(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–250, provided that:
 
 “(a)
 

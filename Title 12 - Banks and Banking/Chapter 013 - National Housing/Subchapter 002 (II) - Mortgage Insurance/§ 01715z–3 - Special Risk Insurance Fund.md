@@ -14,7 +14,7 @@ There is hereby created a Special Risk Insurance Fund (hereinafter referred to a
 
 #### (c) Mortgage insurance for military impacted areas; criteria; obligation of Special Risk Insurance Fund; establishment of premiums and other charges
 
-(1) Notwithstanding the provisions of this chapter or any other Act, and without regard to limitations upon eligibility contained in any section of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter amortgage executed in connection with the construction, repair, rehabilitation, or purchase of property located near any installation of the Armed Forces of the United States in federally impacted areas in which the conditions are such that one or more of the eligibility requirements applicable to the section under which insurance is sought could not be met, if (A) the Secretary finds that the benefits to be derived from such use outweigh the risk of probable cost to the Government, and (B) the Secretary of Defense certifies that there is no intention insofar as can reasonably be foreseen to curtail substantially the personnel assigned or to be assigned to such installation. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
+(1) Notwithstanding the provisions of this chapter or any other Act, and without regard to limitations upon eligibility contained in any section of this subchapter, the Secretary is authorized, upon application by the mortgagee, to insure under any section of this subchapter a mortgage executed in connection with the construction, repair, rehabilitation, or purchase of property located near any installation of the Armed Forces of the United States in federally impacted areas in which the conditions are such that one or more of the eligibility requirements applicable to the section under which insurance is sought could not be met, if (A) the Secretary finds that the benefits to be derived from such use outweigh the risk of probable cost to the Government, and (B) the Secretary of Defense certifies that there is no intention insofar as can reasonably be foreseen to curtail substantially the personnel assigned or to be assigned to such installation. The insurance of a mortgage pursuant to this subsection shall be the obligation of the Special Risk Insurance Fund.
 
 (2) The Secretary is authorized (A) to establish such premiums and other charges as may be necessary to assure that the mortgage insurance program pursuant to this subsection is made available on a basis which, in the Secretary's judgment, is designed to be actuarially sound and likely to maintain the fiscal integrity of such program, and (B) to prescribe such terms and conditions relating to insurance pursuant to this subsection as may be found by the Secretary to be necessary and appropriate, and which are to the maximum extent possible, consistent with provisions otherwise applicable to mortgage insurance and payment of insurance benefits.
 
@@ -28,23 +28,25 @@ Subsection (k) of section 1710 of this title, referred to in subsec. (a)(1), was
 
 Section 1715z–2 of this title, referred to in subsecs. (a)(1) and (b), was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(6), July 30, 2008, 122 Stat. 2835.
 
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–233, §105(a), struck out after fourth sentence “There is authorized to be appropriated such sums as may be needed from time to time to cover losses sustained by the fund in carrying out the mortgage insurance obligations of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1, 1715z–2, and 1715z–8 of this title.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–233, §105(a), struck out after fourth sentence “There is authorized to be appropriated such sums as may be needed from time to time to cover losses sustained by the fund in carrying out the mortgage insurance obligations of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1, 1715z–2, and 1715z–8 of this title.”
 
 Subsec. (c)(3). Pub. L. 103–233, §103(g)(1), added par. (3).
 
-1977—Subsec. (c). Pub. L. 95–128 substituted provisions of pars. (1) and (2) respecting mortgage insurance for military impacted areas, criteria therefore, and establishment of premiums and other charges for prior subsec. (c), which had authorized use of the Special Risk Insurance Fund to carry out mortgage insurance obligations of sections 1709 and 1713 of this title to provide housing for military personnel, Federal civilian employees, and Federal contractor employees assigned to duty or employed at or in connection with any installation of the Armed Forces in federally impacted areas where in the judgment of the Secretary (1) the residual housing requirements for persons not associated with such installations were insufficient to sustain the housing market in the event of substantial curtailment of employment of personnel assigned to such installations, and (2) the benefits to be derived from such use outweighed the risk of possible cost to the Government.
+<b>1977</b>—Subsec. (c). Pub. L. 95–128 substituted provisions of pars. (1) and (2) respecting mortgage insurance formilitary impacted areas, criteria therefore, and establishment of premiums and other charges for prior subsec. (c), which had authorized use of the Special Risk Insurance Fund to carry out mortgage insurance obligations of sections 1709 and 1713 of this title to provide housing for military personnel, Federal civilian employees, and Federal contractor employees assigned to duty or employed at or in connection with any installation of the Armed Forces in federally impacted areas where in the judgment of the Secretary (1) the residual housing requirements for persons not associated with such installations were insufficient to sustain the housing market in the event of substantial curtailment of employment of personnel assigned to such installations, and (2) the benefits to be derived from such use outweighed the risk of possible cost to the Government.
 
-1974—Subsec. (c). Pub. L. 93–383 added subsec. (c).
+<b>1974</b>—Subsec. (c). Pub. L. 93–383 added subsec. (c).
 
-1970—Subsec. (a)(1). Pub. L. 91–351, §503(1), inserted references to section 1715z–8 of this title wherever appearing.
+<b>1970</b>—Subsec. (a)(1). Pub. L. 91–351, §503(1), inserted references to section 1715z–8 of this title wherever appearing.
 
 Subsec. (b). Pub. L. 91–609 provided for guarantee as to principal and interest by any agency of the United States and for investment of moneys in bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market.
 
 Pub. L. 91–351, §503(2), inserted references to section 1715z–8 of this title wherever appearing.
 
-1969—Subsec. (b). Pub. L. 91–152 increased from $5,000,000 to a total sum of $20,000,000, at such times and in such amounts as he may determine to be necessary, the amount authorized to be advanced by the Secretary to the Fund.
+<b>1969</b>—Subsec. (b). Pub. L. 91–152 increased from $5,000,000 to a total sum of $20,000,000, at such times and in such amounts as he may determine to be necessary, the amount authorized to be advanced by the Secretary to the Fund.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

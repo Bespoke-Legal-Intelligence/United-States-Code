@@ -102,7 +102,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (J) Continued eligibility
 
-&emsp;&emsp;A determination that an applicant is not eligible for advance payments under this paragraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
+&emsp;&emsp;A determination that an applicant is not eligible for advance payments under thisparagraph shall not prevent an applicant from reimbursement under paragraph (1)(B).
 
 #### (3) Marketability
 
@@ -382,7 +382,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (B) Authority
 
-&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities to carry out research and development regarding a policy to insure commercial poultry production.
+&emsp;&emsp;The Corporation shall offer to enter into 1 or more contracts with qualified entities tocarry out research and development regarding a policy to insure commercial poultry production.
 
 #### (C) Research and development
 
@@ -454,7 +454,7 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (1) Reimbursements
 
-&emsp;Of the amounts made available from the insurance fund established under section 1516(c) of this title, the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year <sup>3</sup>
+&emsp;Of the amounts made available from the insurance fund established under section 1516(c)of this title, the Corporation may use to provide reimbursements under subsection (b) of this section not more than $7,500,000 for fiscal year 2008 and each subsequent fiscal year <sup>3</sup>
 
 #### (2) Contracting
 
@@ -506,7 +506,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
+<b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
 
 Subsec. (b)(2)(C)(v). Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
 

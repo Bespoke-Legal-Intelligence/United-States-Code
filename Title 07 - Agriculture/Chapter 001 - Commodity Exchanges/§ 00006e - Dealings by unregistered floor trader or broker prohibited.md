@@ -6,11 +6,11 @@ It shall be unlawful for any person to act as floor trader in executing purchase
 
 #### Amendments
 
-2000—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market”.
+<b>2000</b>—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market”.
 
-1992—Pub. L. 102–546 amended section generally. Prior to amendment, section read as follows: “It shall be unlawful for any person to act as floor broker in executing any orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market unless such person shall have registered, under this chapter, with the Commission as such floor broker and such registration shall not have expired nor been suspended nor revoked.”
+<b>1992</b>—Pub. L. 102–546 amended section generally. Prior to amendment, section read as follows: “It shall be unlawful for any person to act as floor broker in executing any orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market unless such person shall have registered, under this chapter, with the Commission as such floor broker and such registration shall not have expired nor been suspended nor revoked.”
 
-1974—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
+<b>1974</b>—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
 
 #### Effective Date of 1992 Amendment
 

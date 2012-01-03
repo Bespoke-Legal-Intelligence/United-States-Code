@@ -6,11 +6,11 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(2) “reservations” means national forests, tribal lands embraced within Indian reservations, military reservations, and other lands and interests in lands owned by the United States, and withdrawn, reserved, or withheld from private appropriation and disposal under the public land laws; also lands and interests in lands acquired and held for any public purposes; but shall not include national monuments or national parks;
 
-&emsp;(3) “corporation” means any corporation, joint-stock company, partnership, association,business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include “municipalities” as hereinafter defined;
+&emsp;(3) “corporation” means any corporation, joint-stock company, partnership, association, business trust, organized group of persons, whether incorporated or not, or a receiver or receivers, trustee or trustees of any of the foregoing. It shall not include “municipalities” as hereinafter defined;
 
 &emsp;(4) “person” means an individual or a corporation;
 
-&emsp;(5) “licensee” means any person, State, or municipality licensed under the provisions of section 797 of this title, and any assignee or successor in interest thereof;
+&emsp;(5) “licensee” means any person, State, or municipality licensed under the provisions ofsection 797 of this title, and any assignee or successor in interest thereof;
 
 &emsp;(6) “State” means a State admitted to the Union, the District of Columbia, and any organized Territory of the United States;
 
@@ -136,11 +136,11 @@ Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 
 
 &emsp;“(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
+Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
 
 &emsp;“(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
 
-&emsp;“(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
+&emsp;“(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other thanelectric power solely from cogeneration facilities or small power production facilities);”.
 
 Pars. (22), (23). Pub. L. 109–58, §1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
 

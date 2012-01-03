@@ -28,7 +28,7 @@ Curriculum Development.—The President of the Defense Acquisition University sh
 
 Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, andLogistics” for “Under Secretary of Defense for Acquisition and Technology” in introductory provisions.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “(1)” before “The Secretary of Defense” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
@@ -40,5 +40,5 @@ Section 1209(h)(1) of Pub. L. 101–510 provided that: “Subsection (b) of sect
 
 #### Establishment of Initial Defense Acquisition University Structure
 
-Pub. L. 101–510, div. A, title XII, §1205, Nov. 5, 1990, 104 Stat. 1658, as amended by Pub. L. 105–85, div. A, title X,§1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that, not later than Oct. 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to prescribe regulations for the initial structure for a defense acquisition university under this section and to prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the university structure, and not later than Aug. 1, 1992, the Secretary was to carry out the implementation plan.
+Pub. L. 101–510, div. A, title XII, §1205, Nov. 5, 1990, 104 Stat. 1658, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(4)(A), Nov. 18, 1997, 111 Stat. 1905, provided that, not later than Oct. 1, 1991, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to prescribe regulations for the initial structure for a defense acquisition university under this section and to prescribe and submit to the Committees on Armed Services of the Senate and House of Representatives an implementation plan, including a charter, for the university structure, and not later than Aug. 1, 1992, the Secretary was to carry out the implementation plan.
 

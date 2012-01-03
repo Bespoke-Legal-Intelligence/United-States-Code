@@ -12,7 +12,7 @@ Report Required.—As part of the budget materials submitted to Congress in conn
 
 (b)
 
-Information on Individual Museums.—For each museum identified in a report under thissection, the Secretary of Defense shall include in the report the following:
+Information on Individual Museums.—For each museum identified in a report under this section, the Secretary of Defense shall include in the report the following:
 
 &emsp;(1) The purpose and functions of the museum and the justification for the museum.
 

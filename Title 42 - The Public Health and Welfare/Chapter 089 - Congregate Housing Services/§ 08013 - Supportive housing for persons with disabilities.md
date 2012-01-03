@@ -32,7 +32,7 @@ The Secretary is authorized to take the following actions:
 
 #### (A) In general
 
-&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
+&emsp;&emsp;To offer additional methods of financing supportive housing for non-elderly adults with disabilities, the Secretary shall make funds available for project rental assistance pursuant to subparagraph (B) for eligible projects under subparagraph (C). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projectsbased upon criteria established by the Secretary. The Secretary may not require any State housing finance agency or other entity applying for such project rental assistance funds to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in subparagraph (C)(ii).
 
 #### (B) Contract terms
 
@@ -90,7 +90,7 @@ The Secretary is authorized to take the following actions:
 
 &emsp;&emsp;&emsp;(i) describing the assistance provided under this paragraph;
 
-&emsp;&emsp;&emsp;(ii) analyzing the effectiveness of such assistance, including the effectiveness of such assistance compared to the assistanceprogram for capital advances set forth under subsection (d)(1) (as in effect pursuant to the amendments made by such Act); <sup>2</sup> and
+&emsp;&emsp;&emsp;(ii) analyzing the effectiveness of such assistance, including the effectiveness of such assistance compared to the assistance program for capital advances set forth under subsection (d)(1) (as in effect pursuant to the amendments made by such Act); <sup>2</sup> and
 
 &emsp;&emsp;&emsp;(iii) making recommendations regarding future models for assistance under this section.
 
@@ -142,7 +142,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (B) Conversion of existing assistance
 
-&emsp;&emsp;There is authorized to be appropriated for tenant-based rental assistance under section 1437f(<i>o</i>) of this title for persons with disabilities an amount not less than the amount necessary to convert the number of authorized vouchers and funding under an annual contributions contract in effect on January 4, 2011. Such converted vouchers may be administered by the entity administering the vouchers prior to conversion. For purposes of administering such converted vouchers,such entities shall be considered a “public housing agency” authorized to engage in the operation of tenant-based assistance under section 1437f of this title.
+&emsp;&emsp;There is authorized to be appropriated for tenant-based rental assistance under section 1437f(<i>o</i>) of this title for persons with disabilities an amount not less than the amount necessary to convert the number of authorized vouchers and funding under an annual contributions contract in effect on January 4, 2011. Such converted vouchers may be administered by the entity administering the vouchers prior to conversion. For purposes of administering such converted vouchers, such entities shall be considered a “public housing agency” authorized to engage in the operation of tenant-based assistance under section 1437f of this title.
 
 #### (C) Requirements upon turnover
 
@@ -154,7 +154,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (A) Term
 
-&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall, during such period, be made available for occupancy only by very low-income persons with disabilities.
+&emsp;&emsp;Any project for which a capital advance is provided under subsection (d)(1) shall be operated for not less than 40 years as supportive housing for persons with disabilities, in accordance with the application for the project approved by the Secretary and shall,during such period, be made available for occupancy only by very low-income persons with disabilities.
 
 #### (B) Conversion
 
@@ -278,7 +278,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (2) RTC properties
 
-&emsp;In the case of existing housing and related facilities from the Resolution Trust Corporation under section 1441a(c) of title 12, the cost limitations shall include—
+&emsp;In the case of existing housing and related facilities from the Resolution Trust Corporation under section 1441a(c) <sup>2</sup> of title 12, the cost limitations shall include—
 
 &emsp;&emsp;(A) the cost of acquiring such housing,
 
@@ -288,7 +288,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 #### (3) Annual adjustments
 
-&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) not less than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
+&emsp;The Secretary shall adjust the cost limitation established pursuant to paragraph (1) notless than once annually to reflect changes in the general level of acquisition, construction, reconstruction, or rehabilitation costs.
 
 #### (4) Incentives for savings
 
@@ -406,7 +406,7 @@ Funds made available under subsection (b)(2) of this section shall be allocated 
 
 As used in this section—
 
-&emsp;(1) The term “group home” means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not morethan 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
+&emsp;(1) The term “group home” means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not more than 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
 
 &emsp;(2) The term “person with disabilities” means a household composed of one or more persons who is 18 years of age or older and less than 62 years of age, and who has a disability. A person shall be considered to have a disability if such person is determined, pursuant to regulations issued by the Secretary to have a physical, mental, or emotional impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his or her ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions. A person shall also be considered to have a disability if such person has a developmental disability as defined in section 15002 of this title. The Secretary shall prescribe such regulations as may be necessary to prevent abuses in determining, under the definitions contained in this paragraph, the eligibility of families and persons for admission to and occupancy of housing assisted under this section. Notwithstanding the preceding provisions of this paragraph, the term “person with disabilities” includes two or more persons with disabilities living together, one or more such persons living with another person who is determined (under regulations prescribed by the Secretary) to be important to their care or well-being, and the surviving member or members of any household described in the first sentence of this paragraph who were living, in a unit assisted under this section, with the deceased member of the household at the time of his or her death.
 
@@ -460,7 +460,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 #### (1) In general
 
-&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect toprojects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
+&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
 
 #### (2) Earlier applicability
 
@@ -470,7 +470,7 @@ There are authorized to be appropriated for providing assistance pursuant to thi
 
 &emsp;When responding to an owner's request under paragraph (1), the Secretary shall, notwithstanding any other provision of law, apply such portion of amounts obligated at the time of loan reservation, including amounts reserved with respect to such housing under section 1437f of this title, as are required for the owner's housing under the provisions of this section and shall make any remaining portion available for other housing under this section.
 
-(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
+(Pub. L. 101–625, title VIII, §811, Nov. 28, 1990, 104 Stat. 4324; Pub. L. 102–27, title II, Apr. 10, 1991,105 Stat. 150; Pub. L. 102–550, title VI, §§601(d), 603, 623(a), title IX, §913(b), Oct. 28, 1992, 106 Stat. 3803, 3805, 3818, 3877; Pub. L. 106–74, title V, §§512, 524(a), Oct. 20, 1999, 113 Stat. 1101, 1106; Pub. L. 106–402, title IV, §401(b)(11), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–569, title VIII, §§822, 841–845, Dec. 27, 2000, 114 Stat. 3020, 3022, 3023; Pub. L. 111–374, §§2(a), 3–6, Jan. 4, 2011, 124 Stat. 4089–4098.)
 
 #### References in Text
 
@@ -479,6 +479,8 @@ The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), 
 The Social Security Act, referred to in subsecs. (b)(3)(D) and (d)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The amendments made by such Act, referred to in subsec. (b)(3)(F)(ii), probably means the amendments made by Pub. L. 111–374, Jan. 4, 2011, 124 Stat. 4089, known as the Frank Melville Supportive Housing Investment Act of 2010, which amended this section. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 8001 of this title and Tables.
+
+Section 1441a of title 12, referred to in subsec. (h)(2), was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (h)(6)(A), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
@@ -542,7 +544,7 @@ Subsec. (g). Pub. L. 111–374, §3(c), substituted “Selection criteria and pr
 
 Subsec. (g)(1)(D). Pub. L. 111–374, §5(5)(A), substituted “appropriate supportive services will be made available” for “the necessary supportive services will be provided”.
 
-Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: “the extent to which the proposed design of the housing will accommodate the provision of such services;”.
+Subsec. (g)(1)(E). Pub. L. 111–374, §5(5)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: “the extent to which the proposed design ofthe housing will accommodate the provision of such services;”.
 
 Subsec. (g)(1)(F). Pub. L. 111–374, §3(d), added subpar. (F).
 
@@ -661,6 +663,10 @@ Amendment by section 623(a) of Pub. L. 102–550 not applicable with respect to 
 #### Provision of Technical Assistance
 
 Pub. L. 111–374, §2(b), Jan. 4, 2011, 124 Stat. 4090, provided that: “The Secretary is authorized to the extent amounts are made available in future appropriations Acts, to provide technical assistance to public housing agencies and other administering entities to facilitate using vouchers to provide permanent supportive housing for persons with disabilities, help States reduce reliance on segregated restrictive settings for people with disabilities to meet community care requirements, end chronic homelessness, as ‘chronically homeless’ is defined in section 401 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11361), and for other related purposes.”
+
+#### Rental Assistance Contract Obligations
+
+Pub. L. 111–117, div. A, title II, Dec. 16, 2009, 123 Stat. 3088, as amended by Pub. L. 112–10, div. B, title XII, §2256, Apr. 15, 2011, 125 Stat. 197, provided in part: “That amounts obligated for initial project rental assistance contracts from amounts appropriated in fiscal year 2003 and thereafter shall remain available for the purpose of paying such obligations incurred prior to the expiration of such amounts for a 10 year period following such expiration”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Partnerships”.</i>
 

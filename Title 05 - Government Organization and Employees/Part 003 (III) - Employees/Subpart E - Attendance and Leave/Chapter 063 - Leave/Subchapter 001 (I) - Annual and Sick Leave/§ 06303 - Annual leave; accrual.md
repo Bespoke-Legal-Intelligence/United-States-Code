@@ -40,7 +40,7 @@
 
 &emsp;(A) such service—
 
-&emsp;&emsp;(i) was performed in a position the duties of which directly relate to the duties of the position to which such employee is so appointed; and
+&emsp;&emsp;(i) was performed in a position the duties of which directly relate to the duties of theposition to which such employee is so appointed; and
 
 &emsp;&emsp;(ii) meets such other requirements as the Office may prescribe; and
 
@@ -98,19 +98,19 @@ The date of the enactment of this subsection, referred to in subsec. (e)(1), is 
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–411, §202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
+<b>2004</b>—Subsec. (a). Pub. L. 108–411, §202(a)(2), inserted “, and for all service which is creditable by virtue of subsection (e)” before period at end of second sentence.
 
 Subsec. (e). Pub. L. 108–411, §202(a)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 108–411, §202(b), added subsec. (f).
 
-1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
-1991—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
+<b>1991</b>—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted “and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title” at end of second sentence.
+<b>1986</b>—Subsec. (a). Pub. L. 99–335 inserted “and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title” at end of second sentence.
 
-1973—Subsec. (b). Pub. L. 93–181 substituted “an employee whose current employment is limited to less than 90 days is entitled” and “under successive appointments” for “an employee is entitled” and “under one or more appointments” respectively.
+<b>1973</b>—Subsec. (b). Pub. L. 93–181 substituted “an employee whose current employment is limited to less than 90 days is entitled” and “under successive appointments” for “an employee is entitled” and “under one or more appointments” respectively.
 
 #### Effective Date of 2004 Amendment
 
@@ -140,7 +140,7 @@ Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set o
 
 “(7) The amendment made by section 2(52) \[amending this section\] shall be effective as of January 1, 1989, except that no amount shall become payable, as a result of the enactment of such amendment, under—
 
-&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effect or an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
+&emsp;“(A) subchapter VI of chapter 55 of title 5, United States Code, based on a separation that takes effector an election that is made before the date of enactment of this Act \[Oct. 2, 1992\]; or
 
 &emsp;“(B) section 5551(b) of title 5, United States Code, which is attributable to an individual's being excepted from subchapter I of chapter 63 of such title before the date of enactment of this Act.
 

@@ -26,7 +26,7 @@ The Plan required in subsection (a) of this section shall include the following�
 
 #### (d) Contracting limitation
 
-The Secretary may not enter into any contract for the construction, lease, or service life extension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
+The Secretary may not enter into any contract for the construction, lease, or service lifeextension of a vessel of the NOAA fleet before the date of the submission to Congress of the Plan required in subsection (a) of this section.
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 
@@ -64,11 +64,11 @@ Authorization.—To carry out this section there are authorized to be appropriat
 
 #### Deactivation of NOAA Research Vessels
 
-Section 401(b)(4) of Pub. L. 102–567 provided that:
+Pub. L. 102–567, title IV, §401(b)(4), Oct. 29, 1992, 106 Stat. 4291, provided that:
 
 “(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational.
 
-“(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Science and Technology\] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation.”
+“(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries \[now Committee on Science, Space, and Technology\] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

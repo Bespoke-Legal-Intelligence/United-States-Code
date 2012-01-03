@@ -6,9 +6,9 @@
 
 &emsp;(2) instructional courses concerning personal financial management currently approved by the United States trustee (or the bankruptcy administrator, if any), as applicable.
 
-(b) The United States trustee (or bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency or an instructional course concerning personal financial management as follows:
+(b) The United States trustee (or bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency or aninstructional course concerning personal financial management as follows:
 
-&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and theservices or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
+&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and the services or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
 
 &emsp;(2) The United States trustee (or bankruptcy administrator, if any) shall have determined that such agency or such instructional course fully satisfies the applicable standards set forth in this section.
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(E) if a fee is charged for the instructional course, charge a reasonable fee, and provide services without regard to ability to pay the fee; and
 
-&emsp;(2) for any 1-year period if the provider thereof has demonstrated that the course meets the standards of paragraph (1) and, in addition—
+&emsp;(2) for any 1-year period if the provider thereof has demonstrated that the coursemeets the standards of paragraph (1) and, in addition—
 
 &emsp;&emsp;(A) has been effective in assisting a substantial number of debtors to understand personal financial management; and
 
@@ -82,7 +82,7 @@
 
 #### Amendments
 
-2010—Subsec. (d)(1)(E). Pub. L. 111–327 substituted “; and” for period at end and realigned margin.
+<b>2010</b>—Subsec. (d)(1)(E). Pub. L. 111–327 substituted “; and” for period at end and realigned margin.
 
 #### Effective Date
 

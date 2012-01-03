@@ -6,7 +6,7 @@ For the purpose of section 5533 of this title—
 
 &emsp;(2) “position” means a civilian office or position (including a temporary, part-time, or intermittent position), appointive or elective, in the legislative, executive, or judicial branch of the Government of the United States (including a Government corporation and a nonappropriated fund instrumentality under the jurisdiction of the armed forces) or in the government of the District of Columbia;
 
-&emsp;(3) “retired or retainer pay” means retired pay, as defined in section 8311(3) of this title,determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
+&emsp;(3) “retired or retainer pay” means retired pay, as defined in section 8311(3) of this title, determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
 
 &emsp;(4) “agency in the legislative branch” means the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, the Congressional Budget Office, and the United States Capitol Police;
 
@@ -40,21 +40,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-2010—Par. (4). Pub. L. 111–145 substituted “the Congressional Budget Office, and the United States Capitol Police” for “and the Congressional Budget Office”.
+<b>2010</b>—Par. (4). Pub. L. 111–145 substituted “the Congressional Budget Office, and the United States Capitol Police” for “and the Congressional Budget Office”.
 
-2004—Par. (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (4). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Pub. L. 106–398 substituted “section” for “sections 5532 and” in introductory provisions.
+<b>2000</b>—Pub. L. 106–398 substituted “section” for “sections 5532 and” in introductory provisions.
 
-1996—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Par. (5). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1991—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
+<b>1991</b>—Pars. (4) to (7). Pub. L. 102–190 added pars. (4) to (7).
 
-1978—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
+<b>1978</b>—Pub. L. 95–454 substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section 7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
+Amendment by Pub. L. 111–145 effective as though enacted as part of section 1018 of Pub. L. 108–7, see section7(d) of Pub. L. 111–145, set out as a note under section 2107 of this title.
 
 #### Effective Date of 1978 Amendment
 

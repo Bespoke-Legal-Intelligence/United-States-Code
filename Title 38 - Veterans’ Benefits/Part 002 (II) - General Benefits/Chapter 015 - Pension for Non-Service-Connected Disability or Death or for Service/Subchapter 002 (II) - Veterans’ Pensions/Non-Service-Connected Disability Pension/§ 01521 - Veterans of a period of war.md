@@ -26,7 +26,7 @@
 
 (h) For the purposes of this section:
 
-&emsp;(1) In determining the annual income of a veteran, if there is a child of the veteran who is in the custody of the veteran or to whose support the veteran is reasonably contributing, that portion of the annual income of the child that is reasonably available to or for the veteran shall be considered to be income of theveteran, unless in the judgment of the Secretary to do so would work a hardship on the veteran.
+&emsp;(1) In determining the annual income of a veteran, if there is a child of the veteran who is in the custody of the veteran or to whose support the veteran is reasonably contributing, that portion of the annual income of the child that is reasonably available to or for the veteran shall be considered to be income of the veteran, unless in the judgment of the Secretary to do so would work a hardship on the veteran.
 
 &emsp;(2) A veteran shall be considered as living with a spouse, even though they reside apart, unless they are estranged.
 
@@ -310,7 +310,7 @@ Section 306 of Pub. L. 95–588, as amended by Pub. L. 102–40, title IV, §402
 
 “(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, §9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person's annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
 
-“(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as addedby section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
+“(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as added by section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
 
 “(c) Any case in which—
 
@@ -340,7 +340,7 @@ Pub. L. 105–178, title VIII, §8206, June 9, 1998, 112 Stat. 494, provided tha
 
 #### Report to Congressional Committees; Medical Examinations of Certain Pension Recipients
 
-Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabled by reason of being 65 years of age or older or becoming unemployable after age 65.
+Pub. L. 98–543, title III, §302, Oct. 24, 1984, 98 Stat. 2747, directed Administrator of Veterans’ Affairs to report to Committees on Veterans’ Affairs of House of Representatives and Senate not later than 28 months after Oct. 24, 1984, on results of medical examinations conducted on certain individuals awarded pensions under this section as permanently and totally disabledby reason of being 65 years of age or older or becoming unemployable after age 65.
 
 #### Study of Pension Benefits Paid to Persons Residing Outside United States; Transmittal of Report and Recommendations to President and Congress
 

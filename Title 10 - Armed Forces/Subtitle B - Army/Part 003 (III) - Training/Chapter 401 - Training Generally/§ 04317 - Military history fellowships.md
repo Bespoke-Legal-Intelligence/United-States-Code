@@ -6,7 +6,7 @@ Fellowships.—The Secretary of the Army shall prescribe regulations under which
 
 (b)
 
-Eligible Persons.—The persons eligible for awards of fellowships under this section arecitizens and nationals of the United States who—
+Eligible Persons.—The persons eligible for awards of fellowships under this section are citizens and nationals of the United States who—
 
 &emsp;(1) are graduate students in United States military history;
 

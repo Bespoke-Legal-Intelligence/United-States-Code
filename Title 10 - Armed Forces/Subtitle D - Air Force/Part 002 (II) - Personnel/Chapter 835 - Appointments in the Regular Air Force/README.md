@@ -15,7 +15,7 @@
 
 <b>1958</b>—Pub. L. 85–861, §§1(177)(B), 33(a)(38), Sept. 2, 1958, 72 Stat. 1520, 1566, substituted “officers” for “Officers” in item 8309, and added item 8314.
 
-<b>1957</b>—Pub. L. 85–155, title III, §301(15), Aug. 21, 1957, 71 Stat. 388, struck out items 8291 “Commissioned officers; Air Force nurses and women medical specialists: original appointment; additional qualifications, grade” and 8304 “Commissioned officers; Air Force nurses andwomen medical specialists: promotion to first lieutenant, captain, major, lieutenant colonel, or colonel”.
+<b>1957</b>—Pub. L. 85–155, title III, §301(15), Aug. 21, 1957, 71 Stat. 388, struck out items 8291 “Commissioned officers; Air Force nurses and women medical specialists: original appointment; additional qualifications, grade” and 8304 “Commissioned officers; Air Force nurses and women medical specialists: promotion to first lieutenant, captain, major, lieutenant colonel, or colonel”.
 
 
 ---

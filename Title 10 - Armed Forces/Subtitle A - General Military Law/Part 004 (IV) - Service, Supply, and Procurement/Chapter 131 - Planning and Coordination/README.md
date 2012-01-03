@@ -18,7 +18,7 @@
 | [2214\.](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md) | Transfer of funds: procedure and limitations. |
 | [2215\.](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md) | Transfer of funds to other departments and agencies: limitation. |
 | [2216\.](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md) | Defense Modernization Account. |
-| \[2216a. | Repealed.\] |
+| [2216a.](%C2%A7%2002216a%20-%20Rapidly%20meeting%20urgent%20needs%20Joint%20Urgent%20Operational%20Needs%20Fund.md) | Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund. |
 | [2217\.](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md) | Comparable budgeting for common procurement weapon systems. |
 | [2218\.](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md) | National Defense Sealift Fund. |
 | \[2219. | Renumbered.\] |
@@ -40,7 +40,9 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259, added item 2223a.
+<b>2011</b>—Pub. L. 112–81, div. A, title VIII, §846(a)(2), Dec. 31, 2011, 125 Stat. 1517, added item 2216a.
+
+Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259, added item 2223a.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title III, §§352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
 
@@ -112,7 +114,7 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;“(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;“(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
@@ -145,7 +147,7 @@ Report.—Not later than 180 days after the date of the enactment of this Act \[
 - [&sect; 02214 - Transfer of funds procedure and limitations](%C2%A7%2002214%20-%20Transfer%20of%20funds%20procedure%20and%20limitations.md)
 - [&sect; 02215 - Transfer of funds to other departments and agencies limitation](%C2%A7%2002215%20-%20Transfer%20of%20funds%20to%20other%20departments%20and%20agencies%20limitation.md)
 - [&sect; 02216 - Defense Modernization Account](%C2%A7%2002216%20-%20Defense%20Modernization%20Account.md)
-- [&sect; 02216a - Repealed. Pub. L. 105&#8211;261, div. A, title X, &sect;1008(b), Oct. 17, 1998, 112 Stat. 2117](%C2%A7%2002216a%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71008%28b%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202117.md)
+- [&sect; 02216a - Rapidly meeting urgent needs Joint Urgent Operational Needs Fund](%C2%A7%2002216a%20-%20Rapidly%20meeting%20urgent%20needs%20Joint%20Urgent%20Operational%20Needs%20Fund.md)
 - [&sect; 02217 - Comparable budgeting for common procurement weapon systems](%C2%A7%2002217%20-%20Comparable%20budgeting%20for%20common%20procurement%20weapon%20systems.md)
 - [&sect; 02218 - National Defense Sealift Fund](%C2%A7%2002218%20-%20National%20Defense%20Sealift%20Fund.md)
 - [&sect; 02219 - Renumbered &sect;2491c](%C2%A7%2002219%20-%20Renumbered%20%C2%A72491c.md)

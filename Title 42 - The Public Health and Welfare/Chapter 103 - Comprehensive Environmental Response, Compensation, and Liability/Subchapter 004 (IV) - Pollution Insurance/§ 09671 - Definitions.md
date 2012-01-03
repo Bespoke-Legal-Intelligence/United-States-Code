@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(B) which is organized for the primary purpose of conducting the activity described under subparagraph (A);
 
-&emsp;&emsp;(C) which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State; and
+&emsp;&emsp;(C) which is chartered or licensed as an insurance company and authorized to engagein the business of insurance under the laws of any State; and
 
 &emsp;&emsp;(D) which does not exclude any person from membership in the group solely to provide for members of such a group a competitive advantage over such a person.
 

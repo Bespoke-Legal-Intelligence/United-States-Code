@@ -18,7 +18,7 @@ Establishment.—There is established the National Foundation on Fitness, Sports
 
 Purposes.—The purposes of the Foundation are—
 
-&emsp;“(1) in conjunction with the Office of the President's Council on Fitness, Sports and Nutrition, to develop a list and description of programs, events and other activities which would further the purposes andfunctions outlined in Executive Order 13265 \[42 U.S.C. 300u note\], as amended, and with respect to which combined private and governmental efforts would be beneficial;
+&emsp;“(1) in conjunction with the Office of the President's Council on Fitness, Sports and Nutrition, to develop a list and description of programs, events and other activities which would further the purposes and functions outlined in Executive Order 13265 \[42 U.S.C. 300u note\], as amended, and with respect to which combined private and governmental efforts would be beneficial;
 
 &emsp;“(2) to encourage and promote the participation by private organizations in the activities referred to in subsection (b)(1) and to encourage and promote private gifts of money and other property to support those activities; and
 
@@ -172,7 +172,7 @@ Relief With Respect to Certain Foundation Acts or Failure To Act.—If the Found
 
 &emsp;“(2) refuses, fails, or neglects to discharge its obligations under this Act, or threaten\[s\] to do so;
 
-> the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.”
+> the Attorney General of the United States may petition in the United States District Court for the Districtof Columbia for such equitable relief as may be necessary or appropriate.”
 
 
 ---

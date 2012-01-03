@@ -16,7 +16,7 @@ The Secretary may not award more than one grant under this part in any fiscal ye
 
 #### Prior Provisions
 
-A prior section 1102c, Pub. L. 89–329, title V, §504, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 661, related to State uses of funds, prior to thegeneral amendment of this subchapter by Pub. L. 105–244.
+A prior section 1102c, Pub. L. 89–329, title V, §504, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 661, related to State uses of funds, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 A prior section 514 of Pub. L. 89–329 was renumbered section 524, and is classified to section 1103c of this title.
 

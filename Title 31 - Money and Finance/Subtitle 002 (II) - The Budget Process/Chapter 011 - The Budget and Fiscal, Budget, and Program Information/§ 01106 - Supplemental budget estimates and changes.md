@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) current information on matters referred to in section 1105(a)(8) and (9)(B) and (C) of this title; and
 
-&emsp;&emsp;(D) additional information the President decides is advisable to provide Congress with complete and current information about the budget and current estimates of the functions, obligations, requirements, and financial condition of the United States Government;
+&emsp;&emsp;(D) additional information the President decides is advisable to provide Congress withcomplete and current information about the budget and current estimates of the functions, obligations, requirements, and financial condition of the United States Government;
 
 &emsp;(2) for the 4 fiscal years following the fiscal year for which the budget is submitted, information on estimated expenditures for programs authorized to continue in future years, or that are considered mandatory, under law; and
 
@@ -21,10 +21,6 @@
 (c) Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, §242, Dec. 12, 1985, 99 Stat. 1063.)
-
-#### Termination of Subsection (c)
-
-<i>Subsection (c) of this section expired Sept. 30, 2002, pursuant to section 275(b) of Pub. L. 99–177, as amended. See 1985 Amendment note and Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -54,9 +50,9 @@ In subsection (b), the words “Before April 11 and July 16” are substituted f
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–177, §242(a), struck out “April 11 and” before “July 16”.
 
-Subsec. (c). Pub. L. 99–177, §§242(b), 275(b), temporarily added subsec. (c), which read as follows: “Subsection (f) of section 1105 shall apply to revisions and supplemental summaries submitted under this section to the same extent that such subsection applies to the budget submitted under section 1105(a) to which such revisions and summaries relate.” See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (c). Pub. L. 99–177, §242(b), added subsec. (c).
 
 #### Effective and Termination Dates of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, but with subsec. (c) to expire Sept. 30, 2002, see section 275(a)(1), (b) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of Title 2, The Congress, prior to repeal by Pub. L. 112–25, title I, §104(a), Aug. 2, 2011, 125 Stat. 246.
 

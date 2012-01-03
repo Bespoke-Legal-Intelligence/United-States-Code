@@ -12,7 +12,7 @@
 
 (d) Applications for inventors’ certificates filed in a foreign country in which applicants have a right to apply, at their discretion, either for a patent or for an inventor's certificate shall be treated in this country in the same manner and have the same effect for purpose of the right of priority under this section as applications for patents, subject to the same conditions and requirements of this section as apply to applications for patents, provided such applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of such filing.
 
-(e)(1) An application for patent filed under section 111(a) or section 363 of this title for an invention disclosed in the manner provided by the first paragraph of section 112 of this title in a provisional application filed under section 111(b) of this title, by an inventor or inventors named in the provisional application, shall have the same effect, as to such invention, as though filed on the date of the provisional application filed under section 111(b) of this title, if the application for patent filed under section 111(a) or section 363 of this title is filed not later than 12 months after the date on which the provisional application was filed and if it contains or is amended to contain a specific reference to the provisional application. No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this subsection during the pendency of the application.
+(e)(1) An application for patent filed under section 111(a) or section 363 of this title for an invention disclosed in the manner provided by section 112(a) (other than the requirement to disclose the best mode) in a provisional application filed under section 111(b) of this title, by an inventor or inventors named in the provisional application, shall have the same effect, as to such invention, as though filed on the date of the provisional application filed under section 111(b) of this title, if the application for patent filed under section 111(a) or section 363 of this title is filed not later than 12 months after the date on which the provisional application was filed and if it contains or is amended to contain a specific reference to the provisional application. No application shall be entitled to the benefit of an earlier filed provisional application under this subsection unless an amendment containing the specific reference to the earlier filed provisional application is submitted at such time during the pendency of the application as required by the Director. The Director may consider the failure to submit such an amendment within that time period as a waiver of any benefit under this subsection. The Director may establish procedures, including the payment of a surcharge, to accept an unintentionally delayed submission of an amendment under this subsection during the pendency of the application.
 
 (2) A provisional application filed under section 111(b) of this title may not be relied upon in any proceeding in the Patent and Trademark Office unless the fee set forth in subparagraph (A) or (C) of section 41(a)(1) of this title has been paid.
 
@@ -26,7 +26,13 @@
 
 &emsp;(2) the term “UPOV Contracting Party” means a member of the International Convention for the Protection of New Varieties of Plants.
 
-(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, §532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 800; Pub. L. 87–333, §1, Oct. 3, 1961, 75 Stat. 748; Pub. L. 92–358, §1, July 28, 1972, 86 Stat. 501; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 103–465, title V, §532(b)(1), Dec. 8, 1994, 108 Stat. 4985; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4503(a), (b)(2), 4801(b), (c), 4802\], Nov. 29, 1999, 113 Stat. 1536, 1501A–563, 1501A–564, 1501A–588, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(g)(6), 15(b), 20(j), Sept. 16, 2011, 125 Stat. 288, 328, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(j), (l), Sept. 16, 2011, 125 Stat. 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “of this title” each place that term appears. See 2011 Amendment notes below.</i>
+
+<i>Pub. L. 112–29, §3(g)(6), (n), Sept. 16, 2011, 125 Stat. 288, 293, provided that, effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, subsection (a) of this section is amended by striking “; but no patent shall be granted” and all that follows through “one year prior to such filing”. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -41,6 +47,16 @@ The second paragraph is new, making an additional procedural requirement for obt
 The Stockholm Revision of the Paris Convention, referred to in subsec. (d), means the Convention revising the Convention of the Union of Paris of Mar. 20, 1883, as revised, for the protection of industrial property, done at Stockholm July 14, 1967, entered into force for the United States Sept. 5, 1970, with the exception of Articles 1 through 12 which entered into force for the United States Aug. 25, 1973. See 21 UST 1583; 24 UST 2140; TIAS 6293, 7727.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (a). Pub. L. 112–29, §3(g)(6), struck out “; but no patent shall be granted on any application for patent for an invention which had been patented or described in a printed publication in any country more than one year before the date of the actual filing of the application in this country, or which had been in public use or on sale in this country more than one year prior to such filing” before the period at the end.
+
+Subsec. (e)(1). Pub. L. 112–29, §20(j), struck out “of this title” after “363” in two places and after “111(b)” in two places.
+
+Pub. L. 112–29, §15(b), substituted “section 112(a) (other than the requirement to disclose the best mode)” for “the first paragraph of section 112 of this title”.
+
+Subsec. (e)(2). Pub. L. 112–29, §20(j), struck out “of this title” after “111(b)” and after “41(a)(1)”.
+
+Subsec. (g)(1). Pub. L. 112–29, §20(j), struck out “of this title” after “104(b)(2)”.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(1)\]. See 1999 Amendment note below.
 
@@ -63,6 +79,14 @@ Subsecs. (f), (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4802(2)\], adde
 <b>1972</b>—Pub. L. 92–358 inserted last paragraph providing that under certain circumstances, applications for inventors’ certificate filed in a foreign country would be given the same priority as applications for patents, if the applicants are entitled to the benefits of the Stockholm Revision of the Paris Convention at the time of filing.
 
 <b>1961</b>—Pub. L. 87–333 authorized the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by section 3(g)(6) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+
+Pub. L. 112–29, §15(c), Sept. 16, 2011, 125 Stat. 328, provided that: “The amendments made by this section \[amending this section and sections 120 and 282 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to proceedings commenced on or after that date.”
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1999 Amendment
 

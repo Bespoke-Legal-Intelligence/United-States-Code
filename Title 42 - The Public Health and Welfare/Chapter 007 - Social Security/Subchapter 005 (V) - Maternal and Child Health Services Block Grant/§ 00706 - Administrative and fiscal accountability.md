@@ -162,7 +162,7 @@ The State shall make copies of the reports and audits required by this section a
 
 #### (d) Access to books, records, etc.; creation of new records
 
-(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documents that are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
+(1) For the purpose of evaluating and reviewing the block grant established under this subchapter, the Secretary and the Comptroller General shall have access to any books, accounts, records, correspondence, or other documentsthat are related to such block grant, and that are in the possession, custody, or control of States, political subdivisions thereof, or any of their grantees.
 
 (2) In conjunction with an evaluation or review under paragraph (1), no State or political subdivision thereof (or grantee of either) shall be required to create or prepare new records to comply with paragraph (1).
 
@@ -200,7 +200,7 @@ Pub. L. 101–239, §6504(a)(2), redesignated former par. (2) as (3).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1999 Amendment
 

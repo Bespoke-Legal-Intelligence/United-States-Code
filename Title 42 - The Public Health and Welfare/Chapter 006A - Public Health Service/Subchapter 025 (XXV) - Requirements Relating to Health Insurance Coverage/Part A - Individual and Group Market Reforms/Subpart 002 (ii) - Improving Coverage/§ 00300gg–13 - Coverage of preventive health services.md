@@ -40,7 +40,7 @@ Another prior section 2713 of act July 1, 1944, was successively renumbered by s
 
 #### Effective Date
 
-Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
+Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

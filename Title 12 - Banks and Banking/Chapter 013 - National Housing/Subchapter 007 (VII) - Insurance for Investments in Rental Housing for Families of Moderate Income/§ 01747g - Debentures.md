@@ -10,7 +10,7 @@ If in any operating year the aggregate of the differences between the operating 
 
 #### (c) Adjustment of difference between outstanding investment and total face value of debentures
 
-Any difference, not exceeding $50, between 90 per centum of the outstanding investment for the operating year in which a project is acquired by the Secretary pursuant to this section and the total face value of the debentures to be issued and delivered to the investment pursuant to this section shall be adjusted by the payment of cash by the Secretary to the investor from the General Insurance Fund.
+Any difference, not exceeding $50, between 90 per centum of the outstanding investment forthe operating year in which a project is acquired by the Secretary pursuant to this section and the total face value of the debentures to be issued and delivered to the investment pursuant to this section shall be adjusted by the payment of cash by the Secretary to the investor from the General Insurance Fund.
 
 #### (d) Termination of insurance contract by Secretary
 
@@ -18,7 +18,7 @@ Upon the acquisition of a project by the Secretary pursuant to this section, the
 
 #### (e) Issuance and execution of debentures
 
-Debentures issued under this subchapter to any investor shall be executed in the name of the General Insurance Fund as obligor, shall be signed by the Secretary, by either his written or engraved signature, and shall be negotiable. Such debentures shall be dated as of the first day of the operating year in which the project for which such debentures were issued was acquired by the Secretary, shall bear interest at a rate to be determined by the Secretary, with theapproval of the Secretary of the Treasury, at the time the insurance contract was executed, but not to exceed 23/4 per centum per annum, payable semiannually on the 1st day of January and the 1st day of July of each year, and shall mature on the 1st day of July in such calendar year or years, not later than the fortieth following the date of the issuance thereof, as shall be determined by the Secretary and stated on the face of such debentures.
+Debentures issued under this subchapter to any investor shall be executed in the name of the General Insurance Fund as obligor, shall be signed by the Secretary, by either his written or engraved signature, and shall be negotiable. Such debentures shall be dated as of the first day of the operating year in which the project for which such debentures were issued was acquired by the Secretary, shall bear interest at a rate to be determined by the Secretary, with the approval of the Secretary of the Treasury, at the time the insurance contract was executed, but not to exceed 2¾ per centum per annum, payable semiannually on the 1st day of January and the 1st day of July of each year, and shall mature on the 1st day of July in such calendar year or years, not later than the fortieth following the date of the issuance thereof, as shall be determined by the Secretary and stated on the face of such debentures.
 
 #### (f) Terms and conditions of debentures
 
@@ -30,7 +30,7 @@ Such debentures shall be exempt, both as to principal and interest, from all tax
 
 #### (h) Payment of expenses and charges; collection of claims
 
-Notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the General Insurance Fund, to pay out of said Fund all expenses or charges in connection with, and to deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, or establish suitable agencies for the management of, or sell for cash or credit or lease in his discretion, in whole or in part, any project acquired pursuant to this subchapter; and, notwithstanding any other provisions of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by, or assigned or transferred to, him in connection with the acquisition or disposal of any project pursuant to this subchapter: <i>Provided</i>, That section 5 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of any project acquired pursuant to this subchapter if the amount of such purchase or contract does not exceed $1,000.
+Notwithstanding any other provisions of law relating to the acquisition, handling, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the General Insurance Fund, to pay out of said Fund all expenses or charges in connection with, and to deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, or establish suitable agencies for the management of, or sell for cash or credit or lease in his discretion, in whole or in part, any project acquired pursuant to this subchapter; and, notwithstanding any other provisions of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by, or assigned or transferred to, him in connection with the acquisition or disposal of any project pursuant to this subchapter: <i>Provided</i>, That section 6101 of title 41 shall not be construed to apply to any contract for hazard insurance, or to any purchase or contract for services or supplies on account of any project acquired pursuant to this subchapter if the amount of such purchase or contract does not exceed $1,000.
 
 (June 27, 1934, ch. 847, title VII, §708, as added Aug. 10, 1948, ch. 832, title IV, §401, 62 Stat. 1278; amended Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 89–117, title XI, §1108(t), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
 
@@ -38,11 +38,15 @@ Notwithstanding any other provisions of law relating to the acquisition, handlin
 
 The General Insurance Fund, referred to in text, was established by section 1735c of this title.
 
+#### Codification
+
+In subsec. (h), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
 #### Amendments
 
-1967—Subsecs. (a) to (f), (h). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Subsecs. (a) to (f), (h). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
 
-1965—Subsecs. (c), (e), (g), (h). Pub. L. 89–117 substituted “General Insurance Fund” for “Housing Investment Insurance Fund” wherever appearing.
+<b>1965</b>—Subsecs. (c), (e), (g), (h). Pub. L. 89–117 substituted “General Insurance Fund” for “Housing Investment Insurance Fund” wherever appearing.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
 

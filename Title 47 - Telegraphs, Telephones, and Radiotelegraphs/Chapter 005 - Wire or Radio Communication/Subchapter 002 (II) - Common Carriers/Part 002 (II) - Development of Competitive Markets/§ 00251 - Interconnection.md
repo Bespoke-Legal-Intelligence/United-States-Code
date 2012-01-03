@@ -66,7 +66,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (5) Notice of changes
 
-&emsp;The duty to provide reasonable public notice of changes in the information necessary for the transmission and routing of services using that local exchange carrier's facilities or networks, as well as of any other changes that would affect the interoperability of those facilities and networks.
+&emsp;The duty to provide reasonable public notice of changes in the information necessary for the transmission and routing of services usingthat local exchange carrier's facilities or networks, as well as of any other changes that would affect the interoperability of those facilities and networks.
 
 #### (6) Collocation
 

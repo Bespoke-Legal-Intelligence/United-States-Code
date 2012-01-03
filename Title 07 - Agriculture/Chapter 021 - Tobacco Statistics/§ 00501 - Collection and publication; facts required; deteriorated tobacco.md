@@ -6,9 +6,9 @@ The Secretary of Agriculture is authorized and directed to collect and publish s
 
 #### Amendments
 
-1935—Act Aug. 27, 1935, inserted “and Puerto Rico” after “United States”, substituted “seven hundred and fifty thousand cigarettes” for “one million cigarettes” before second proviso and inserted second proviso.
+<b>1935</b>—Act Aug. 27, 1935, inserted “and Puerto Rico” after “United States”, substituted “seven hundred and fifty thousand cigarettes” for “one million cigarettes” before second proviso and inserted second proviso.
 
-1932—Act July 14, 1932, substituted “thirty-five” for “fifty” and “one hundred and eighty-five thousand cigars” and “one million” for “seven hundred and fifty thousand cigarettes”.
+<b>1932</b>—Act July 14, 1932, substituted “thirty-five” for “fifty” and “one hundred and eighty-five thousand cigars” and “one million” for “seven hundred and fifty thousand cigarettes”.
 
 #### Change of Name
 

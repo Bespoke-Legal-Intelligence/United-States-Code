@@ -12,7 +12,7 @@ Congress finds the following:
 
 #### (b) Heightened inspections
 
-The Secretary is authorized to enhance, as necessary, the inspection regime of the Foodand Drug Administration for aquaculture and seafood, consistent with obligations of the United States under international agreements and United States law.
+The Secretary is authorized to enhance, as necessary, the inspection regime of the Food and Drug Administration for aquaculture and seafood, consistent with obligations of the United States under international agreements and United States law.
 
 #### (c) Report to Congress
 

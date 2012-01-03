@@ -1,8 +1,12 @@
 ### §185. Patent barred for filing without license
 
-Notwithstanding any other provisions of law any person, and his successors, assigns, or legal representatives, shall not receive a UnitedStates patent for an invention if that person, or his successors, assigns, or legal representatives shall, without procuring the license prescribed in section 184 of this title, have made, or consented to or assisted another's making, application in a foreign country for a patent or for the registration of a utility model, industrial design, or model in respect of the invention. A United States patent issued to such person, his successors, assigns, or legal representatives shall be invalid, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.
+Notwithstanding any other provisions of law any person, and his successors, assigns, or legal representatives, shall not receive a United States patent for an invention if that person, or his successors, assigns, or legal representatives shall, without procuring the license prescribed in section 184 of this title, have made, or consented to or assisted another's making, application in a foreign country for a patent or for the registration of a utility model, industrial design, or model in respect of the invention. A United States patent issued to such person, his successors, assigns, or legal representatives shall be invalid, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.
 
-(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(2), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 107–273, div. C, title III, §13206(a)(11), Nov. 2, 2002, 116 Stat. 1904.)
+(July 19, 1952, ch. 950, 66 Stat. 807; Pub. L. 100–418, title IX, §9101(b)(2), Aug. 23, 1988, 102 Stat. 1568; Pub. L. 107–273, div. C, title III, §13206(a)(11), Nov. 2, 2002, 116 Stat. 1904; Pub. L. 112–29, §20(c), (j), Sept. 16, 2011, 125 Stat. 333, 335.)
+
+#### Amendment of Section
+
+<i>Pub. L. 112–29, §20(c), (j), (l), Sept. 16, 2011, 125 Stat. 333, 335, provided that, effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, this section is amended by striking “and without deceptive intent” and by striking “of this title” each place that term appears. See 2011 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -12,9 +16,15 @@ Language is changed.
 
 #### Amendments
 
+<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “184” and after “181” and struck out “and without deceptive intent” after “error”.
+
 <b>2002</b>—Pub. L. 107–273 struck out second period at end.
 
 <b>1988</b>—Pub. L. 100–418 inserted before period at end “, unless the failure to procure such license was through error and without deceptive intent, and the patent does not disclose subject matter within the scope of section 181 of this title.”
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(<i>l</i>) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 #### Effective Date of 1988 Amendment
 

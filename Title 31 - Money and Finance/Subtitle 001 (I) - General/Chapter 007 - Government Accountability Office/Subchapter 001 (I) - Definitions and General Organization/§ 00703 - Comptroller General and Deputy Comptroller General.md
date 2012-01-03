@@ -112,7 +112,7 @@ In subsection (c), the words “carries out duties and powers prescribed” are 
 
 In subsection (d), the words “officer or” are added for consistency in the revised title. The text of section 101(last par. on p. 371 words before colon) of the Act of June 27, 1944 (ch. 286, 58 Stat. 371), is omitted as expired.
 
-In subsection (e)(1), before clause (A), the words “from his office” are omitted as surplus. In clause (A), the words “and for no other cause and in no other manner” are omitted as surplus. In clause (B), before subclause (i), the words “opportunity for a” are added for consistency. The words “guilty of” are omitted as surplus. In subclause (i), the word “disability” is substituted for “incapacitated” for consistency in the chapter and with title 5. In subclause (iv), the words “in office” are omitted as surplus.
+In subsection (e)(1), before clause (A), the words “from his office” are omitted as surplus. In clause (A),the words “and for no other cause and in no other manner” are omitted as surplus. In clause (B), before subclause (i), the words “opportunity for a” are added for consistency. The words “guilty of” are omitted as surplus. In subclause (i), the word “disability” is substituted for “incapacitated” for consistency in the chapter and with title 5. In subclause (iv), the words “in office” are omitted as surplus.
 
 In subsection (e)(2), the words “from office” are added for clarity.
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 100–426 effective after end of 60-day period beginning Se
 
 <b>1987</b>—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $89,500 and $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-<b>1977</b>—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $57,500and $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
+<b>1977</b>—Salaries of Comptroller General and Deputy Comptroller General increased respectively to $57,500 and $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 
 <b>1969</b>—Salaries of Comptroller General and Assistant Comptroller General increased respectively to $42,500 and $40,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2.
 

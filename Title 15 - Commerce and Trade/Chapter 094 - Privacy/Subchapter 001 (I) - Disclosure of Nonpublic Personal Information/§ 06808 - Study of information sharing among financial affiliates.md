@@ -20,7 +20,7 @@ The Secretary of the Treasury, in conjunction with the Federal functional regula
 
 &emsp;(8) the feasibility of different approaches, including opt-out and opt-in, to permit customers to direct that confidential information not be shared with affiliates and nonaffiliated third parties; and
 
-&emsp;(9) the feasibility of restricting sharing of information for specific uses or of permitting customers to direct the uses for which information may be shared.
+&emsp;(9) the feasibility of restricting sharing of information for specific uses or of permittingcustomers to direct the uses for which information may be shared.
 
 #### (b) Consultation
 

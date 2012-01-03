@@ -14,7 +14,7 @@ In preparing the Renewable Resources Extension Program, the Secretary shall take
 
 To assist Congress and the public in evaluating the Renewable Resources Extension Program, the program shall include a review of activities undertaken in response to the preceding five-year plan and an evaluation of the progress made toward accomplishing the goals and objectives set forth in such preceding plan. Such review and evaluation shall be displayed in the program, for the Nation as a whole, and for each State.
 
-(Pub. L. 95–306, §5, June 30, 1978, 92 Stat. 351; Pub. L. 100–231, §3, Jan. 5, 1988, 101 Stat. 1565;Pub. L. 101–624, title XII, §§1219(b)(2), 1251(c), Nov. 28, 1990, 104 Stat. 3539, 3553.)
+(Pub. L. 95–306, §5, June 30, 1978, 92 Stat. 351; Pub. L. 100–231, §3, Jan. 5, 1988, 101 Stat. 1565; Pub. L. 101–624, title XII, §§1219(b)(2), 1251(c), Nov. 28, 1990, 104 Stat. 3539, 3553.)
 
 #### Codification
 

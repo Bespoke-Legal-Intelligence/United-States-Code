@@ -10,7 +10,7 @@ Review Required.—(1) The Secretary of Defense shall every four years conduct a
 
 Conduct of Review.—Each quadrennial quality of life review shall be conducted so as—
 
-&emsp;(1) to assess quality of life priorities and issues consistent with the most recent NationalSecurity Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+&emsp;(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
 
 &emsp;(2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
 

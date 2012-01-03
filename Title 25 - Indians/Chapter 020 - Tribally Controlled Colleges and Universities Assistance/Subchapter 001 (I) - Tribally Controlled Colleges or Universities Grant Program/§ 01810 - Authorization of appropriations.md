@@ -1,6 +1,6 @@
 ### §1810. Authorization of appropriations
 
-(a)(1) There is authorized to be appropriated, for the purpose of carrying out section 1805 of this title, $3,200,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+(a)(1) There is authorized to be appropriated, for the purpose of carrying out section 1805 ofthis title, $3,200,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 (2) There is authorized to be appropriated for the purpose of carrying out section 1807 of this title, such sums as may be necessary for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 

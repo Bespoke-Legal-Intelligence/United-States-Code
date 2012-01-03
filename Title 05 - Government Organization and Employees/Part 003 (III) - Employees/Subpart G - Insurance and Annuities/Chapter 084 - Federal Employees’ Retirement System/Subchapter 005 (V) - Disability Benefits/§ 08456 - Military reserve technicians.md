@@ -36,11 +36,11 @@ A prior section 8456, added Pub. L. 99–355, title I, §101(a), June 6, 1986, 1
 
 #### Amendments
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–337 substituted “section 10101” for “section 261(a)”.
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–337 substituted “section 10101” for “section 261(a)”.
 
-1988—Pub. L. 100–238 renumbered section 8457 of this title as this section.
+<b>1988</b>—Pub. L. 100–238 renumbered section 8457 of this title as this section.
 
-1986—Subsec. (a)(1)(C), (D), (2)(A), (B). Pub. L. 99–556 substituted “subsection (b)” for “subsection (c)”.
+<b>1986</b>—Subsec. (a)(1)(C), (D), (2)(A), (B). Pub. L. 99–556 substituted “subsection (b)” for “subsection (c)”.
 
 #### Effective Date of 1994 Amendment
 

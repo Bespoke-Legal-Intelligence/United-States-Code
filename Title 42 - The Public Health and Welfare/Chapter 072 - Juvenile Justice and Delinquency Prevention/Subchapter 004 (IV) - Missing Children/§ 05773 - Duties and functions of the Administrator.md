@@ -180,7 +180,7 @@ Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions 
 
 Subsec. (b)(2)(A). Pub. L. 100–690, §7285(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to provide technical assistance to local and State governments, public and private nonprofit agencies, and individuals in locating and recovering missing children;”.
 
-Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted “and training” after “assistance” and “and in locating and recovering missing children” before semicolon.
+Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted “and training” after “assistance” and “and inlocating and recovering missing children” before semicolon.
 
 Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 

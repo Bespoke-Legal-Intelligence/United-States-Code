@@ -6,13 +6,13 @@ It is the policy of the Congress that the Export-Import Bank of the United State
 
 #### (b) Designation of transactions on books of the Bank; limitation on commitments
 
-The bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
+The Bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
 
 (Pub. L. 90–390, §1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, §115, Oct. 19, 1980, 94 Stat. 2240.)
 
 #### Amendments
 
-1980—Subsec. (c). Pub. L. 96–470 struck out subsec. (c) which required the Board of Directors of the Bank to submit to Congress for the calendar ending Sept. 30, 1968, and each calendar quarter thereafter, a report of all actions taken under authority of sections 635j to 635n of this title during such quarter.
+<b>1980</b>—Subsec. (c). Pub. L. 96–470 struck out subsec. (c) which required the Board of Directors of the Bank to submit to Congress for the calendar ending Sept. 30, 1968, and each calendar quarter thereafter, a report of all actions taken under authority of sections 635j to 635n of this title during such quarter.
 
 #### Ex. Ord. No. 11420. Export Expansion Advisory Committee
 

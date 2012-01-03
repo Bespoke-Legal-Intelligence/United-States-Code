@@ -36,7 +36,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 
 #### Amendments
 
-1986—Subsec. (f). Pub. L. 99–386 struck out subsec. (f) which related to annual reports to Congress by Secretary with respect to status of demonstration projects.
+<b>1986</b>—Subsec. (f). Pub. L. 99–386 struck out subsec. (f) which related to annual reports to Congress by Secretary with respect to status of demonstration projects.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

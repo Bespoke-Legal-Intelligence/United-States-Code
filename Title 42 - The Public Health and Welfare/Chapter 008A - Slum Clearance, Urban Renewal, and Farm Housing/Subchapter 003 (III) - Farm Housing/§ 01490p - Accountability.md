@@ -56,7 +56,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (1) Administrative remedies
 
-&emsp;If the Secretary receives or obtains information providing a reasonable basis to believethat a violation of subsection (b), (c), or (d) this <sup>1</sup> section has occurred, the Secretary shall—
+&emsp;If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b), (c), or (d) this <sup>1</sup> section has occurred, the Secretary shall—
 
 &emsp;&emsp;(A) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 

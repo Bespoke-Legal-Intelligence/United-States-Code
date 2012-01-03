@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section \[section 5\] substitutes, in section 244 of title 18, U.S.C., “any of the armed forces of the UnitedStates” for the enumeration of specific branches and thereby includes the Air Force, formerly part of the Army. This clarification is necessary because of the establishment of the Air Force as a separate branch of the Armed Forces by the act of July 26, 1947.
+This section \[section 5\] substitutes, in section 244 of title 18, U.S.C., “any of the armed forces of the United States” for the enumeration of specific branches and thereby includes the Air Force, formerly part of the Army. This clarification is necessary because of the establishment of the Air Force as a separate branch of the Armed Forces by the act of July 26, 1947.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The Congress finds the following:
 
 #### Short Title
 
-Pub. L. 110–385, title I, §101, Oct. 10, 2008, 122 Stat. 4096, provided that: “This title \[enacting this chapterand amending section 1302 of this title\] may be cited as the ‘Broadband Data Improvement Act’.”
+Pub. L. 110–385, title I, §101, Oct. 10, 2008, 122 Stat. 4096, provided that: “This title \[enacting this chapter and amending section 1302 of this title\] may be cited as the ‘Broadband Data Improvement Act’.”
 
 #### Unleashing the Wireless Broadband Revolution
 
@@ -32,7 +32,7 @@ Spectrum and the new technologies it enables also are essential to the Federal G
 
 In order to achieve mobile wireless broadband's full potential, we need an environment where innovation thrives, and where new capabilities also are secure, trustworthy, and provide appropriate safeguards for users’ privacy. These characteristics will continue to be important to the adoption of mobile wireless broadband.
 
-This new era in global technology leadership will only happen if there is adequate spectrum available to support the forthcoming myriad of wireless devices, networks, and applications that can drive the new economy. To do so, we can use our American ingenuity to wring abundance from scarcity, by finding ways to use spectrum more efficiently. We can also unlock the value of otherwise underutilized spectrum and open new avenues for spectrum users to derive value through the development of advanced, situation-aware spectrum-sharing technologies.
+This new era in global technology leadership will only happen if there is adequate spectrum available to support the forthcoming myriad of wireless devices, networks, and applications that can drive the new economy. To do so, we can use our American ingenuity to wring abundance from scarcity, by finding ways touse spectrum more efficiently. We can also unlock the value of otherwise underutilized spectrum and open new avenues for spectrum users to derive value through the development of advanced, situation-aware spectrum-sharing technologies.
 
 I therefore am hereby directing that executive departments, agencies, and offices, and strongly encourage that independent agencies, take the following steps:
 

@@ -12,7 +12,7 @@ Payment of Expenses.—The Secretary concerned may pay the expenses incident to 
 
 (b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
+Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement thissection with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
 
 (c)
 

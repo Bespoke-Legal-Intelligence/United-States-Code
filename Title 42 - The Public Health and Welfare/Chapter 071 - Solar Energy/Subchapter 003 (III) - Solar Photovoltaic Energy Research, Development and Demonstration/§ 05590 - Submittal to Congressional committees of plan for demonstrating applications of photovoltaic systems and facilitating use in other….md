@@ -10,6 +10,10 @@
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82 struck out “the Director of ACTION,” after “International Development,”.
 
+#### Change of Name
+
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.

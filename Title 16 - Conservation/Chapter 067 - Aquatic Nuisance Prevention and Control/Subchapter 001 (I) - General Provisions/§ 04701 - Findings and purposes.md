@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
 
-&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
+&emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carrydiseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
 
 &emsp;(3) the zebra mussel was unintentionally introduced into the Great Lakes and has infested—
 
@@ -46,7 +46,7 @@ The Congress finds that—
 
 &emsp;&emsp;(D) certain shellfish pathogens;
 
-&emsp;(12) many aquatic nuisance vegetation species, such as Eurasian watermilfoil, hydrilla, water hyacinth, and water chestnut, have beenintroduced to waters of the United States from other parts of the world causing or having a potential to cause adverse environmental, ecological, and economic effects;
+&emsp;(12) many aquatic nuisance vegetation species, such as Eurasian watermilfoil, hydrilla, water hyacinth, and water chestnut, have been introduced to waters of the United States from other parts of the world causing or having a potential to cause adverse environmental, ecological, and economic effects;
 
 &emsp;(13) if preventive management measures are not taken nationwide to prevent and control unintentionally introduced nonindigenous aquatic species in a timely manner, further introductions and infestations of species that are as destructive as, or more destructive than, the zebra mussel or the ruffe infestations may occur;
 

@@ -12,9 +12,9 @@ In order to avoid duplication and waste—
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
-1954—Subsec. (a). Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
+<b>1954</b>—Subsec. (a). Act Sept. 3, 1954, substituted “Administrator of General Services” for “Secretary of State”.
 
 #### Effective Date of 1984 Amendment
 

@@ -16,7 +16,7 @@
 
 #### (4) Transferability
 
-&emsp;Subject to such limitations as the Board may impose, any share of any class of voting common stock issued under this section shall be transferable among the institutions or entities to which shares of such class of common stock may be offered under paragraph (1), except that, as to the Corporation, such shares shall be transferable only on the books of the Corporation.
+&emsp;Subject to such limitations as the Board may impose, any share of any class of votingcommon stock issued under this section shall be transferable among the institutions or entities to which shares of such class of common stock may be offered under paragraph (1), except that, as to the Corporation, such shares shall be transferable only on the books of the Corporation.
 
 #### (5) Maximum number of shares
 
@@ -30,7 +30,7 @@
 
 #### (2) Stock issued as consideration for contribution
 
-&emsp;The Corporation, from time to time, shall issue to each originator or certified facilityvoting common stock evidencing any capital contributions made pursuant to this subsection.
+&emsp;The Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
 
 #### (c) Dividends
 
@@ -68,7 +68,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–399, §601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
 
 Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted “books of the Corporation” for “books of the Association”.
 

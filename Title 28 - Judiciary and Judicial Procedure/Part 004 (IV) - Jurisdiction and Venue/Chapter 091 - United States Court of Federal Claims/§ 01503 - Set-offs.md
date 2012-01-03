@@ -1,6 +1,6 @@
 ### §1503. Set-offs
 
-The United States Court of Federal Claims shall have jurisdiction to render judgment uponany set-off or demand by the United States against any plaintiff in such court.
+The United States Court of Federal Claims shall have jurisdiction to render judgment upon any set-off or demand by the United States against any plaintiff in such court.
 
 (June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, §133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 

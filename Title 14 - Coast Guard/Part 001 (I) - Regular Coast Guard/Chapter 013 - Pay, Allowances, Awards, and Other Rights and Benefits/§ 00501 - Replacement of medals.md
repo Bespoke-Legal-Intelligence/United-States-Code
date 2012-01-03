@@ -10,5 +10,5 @@ This section provides for the replacement of medals. It follows the established 
 
 #### Amendments
 
-2001—Pub. L. 107–107 inserted “stolen,” before “lost,”.
+<b>2001</b>—Pub. L. 107–107 inserted “stolen,” before “lost,”.
 

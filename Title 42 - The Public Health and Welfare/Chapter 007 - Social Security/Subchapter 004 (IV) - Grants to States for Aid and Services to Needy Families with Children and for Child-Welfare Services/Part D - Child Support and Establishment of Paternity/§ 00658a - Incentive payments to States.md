@@ -38,7 +38,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (B) CPI
 
-&emsp;&emsp;For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. As used in the preceding sentence, the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
+&emsp;&emsp;For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. Asused in the preceding sentence, the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
 
 #### (3) State incentive payment share
 
@@ -82,7 +82,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(i) 2 times the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under theState plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
 
@@ -194,7 +194,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of current payment performance level
 
-&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to thetotal amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
+&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to the total amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
 
 #### (ii) Determination of applicable percentage
 
@@ -254,7 +254,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of arrearage payment performance level
 
-&emsp;&emsp;&emsp;The arrearage payment performance level for a State for a fiscal year is equal to the total number of cases under the State plan approved under this part in which payments of past-due child support were received during the fiscal year and part or all of the payments were distributed to the family to whom the past-due child support was owed (or, if all past-due child support owed to the family was, at the time of receipt, subject to an assignment to the State, part or all of the payments were retained by the State) divided by the total number of cases under the State plan in which there is past-due child support, expressed as a percentage.
+&emsp;&emsp;&emsp;The arrearage payment performance level for a State for a fiscal year is equal to the total number of cases under the State plan approved under this part in which payments of past-due child support were received during the fiscal year andpart or all of the payments were distributed to the family to whom the past-due child support was owed (or, if all past-due child support owed to the family was, at the time of receipt, subject to an assignment to the State, part or all of the payments were retained by the State) divided by the total number of cases under the State plan in which there is past-due child support, expressed as a percentage.
 
 #### (ii) Determination of applicable percentage
 
@@ -356,10 +356,6 @@ A State to which a payment is made under this section shall expend the full amou
 
 (Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L. 105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
-#### References in Text
-
-Parts A and E of this subchapter, referred to in subsec. (b)(5)(C)(i)(I), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
-
 #### Effective Date
 
 Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided that: “Except as otherwise provided in this section \[enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing section 658 of this title, enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under section 658 of this title\], the amendments made by this section shall take effect on October 1, 1999.”
@@ -394,7 +390,7 @@ Report on variations in state performance attributable to demographic variables.
 
 &emsp;&emsp;“(ii)
 
-Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress aninterim report that contains the findings of the study required by subparagraph (A).
+Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
 
 &emsp;&emsp;“(iii)
 

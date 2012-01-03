@@ -14,13 +14,13 @@
 
 &emsp;(1) when seed grown in the United States is returned from a foreign country without having been admitted into the commerce of any foreign country: <i>Provided</i>, That there is satisfactory proof as provided for in the joint rules and regulations prescribed under section 1592 of this title, that the seed was grown in the United States and was not admitted into the commerce of a foreign country and was not commingled with other seed, or
 
-&emsp;(2) when seed is imported for sowing for experimental or breeding purposes and not for sale: <i>Provided</i>, That declarations are filed, andimportations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
+&emsp;(2) when seed is imported for sowing for experimental or breeding purposes and not for sale: <i>Provided</i>, That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
 
 (Aug. 9, 1939, ch. 615, title III, §302, 53 Stat. 1283; Pub. L. 85–581, §§13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, §5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, §301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, §361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, §441(2), Dec. 8, 1994, 108 Stat. 4973.)
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–465, §441(2)(A), struck out “staining,” before “cleaning, labeling,” in two places.
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §441(2)(A), struck out “staining,” before “cleaning, labeling,” in two places.
 
 Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply—
 
@@ -28,23 +28,23 @@ Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read a
 
 &emsp;“(2) when seeds otherwise required to be stained will not be sold within the United States and will be used for seed production only by or for the importer or consignee and the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seeds will be used only for seed production by or for the importer or consignee.”
 
-1993—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
+<b>1993</b>—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
 
-1988—Pub. L. 100–449 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.”
+<b>1988</b>—Pub. L. 100–449 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.”
 
-1983—Subsec. (a). Pub. L. 97–439, §5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
+<b>1983</b>—Subsec. (a). Pub. L. 97–439, §5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
 
 Subsec. (d). Pub. L. 97–439, §5(b)(3)(A), struck out “that is adulterated or unfit for seeding purposes” after “importation of seed” in provisions preceding par. (1).
 
 Subsec. (d)(3). Pub. L. 97–439, §5(b)(3)(B), struck out cl. (3) which described the situation when seed not meeting the pure-live seed requirements of section 1584 of this title would not be sold within the United States and would be used for seed production only by or for the importer or consignee, providing that the importer of record or consignee filed a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed would be used only for seed production by or for the importer or consignee.
 
-1966—Subsec. (a). Pub. L. 89–686, §15, authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
+<b>1966</b>—Subsec. (a). Pub. L. 89–686, §15, authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
 
 Subsec. (d)(3). Pub. L. 89–686, §16, added par. (3).
 
 Subsec. (e). Pub. L. 89–686, §17, added subsec. (e).
 
-1958—Subsec. (a). Pub. L. 85–851, §13, inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
+<b>1958</b>—Subsec. (a). Pub. L. 85–851, §13, inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
 
 Subsec. (d). Pub. L. 85–581, §14, added subsec. (d).
 

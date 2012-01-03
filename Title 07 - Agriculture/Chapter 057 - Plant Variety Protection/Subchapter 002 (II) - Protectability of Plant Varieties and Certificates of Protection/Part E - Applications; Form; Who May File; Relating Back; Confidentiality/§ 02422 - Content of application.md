@@ -16,7 +16,7 @@ An application for a certificate recognizing plant variety rights shall contain:
 
 #### Amendments
 
-1994—Par. (1). Pub. L. 103–349, §4(1), inserted at end “The variety shall be named in accordance with regulations issued by the Secretary.”
+<b>1994</b>—Par. (1). Pub. L. 103–349, §4(1), inserted at end “The variety shall be named in accordance with regulations issued by the Secretary.”
 
 Par. (2). Pub. L. 103–349, §4(2), in first sentence substituted “distinctiveness, uniformity, and stability” for “novelty”.
 
@@ -26,7 +26,7 @@ Par. (4). Pub. L. 103–349, §4(3), (5), redesignated par. (3) as (4) and inser
 
 Par. (5). Pub. L. 103–349, §4(3), redesignated par. (4) as (5).
 
-1980—Par. (3). Pub. L. 96–574 struck out provisions relating to adding of declaration by amendment.
+<b>1980</b>—Par. (3). Pub. L. 96–574 struck out provisions relating to adding of declaration by amendment.
 
 #### Effective Date of 1994 Amendment
 

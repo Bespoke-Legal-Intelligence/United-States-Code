@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the taxpayer makes an election under this subsection for the taxable year,
 
-> then the amount included in gross income under this section for the taxable year by reason of the receipt of such portion shall not exceed the sum of the increases in gross income under this chapter for prior taxable years which would resultsolely from taking into account such portion in the taxable years to which it is attributable.
+> then the amount included in gross income under this section for the taxable year by reason of the receipt of such portion shall not exceed the sum of the increases in gross income under this chapter for prior taxable years which would result solely from taking into account such portion in the taxable years to which it is attributable.
 
 #### (2) Special rules
 
@@ -214,7 +214,7 @@ Subsec. (d)(4). Pub. L. 98–76 inserted “3(f)(3),” after “3(a),”.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) ofPub. L. 108–357, set out as a note under section 56 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -228,7 +228,7 @@ Pub. L. 105–277, div. J, title IV, §4003(<i>l</i>), Oct. 21, 1998, 112 Stat. 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 36C of this title.
+Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1807(e) of Pub. L. 104–188, set out as an Effective Date note under section 23 of this title.
 
 #### Effective Date of 1994 Amendment
 

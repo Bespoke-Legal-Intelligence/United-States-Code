@@ -74,7 +74,7 @@ Military-to-Military Contacts Defined.—In this section, the term “military-t
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to theCode, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
 
@@ -99,6 +99,52 @@ Subsec. (e)(5). Pub. L. 110–417 added par. (5).
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–417, \[div. A\], title XII, §1202(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under section 168 of title 10, United States Code, as so amended, that begin on or after that date.”
+
+#### Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense
+
+Pub. L. 112–81, div. A, title X, §1081, Dec. 31, 2011, 125 Stat. 1599, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries in order to—
+
+&emsp;“(1) provide institutional, ministerial-level advice, and other training to personnel of the ministry to which assigned in support of stabilization or post-conflict activities; or
+
+&emsp;“(2) assist such ministry in building core institutional capacity, competencies, and capabilities to manage defense-related processes.
+
+“(b)
+
+Termination of Authority.—
+
+&emsp;“(1)
+
+In general.—The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2014.
+
+&emsp;“(2)
+
+Continuation of assignments.—Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for fiscal year 2012, 2013, or 2014.
+
+“(c)
+
+Annual Report.—Not later than December 30 each year through 2014, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+
+&emsp;“(1) A list of the defense ministries to which civilian employees were assigned under the program.
+
+&emsp;“(2) A statement of the number of such employees so assigned.
+
+&emsp;“(3) A statement of the duration of the various assignments of such employees.
+
+&emsp;“(4) A brief description of the activities carried out such by such employees pursuant to such assignments.
+
+&emsp;“(5) A description of the criteria used to select the defense ministries identified in paragraph (1) and the civilian employees so assigned.
+
+&emsp;“(6) A statement of the cost of each such assignment.
+
+&emsp;“(7) Recommendations, if any, about changes to the authority, including an assessment of whether expanding the program authority to include assignments to bilateral, regional, or multilateral international security organizations would advance the national security interests of the United States.
+
+“(d)
+
+Comptroller General Report.—Not later than December 30, 2013, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (c) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
 
 #### Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries
 
@@ -176,7 +222,7 @@ Duration of Authority.—The authority under this section shall expire on Septem
 
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 
-Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, §1246(d), Oct. 28, 2009, 123 Stat. 2545, provided that:
+Pub. L. 106–65, div. A, title XII, §1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, §1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, §1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that:
 
 “(a)
 
@@ -212,11 +258,7 @@ Covered Exchanges and Contacts.—Subsection (a) applies to any military-to-mili
 
 “(c)
 
-Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.
-
-“(d)
-
-Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).”
+Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.”
 
 #### Agreements for Exchange of Defense Personnel Between United States and Foreign Countries
 

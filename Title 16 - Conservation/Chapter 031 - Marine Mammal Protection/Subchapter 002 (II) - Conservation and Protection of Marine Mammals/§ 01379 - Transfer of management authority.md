@@ -42,7 +42,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;(A) such determination shall be treated, for purposes of applying this subchapter beyond the territory of the State, as a determination made in accordance with section 1373 of this title and as an applicable waiver under section 1371(a)(3) of this title;
 
-&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocations specified under such an agreement, the taking of the species—
+&emsp;(B) the Secretary shall regulate, without regard to this section other than the allocationsspecified under such an agreement, the taking of the species—
 
 &emsp;&emsp;(i) incidentally in the course of commercial fishing operations (whether provided for under section 1371(a)(2) or (4) of this title), or in the course of other specified activities provided for under section 1371(a)(5) of this title, in the zone described in section 1362(14)(B) <sup>1</sup> of this title, and
 
@@ -80,7 +80,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
-&emsp;(i) the Secretary provides to the State a written notice of intent to revoke together with a statement, in detail, of those actions, or failures to act, on which such intent is based; and
+&emsp;(i) the Secretary provides to the State a written notice of intent to revoke togetherwith a statement, in detail, of those actions, or failures to act, on which such intent is based; and
 
 &emsp;(ii) during the ninety-day period after the date of the notice of intent to revoke—
 
@@ -88,7 +88,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
-(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and providefor the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
+(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
 
 #### (f) Transfer of management authority to State of Alaska
 

@@ -2,7 +2,7 @@
 
 In any case in which—
 
-&emsp;(1) the rate of pay of any employee or position, or class of employees or positions, the pay for whom or for which is disbursed by the Chief Administrative Officer of the House of Representatives, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or House resolution; and
+&emsp;(1) the rate of pay of any employee or position, or class of employees or positions, the pay for whom or for which is disbursed by theChief Administrative Officer of the House of Representatives, or any maximum or minimum rate with respect to any such employee, position, or class, is referred to in or provided by statute or House resolution; and
 
 &emsp;(2) the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
 
@@ -16,7 +16,7 @@ Section 334 of this title, referred to in text, was repealed by Pub. L. 104–18
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;The term “qualified securities” means employer securities (as defined in section 409(<i>l</i>)) which—
 
-&emsp;&emsp;(A) are issued by a domestic C corporation that has no stock outstanding that is readilytradable on an established securities market, and
+&emsp;&emsp;(A) are issued by a domestic C corporation that has no stock outstanding that is readily tradable on an established securities market, and
 
 &emsp;&emsp;(B) were not received by the taxpayer in—
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (D) Security defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “security” has the meaning given such term by section 165(g)(2), except that such term shall not include any security issued by a government or political subdivision thereof.
+&emsp;&emsp;For purposes of this paragraph, the term “security” has the meaning given such termby section 165(g)(2), except that such term shall not include any security issued by a government or political subdivision thereof.
 
 #### (5) Securities sold by underwriter
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized byreason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -308,7 +308,7 @@ Amendment by section 1316(d)(3) of Pub. L. 104–188 applicable to taxable years
 
 Amendment by section 1311(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 
-Amendment by section 1616(b)(13) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by section 1616(b)(13) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31,1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -326,7 +326,7 @@ Amendment by section 1854(a)(3)(B) of Pub. L. 99–514 applicable to sales of se
 
 Section 1854(a)(6)(B)–(D) of Pub. L. 99–514 provided that:
 
-“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply tosales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
+“(B) The amendment made by subparagraph (A) \[amending this section\] shall apply to sales after March 28, 1985, except that such amendment shall not apply to sales made before July 1, 1985, if made pursuant to a binding contract in effect on March 28, 1985, and at all times thereafter.
 
 “(C) The amendment made by subparagraph (A) shall not apply to any sale occurring on December 20, 1985, with respect to which—
 

@@ -50,7 +50,7 @@ Term defined.—In this subsection, the term “design-build project”—
 
 &emsp;(2)
 
-Financial assistance for capital costs.—Federal financial assistance under this chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
+Financial assistance for capital costs.—Federal financial assistance underthis chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
 
 (e)
 
@@ -108,7 +108,7 @@ Criteria.—Before making an award to a contractor under paragraph (1), a recipi
 
 &emsp;&emsp;(D) the contractor's financial and technical resources.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L.109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 825; Pub. L. 104–287, §5(16), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3022, June 9, 1998, 112 Stat. 363; Pub. L. 105–206, title IX, §9009(n), July 22, 1998, 112 Stat. 857; Pub. L. 107–217, §3(n)(2), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 109–59, title III, §3025(a), Aug. 10, 2005, 119 Stat. 1620; Pub. L. 110–244, title II, §201(k), June 6, 2008, 122 Stat. 1611.)
 
 Historical and Revision Notes
 

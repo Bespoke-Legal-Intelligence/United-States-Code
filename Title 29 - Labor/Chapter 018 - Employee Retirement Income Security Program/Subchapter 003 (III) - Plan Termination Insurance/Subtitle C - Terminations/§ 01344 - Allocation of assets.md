@@ -36,7 +36,7 @@ For purposes of subsection (a) of this section—
 
 &emsp;(2) If the assets available for allocation under any paragraph of subsection (a) of this section (other than paragraphs (4), (5), and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the present value (as of the termination date) of their respective benefits described in that paragraph.
 
-&emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficientto satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
+&emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficient to satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
 
 &emsp;(4) This paragraph applies if the assets available for allocation under paragraph (5) of subsection (a) of this section are not sufficient to satisfy in full the benefits of individuals described in that paragraph.
 
@@ -148,7 +148,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 &emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, titleXI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### References in Text
 
@@ -224,7 +224,7 @@ Amendment by section 7894(g)(2) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Section 9311(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat.2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
+Section 9311(d) of Pub. L. 100–203, as amended by Pub. L. 101–239, title VII, §7881(e)(2), Dec. 19, 1989, 103 Stat. 2439, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to—
 
 &emsp;“(1) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
 
@@ -246,5 +246,5 @@ Section 9311(a)(2) of Pub. L. 100–203, as amended by Pub. L. 101–239, title 
 
 #### Special Temporary Rule for Termination of Single-Employer Plan
 
-For special temporary rule relating to requirements to be met before the final distribution of assets in the case of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
+For special temporary rule relating to requirements to be met before the final distribution of assets in thecase of the termination of certain single-employer plans with respect to which the amount payable to the employer pursuant to subsec. (d) of this section exceeds $1,000,000, see section 11008(d) of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

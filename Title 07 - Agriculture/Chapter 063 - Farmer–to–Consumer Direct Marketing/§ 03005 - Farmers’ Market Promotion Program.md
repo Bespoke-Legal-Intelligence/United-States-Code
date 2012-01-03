@@ -80,7 +80,7 @@ A prior section 3005, Pub. L. 94–463, §6, Oct. 8, 1976, 90 Stat. 1983; Pub. L
 
 #### Amendments
 
-2008—Subsec. (a). Pub. L. 110–246, §10106(1), inserted “and to promote direct producer-to-consumer marketing” before period at end.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10106(1), inserted “and to promote direct producer-to-consumer marketing” before period at end.
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §10106(2)(A), inserted “agri-tourism activities,” after “programs,”.
 

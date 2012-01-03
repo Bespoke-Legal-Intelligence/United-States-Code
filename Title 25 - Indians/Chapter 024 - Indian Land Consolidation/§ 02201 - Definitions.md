@@ -34,7 +34,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(B) lineal descendents within 2 degrees of consanguinity of an Indian; or
 
-&emsp;&emsp;(C) owners of a trust or restricted interest in a parcel of land for purposes of inheriting by descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
+&emsp;&emsp;(C) owners of a trust or restricted interest in a parcel of land for purposes of inheritingby descent, renunciation, or consolidation agreement under section 2206 of this title, another trust or restricted interest in such parcel from the decedent; and
 
 &emsp;(10) “without regard to waste” means, with respect to a life estate interest in land, that the holder of such estate is entitled to the receipt of all income, including bonuses and royalties, from such land to the exclusion of the remaindermen.
 
@@ -136,7 +136,7 @@ Pub. L. 108–374, §1, Oct. 27, 2004, 118 Stat. 1773, provided that: “This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and 2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
+Pub. L. 106–462, §1, Nov. 7, 2000, 114 Stat. 1991, provided that: “This Act \[enacting sections 2205, 2206, and2212 to 2219 of this title, amending this section and sections 348, 372, 373, 464, 2204, and 2207 of this title, repealing sections 331 to 333, 2205, and 2206 of this title, and enacting provisions set out as notes under this section and sections 396 and 2206 of this title\] may be cited as the ‘Indian Land Consolidation Act Amendments of 2000’.”
 
 #### Short Title of 1991 Amendment
 
@@ -152,7 +152,7 @@ Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Se
 
 #### Severability
 
-Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
 #### Congressional Findings
 

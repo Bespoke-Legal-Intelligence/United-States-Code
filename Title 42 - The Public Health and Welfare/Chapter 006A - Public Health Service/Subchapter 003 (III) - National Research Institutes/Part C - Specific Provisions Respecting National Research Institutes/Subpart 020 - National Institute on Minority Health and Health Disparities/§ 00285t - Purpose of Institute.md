@@ -62,7 +62,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 &emsp;&emsp;(F) review the plan and budget not less than annually, and revise the plan and budget as appropriate;
 
-&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agencies for the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
+&emsp;&emsp;(G) ensure that the plan and budget serve as a broad, binding statement of policies regarding minority health disparities research and other health disparities research activities of the agencies, but do not remove the responsibility of the heads of the agenciesfor the approval of specific programs or projects, or for other details of the daily administration of such activities, in accordance with the plan and budget; and
 
 &emsp;&emsp;(H) promote coordination and collaboration among the agencies conducting or supporting minority health or other health disparities research.
 
@@ -110,7 +110,7 @@ The Director of the Institute shall work with the Director of NIH and the direct
 
 In carrying out subsection (a) of this section, the Director of the Institute—
 
-&emsp;(1) shall assist the Director of the National Institute <sup>4</sup> for Research Resources in carrying out section 287a–1(c)(3) <sup>5</sup> of this title and in committing resources for construction at Institutions of Emerging Excellence;
+&emsp;(1) shall assist the Director of NIH in carrying out section 283k(c)(2) of this title and in committing resources for construction at Institutions of Emerging Excellence under such section;
 
 &emsp;(2) shall establish projects to promote cooperation among Federal agencies, State, local, tribal, and regional public health agencies, and private entities in health disparities research; and
 
@@ -126,17 +126,19 @@ In carrying out subsection (a) of this section, the Director of the Institute—
 
 &emsp;With respect to the membership of the advisory council under paragraph (1), a majority of the members shall be individuals with demonstrated expertise regarding minority health disparity and other health disparity issues; representatives of communities impacted by minority and other health disparities shall be included; and a diversity of health professionals shall be represented. The membership shall in addition include a representative of the Office of Behavioral and Social Sciences Research under section 283c of this title.
 
-#### (h) <sup>6</sup> Interagency coordination
+#### (h) <sup>4</sup> Interagency coordination
 
-The Director of the Institute, as the primary Federal officials <sup>7</sup> with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review and evaluate research and other activities conducted or supported by the Institutes and Centers of the National Institutes of Health.
+The Director of the Institute, as the primary Federal officials <sup>5</sup> with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review and evaluate research and other activities conducted or supported by the Institutes and Centers of the National Institutes of Health.
 
-(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973.)
+(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L.109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090.)
 
 #### Codification
 
 Section was formerly classified to section 287c–31 of this title prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (i)(1). Pub. L. 112–74 substituted “Director of NIH” for “Director of the National Institute for Research Resources” and “283k(c)(2)” for “287a–1(c)(3)” and inserted “under such section” after “Institutions of Emerging Excellence”.
 
 <b>2010</b>—Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Institute” for “Center” in section catchline.
 
@@ -184,7 +186,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 &emsp;“(1) Despite notable progress in the overall health of the Nation, there are continuing disparities in the burden of illness and death experienced by African Americans, Hispanics, Native Americans, Alaska Natives, and Asian Pacific Islanders, compared to the United States population as a whole.
 
-&emsp;“(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do membersof minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia, where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
+&emsp;“(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do members of minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia, where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
 
 &emsp;“(3) There is a national need for minority scientists in the fields of biomedical, clinical, behavioral, and health services research. Ninety percent of minority physicians educated at Historically Black Medical Colleges live and serve in minority communities.
 
@@ -202,7 +204,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 &emsp;“(10) Federal agencies should work in concert with the private nonprofit sector to emphasize the recruitment and retention of qualified individuals from ethnic and gender groups that are currently underrepresented in the scientific, technological, and engineering workforce.
 
-&emsp;“(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness. These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities.”
+&emsp;“(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness.These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities.”
 
 #### Public Awareness and Dissemination of Information on Health Disparities
 
@@ -236,11 +238,7 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 <i><sup>3</sup></i><i> So in original. Probably should be “(B)”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “Center”.</i>
+<i><sup>4</sup></i><i> So in original. Another subsec. (h) is set out preceding subsec. (i).</i>
 
-<i><sup>5</sup></i><i> So in original. Section 287a–1 of this title does not contain subsections.</i>
-
-<i><sup>6</sup></i><i> So in original. Another subsec. (h) is set out preceding subsec. (i).</i>
-
-<i><sup>7</sup></i><i> So in original.</i>
+<i><sup>5</sup></i><i> So in original.</i>
 

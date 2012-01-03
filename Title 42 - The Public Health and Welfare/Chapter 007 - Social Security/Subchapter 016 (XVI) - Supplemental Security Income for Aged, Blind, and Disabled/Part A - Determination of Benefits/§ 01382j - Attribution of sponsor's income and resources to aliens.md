@@ -20,7 +20,7 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
-&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs\(A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
+&emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs (A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
 
 #### (c) Support and maintenance
 
@@ -28,7 +28,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (d) Information and documentation; agreements with Secretary of State and Attorney General
 
-(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
+(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentationas the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
 (2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 

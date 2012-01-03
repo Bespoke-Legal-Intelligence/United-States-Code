@@ -10,7 +10,7 @@ The Congress finds that the long-term interests of the United States are served 
 
 &emsp;(1) The United States International Television Service will serve as a consistently reliable and authoritative source of news. The United States International Television Service news will be accurate and objective.
 
-&emsp;(2) The United States International Television Service will represent the United States, not any single segment of American society and will, therefore, present a balanced and comprehensive projection of significant American thought and institutions.
+&emsp;(2) The United States International Television Service will represent the UnitedStates, not any single segment of American society and will, therefore, present a balanced and comprehensive projection of significant American thought and institutions.
 
 &emsp;(3) The United States International Television Service will present the policies of the United States clearly and effectively and will also present responsible discussions and opinion on these policies.
 

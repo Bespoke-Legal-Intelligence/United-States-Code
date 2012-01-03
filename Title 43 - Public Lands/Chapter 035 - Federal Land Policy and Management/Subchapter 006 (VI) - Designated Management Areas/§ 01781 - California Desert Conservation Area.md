@@ -42,7 +42,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 (1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as “advisory committee”) in accordance with the provisions of section 1739 of this title.
 
-(2) It shall be the function of the advisory committee to advise the Secretary with respect to the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
+(2) It shall be the function of the advisory committee to advise the Secretary with respectto the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
 
 #### (h) Management of lands under jurisdiction of Secretary of Agriculture and Secretary of Defense
 
@@ -80,7 +80,7 @@ Designation.—There is hereby established the Desert Lily Sanctuary within the 
 
 “(b)
 
-Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary arehereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
+Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
 
 #### Dinosaur Trackway Area of Critical Environmental Concern
 

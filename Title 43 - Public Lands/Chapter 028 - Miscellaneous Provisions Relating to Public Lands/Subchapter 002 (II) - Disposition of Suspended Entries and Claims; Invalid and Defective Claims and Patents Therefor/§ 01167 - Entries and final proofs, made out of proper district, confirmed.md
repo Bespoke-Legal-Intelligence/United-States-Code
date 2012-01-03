@@ -6,7 +6,7 @@ Whenever it shall appear to the Secretary of the Interior, or such officer as he
 
 #### References in Text
 
-Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which wasclassified to section 254 of this title and was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
+Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which was classified to section 254 of this title and was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(v) support for the identification of eligible providers of training services as required under section 2842 of this title;
 
-&emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may includean individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
+&emsp;&emsp;&emsp;(vi)(I) implementation of innovative programs for displaced homemakers, which for purposes of this subclause may include an individual who is receiving public assistance and is within 2 years of exhausting lifetime eligibility under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); and
 
 &emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
 
@@ -208,7 +208,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;Such intensive services may include the following:
 
-&emsp;&emsp;&emsp;(i) Comprehensive and specialized assessments of the skill levels and service needsof adults and dislocated workers, which may include—
+&emsp;&emsp;&emsp;(i) Comprehensive and specialized assessments of the skill levels and service needs of adults and dislocated workers, which may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) diagnostic testing and use of other assessment tools; and
 
@@ -294,7 +294,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;Each local board, through one-stop centers referred to in subsection (c) of this section, shall make available—
 
-&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description ofthe programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
 

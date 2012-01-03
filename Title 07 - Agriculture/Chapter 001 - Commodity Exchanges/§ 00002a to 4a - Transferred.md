@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 2a, act Sept. 21, 1922, ch. 369, §2(a)(1)(C), formerly §2(a)(1)(B), as added Pub. L. 97–444, title I, §101(a)(3), Jan. 11, 1983, 96 Stat. 2294, as amended and renumbered, which related to designation of boards of trade as contract markets and approval by and jurisdiction of Commodity Futures Trading Commission and Securities and Exchange Commission, was transferred to section 2(a)(1)(C) of this title.
+Section 2a, act Sept. 21, 1922, ch. 369, §2(a)(1)(C), formerly §2(a)(1)(B), as added Pub. L. 97–444, title I, §101(a)(3), Jan. 11, 1983, 96 Stat. 2294, as amended and renumbered, which related to designation of boards of trade as contract markets and approval by and jurisdiction of Commodity Futures Trading Commission andSecurities and Exchange Commission, was transferred to section 2(a)(1)(C) of this title.
 
 Section 3, act Sept. 21, 1922, ch. 369, §2(b), 42 Stat. 998, as amended, which related to transactions in interstate commerce, was transferred to section 2(b) of this title.
 

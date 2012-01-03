@@ -88,7 +88,7 @@ No deduction shall be allowed under subsection (a) for any qualified refinery pr
 
 #### (3) Written notice to owners
 
-&emsp;If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
+&emsp;If any portion of the deduction available under subsection (a) is allocated to ownersunder paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
 #### (h) Reporting
 

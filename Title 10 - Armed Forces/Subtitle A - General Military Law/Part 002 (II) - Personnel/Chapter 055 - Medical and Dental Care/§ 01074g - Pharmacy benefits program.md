@@ -28,7 +28,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (6)(A) The Secretary, in the regulations prescribed under subsection (g),<sup>1</sup> may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.
 
-(B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
+(B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excessof the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
 
 (7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
@@ -38,7 +38,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 Establishment of Committee.—(1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (g).<sup>1</sup>
 
-(2) Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee shall meet at least quarterly and shall, during meetings, considerfor inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
+(2) Not later than 90 days after the establishment of the Pharmacy and Therapeutics Committee by the Secretary, the committee shall convene to design a proposed uniform formulary for submission to the Secretary. After such 90-day period, the committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
 (c)
 
@@ -104,7 +104,7 @@ Subsec. (c)(2). Pub. L. 108–136, §725(2), substituted “represent—” for 
 
 <b>2000</b>—Subsec. (a)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
 
-Subsec. (a)(7). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(B)\], substituted “that are not included onthe uniform formulary but that are” for “not included on the uniform formulary, but,”.
+Subsec. (a)(7). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(B)\], substituted “that are not included on the uniform formulary but that are” for “not included on the uniform formulary, but,”.
 
 Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(C)\], substituted “prescribed under” for “required by” in last sentence.
 
@@ -206,7 +206,7 @@ Inclusion of certain over-the-counter drugs.—(A) As part of the demonstration 
 
 &emsp;“(2)
 
-Conduct through military facilities, retail pharmacies, or mail order program.—The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in eachTRICARE region for each of the two means described in such subparagraph.
+Conduct through military facilities, retail pharmacies, or mail order program.—The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in each TRICARE region for each of the two means described in such subparagraph.
 
 &emsp;“(3)
 

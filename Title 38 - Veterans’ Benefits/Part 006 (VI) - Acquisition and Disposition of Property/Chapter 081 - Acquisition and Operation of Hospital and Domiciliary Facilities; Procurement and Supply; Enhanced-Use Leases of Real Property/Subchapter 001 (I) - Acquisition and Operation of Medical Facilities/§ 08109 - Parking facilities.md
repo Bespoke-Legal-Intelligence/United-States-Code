@@ -44,7 +44,7 @@
 
 (f) The Secretary may contract (by lease or otherwise) for the operation of parking facilities at medical facilities under such terms and conditions as the Secretary prescribes and may do so without regard to laws requiring full and open competition.
 
-(g) Subject to subsections (h) and (i) of this section, there are authorized to be appropriated such amounts as are necessary to finance (in whole or in part) the construction, alteration,and acquisition (including site acquisition) of parking facilities at medical facilities.
+(g) Subject to subsections (h) and (i) of this section, there are authorized to be appropriated such amounts as are necessary to finance (in whole or in part) the construction, alteration, and acquisition (including site acquisition) of parking facilities at medical facilities.
 
 (h)(1) Amounts appropriated pursuant to subsection (g) of this section and parking fees collected under subsection (c) of this section shall be administered as a revolving fund and shall be available without fiscal year limitation.
 

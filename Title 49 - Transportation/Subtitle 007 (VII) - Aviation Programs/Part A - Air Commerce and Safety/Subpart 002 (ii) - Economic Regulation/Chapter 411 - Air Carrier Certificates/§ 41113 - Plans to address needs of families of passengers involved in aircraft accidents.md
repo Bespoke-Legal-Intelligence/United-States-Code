@@ -8,7 +8,7 @@ Submission of Plans.—Each air carrier holding a certificate of public convenie
 
 Contents of Plans.—A plan to be submitted by an air carrier under subsection (a) shall include, at a minimum, the following:
 
-&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, to handle calls from the families of the passengers.
+&emsp;(1) A plan for publicizing a reliable, toll-free telephone number, and for providing staff, tohandle calls from the families of the passengers.
 
 &emsp;(2) A process for notifying the families of the passengers, before providing any public notice of the names of the passengers, either by utilizing the services of the organization designated for the accident under section 1136(a)(2) of this title or the services of other suitably trained individuals.
 

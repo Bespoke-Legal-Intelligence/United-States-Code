@@ -10,7 +10,7 @@ R.S. §82 derived from acts Apr. 24, 1800, ch. 37, §5, 2 Stat. 56, and Jan. 26,
 
 #### Amendments
 
-1946—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
+<b>1946</b>—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
 
 #### Effective Date of 1946 Amendment
 

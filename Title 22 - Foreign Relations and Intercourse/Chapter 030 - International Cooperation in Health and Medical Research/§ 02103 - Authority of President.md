@@ -14,7 +14,7 @@ To carry out his responsibilities under this chapter the President may—
 
 &emsp;(1) establish and maintain fellowships in participating foreign countries;
 
-&emsp;(2) make financial grants to establish and maintain fellowships, and for other purposes, to public institutions and agencies and to nonprofit private institutions and agencies, and to individuals in participating foreign countries, or contract with such institutions, agencies, or individuals without regard to section3324(a) and (b) of title 31 and section 6101 of title 41;
+&emsp;(2) make financial grants to establish and maintain fellowships, and for other purposes, to public institutions and agencies and to nonprofit private institutions and agencies, and to individuals in participating foreign countries, or contract with such institutions, agencies, or individuals without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41;
 
 &emsp;(3) make grants or loans of equipment, medical, biological, physical, or chemical substances or other materials, for use by such institutions, agencies, or individuals;
 
@@ -48,7 +48,7 @@ In order to carry out the purposes of section 2101 of this title, and subject to
 
 For the purposes of this section—
 
-&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations, and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
+&emsp;(1) the term “health research” shall include, but not be limited to, research, investigations,and studies relating to causes and methods of prevention of accidents, including but not limited to highway and aviation accidents.
 
 &emsp;(2) the term “participating foreign countries” means those foreign countries which cooperate with the United States in carrying out the purposes of this section.
 

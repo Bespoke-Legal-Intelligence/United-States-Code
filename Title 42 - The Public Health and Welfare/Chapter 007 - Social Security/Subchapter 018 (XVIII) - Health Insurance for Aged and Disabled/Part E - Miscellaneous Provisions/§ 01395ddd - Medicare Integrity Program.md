@@ -38,7 +38,7 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 #### (d) Process for entering into contracts
 
-The Secretary shall enter into contracts under the Program in accordance with such procedures as the Secretary shall by regulation establish, except that such procedures shall include the following:
+The Secretary shall enter into contracts under the Program in accordance with such procedures as the Secretary shall by regulation establish,except that such procedures shall include the following:
 
 &emsp;(1) Procedures for identifying, evaluating, and resolving organizational conflicts of interest that are generally applicable to Federal acquisition and procurement.
 
@@ -214,7 +214,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Reporting requirements
 
-&emsp;&emsp;The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Directorof the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title). Such information shall be disseminated no less frequently than quarterly.
+&emsp;&emsp;The Secretary shall make available in a timely manner any data and statistical information collected by the Medi-Medi Program to the Attorney General, the Director of the Federal Bureau of Investigation, the Inspector General of the Department of Health and Human Services, and the States (including a Medicaid fraud and abuse control unit described in section 1396b(q) of this title). Such information shall be disseminated no less frequently than quarterly.
 
 #### (2) Limited waiver authority
 
@@ -286,7 +286,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 &emsp;&emsp;(B) ensure that each prescription drug plan under part D has an anti-fraud plan in effect and to review the effectiveness of each such anti-fraud plan;
 
-&emsp;&emsp;(C) examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drugplans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
+&emsp;&emsp;(C) examine claims for reinsurance payments under section 1395w–115(b) of this title to determine whether prescription drug plans submitting such claims incurred costs in excess of the allowable reinsurance costs permitted under paragraph (2) of that section; and
 
 &emsp;&emsp;(D) review estimates submitted by prescription drug plans by private plans with respect to the enrollment of high cost beneficiaries (as defined by the Secretary) and to compare such estimates with the numbers of such beneficiaries actually enrolled by such plans.
 
@@ -309,8 +309,6 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 #### References in Text
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
-
-Parts C and D, referred to in subsec. (h)(3), (9), are classified to sections 1395w–21 et seq. and 1395w–101 et seq., respectively, of this title.
 
 #### Amendments
 

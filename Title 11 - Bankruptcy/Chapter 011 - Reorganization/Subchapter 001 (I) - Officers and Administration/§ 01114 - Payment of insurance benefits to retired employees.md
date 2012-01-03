@@ -70,7 +70,7 @@
 
 #### Amendments
 
-2005—Subsec. (d). Pub. L. 109–8, §447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
+<b>2005</b>—Subsec. (d). Pub. L. 109–8, §447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
 
 Subsecs. (<i>l</i>), (m). Pub. L. 109–8, §1403, added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 

@@ -19,7 +19,7 @@
 
 <b>2004</b>—Pub. L. 108–454, title V, §§501(a)(2), 502(b), 504(a)(2), 505(b), Dec. 10, 2004, 118 Stat. 3617, 3619, 3621, 3622, added items 5506 to 5510.
 
-<b>1994</b>—Pub. L. 103–446, title XII, §1201(g)(4)(B), Nov. 2, 1994, 108 Stat. 4687, struck out item 5505 “Limitation oncompensation payments for certain incompetent veterans”.
+<b>1994</b>—Pub. L. 103–446, title XII, §1201(g)(4)(B), Nov. 2, 1994, 108 Stat. 4687, struck out item 5505 “Limitation on compensation payments for certain incompetent veterans”.
 
 <b>1991</b>—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3201 to 3205 as 5501 to 5505, respectively.
 

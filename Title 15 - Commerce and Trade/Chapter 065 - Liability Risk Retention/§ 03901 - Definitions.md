@@ -40,11 +40,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group;
 
-&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related withrespect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
+&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related with respect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
 
 &emsp;&emsp;(G) whose activities do not include the provision of insurance other than—
 
-&emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similar or related liability exposure of its group members; and
+&emsp;&emsp;&emsp;(i) liability insurance for assuming and spreading all or any portion of the similaror related liability exposure of its group members; and
 
 &emsp;&emsp;&emsp;(ii) reinsurance with respect to the similar or related liability exposure of any other risk retention group (or any member of such other group) which is engaged in businesses or activities so that such group (or member) meets the requirement described in subparagraph (F) for membership in the risk retention group which provides such reinsurance; and
 
@@ -120,7 +120,7 @@ Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of th
 
 Rule Regarding Pollution Liability.—
 
-&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of any person to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
+&emsp;“(2) Nothing in this Act shall be construed, interpreted or applied to diminish the obligations of anyperson to establish or maintain evidence of financial responsibility or otherwise comply with any of the requirements of Federal environmental laws, including but not limited to the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9601 et seq.\] and the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\].”
 
 #### Short Title of 1986 Amendment
 

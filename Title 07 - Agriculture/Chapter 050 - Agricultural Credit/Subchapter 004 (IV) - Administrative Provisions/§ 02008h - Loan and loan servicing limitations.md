@@ -52,9 +52,9 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
-2002—Subsec. (b)(2)(A)(iii). Pub. L. 107–171 added cl. (iii).
+<b>2002</b>—Subsec. (b)(2)(A)(iii). Pub. L. 107–171 added cl. (iii).
 
-1998—Subsec. (b). Pub. L. 105–277 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+<b>1998</b>—Subsec. (b). Pub. L. 105–277 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
 “(1)
 

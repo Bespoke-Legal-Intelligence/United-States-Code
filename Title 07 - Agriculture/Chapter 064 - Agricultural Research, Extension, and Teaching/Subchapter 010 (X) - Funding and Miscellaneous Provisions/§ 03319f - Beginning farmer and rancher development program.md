@@ -210,7 +210,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-2008—Subsec. (c)(3). Pub. L. 110–246, §7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
+<b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §7410(a)(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term of a grant under this subsection shall not exceed 3 years.”
 
 Subsec. (c)(5) to (10). Pub. L. 110–246, §7410(a)(2), (3), added pars. (5) to (7) and redesignated former pars. (5) to (7) as (8) to (10), respectively.
 

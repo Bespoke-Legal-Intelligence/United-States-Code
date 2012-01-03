@@ -16,7 +16,7 @@
 | [2614\.](%C2%A7%2002614%20-%20Jurisdiction%20of%20courts%3B%20limitations.md) | Jurisdiction of courts; limitations. |
 | [2615\.](%C2%A7%2002615%20-%20Contracts%20and%20liens%3B%20validity.md) | Contracts and liens; validity. |
 | [2616\.](%C2%A7%2002616%20-%20State%20laws%20unaffected%3B%20inconsistent%20Federal%20and%20State%20provisions.md) | State laws unaffected; inconsistent Federal and State provisions. |
-| [2617\.](%C2%A7%2002617%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
+| [2617\.](%C2%A7%2002617%20-%20Authority%20of%20Bureau.md) | Authority of Bureau. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,4 +39,4 @@
 - [&sect; 02614 - Jurisdiction of courts; limitations](%C2%A7%2002614%20-%20Jurisdiction%20of%20courts%3B%20limitations.md)
 - [&sect; 02615 - Contracts and liens; validity](%C2%A7%2002615%20-%20Contracts%20and%20liens%3B%20validity.md)
 - [&sect; 02616 - State laws unaffected; inconsistent Federal and State provisions](%C2%A7%2002616%20-%20State%20laws%20unaffected%3B%20inconsistent%20Federal%20and%20State%20provisions.md)
-- [&sect; 02617 - Authority of Secretary](%C2%A7%2002617%20-%20Authority%20of%20Secretary.md)
+- [&sect; 02617 - Authority of Bureau](%C2%A7%2002617%20-%20Authority%20of%20Bureau.md)

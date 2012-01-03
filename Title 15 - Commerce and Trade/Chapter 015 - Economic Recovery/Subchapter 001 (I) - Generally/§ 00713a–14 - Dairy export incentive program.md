@@ -38,7 +38,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (e) Payment rates; publication in Federal Register or other public announcement
 
-(1) The payments made under the program shall be made at a rate or rates established orapproved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
+(1) The payments made under the program shall be made at a rate or rates established or approved by the Secretary, taking into consideration, among other things the type of product to be exported, the domestic price of dairy products, the world price of the dairy products, and any additional amount that may be required to assist in the development of world markets for United States dairy products.
 
 (2) Any such rate established or approved by the Secretary shall be published in the Federal Register or publicly announced through other appropriate means, and shall be at a level or levels as will encourage the exportation of United States dairy products by entities.
 
@@ -92,7 +92,7 @@ Subsec. (d)(2), (3). Pub. L. 100–418 amended pars. (2) and (3) generally. Prio
 
 “(2) If payments in commodities are authorized, such payments may be made through the issuance of certificates redeemable in commodities.
 
-“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shall ensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
+“(3) If payments are authorized to be made in dairy products, the regulations issued by the Secretary shall ensure that such dairy products, or an equal amount of other dairy products, will be sold for export by the entity and that any such export sales by the entity will be in addition to, and not in place of, export sales ofdairy products that the entity would otherwise make under program or in the absence of the program, and, to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.”
 
 #### Effective Date of 2008 Amendment
 

@@ -14,7 +14,7 @@ Whoever shall willfully steal, conceal, remove, dispose of, or convert to his ow
 
 #### (d) Conspiracy to commit offense
 
-Whoever conspires with another to accomplish any of the acts made unlawful by the preceding provisions of this section shall, upon conviction thereof, be subject to the same fine or imprisonment, or both, as is applicable in the case of conviction for doing such unlawful acts.
+Whoever conspires with another to accomplish any of the acts made unlawful by the preceding provisions of this section shall, upon convictionthereof, be subject to the same fine or imprisonment, or both, as is applicable in the case of conviction for doing such unlawful acts.
 
 #### (e) General statutes applicable
 
@@ -28,7 +28,7 @@ No individual, association, partnership, or corporation shall use the words “C
 
 #### Codification
 
-In subsec. (e), “sections 431 and 432 of title 18” substituted for “sections 114 and 115 of the Act of March 4,1909, as amended (18 U.S.C., 1940 edition, 204, 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+In subsec. (e), “sections 431 and 432 of title 18” substituted for “sections 114 and 115 of the Act of March 4, 1909, as amended (18 U.S.C., 1940 edition, 204, 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development accountdirectly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -148,7 +148,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (E) Qualified business capitalization expenses
 
-&emsp;&emsp;The term “qualified business capitalization expenses” means qualified expendituresfor the capitalization of a qualified business pursuant to a qualified plan.
+&emsp;&emsp;The term “qualified business capitalization expenses” means qualified expenditures for the capitalization of a qualified business pursuant to a qualified plan.
 
 #### (F) Qualified expenditures
 
@@ -176,7 +176,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term “qualified principal residence” means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term “qualified principal residence” means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
@@ -216,7 +216,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 &emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803.)
+(Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(<i>l</i>), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803.)
 
 #### References in Text
 
@@ -228,7 +228,7 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), (3)(B)(i), (4), (5)(I), is classified generally to Title 26, Internal Revenue Code.
 
-Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar to those in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
+Section 1088(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed and section 1088(d) was redesignated section 1088(a), by Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617. Provisions similar tothose in former section 1088(a)(1) are now contained in section 1002(a)(1) of Title 20, Education.
 
 Section 1141(a) of title 20, referred to in subsec. (h)(5)(A)(i), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998.
 
@@ -406,7 +406,7 @@ In general.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code;
 
-&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i); or
+&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an applicationunder section 405 jointly with an organization described in clause (i); or
 
 &emsp;&emsp;&emsp;(iii) an entity that—
 
@@ -498,7 +498,7 @@ Qualified business.—The term ‘qualified business’ means any business that 
 
 Qualified plan.—The term ‘qualified plan’ means a business plan, or a plan to use a business asset purchased, which—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is approved by a financial institution, a microenterprise development organization, or anonprofit loan fund having demonstrated fiduciary integrity;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is approved by a financial institution, a microenterprise development organization, or a nonprofit loan fund having demonstrated fiduciary integrity;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) includes a description of services or goods to be sold, a marketing plan, and projected financial statements; and
 
@@ -732,7 +732,7 @@ Limitation on Deposits for a Household.—Not more than $4,000 from a grant made
 
 “(d)
 
-Withdrawal of Funds.—The Secretary shall establish such guidelines as may be necessary to ensurethat funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
+Withdrawal of Funds.—The Secretary shall establish such guidelines as may be necessary to ensure that funds held in an individual development account are not withdrawn, except for one or more qualified expenses, or for an emergency withdrawal. Such guidelines shall include a requirement that a responsible official of the qualified entity conducting a project approve a withdrawal from such an account in writing. The guidelines shall provide that no individual may withdraw funds from an individual development account earlier than 6 months after the date on which the individual first deposits funds in the account.
 
 “(e)
 
@@ -862,7 +862,7 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 
 #### “SEC. 415. NO REDUCTION IN BENEFITS.
 
-“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C.1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 

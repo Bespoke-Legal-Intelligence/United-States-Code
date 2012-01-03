@@ -10,7 +10,7 @@ The date of the enactment of this chapter, referred to in text, is the date of t
 
 #### Amendments
 
-1978—Pub. L. 95–453, §901(c)(1)(B), renumbered section 3396 of this title as this section.
+<b>1978</b>—Pub. L. 95–453, §901(c)(1)(B), renumbered section 3396 of this title as this section.
 
 Pub. L. 95–454, §906(c)(2)(C), substituted “chapter” for “subchapter” wherever appearing.
 

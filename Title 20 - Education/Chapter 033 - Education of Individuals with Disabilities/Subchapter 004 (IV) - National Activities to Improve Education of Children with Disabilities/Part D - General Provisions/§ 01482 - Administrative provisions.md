@@ -4,7 +4,7 @@
 
 #### (1) Development and assessment of projects
 
-&emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract, or cooperative agreement for a project under part B or C—
+&emsp;The Secretary shall require that an applicant for, and a recipient of, a grant, contract,or cooperative agreement for a project under part B or C—
 
 &emsp;&emsp;(A) involve individuals with disabilities or parents of individuals with disabilities ages birth through 26 in planning, implementing, and evaluating the project; and
 

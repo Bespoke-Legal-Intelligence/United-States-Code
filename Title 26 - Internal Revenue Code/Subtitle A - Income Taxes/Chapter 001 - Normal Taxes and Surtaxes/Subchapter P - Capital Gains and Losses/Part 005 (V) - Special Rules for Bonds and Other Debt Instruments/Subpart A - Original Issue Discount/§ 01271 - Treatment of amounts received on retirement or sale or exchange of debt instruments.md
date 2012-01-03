@@ -76,7 +76,7 @@ For purposes of this title—
 
 #### (C) Ratable share
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is anamount which bears the same ratio to such discount as—
 
 &emsp;&emsp;&emsp;(i) the number of days which the taxpayer held the obligation, bears to
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section 44 of subtitle C (§§41–44) of title I of division A of Pub. L. 98–369, as amended by Pub. L. 98–612, §2, Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
+Section 44 of subtitle C (§§41–44) of title I of division A of Pub. L. 98–369, as amended by Pub. L. 98–612, §2,Oct. 31, 1984, 98 Stat. 3182; Pub. L. 99–514, §2, title XVIII, §1803(b), Oct. 22, 1986, 100 Stat. 2095, 2797, provided that:
 
 “(a)
 
@@ -204,7 +204,7 @@ In general.—
 
 &emsp;“(2)
 
-Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interestrates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
+Revision of section 482 regulations.—Not later than 180 days after the date of the enactment of this Act \[July 18, 1984\], the Secretary of the Treasury or his delegate shall modify the safe harbor interest rates applicable under the regulations prescribed under section 482 of the Internal Revenue Code of 1986 so that such rates are consistent with the rates applicable under section 483 of such Code by reason of the amendments made by section 41.
 
 &emsp;“(3)
 
@@ -342,7 +342,7 @@ Obligations described in this subparagraph.—A debt obligation is described in 
 
 &emsp;&emsp;“(C)
 
-Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effectthe purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
+Regulations.—The Secretary shall prescribe such regulations as may be appropriate to effect the purpose of this paragraph and paragraph (5), including regulations relating to tax-exempt obligations, government subsidized loans, or other instruments.
 
 &emsp;&emsp;“(D)
 
@@ -466,7 +466,7 @@ Interest deferral rules.—Section 1277 of such Code (as added by section 41) sh
 
 “(d)
 
-Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P of chapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
+Rules Relating to Discount on Short-Term Obligations.—Subpart C of part V of subchapter P ofchapter 1 of such Code (as added by section 41) shall apply to obligations acquired after the date of the enactment of this Act \[July 18, 1984\].
 
 “(e) 5-
 

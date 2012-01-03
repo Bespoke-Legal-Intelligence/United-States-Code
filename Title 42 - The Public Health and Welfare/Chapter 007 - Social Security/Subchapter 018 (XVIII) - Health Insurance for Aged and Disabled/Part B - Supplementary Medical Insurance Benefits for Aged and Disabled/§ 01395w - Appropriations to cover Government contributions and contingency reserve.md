@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated from time to time, out of any moneys in the Treasurynot otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
+There are authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, to the Federal Supplementary Medical Insurance Trust Fund—
 
 &emsp;(1)(A) a Government contribution equal to the aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in the Trust Fund, multiplied by the ratio of—
 

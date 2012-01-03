@@ -12,5 +12,5 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 #### Amendments
 
-1981—Pub. L. 97–51 substituted “Effective October 1, 1981” for “Effective October 1, 1977” and struck out provisions requiring that all receipts from the sale of furniture and equipment, other than such furniture and equipment as was replaced in kind, be deposited in the United States Treasury as miscellaneous receipts.
+<b>1981</b>—Pub. L. 97–51 substituted “Effective October 1, 1981” for “Effective October 1, 1977” and struck out provisions requiring that all receipts from the sale of furniture and equipment, other than such furniture and equipment as was replaced in kind, be deposited in the United States Treasury as miscellaneous receipts.
 

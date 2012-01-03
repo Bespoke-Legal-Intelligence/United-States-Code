@@ -46,9 +46,9 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e)(1), was in the origin
 
 #### Amendments
 
-2005—Subsec. (e)(2). Pub. L. 109–59 substituted “Sport Fish Restoration and Boating Trust Fund” for “Aquatic Resources Trust Fund of the Highway Trust Fund”.
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59 substituted “Sport Fish Restoration and Boating Trust Fund” for “Aquatic Resources Trust Fund of the Highway Trust Fund”.
 
-2003—Subsec. (e)(2). Pub. L. 108–7 inserted before period at end “, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs”.
+<b>2003</b>—Subsec. (e)(2). Pub. L. 108–7 inserted before period at end “, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs”.
 
 #### Effective Date of 2005 Amendment
 

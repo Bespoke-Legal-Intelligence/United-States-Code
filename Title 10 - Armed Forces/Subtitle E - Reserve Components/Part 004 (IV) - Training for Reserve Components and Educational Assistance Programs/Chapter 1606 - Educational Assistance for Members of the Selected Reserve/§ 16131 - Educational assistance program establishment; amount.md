@@ -34,7 +34,7 @@
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i), the individual's course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
+(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
 (d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistance allowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
 
@@ -84,7 +84,7 @@
 
 (B) The Secretary of Veterans Affairs shall not approve individualized tutorial assistance for a person pursuing a program of education under this paragraph unless such assistance is necessary for the person to successfully complete the program of education.
 
-(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under this paragraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
+(2)(A) Subject to subparagraph (B), the Secretary concerned, through the Secretary of Veterans Affairs, shall pay to a person receiving individualized tutorial assistance pursuant to paragraph (1) a tutorial assistance allowance. The amount of the allowance payable under thisparagraph may not exceed $100 for any month, nor aggregate more than $1,200. The amount of the allowance paid under this paragraph shall be in addition to the amount of educational assistance allowance payable to a person under this chapter.
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
@@ -102,7 +102,7 @@
 
 (i)(1) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under subparagraphs (A) through (D) of subsection (b)(1) as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
-(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteriaspecified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
+(2) In the case of a person who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit or, in the case of critical units, retain personnel, who is eligible for educational benefits under chapter 30 (other than section 3012) of title 38 and who meets the eligibility criteria specified in subparagraphs (A) and (B) of section 16132(a)(1) of this title, the Secretary concerned may increase the rate of the educational assistance allowance applicable to that person to such rate in excess of the rate prescribed under section 3015 of title 38 as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $350 per month.
 
 (3) The authority provided by paragraphs (1) and (2) shall be exercised by the Secretaries concerned under regulations prescribed by the Secretary of Defense.
 
@@ -160,7 +160,7 @@ Subsec. (i). Pub. L. 103–160, §518(2), added subsec. (i).
 
 <b>1992</b>—Subsec. (b)(1). Pub. L. 102–568, §301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) whichread as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
+Subsec. (b)(2)(A). Pub. L. 102–568, §301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) which read as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–568, §301(d)(3), redesignated subpar. (C) as (B) and substituted “shall continue” for “may continue” and “shall provide” for “may provide” in introductory provisions. Former subpar. (B) redesignated (A).
 
@@ -214,7 +214,7 @@ Subsec. (d). Pub. L. 96–513, §511(68)(C), substituted “Secretary of Educati
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section \[amending this section and section 16162 of this title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
+Pub. L. 109–163, div. A, title V, §539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section \[amending this section and section 16162 ofthis title\] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Effective Date of 2002 Amendment
 

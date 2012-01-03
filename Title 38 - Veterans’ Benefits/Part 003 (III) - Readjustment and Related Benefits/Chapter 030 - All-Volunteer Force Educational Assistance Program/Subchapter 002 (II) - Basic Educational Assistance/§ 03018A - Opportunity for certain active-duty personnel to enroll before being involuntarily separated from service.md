@@ -44,7 +44,7 @@ Subsec. (d)(3). Pub. L. 109–233, §503(5)(B), (C), struck out “of this subse
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–368 substituted “successfully completed (or otherwise received academic credit for)” for “successfully completed”.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on thedate of the enactment of this section, whichever is later,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(i)(4), substituted “after February 2, 1991,” for “after December 31, 1990, or the end of the 90-day period beginning on the date of the enactment of this section, whichever is later,”.
 
 Subsec. (d)(3). Pub. L. 103–446, §1201(d)(4), substituted “section 3015(f)” for “section 3015(e)”.
 

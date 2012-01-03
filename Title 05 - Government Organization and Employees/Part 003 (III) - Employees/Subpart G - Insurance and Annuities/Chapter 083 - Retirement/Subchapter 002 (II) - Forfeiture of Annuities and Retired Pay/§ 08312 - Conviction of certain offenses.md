@@ -68,7 +68,7 @@
 
 &emsp;(A) that an individual subject to this chapter has been convicted by an impartial court of appropriate jurisdiction within a foreign country in circumstances in which the conduct violates the provisions of law enumerated in subsections (b)(1) and (c)(1), or would violate such provisions had such conduct taken place within the United States, and that such conviction is not being appealed or that final action has been taken on such appeal;
 
-&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable to such rights provided by the United States Constitution, and such conviction was based uponevidence which would have been admissible in the courts of the United States; and
+&emsp;(B) that such conviction was obtained in accordance with procedures that provided the defendant due process rights comparable to such rights provided by the United States Constitution, and such conviction was based upon evidence which would have been admissible in the courts of the United States; and
 
 &emsp;(C) that such conviction occurred after the date of enactment of this subsection.
 
@@ -104,13 +104,13 @@ The date of enactment of this subsection, referred to in subsec. (d)(1)(C), is t
 
 #### Amendments
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
+<b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–337 substituted “, article 106 (spies), or article 106a (espionage)” for “or article 106 (spies)”.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
-1986—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
+<b>1986</b>—Subsec. (c)(1)(C). Pub. L. 99–569 inserted provisions relating to section 601 of the National Security Act of 1947.
 
-1971—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
+<b>1971</b>—Subsec. (c)(1)(C). Pub. L. 92–128 struck out “, 822 (conspiracy or evasion of apprehension during internal security emergency), or 823 (aiding evasion or apprehension during internal security emergency)” after “classified information)”.
 
 #### Effective Date of 1994 Amendment
 

@@ -38,7 +38,7 @@
 
 (3) The Secretary shall act expeditiously to implement each conservation plan prepared under paragraph (1). Each year, the Secretary shall specify in the annual report prepared under section 1373(f) of this title what measures have been taken to prepare and implement such plans.
 
-(4) If the Secretary determines that a take reduction plan is necessary to reduce the incidental taking of marine mammals in the course of commercial fishing operations from a strategic stock, or for species or stocks which interact with a commercial fishery for which the Secretary has made a determination under section 1387(f)(1) of this title, any conservation plan prepared under this subsection for such species or stock shall incorporate the take reduction plan required under section 1387 of this title for such species or stock.
+(4) If the Secretary determines that a take reduction plan is necessary to reduce the incidental taking of marine mammals in the course of commercial fishing operations from a strategic stock, or for species or stocks which interactwith a commercial fishery for which the Secretary has made a determination under section 1387(f)(1) of this title, any conservation plan prepared under this subsection for such species or stock shall incorporate the take reduction plan required under section 1387 of this title for such species or stock.
 
 (Pub. L. 92–522, title I, §115, as added Pub. L. 100–711, §3(a), Nov. 23, 1988, 102 Stat. 4763; amended Pub. L. 103–238, §8, Apr. 30, 1994, 108 Stat. 543.)
 

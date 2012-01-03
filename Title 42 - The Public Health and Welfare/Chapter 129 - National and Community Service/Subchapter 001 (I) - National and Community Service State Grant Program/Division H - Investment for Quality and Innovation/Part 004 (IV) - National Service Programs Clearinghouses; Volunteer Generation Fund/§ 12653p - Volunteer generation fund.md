@@ -66,7 +66,7 @@ A State Commission or nonprofit organization receiving a grant under this sectio
 
 #### (2) Minimum grant amount
 
-&emsp;In order to ensure that each State Commission is able to improve efforts to recruit, manage, or support volunteers, the Corporation may determine a minimum grant amount for allotments under paragraph (1)(B).
+&emsp;In order to ensure that each State Commission is able to improve efforts to recruit, manage, or support volunteers, the Corporationmay determine a minimum grant amount for allotments under paragraph (1)(B).
 
 #### (e) Limitation on administrative costs
 

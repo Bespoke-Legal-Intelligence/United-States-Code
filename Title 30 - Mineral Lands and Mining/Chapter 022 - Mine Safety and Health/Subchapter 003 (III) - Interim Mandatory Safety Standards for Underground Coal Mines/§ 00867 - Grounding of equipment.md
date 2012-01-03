@@ -10,7 +10,7 @@ The frames of all offtrack direct current machines and the enclosures of related
 
 #### (c) Stationary high-voltage equipment powered by underground delta systems
 
-The frames of all stationary high-voltage equipment receiving power from ungroundeddelta systems shall be grounded by methods approved by an authorized representative of the Secretary.
+The frames of all stationary high-voltage equipment receiving power from ungrounded delta systems shall be grounded by methods approved by an authorized representative of the Secretary.
 
 #### (d) Repairs of high-voltage lines; exceptions
 

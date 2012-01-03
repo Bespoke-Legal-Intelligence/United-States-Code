@@ -10,7 +10,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §6026(k), substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–246, §6026(k), substituted “2012” for “2007”.
 
 #### Effective Date of 2008 Amendment
 

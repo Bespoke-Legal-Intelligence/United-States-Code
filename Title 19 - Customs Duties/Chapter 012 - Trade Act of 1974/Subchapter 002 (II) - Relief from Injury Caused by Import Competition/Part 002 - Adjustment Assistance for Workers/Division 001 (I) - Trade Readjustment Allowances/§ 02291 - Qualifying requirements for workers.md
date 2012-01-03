@@ -40,7 +40,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(ii) the enrollment required under clause (i) occurs no later than the latest of—
 
-&emsp;&emsp;&emsp;(I) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs after the date on which the Secretary issues a certification covering the worker, the lastday of the 26th week after such total separation,
+&emsp;&emsp;&emsp;(I) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs after the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after such total separation,
 
 &emsp;&emsp;&emsp;(II) in the case of a worker whose most recent total separation from adversely affected employment that meets the requirements of paragraphs (1) and (2) occurs before the date on which the Secretary issues a certification covering the worker, the last day of the 26th week after the date of such certification,
 
@@ -78,37 +78,15 @@ If—
 
 &emsp;The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) of this section if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
 
-#### (A) Recall
-
-&emsp;&emsp;The worker has been notified that the worker will be recalled by the firm from which the separation occurred.
-
-#### (B) Marketable skills
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
-
-#### (ii) Marketable skills defined
-
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “marketable skills” may include the possession of a postgraduate degree from an institution of higher education (as defined in section 1002 of title 20) or an equivalent institution, or the possession of an equivalent postgraduate certification in a specialized field.
-
-#### (C) Retirement
-
-&emsp;&emsp;The worker is within 2 years of meeting all requirements for entitlement to either—
-
-&emsp;&emsp;&emsp;(i) old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.) (except for application therefor); or
-
-&emsp;&emsp;&emsp;(ii) a private pension sponsored by an employer or labor organization.
-
-#### (D) Health
+#### (A) Health
 
 &emsp;&emsp;The worker is unable to participate in training due to the health of the worker, except that a waiver under this subparagraph shall not be construed to exempt a worker from requirements relating to the availability for work, active search for work, or refusal to accept work under Federal or State unemployment compensation laws.
 
-#### (E) Enrollment unavailable
+#### (B) Enrollment unavailable
 
 &emsp;&emsp;The first available enrollment date for the approved training of the worker is within 60 days after the date of the determination made under this paragraph, or, if later, there are extenuating circumstances for the delay in enrollment, as determined pursuant to guidelines issued by the Secretary.
 
-#### (F) Training not available
+#### (C) Training not available
 
 &emsp;&emsp;Training approved by the Secretary is not reasonably available to the worker from either governmental agencies or private sources (which may include area career and technical education schools, as defined in section 2302 of title 20, and employers), no training that is suitable for the worker is available at a reasonable cost, or no training funds are available.
 
@@ -130,7 +108,7 @@ If—
 
 #### (B) Review of waivers
 
-&emsp;&emsp;An agreement under section 2311 of this title shall require a cooperating State to review each waiver issued by the State under subparagraph (A), (B), (D), (E), or (F) of paragraph (1)—
+&emsp;&emsp;An agreement under section 2311 of this title shall require a cooperating State to review each waiver issued by the State under subparagraph (A), (B), or (C) of paragraph (1)—
 
 &emsp;&emsp;&emsp;(i) 3 months after the date on which the State issues the waiver; and
 
@@ -140,39 +118,47 @@ If—
 
 &emsp;&emsp;An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
 
-(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395.)
+(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939; Pub. L. 109–270, §2(b)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1801(e)(3), 1821(a)–(c)(1), 1858(b), Feb. 17, 2009, 123 Stat. 371, 375, 376, 395; Pub. L. 112–40, title II, §§201(b), (c), 212(a), Oct. 21, 2011, 125 Stat. 403, 404.)
 
-#### Amendment of Section
+#### Reversion to Provisions in Effect on February 13, 2011
 
-<i>For termination of amendment by section 1893 of Pub. L. 111–5, see Effective and Termination Dates of 2009 Amendment note below.</i>
+<i>For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see Codification and Effective and Termination Dates of 2011 Revival notes below.</i>
 
 #### References in Text
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+#### Codification
+
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111—5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival note below.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1821(c)(1)(A), 1893, temporarily substituted “on or after the date of such certification” for “more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(1). Pub. L. 111–5, §§1858(b)(1)(A), 1893, temporarily substituted “the worker's application” for “his application” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(1). Pub. L. 112–40, §§212(a)(1), 233, temporarily redesignated subpars. (D) to (F) as (A) to (C), respectively, and temporarily struck out former subpars. (A) to (C) which provided reasons for waiver of training requirement based on worker's recall by the firm from which the separation occurred, possession of marketable skills, and entitlement to retire within 2 years. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(1)(A). Pub. L. 111–5, §§1858(b)(1)(B), 1893, temporarily substituted “the worker is covered” for “he is covered”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(3)(B). Pub. L. 112–40, §§212(a)(2), 233, temporarily substituted “or (C)” for “(D), (E), or (F)” in introductory provisions. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(2). Pub. L. 111–5, §§1801(e)(3)(A), 1893, temporarily struck out “or subdivision of a firm” after “single firm” in introductory provisions. See Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1821(c)(1)(A), 1893, temporarily substituted “on or after the date of such certification” for “more than 60 days after the date on which the petition that resulted in such certification was filed under section 2271 of this title” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(A). Pub. L. 111–5, §§1858(b)(2)(A), 1893, which directed the temporary substitution of a comma for a period, could not be executed because a period did not appear. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1). Pub. L. 111–5, §§1858(b)(1)(A), 1893, temporarily substituted “the worker's application” for “his application” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(C). Pub. L. 111–5, §§1801(e)(3)(B), 1893, temporarily struck out “or subdivision” after “such firm”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1)(A). Pub. L. 111–5, §§1858(b)(1)(B), 1893, temporarily substituted “the worker is covered” for “he is covered”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(D). Pub. L. 111–5, §§1858(b)(2)(B), 1893, temporarily made technical amendment to reference in original act which appears in text as reference to section 8521(a)(1) of title 5. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2). Pub. L. 111–5, §§1801(e)(3)(A), 1893, temporarily struck out “or subdivision of a firm” after “single firm” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3)(A). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1858(b)(2)(A), 1893, which directed the temporary substitution of a comma for a period, could not be executed because a period did not appear. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3)(B). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he” in two places. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(C). Pub. L. 111–5, §§1801(e)(3)(B), 1893, temporarily struck out “or subdivision” after “such firm”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(3)(C). Pub. L. 111–5, §§1858(b)(3)(B), 1893, temporarily substituted “the worker” for “him”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(D). Pub. L. 111–5, §§1858(b)(2)(B), 1893, temporarily made technical amendment to reference in original act which appears in text as reference to section 8521(a)(1) of title 5. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(A). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(B). Pub. L. 111–5, §§1858(b)(3)(A), 1893, temporarily substituted “the worker” for “he” in two places. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+Subsec. (a)(3)(C). Pub. L. 111–5, §§1858(b)(3)(B), 1893, temporarily substituted “the worker” for “him”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(5)(A)(ii)(I), (II). Pub. L. 111–5, §§1821(a)(1), 1893, temporarily added subcls. (I) and (II) and struck out former subcls. (I) and (II) which read as follows:
 
@@ -180,11 +166,11 @@ Subsec. (a)(5)(A)(ii)(I), (II). Pub. L. 111–5, §§1821(a)(1), 1893, temporari
 
 “(II) the last day of the 8th week after the week in which the Secretary issues a certification covering the worker,”.
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(5)(A)(ii)(III). Pub. L. 111–5, §§1821(a)(2)(A), 1893, temporarily substituted “date specified in subclause (I) or (II), as the case may be” for “later of the dates specified in subclause (I) or (II)”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5)(A)(ii)(III). Pub. L. 111–5, §§1821(a)(2)(A), 1893, temporarily substituted “date specified in subclause (I) or (II), as the case may be” for “later of the dates specified in subclause (I) or (II)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(5)(A)(ii)(IV), (V). Pub. L. 111–5, §§1821(a)(2)(B)–(4), 1893, temporarily added subcl. (IV) and redesignated former subcl. (IV) as (V). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(5)(A)(ii)(IV), (V). Pub. L. 111–5, §§1821(a)(2)(B)–(4), 1893, temporarily added subcl. (IV) and redesignated former subcl. (IV) as (V). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (b). Pub. L. 111–5, §§1821(c)(1)(B), 1893, temporarily struck out par. (1) designation before “If—”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, redesignated cls. (i) and (ii) of former par. (1)(A) as subpars. (A) and (B), respectively, redesignated subcls. (I) and (II) of former par. (1)(A)(i) as cls. (i) and (ii), respectively, and struck out former par. (2) which read as follows: “The provisions of subsection (a)(5) of this section and paragraph (1) shall not apply with respect to any week of unemployment which begins—
 
@@ -192,15 +178,15 @@ Subsec. (b). Pub. L. 111–5, §§1821(c)(1)(B), 1893, temporarily struck out pa
 
 &emsp;“(B) before the first week following the week in which such certification is made under subpart A of this part.”
 
-> See Effective and Termination Dates of 2009 Amendment note below.
+> See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(1)(B). Pub. L. 111–5, §§1821(b)(1), 1893, temporarily designated existing provisions as cl. (i), inserted heading, and added cl. (ii). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(1)(B). Pub. L. 111–5, §§1821(b)(1), 1893, temporarily designated existing provisions as cl. (i), inserted heading, and added cl. (ii). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(2)(A). Pub. L. 111–5, §§1821(b)(2), 1893, temporarily substituted “Except as provided in paragraph (3)(B), a waiver” for “A waiver”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(2)(A). Pub. L. 111–5, §§1821(b)(2), 1893, temporarily substituted “Except as provided in paragraph (3)(B), a waiver” for “A waiver”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted “An agreement under section 2311 of this title shall authorize a” for “Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a”. See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(3)(A). Pub. L. 111–5, §§1821(b)(3)(A), 1893, temporarily substituted “An agreement under section 2311 of this title shall authorize a” for “Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (c)(3)(B), (C). Pub. L. 111–5, §§1821(b)(3)(B), (C), 1893, temporarily added subpar. (B) and redesignated former subpar. (B) as (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2006</b>—Subsec. (c)(1)(F). Pub. L. 109–270 substituted “area career and technical education schools” for “area vocational education schools” and made technical amendment to reference in original act which appears in text as reference to section 2302 of title 20.
 
@@ -232,11 +218,15 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
 
+#### Effective and Termination Dates of 2011 Revival
+
+For temporary revival and applicability of provisions as in effect on Feb. 12, 2011, see sections 201(b), (c) and 233 of Pub. L. 112–40, set out as notes preceding section2271 of this title. For reversion, beginning on Jan. 1, 2014, to provisions in effect on Feb. 13, 2011, with certain exceptions and subject to section 233(b) of Pub. L. 112–40, see section 233 of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+
 #### Effective and Termination Dates of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and this section to be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, see section 1893 of Pub. L. 111–5, set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title.
+Section 1893 of Pub. L. 111–5, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -268,7 +258,7 @@ Extension and Authorization.—Chapters 2 and 3 of title II of the Trade Act of 
 
 “(d)
 
-Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted underthe Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
+Application of Gramm-Rudman.—Trade readjustment allowances payable under part I \[of subchapter B\] of chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2291 et seq.\] for the period from March 1, 1986, and until October 1, 1986, shall be reduced by a percentage equal to the non-defense sequester percentage applied in the Sequestration Report (submitted under the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] and dated January 21, 1986) of the Comptroller General of the United States for fiscal year 1986.”
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
@@ -298,7 +288,7 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 &emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to the individual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
 
-&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
+&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, andwhich are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
 
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 
@@ -306,5 +296,5 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Feb. 12, 2011, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after Dec. 31, 2013, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

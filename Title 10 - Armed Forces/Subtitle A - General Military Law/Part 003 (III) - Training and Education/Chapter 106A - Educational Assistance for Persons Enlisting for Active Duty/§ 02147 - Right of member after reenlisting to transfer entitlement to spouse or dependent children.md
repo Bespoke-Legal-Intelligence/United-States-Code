@@ -20,7 +20,7 @@
 
 &emsp;(2) The term “surviving spouse” means a widow or widower who is not remarried.
 
-(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, §10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22,§10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
 
 #### Amendments
 

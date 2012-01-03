@@ -104,7 +104,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13530. President's Advisory Council on Financial Capability
 
-Ex. Ord. No. 13530, Jan. 29, 2010, 75 F.R. 5481, provided:
+Ex. Ord. No. 13530, Jan. 29, 2010, 75 F.R. 5481, as amended by Ex. Ord. No. 13591, §3, Nov. 23, 2011, 76 F.R. 74623, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -184,7 +184,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 (d) The Secretary shall designate an official within the Department of the Treasury to serve as an Executive Director to supervise the administrative support for the Council.
 
-Sec. 6. <i>Termination of the Council</i>. Unless extended by the President, the Council shall terminate 2 years after the date of this order.
+Sec. 6. \[<i>Termination of the Council</i>.\] Unless extended by the President, the Council shall terminate on January 29, 2013.
 
 Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 

@@ -20,15 +20,33 @@ Nothing in this chapter shall be construed to prevent any Federal agency or inst
 
 The Appraisal Subcommittee shall not set qualifications or experience requirements for the States in licensing real estate appraisers, including a de minimus <sup>1</sup> standard. Recommendations of the Subcommittee shall be nonbinding on the States.
 
-(Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096.)
+(Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(j), July 21, 2010, 124 Stat. 2195.)
+
+#### Amendment of Section
+
+<i>Pub. L. 111–203, title XIV, §§1400(c), 1473(j), July 21, 2010, 124 Stat. 2136, 2195, provided that this section is amended, effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date:</i>
+
+<i>(1) in subsection (c), by inserting “whose criteria for the licensing of a real estate appraiser currently meet or exceed the minimum criteria issued by the Appraisal Qualifications Board of The Appraisal Foundation for the licensing of real estate appraisers” before the period at the end; and</i>
+
+<i>(2) by striking out subsection (e) and adding the following:</i>
+
+#### <i>“(e) Minimum qualification requirements</i>
+
+<i>“Any requirements established for individuals in the position of ‘Trainee Appraiser’ and ‘Supervisory Appraiser’ shall meet or exceed the minimum qualification requirements of the Appraiser Qualifications Board of The Appraisal Foundation. The Appraisal Subcommittee shall have the authority to enforce these requirements.”</i>
+
+<i>See Effective Date of 2010 Amendment note below.</i>
 
 #### Amendments
 
-1992—Subsec. (e). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(a). See 1991 Amendment note below.
+<b>1992</b>—Subsec. (e). Pub. L. 102–550, §1617(a), repealed Pub. L. 102–233, §701(a). See 1991 Amendment note below.
 
-1991—Subsec. (e). Pub. L. 102–242 added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, including a de minimis standard.
+<b>1991</b>—Subsec. (e). Pub. L. 102–242 added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, including a de minimis standard.
 
 Pub. L. 102–233, §701(a), which added subsec. (e) prohibiting Appraisal Subcommittee from setting qualifications or experience requirements, was repealed by Pub. L. 102–550, §1617(a). See Construction of 1991 Amendment note below.
+
+#### Effective Date of 2010 Amendment
+
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Construction of 1991 Amendment
 

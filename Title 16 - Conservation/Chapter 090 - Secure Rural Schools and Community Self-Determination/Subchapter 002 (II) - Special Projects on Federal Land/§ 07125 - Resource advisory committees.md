@@ -176,7 +176,7 @@ This chapter, referred to in subsecs. (a)(4)(B) and (b)(3), was in the original 
 
 #### Codification
 
-October 3, 2008, referred to in subsec. (c)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 110–343, which enacted this section, to reflect the probable intent of Congress.
+October 3, 2008, referred to in subsec. (c)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L.110–343, which enacted this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

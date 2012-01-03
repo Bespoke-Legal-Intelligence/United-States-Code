@@ -6,7 +6,7 @@ Civil Actions.—
 
 &emsp;(1)
 
-Civil actions to enforce this chapter.—At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122.
+Civil actions to enforce this chapter.—At the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter, including section 60112, or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including a temporary or permanent injunction, punitive damages, and assessment of civil penalties, considering the same factors as prescribed for the Secretary in an administrative case under section 60122. The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.
 
 &emsp;(2)
 
@@ -20,7 +20,7 @@ Jury Trial Demand.—In a trial for criminal contempt for violating an injunctio
 
 Effect on Tort Liability.—This chapter does not affect the tort liability of any person.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 107–355, §8(b)(3), Dec. 17, 2002, 116 Stat. 2993.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1323; Pub. L. 107–355, §8(b)(3), Dec. 17, 2002, 116 Stat. 2993; Pub. L. 112–90, §2(c), Jan. 3, 2012, 125 Stat. 1905.)
 
 Historical and Revision Notes
 
@@ -93,6 +93,8 @@ In subsection (b), the words “mandatory or prohibitive” are omitted as surpl
 In subsection (c), the words “common law or statutory” are omitted as surplus.
 
 #### Amendments
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–90 added at end “The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section.”
 
 Subsec. (a). Pub. L. 107–355 reenacted subsec. heading without change, added par. (1) and struck out former par. (1), inserted par. (2) heading and realigned margins. Prior to amendment, par. (1) read as follows: “On the request of the Secretary of Transportation, the Attorney General may bring a civil action in an appropriate district court of the United States to enforce this chapter or a regulation prescribed or order issued under this chapter. The court may award appropriate relief, including punitive damages.”
 

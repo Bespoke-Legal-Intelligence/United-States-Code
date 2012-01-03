@@ -34,7 +34,7 @@
 
 (c) The task force shall—
 
-&emsp;(1) identify ways to integrate the collection of information across Federal agencies and programs and examine the feasibility and desirability of requiring each agency to consolidate requirements regarding collections of information with respect to small business concerns within and across agencies, without negatively impacting the effectiveness of underlying laws and regulations regarding such collections of information, in order that each small business concern may submit all information required by the agency—
+&emsp;(1) identify ways to integrate the collection of information across Federal agencies andprograms and examine the feasibility and desirability of requiring each agency to consolidate requirements regarding collections of information with respect to small business concerns within and across agencies, without negatively impacting the effectiveness of underlying laws and regulations regarding such collections of information, in order that each small business concern may submit all information required by the agency—
 
 &emsp;&emsp;(A) to 1 point of contact in the agency;
 

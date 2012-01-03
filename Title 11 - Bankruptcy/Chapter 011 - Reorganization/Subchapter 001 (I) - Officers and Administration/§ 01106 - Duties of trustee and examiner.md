@@ -56,7 +56,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 Subsection (a) of this section prescribes the trustee's duties. He is required to perform the duties of a trustee in a liquidation case specified in section 704 (2), (4), (6), (7), (8), and (9). These include reporting and informational duties, and accountability for all property received. Paragraph (2) of this subsection requires the trustee to file with the court, if the debtor has not done so, the list of creditors, schedule of assets and liabilities, and statement of affairs required under section 521(1).
 
@@ -76,11 +76,11 @@ Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A
 
 #### Amendments
 
-2010—Subsec. (a)(1). Pub. L. 111–327, §2(a)(31)(A), substituted “704(a)” for “704”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–327, §2(a)(31)(A), substituted “704(a)” for “704”.
 
 Subsec. (a)(2). Pub. L. 111–327, §2(a)(31)(B), substituted “521(a)(1)” for “521(1)”.
 
-2005—Subsec. (a)(1). Pub. L. 109–8, §1105(b), substituted “(11), and (12)” for “and (11)”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1105(b), substituted “(11), and (12)” for “and (11)”.
 
 Pub. L. 109–8, §446(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;”.
 
@@ -88,11 +88,11 @@ Subsec. (a)(8). Pub. L. 109–8, §219(b)(1), added par. (8).
 
 Subsec. (c). Pub. L. 109–8, §219(b)(2), added subsec. (c).
 
-1994—Subsec. (b). Pub. L. 103–394 substituted “1104(d)” for “1104(c)”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–394 substituted “1104(d)” for “1104(c)”.
 
-1986—Subsec. (a)(5). Pub. L. 99–554 inserted reference to chapter 12.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–554 inserted reference to chapter 12.
 
-1984—Subsec. (a)(1). Pub. L. 98–353, §311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353, §311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
 
 Subsec. (b). Pub. L. 98–353, §502, inserted “, except to the extent that the court orders otherwise,”.
 

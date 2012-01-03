@@ -36,7 +36,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(A) require that the long-term care facility or provider (or the designated agent of the long-term care facility or provider) obtain State and national criminal history background checks on the prospective employee through such means as the Secretary determines appropriate, efficient, and effective that utilize a search of State-based abuse and neglect registries and databases, including the abuse and neglect registries of another State in the case where a prospective employee previously resided in that State, State criminal history records, the records of any proceedings in the State that may contain disqualifying information about prospective employees (such as proceedings conducted by State professional licensing and disciplinary boards and State Medicaid Fraud Control Units), and Federal criminal history records, including a fingerprint check using the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation;
 
-&emsp;&emsp;(B) require States to describe and test methods that reduce duplicative fingerprinting, including providing for the development of “rap back” capability by the State such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department,the department will immediately inform the State and the State will immediately inform the long-term care facility or provider which employs the direct patient access employee of such conviction; and
+&emsp;&emsp;(B) require States to describe and test methods that reduce duplicative fingerprinting, including providing for the development of “rap back” capability by the State such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department, the department will immediately inform the State and the State will immediately inform the long-term care facility or provider which employs the direct patient access employee of such conviction; and
 
 &emsp;&emsp;(C) require that criminal history background checks conducted under the nationwide program remain valid for a period of time specified by the Secretary.
 
@@ -72,7 +72,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;&emsp;(viii) describe and test methods that reduce duplicative fingerprinting, including providing for the development of “rap back” capability such that, if a direct patient access employee of a long-term care facility or provider is convicted of a crime following the initial criminal history background check conducted with respect to such employee, and the employee's fingerprints match the prints on file with the State law enforcement department—
 
-&emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or provider which employs the direct patient access employee of such conviction; and
+&emsp;&emsp;&emsp;&emsp;(I) the department will immediately inform the State agency designated under clause (v) and such agency will immediately inform the facility or providerwhich employs the direct patient access employee of such conviction; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the State will provide, or will require the facility to provide, to the employee a copy of the results of the criminal history background check conducted with respect to the employee at no charge in the case where the individual requests such a copy.
 
@@ -278,7 +278,7 @@ Use of information.—A participating State shall ensure that a long-term care f
 
 &emsp;&emsp;“(B)
 
-Immunity from liability.—A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient accessemployee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
+Immunity from liability.—A participating State shall ensure that a long-term care facility or provider that, in denying employment for an individual selected for hire as a direct patient access employee (including during any period of provisional employment), reasonably relies upon information obtained through a background check of the individual, shall not be liable in any action brought by the individual based on the employment determination resulting from the information.
 
 &emsp;“(5)
 
@@ -400,7 +400,7 @@ Disqualifying information.—The term ‘disqualifying information’ means a co
 
 &emsp;“(3)
 
-Finding of patient or resident abuse.—The term ‘finding of patient or resident abuse’ means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i–3(g)(1)(C), 1396r(g)(1)(C)) or aFederal agency that a direct patient access employee has committed—
+Finding of patient or resident abuse.—The term ‘finding of patient or resident abuse’ means any substantiated finding by a State agency under section 1819(g)(1)(C) or 1919(g)(1)(C) of the Social Security Act (42 U.S.C. 1395i–3(g)(1)(C), 1396r(g)(1)(C)) or a Federal agency that a direct patient access employee has committed—
 
 &emsp;&emsp;“(A) an act of patient or resident abuse or neglect or a misappropriation of patient or resident property; or
 

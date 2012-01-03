@@ -20,7 +20,7 @@
 
 #### (1) Obtaining administrative search warrants
 
-&emsp;For complementary access conducted in the United States pursuant to the Additional Protocol, and for which the acquisition of a warrant is required, the United States Government shall first obtain an administrativesearch warrant from a judge of the United States. The United States Government shall provide to such judge all appropriate information regarding the basis for the selection of the facility, site, or other location to which complementary access is sought.
+&emsp;For complementary access conducted in the United States pursuant to the Additional Protocol, and for which the acquisition of a warrant is required, the United States Government shall first obtain an administrative search warrant from a judge of the United States. The United States Government shall provide to such judge all appropriate information regarding the basis for the selection of the facility, site, or other location to which complementary access is sought.
 
 #### (2) Content of affidavits for administrative search warrants
 

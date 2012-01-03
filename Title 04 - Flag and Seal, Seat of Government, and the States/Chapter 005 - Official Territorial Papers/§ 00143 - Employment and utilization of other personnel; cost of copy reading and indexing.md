@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–497 substituted “Archivist” for “Administrator”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497 substituted “Archivist” for “Administrator”.
 
 Subsec. (b). Pub. L. 98–497 substituted “National Archives and Records Administration” for “General Services Administration”.
 

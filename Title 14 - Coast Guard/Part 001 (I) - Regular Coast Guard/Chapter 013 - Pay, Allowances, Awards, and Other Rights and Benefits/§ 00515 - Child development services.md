@@ -2,29 +2,37 @@
 
 (a) The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.
 
-(b)(1) Except as provided in paragraph (2), the Commandant may require that amounts received as fees for the provision of services under this section at Coast Guard child development centers be used only for compensation of employees at those centers who are directly involved in providing child care.
+(b)(1) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide child development services.
 
-(2) If the Commandant determines that compliance with the limitation in paragraph (1) would result in an uneconomical and inefficient use of such fee receipts, the Commandant may (to the extent that such compliance would be uneconomical and inefficient) use such receipts—
+(2)(A) The Commandant is authorized to establish, by regulations, fees to be charged parents for the attendance of children at Coast Guard child development centers.
 
-&emsp;(A) for the purchase of consumable or disposable items for Coast Guard child development centers; and
+(B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income, except that the Commandant may, on a case-by-base basis, establish fees at lower rates if such rates would not be competitive with rates at local child development centers.
 
-&emsp;(B) if the requirements of such centers for consumable or disposable items for a given fiscal year have been met, for other expenses of those centers.
+(C) The Commandant is authorized to collect and expend fees, established pursuant to this subparagraph, and such fees shall, without further appropriation, remain available until expended for the purpose of providing services, including the compensation of employees and the purchase of consumable and disposable items, at Coast Guard child development centers.
+
+(3) The Commandant is authorized to use appropriated funds available to the Coast Guard to provide assistance to family home daycare providers so that family home daycare services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
 
 (c) The Commandant shall provide for regular and unannounced inspections of each child development center under this section and may use Department of Defense or other training programs to ensure that all child development center employees under this section meet minimum standards of training with respect to early childhood development, activities and disciplinary techniques appropriate to children of different ages, child abuse prevention and detection, and appropriate emergency medical procedures.
 
-(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
+(d) The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
 
-(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers sothat family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.
+(e) For purposes of this section, the term “child development center” does not include a child care services facility for which space is allotted under section 616 of the Act of December 22, 1987 (40 U.S.C. 490b).
 
-(f) The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
-
-(g) For purposes of this section, the term “child development center” does not include a child care services facility for which space is allotted under section 616 of the Act of December 22, 1987 (40 U.S.C. 490b).
-
-(Added Pub. L. 104–324, title II, §201(a), Oct. 19, 1996, 110 Stat. 3906.)
+(Added Pub. L. 104–324, title II, §201(a), Oct. 19, 1996, 110 Stat. 3906; amended Pub. L. 111–281, title II, §222, Oct. 15, 2010, 124 Stat. 2920.)
 
 #### References in Text
 
-Section 616 of the Act of December 22, 1987 (40 U.S.C. 490b), referred to in subsec. (g), is section 101(m) \[title VI, §616\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, as amended, which was classified to section 490b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 590(a)–(d) and (f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+Section 616 of the Act of December 22, 1987 (40 U.S.C. 490b), referred to in subsec. (e), is section 101(m) \[title VI, §616\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, which was classified to section 490b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 590(a)–(d) and (f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
+#### Amendments
+
+<b>2010</b>—Subsec. (b). Pub. L. 111–281, §222(1), added subsec. (b) and struck out former subsec. (b) which related to use of fees paid for services at Coast Guard child development centers.
+
+Subsecs. (d) to (g). Pub. L. 111–281, §222(2), (3), redesignated subsecs. (f) and (g) as (d) and (e), respectively, and struck out former subsecs. (d) and (e) which read as follows:
+
+“(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
+
+“(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers so that family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers.”
 
 #### Use of Coast Guard and Military Child Development Centers
 

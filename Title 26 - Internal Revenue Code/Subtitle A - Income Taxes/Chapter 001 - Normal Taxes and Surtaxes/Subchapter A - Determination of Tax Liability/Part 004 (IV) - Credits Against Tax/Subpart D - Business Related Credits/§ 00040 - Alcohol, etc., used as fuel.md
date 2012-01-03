@@ -246,7 +246,7 @@ For purposes of this section—
 
 #### (4) Volume of alcohol
 
-&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2percent of the volume of such alcohol (including denaturants).
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 2 percent of the volume of such alcohol (including denaturants).
 
 #### (5) Pass-thru in the case of estates and trusts
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 #### (6) Special rule for cellulosic biofuel producer credit
 
-&emsp;No cellulosic biofuel producer credit shall be determined under subsection (a) with respect to any cellulosic biofuel unless such cellulosic biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term “United States” includes any possession of the United States.
+&emsp;No cellulosic biofuel producer credit shall be determined under subsection (a) with respectto any cellulosic biofuel unless such cellulosic biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term “United States” includes any possession of the United States.
 
 #### (7) Limitation to alcohol with connection to the United States
 
@@ -330,7 +330,7 @@ For purposes of this section—
 
 #### (ii) Form and effect of election
 
-&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filedreturn for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
 
 #### (B) Treatment of organizations and patrons
 
@@ -603,7 +603,7 @@ Section 11502(h) of Pub. L. 101–508 provided that:
 
 #### Effective Date of 1987 Amendment
 
-Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502,9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
+Section 10502(e) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title\] shall apply to sales after March 31, 1988.”
 
 #### Effective Date of 1984 Amendment
 

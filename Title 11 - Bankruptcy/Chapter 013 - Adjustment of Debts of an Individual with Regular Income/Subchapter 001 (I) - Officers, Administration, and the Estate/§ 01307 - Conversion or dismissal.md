@@ -40,7 +40,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 Section 1307(a) is derived from the Senate amendment in preference to a comparable provision contained in the House bill.
 
@@ -54,17 +54,17 @@ Subsection (f) reinforces section 109 by prohibiting conversion to a chapter und
 
 #### Amendments
 
-2010—Subsec. (c). Pub. L. 111–327, §2(a)(41)(A)(i), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–327, §2(a)(41)(A)(i), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 
 Subsec. (c)(9), (10). Pub. L. 111–327, §2(a)(41)(A)(ii), (iii), substituted “521(a)” for “521”.
 
 Subsec. (d). Pub. L. 111–327, §2(a)(41)(B), substituted “subsection (f)” for “subsection (e)”.
 
-2005—Subsec. (c)(11). Pub. L. 109–8, §213(7), added par. (11).
+<b>2005</b>—Subsec. (c)(11). Pub. L. 109–8, §213(7), added par. (11).
 
 Subsecs. (e) to (g). Pub. L. 109–8, §716(c), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-1986—Subsec. (b). Pub. L. 99–554, §257(v)(1), inserted reference to section 1208 of this title.
+<b>1986</b>—Subsec. (b). Pub. L. 99–554, §257(v)(1), inserted reference to section 1208 of this title.
 
 Subsec. (c). Pub. L. 99–554, §229(1)(A), inserted “or the United States trustee” after “party in interest” in provisions preceding par. (1).
 
@@ -76,7 +76,7 @@ Pub. L. 99–554, §229(2), inserted “or the United States trustee” after �
 
 Subsec. (e). Pub. L. 99–554, §257(v)(3), inserted reference to chapter 12.
 
-1984—Subsec. (b). Pub. L. 98–353, §527(a), inserted a comma after “time”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353, §527(a), inserted a comma after “time”.
 
 Subsec. (c)(4). Pub. L. 98–353, §315(2), added par. (4). Former par. (4) redesignated (5).
 

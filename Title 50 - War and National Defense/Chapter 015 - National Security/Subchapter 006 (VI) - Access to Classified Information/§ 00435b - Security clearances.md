@@ -100,7 +100,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 (2) The database under this subsection shall function to integrate information from existing Federal clearance tracking systems from other authorized investigative and adjudicative agencies into a single consolidated database.
 
-(3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied asecurity clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
+(3) Each authorized investigative or adjudicative agency shall check the database under this subsection to determine whether an individual the agency has identified as requiring a security clearance has already been granted or denied a security clearance, or has had a security clearance revoked, by any other authorized investigative or adjudicative agency.
 
 (4) The head of the entity selected pursuant to subsection (b) of this section shall evaluate the extent to which an agency is submitting information to, and requesting information from, the database under this subsection as part of a determination of whether to certify the agency as an authorized investigative agency or authorized adjudicative agency.
 
@@ -124,7 +124,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 &emsp;(F) such other purposes as the head of the entity selected pursuant to subsection (b) of this section considers appropriate.
 
-(3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have access to data being verified in order to correct errors or challenge information the individual believes is incorrect.
+(3) An individual subject to verification utilizing the technology described in paragraph (1) shall be notified of such verification, shall provide consent to such use, and shall have accessto data being verified in order to correct errors or challenge information the individual believes is incorrect.
 
 (4) Not later than one year after December 17, 2004, the head of the entity selected pursuant to subsection (b) of this section shall submit to the President and the appropriate committees of Congress a report on the results of the evaluation, including recommendations on the use of technologies described in paragraph (1).
 

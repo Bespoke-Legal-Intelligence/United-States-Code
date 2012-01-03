@@ -60,7 +60,7 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 97–456 designated existing provisions relating to the chairman's exercise of and responsibility for all administrative functions as subpar. (A), redesignated former subpars. (A) through (C) as cls. (i) through (iii), added subpar. (B), designated provisions relating to disapproval by a majority of the commissioners of any decision by the chairman as subpar. (C), and in (C) as so designated, substituted “subparagraph (A) or (B)” for “this paragraph” after “chairman under”.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–106, §3(a), designated existing provisions as par. (1), substituted provisions authorizing the chairman to perform certain required functions subject to approval by the Commission for provisions authorizing the Commission to perform certain required functions and inserted provisions requiring the chairman to exercise and be responsible for all other administrative functions of the Commission, and added pars. (2) and (3).
+<b>1977</b>—Subsec. (a). Pub. L. 95–106, §3(a), designated existing provisions as par. (1), substituted provisions authorizing the chairman to perform certain required functions subject to approval by the Commission forprovisions authorizing the Commission to perform certain required functions and inserted provisions requiring the chairman to exercise and be responsible for all other administrative functions of the Commission, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 95–106, §3(b)(1), substituted “approved by the chairman (except that in the case of a commissioner, or the personal staff of any commissioner, such vouchers may be approved by that commissioner)” for “approved by the Commission”.
 

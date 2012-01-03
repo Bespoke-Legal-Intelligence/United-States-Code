@@ -14,27 +14,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Pub. L. 110–246, §4115(b)(7), in section catchline, substituted “program benefits” for “coupons” and, in text, substituted “section 2012(p)(4)” for “section 2012(k)(4)” and “section 2016(h)” for “section 2016(i)” and substituted “benefits” for “coupons” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §4115(b)(7), in section catchline, substituted “program benefits” for “coupons” and, in text, substituted “section 2012(p)(4)” for “section 2012(k)(4)” and “section 2016(h)” for “section 2016(i)” and substituted “benefits” for “coupons” wherever appearing.
 
-2002—Pub. L. 107–171 inserted after first sentence “Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem coupons through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in section 2016(i) of this title has been implemented.”
+<b>2002</b>—Pub. L. 107–171 inserted after first sentence “Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem coupons through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in section 2016(i) of this title has been implemented.”
 
-1986—Pub. L. 99–570, §11002(e), (f), temporarily struck out “and” after “battered women and children,” and inserted “, and public or private nonprofit establishments, or public or private nonprofit shelters that feed individuals who do not reside in permanent dwellings and individuals who have no fixed mailing addresses”. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Pub. L. 99–570, §11002(e), (f), temporarily struck out “and” after “battered women and children,” and inserted “, and public or private nonprofit establishments, or public or private nonprofit shelters that feed individuals who do not reside in permanent dwellings and individuals who have no fixed mailing addresses”. See Effective and Termination Dates of 1986 Amendment note below.
 
-1985—Pub. L. 99–198, §1501(b), inserted reference to publicly operated community mental health centers.
+<b>1985</b>—Pub. L. 99–198, §1501(b), inserted reference to publicly operated community mental health centers.
 
 Pub. L. 99–198, §1522, inserted “, or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership” and “or the Federal Credit Union Act”.
 
-Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating tocancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
+Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
-1981—Pub. L. 97–98 substituted “financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation” for “banks” wherever appearing.
+<b>1981</b>—Pub. L. 97–98 substituted “financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation” for “banks” wherever appearing.
 
-1980—Pub. L. 96–249 substituted “purchased,” for “purchased” and “residents” for “residents,” and inserted “, public and private nonprofit shelters that prepare and serve meals for battered women and children” after “programs”.
+<b>1980</b>—Pub. L. 96–249 substituted “purchased,” for “purchased” and “residents” for “residents,” and inserted “, public and private nonprofit shelters that prepare and serve meals for battered women and children” after “programs”.
 
-1979—Pub. L. 96–58 inserted provisions relating to public and private nonprofit group living arrangements that serve meals to disabled or blind residents.
+<b>1979</b>—Pub. L. 96–58 inserted provisions relating to public and private nonprofit group living arrangements that serve meals to disabled or blind residents.
 
-1977—Pub. L. 95–113 substituted revised provisions covering redemption of coupons for provisions relating to administration of program which are now covered by section 2020 of this title.
+<b>1977</b>—Pub. L. 95–113 substituted revised provisions covering redemption of coupons for provisions relating to administration of program which are now covered by section 2020 of this title.
 
-1973—Subsec. (e). Pub. L. 93–86, §3(i), inserted cls. (6) and (7), designated former cl. (6) as (8), and inserted provision relating to time for submission of plan of operation to Secretary for approval and time for Secretary to make a determination of approval or disapproval of such plan.
+<b>1973</b>—Subsec. (e). Pub. L. 93–86, §3(i), inserted cls. (6) and (7), designated former cl. (6) as (8), and inserted provision relating to time for submission of plan of operation to Secretary for approval and time for Secretary to make a determination of approval or disapproval of such plan.
 
 Subsec. (h). Pub. L. 93–125 inserted “members of” after “the Secretary shall permit”.
 
@@ -42,11 +42,11 @@ Pub. L. 93–86, §3(k), inserted provisions authorizing meal purchases from sen
 
 Subsec. (i). Pub. L. 93–86, §3(f), added subsec. (i).
 
-1972—Subsec. (c). Pub. L. 92–603, §411(c), struck out provisions relating to filing of an affidavit by household for certification of eligibility for public assistance.
+<b>1972</b>—Subsec. (c). Pub. L. 92–603, §411(c), struck out provisions relating to filing of an affidavit by household for certification of eligibility for public assistance.
 
 Subsec. (e). Pub. L. 92–603, §411(d), (e), substituted “prescribed by the Secretary in the regulations issued pursuant to this chapter” for “used by them in the certification of applicants for benefits under the federally aided public assistance programs” in cl. (2), and struck out provisions requiring the State agency to institute procedures under which any household participating in the food stamp program shall be entitled to have the charges for its coupon allotment deducted from grants or payments such household is entitled to receive and have its coupon allotment distributed to it with such grant or payment.
 
-1971—Subsec. (c). Pub. L. 91–671, §6(a), inserted provisions respecting certification of eligibility for benefits by execution of an affidavit and duration of validity of a certification upon removal of a household from one political subdivision to another.
+<b>1971</b>—Subsec. (c). Pub. L. 91–671, §6(a), inserted provisions respecting certification of eligibility for benefits by execution of an affidavit and duration of validity of a certification upon removal of a household from one political subdivision to another.
 
 Subsec. (e). Pub. L. 91–671, §6(b), substituted “regulations” for “regulation” in second sentence preceding cl. (1) and “from time to time may” for “may from time to time”, and added cls. (5) and (6) and provision for withholding in the State plan.
 

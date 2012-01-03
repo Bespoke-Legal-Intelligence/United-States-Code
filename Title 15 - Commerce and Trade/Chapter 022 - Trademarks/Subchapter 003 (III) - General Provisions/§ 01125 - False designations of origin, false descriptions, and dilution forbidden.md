@@ -28,7 +28,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(A) For purposes of paragraph (1), a mark is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark's owner. In determining whether a mark possesses the requisite degree of recognition, the court may consider all relevant factors, including the following:
 
-&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of themark, whether advertised or publicized by the owner or third parties.
+&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of the mark, whether advertised or publicized by the owner or third parties.
 
 &emsp;&emsp;(ii) The amount, volume, and geographic extent of sales of goods or services offered under the mark.
 
@@ -172,7 +172,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (ii) The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
 
-(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy availableunder either such action, shall be in addition to any other civil action or remedy otherwise applicable.
+(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 

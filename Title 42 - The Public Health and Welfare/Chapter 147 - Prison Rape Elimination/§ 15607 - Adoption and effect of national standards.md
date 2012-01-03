@@ -36,7 +36,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (B) List
 
-&emsp;&emsp;For each fiscal year, the Attorney General shall prepare a list identifying each programthat meets the criteria of subparagraph (A) and provide that list to each State.
+&emsp;&emsp;For each fiscal year, the Attorney General shall prepare a list identifying each program that meets the criteria of subparagraph (A) and provide that list to each State.
 
 #### (2) Adoption of national standards
 

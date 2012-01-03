@@ -128,13 +128,13 @@ The Secretary is authorized—
 
 #### (f) Actions on applications and site visits
 
-The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b) of this section. The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, andshall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
+The Secretary shall ensure that prompt action is taken by the Department on any application required under subsection (b) of this section. The personnel of the Department of Education may conduct a site visit at each institution before certifying or recertifying its eligibility for purposes of any program under this subchapter and part C of subchapter I of chapter 34 of title 42. The Secretary shall establish priorities by which institutions are to receive site visits, and shall, to the extent practicable, coordinate such visits with site visits by States, guaranty agencies, and accrediting bodies in order to eliminate duplication, and reduce administrative burden.
 
 #### (g) Time limitations on, and renewal of, eligibility
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42 of each such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter and part C of subchapter I of chapter 34 of title 42of each such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -192,9 +192,9 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (j) Treatment of branches
 
-(1) A branch of an eligible institution of higher education, as defined pursuant to regulations ofthe Secretary, shall be certified under this subpart before it may participate as part of such institution in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, except that such branch shall not be required to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title prior to seeking such certification. Such branch is required to be in existence at least 2 years after the branch is certified by the Secretary as a branch campus participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, prior to seeking certification as a main campus or free-standing institution.
+(1) A branch of an eligible institution of higher education, as defined pursuant to regulations of the Secretary, shall be certified under this subpart before it may participate as part of such institution in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, except that such branch shall not be required to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title prior to seeking such certification. Such branch is required to be in existence at least 2 years after the branch is certified by the Secretary as a branch campus participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42, prior to seeking certification as a main campus or free-standing institution.
 
-(2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
+(2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branchthat (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
 #### (k) Treatment of teach-outs at additional locations
 

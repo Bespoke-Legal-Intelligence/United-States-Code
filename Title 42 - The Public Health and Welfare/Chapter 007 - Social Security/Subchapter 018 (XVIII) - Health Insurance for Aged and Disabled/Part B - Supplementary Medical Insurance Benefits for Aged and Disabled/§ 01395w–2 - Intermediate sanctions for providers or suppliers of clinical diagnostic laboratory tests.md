@@ -18,7 +18,7 @@
 
 &emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a) of this section.
 
-> The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in thesame manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+> The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 (B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law.
 

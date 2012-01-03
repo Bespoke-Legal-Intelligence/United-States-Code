@@ -2,7 +2,7 @@
 
 In this subchapter, the term—
 
-&emsp;(1) “agency” means an Executive agency as defined under section 105; and
+&emsp;(1) “agency” means an Executive agency as defined under section 105 (other than the Government Accountability Office); and
 
 &emsp;(2) “employee”—
 
@@ -32,7 +32,15 @@ In this subchapter, the term—
 
 &emsp;&emsp;&emsp;&emsp;(III) during the 12-month period preceding the date of separation of that employee, performed service for which a retention bonus was or is to be paid under section 5754.
 
-(Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2291.)
+(Added Pub. L. 107–296, title XIII, §1313(a)(1)(A), Nov. 25, 2002, 116 Stat. 2291; amended Pub. L. 112–74, div. G, title I, §1401(b), Dec. 23, 2011, 125 Stat. 1134.)
+
+#### Amendments
+
+<b>2011</b>—Par. (1). Pub. L. 112–74 substituted “section 105 (other than the Government Accountability Office)” for “section 105”.
+
+#### Effective Date of 2011 Amendment
+
+Amendment by Pub. L. 112–74 applicable to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year, see section 1401(c) of Pub. L. 112–74, set out as a note under section 60q of Title 2, The Congress.
 
 #### Effective Date
 

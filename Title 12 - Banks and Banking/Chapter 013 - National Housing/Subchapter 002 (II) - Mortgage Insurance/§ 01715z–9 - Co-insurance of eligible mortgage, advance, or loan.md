@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; request of mortgagee; premium charges; provisions of contract of co-insurance; non-applicability of state insurance laws
 
-In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, upon request of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by themortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
+In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, upon request of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by the mortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
 
 &emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance, which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
 
@@ -12,7 +12,7 @@ In addition to providing insurance as otherwise authorized under this chapter, a
 
 #### (b) Inspection of construction of dwellings or projects as prerequisite; minimum standards or criteria applicable
 
-No insurance shall be granted pursuant to this section with respect to dwellings or projects approved for insurance prior to the beginning of construction unless the inspection of such construction is conducted in accordance with at least the minimum standards and criteria used with respect to dwellings or projects approved for mortgage insurance pursuant to other provisions of this subchapter.
+No insurance shall be granted pursuant to this section with respect to dwellings or projects approved for insurance prior to the beginning of construction unless the inspection of such construction is conducted in accordance with at least the minimum standards and criteria used with respect to dwellings or projects approvedfor mortgage insurance pursuant to other provisions of this subchapter.
 
 #### (c) Repealed. Pub. L. 100–242, title IV, §414(a), Feb. 5, 1988, 101 Stat. 1907
 
@@ -40,7 +40,7 @@ The Secretary shall not withdraw, deny, or delay insurance otherwise authorized 
 
 Notwithstanding any other provision of this section, in the case of a mortgage insured under section 1715n(f) of this title secured by property which is to be rehabilitated or developed under section 1437<i>o</i> <sup>1</sup> of title 42, such co-insurance may include provisions that—
 
-&emsp;(1) insurance benefits shall equal the sum of (A) 90 per centum of the mortgage on the dateof institution of foreclosure proceedings (or on the date of acquisition of the property otherwise after default), and (B) 90 per centum of interest arrears on the date benefits are paid;
+&emsp;(1) insurance benefits shall equal the sum of (A) 90 per centum of the mortgage on the date of institution of foreclosure proceedings (or on the date of acquisition of the property otherwise after default), and (B) 90 per centum of interest arrears on the date benefits are paid;
 
 &emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General Insurance Fund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
 
@@ -54,19 +54,21 @@ Any mortgagee which enters into a contract of co-insurance under this section sh
 
 #### (i) <sup>2</sup> Annual review of, and assessment of compliance with, requirements; report; adjustment of requirements
 
-The Secretary shall, by January 15 and July 15 of each year (1) review the adequacy of capital and other requirements for mortgagees under this section, (2) assess the compliance by mortgagees with such requirements, and (3) make such adjustment to such requirements as the Secretary, after providing opportunity for hearing, determines to be appropriate to improve the long-term financial soundness of the Federal Housing Administration funds. Such requirements shall include the minimum capital or net worth of mortgagees; the ratio that mortgagees shall maintain between the mortgagee's capital and the volume of mortgages co-insured by such mortgagee; and such other requirements as the Secretary determines to be appropriate to ensure the long-term financial soundness of the Federal Housing Administration funds. The Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the review and assessment under the previous sentence, and an explanation of the Secretary's reasons for making any adjustment in requirements authorized under this section.
+The Secretary shall, by January 15 and July 15 of each year (1) review the adequacy of capital and other requirements for mortgagees under this section, (2) assess the compliance by mortgagees with such requirements, and (3) make such adjustment to such requirements as the Secretary, after providing opportunity for hearing, determines to be appropriate to improve the long-term financial soundness of the Federal Housing Administration funds. Such requirements shall include the minimum capital or net worth of mortgagees; the ratio that mortgagees shall maintain between the mortgagee's capital and the volume of mortgages co-insured by such mortgagee; and such other requirements as theSecretary determines to be appropriate to ensure the long-term financial soundness of the Federal Housing Administration funds. The Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the review and assessment under the previous sentence, and an explanation of the Secretary's reasons for making any adjustment in requirements authorized under this section.
 
 (June 27, 1934, ch. 847, title II, §244, as added Pub. L. 93–383, title III, §307, Aug. 22, 1974, 88 Stat. 679; amended Pub. L. 94–375, §6, Aug. 3, 1976, 90 Stat. 1070; Pub. L. 95–60, §1(d), June 30, 1977, 91 Stat. 257; Pub. L. 95–80, §1(d), July 31, 1977, 91 Stat. 339; Pub. L. 95–128, title III, §301(f), Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–406, §1(f), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(f), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(f), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(f), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title III, §301(f), Dec. 21, 1979, 93 Stat. 1111; Pub. L. 96–372, §1(f), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title III, §301(f), Oct. 8, 1980, 94 Stat. 1638; Pub. L. 96–470, title I, §107(a), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 97–35, title III, §331(f), Aug. 13, 1981, 95 Stat. 413; Pub. L. 97–289, §1(f), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(f), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(f), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title III, §303(a), title IV, §§401(e), 434, Nov. 30, 1983, 97 Stat. 1206, 1207, 1222; Pub. L. 98–479, title I, §104(a)(5), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 99–120, §1(e), Oct. 8, 1985, 99 Stat. 502; Pub. L. 99–156, §1(e), Nov. 15, 1985, 99 Stat. 815; Pub. L. 99–219, §1(e), Dec. 26, 1985, 99 Stat. 1730; Pub. L. 99–267, §1(e), Mar. 27, 1986, 100 Stat. 73; Pub. L. 99–272, title III, §3007(e), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §§401(a)(3), 414, 429(g), Feb. 5, 1988, 101 Stat. 1898, 1907, 1919; Pub. L. 101–235, title I, §139(a), Dec. 15, 1989, 103 Stat. 2029.)
 
 #### References in Text
 
+This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+
 Section 1437<i>o</i> of title 42, referred to in subsec. (h), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
 #### Amendments
 
-1989—Subsec. (i). Pub. L. 101–235 added subsec. (i) relating to annual review of, and assessment of compliance with, requirements.
+<b>1989</b>—Subsec. (i). Pub. L. 101–235 added subsec. (i) relating to annual review of, and assessment of compliance with, requirements.
 
-1988—Subsec. (c). Pub. L. 100–242, §414(a), struck out subsec. (c) which read as follows: “No insurance shall be granted pursuant to this section unless the Secretary has, after due consultation with the mortgage lending industry, determined that the demonstration program of co-insurance authorized by this section will not disrupt the mortgage market or reduce the availability of mortgage credit to borrowers who depend upon mortgage insurance provided under this chapter.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–242, §414(a), struck out subsec. (c) which read as follows: “No insurance shall be granted pursuant to this section unless the Secretary has, after due consultation with the mortgage lending industry, determined that the demonstration program of co-insurance authorized by this section will not disrupt the mortgage market or reduce the availability of mortgage credit to borrowers who depend upon mortgage insurance provided under this chapter.”
 
 Subsec. (d). Pub. L. 100–242, §401(a)(3), struck out subsec. (d) which read as follows: “No mortgage, advance, or loan shall be insured pursuant to this section after March 15, 1988, except pursuant to a commitment to insure made before that date.”
 
@@ -78,7 +80,7 @@ Pub. L. 100–242, §401(a)(3), struck out at end “No commitment for insurance
 
 Subsec. (i). Pub. L. 100–242, §414(b)(2), added subsec. (i).
 
-1987—Subsecs. (d), (h). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsecs. (d), (h). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
 
 Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
 
@@ -88,7 +90,7 @@ Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”
 
 Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
 
-1986—Subsecs. (d), (h). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsecs. (d), (h). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
 
 Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
 
@@ -98,7 +100,7 @@ Pub. L. 99–272 made amendment identical to Pub. L. 99–219. See 1985 Amendmen
 
 Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
 
-1985—Subsec. (d). Pub. L. 99–219, §1(e)(1), substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (d). Pub. L. 99–219, §1(e)(1), substituted “March 17, 1986” for “December 15, 1985”.
 
 Pub. L. 99–156, §1(e)(1), substituted “December 15, 1985” for “November 14, 1985”.
 
@@ -110,9 +112,9 @@ Pub. L. 99–156, §1(e)(2), substituted “December 16, 1985” for “November
 
 Pub. L. 99–120, §1(e)(2), substituted “November 15, 1985” for “October 1, 1985”.
 
-1984—Subsec. (d). Pub. L. 98–479 amended subsec. (d) generally, thereby striking out last sentence which provided: “The aggregate principal amount of mortgages and loans insured pursuant to this section in any fiscal year beginning on or after July 1, 1974, and ending prior to October 1, 1985, shall not exceed 20 per centum of the aggregate principal amount of all mortgages and loans insured under this subchapter during such fiscal year.”
+<b>1984</b>—Subsec. (d). Pub. L. 98–479 amended subsec. (d) generally, thereby striking out last sentence which provided: “The aggregate principal amount of mortgages and loans insured pursuant to this section in any fiscal year beginning on or after July 1, 1974, and ending prior to October 1, 1985, shall not exceed 20 per centum of the aggregate principal amount of all mortgages and loans insured under this subchapter during such fiscal year.”
 
-1983—Subsec. (d). Pub. L. 98–181, §401(e)(3), which directed that last two sentences of subsec. (d) be struck out was executed by striking out last sentence which provided that the overall percentage limitation specified in the preceding sentence also apply separately within each of the categories of mortgages and loans covering one- to four-family dwellings and mortgages and loans covering projects with five or more dwelling units, as the probable intent of Congress, in view of the amendment to the next to last sentence by section 401(e)(2) of Pub. L. 98–181.
+<b>1983</b>—Subsec. (d). Pub. L. 98–181, §401(e)(3), which directed that last two sentences of subsec. (d) be struck out was executed by striking out last sentence which provided that the overall percentage limitation specified in the preceding sentence also apply separately within each of the categories of mortgages and loans covering one- to four-family dwellings and mortgages and loans covering projects with five or more dwelling units, as the probable intent of Congress, in view of the amendment to the next to last sentence by section 401(e)(2) of Pub. L. 98–181.
 
 Pub. L. 98–181, §401(e)(1), (2), substituted “September 30, 1985” for “November 30, 1983” and “October 1, 1985” for “December 1, 1983”.
 
@@ -126,33 +128,33 @@ Subsec. (f)(5). Pub. L. 98–181, §434(2), substituted reference to section 143
 
 Subsec. (h). Pub. L. 98–181, §303(a), added subsec. (h).
 
-1982—Subsec. (d). Pub. L. 97–289 substituted “May 20, 1983” and “May 21, 1983” for “September 30, 1982” and “October 1, 1982”, respectively.
+<b>1982</b>—Subsec. (d). Pub. L. 97–289 substituted “May 20, 1983” and “May 21, 1983” for “September 30, 1982” and “October 1, 1982”, respectively.
 
-1981—Subsec. (d). Pub. L. 97–35 substituted “1982” for “1981” in two places.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted “1982” for “1981” in two places.
 
-1980—Subsec. (d). Pub. L. 96–399 substituted “September 30, 1981” and “October 1, 1981” for “October 15, 1980” and “October 16, 1980”, respectively.
+<b>1980</b>—Subsec. (d). Pub. L. 96–399 substituted “September 30, 1981” and “October 1, 1981” for “October 15, 1980” and “October 16, 1980”, respectively.
 
 Pub. L. 96–372 substituted “October 15, 1980” and “October 16, 1980” for “September 30, 1980” and “October 1, 1980”, respectively.
 
 Subsecs. (f), (g). Pub. L. 96–470 struck out subsec. (f) and redesignated subsec. (g) as (f).
 
-1979—Subsec. (d). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979” and “October 1, 1980” for “December 1, 1979”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979” and “October 1, 1980” for “December 1, 1979”.
 
 Pub. L. 96–105 substituted “November 30, 1979” and “December 1, 1979” for “October 31, 1979” and “November 1, 1979”, respectively.
 
 Pub. L. 96–71 substituted “October 31, 1979” and “November 1, 1979” for “September 30, 1979” and “October 1, 1979”, respectively.
 
-1978—Subsec. (d). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978” and “October 1, 1979” for “November 1, 1978”.
+<b>1978</b>—Subsec. (d). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978” and “October 1, 1979” for “November 1, 1978”.
 
 Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978” and “November 1, 1978” for “October 1, 1978”.
 
-1977—Subsec. (d). Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977” and “October 1, 1978” for “October 1, 1977”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977” and “October 1, 1978” for “October 1, 1977”.
 
 Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977”.
 
 Pub. L. 95–60 substituted “July 31, 1977” for “June 30, 1977”.
 
-1976—Subsec. (a). Pub. L. 94–375, §6(b), inserted, in text following par. (2), a provision excluding a mortgagee which enters into a contract under this section from regulation by state insurance laws.
+<b>1976</b>—Subsec. (a). Pub. L. 94–375, §6(b), inserted, in text following par. (2), a provision excluding a mortgagee which enters into a contract under this section from regulation by state insurance laws.
 
 Subsec. (g). Pub. L. 94–375, §6(a), added subsec. (g).
 

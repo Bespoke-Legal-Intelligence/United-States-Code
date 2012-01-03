@@ -44,9 +44,9 @@ Sections 909 and 904 of the Social Security Act, referred to in subsec. (a), are
 
 #### Amendments
 
-1992—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
+<b>1992</b>—Subsec. (c)(3). Pub. L. 102–318 added par. (3).
 
-1982—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
+<b>1982</b>—Subsecs. (b), (c)(1). Pub. L. 97–362, §202(a)(1), substituted “chapter” for “subchapter” wherever appearing.
 
 Subsec. (h). Pub. L. 97–362, §202(a)(2), added subsec. (h).
 

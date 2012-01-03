@@ -8,7 +8,7 @@
 
 &emsp;(3) assign vessels, aircraft, vehicles, aids to navigation, equipment, appliances, and supplies to Coast Guard districts and shore establishments, and transfer any of the foregoing from one district or shore establishment to another;
 
-&emsp;(4) conduct experiments, investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function and cooperate and coordinate such activities with other Government agencies and with private agencies;
+&emsp;(4) conduct experiments, investigate, or cause to be investigated, plans, devices, and inventions relating to the performance of any Coast Guard function, including research, development, test, or evaluation related to intelligence systems and capabilities, and cooperate and coordinate such activities with other Government agencies and with private agencies;
 
 &emsp;(5) conduct any investigations or studies that may be of assistance to the Coast Guard in the performance of any of its powers, duties, or functions;
 
@@ -16,7 +16,7 @@
 
 &emsp;(7) conduct or make available to personnel of the Coast Guard such specialized training and courses of instruction, including correspondence courses, as may be necessary or desirable for the good of the service;
 
-&emsp;(8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) dispose of them;
+&emsp;(8) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 dispose of them;
 
 &emsp;(9) acquire, accept as gift, maintain, repair, and discontinue aids to navigation, appliances, equipment, and supplies;
 
@@ -46,7 +46,7 @@
 
 &emsp;(20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available tothe Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
+&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(a) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
 
 &emsp;(22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
@@ -62,7 +62,51 @@
 
 &emsp;(B) to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564.)
+(c)
+
+Marine Safety Responsibilities.—In exercising the Commandant's duties and responsibilities with regard to marine safety, the individual with the highest rank who meets the experience qualifications set forth in section 50(a)(3) shall serve as the principal advisor to the Commandant regarding—
+
+&emsp;(1) the operation, regulation, inspection, identification, manning, and measurement of vessels, including plan approval and the application of load lines;
+
+&emsp;(2) approval of materials, equipment, appliances, and associated equipment;
+
+&emsp;(3) the reporting and investigation of marine casualties and accidents;
+
+&emsp;(4) the licensing, certification, documentation, protection and relief of merchant seamen;
+
+&emsp;(5) suspension and revocation of licenses and certificates;
+
+&emsp;(6) enforcement of manning requirements, citizenship requirements, control of log books;
+
+&emsp;(7) documentation and numbering of vessels;
+
+&emsp;(8) State boating safety programs;
+
+&emsp;(9) commercial instruments and maritime liens;
+
+&emsp;(10) the administration of bridge safety;
+
+&emsp;(11) administration of the navigation rules;
+
+&emsp;(12) the prevention of pollution from vessels;
+
+&emsp;(13) ports and waterways safety;
+
+&emsp;(14) waterways management; including regulation for regattas and marine parades;
+
+&emsp;(15) aids to navigation; and
+
+&emsp;(16) other duties and powers of the Secretary related to marine safety and stewardship.
+
+(d)
+
+Other Authority Not Affected.—Nothing in subsection (c) affects—
+
+&emsp;(1) the authority of Coast Guard officers and members to enforce marine safety regulations using authority under section 89 of this title; or
+
+&emsp;(2) the exercise of authority under section 91 of this title and the provisions of law codified at sections 191 through 195 of title 50 on the date of enactment of this paragraph.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847.)
 
 #### Historical and Revision Notes
 
@@ -108,55 +152,81 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(8), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
-
 Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L. 92–340, which is classified to section 1223(e) of Title 33, Navigation and Navigable Waters.
+
+The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
 #### Amendments
 
-2006—Subsec. (a)(19). Pub. L. 109–241, §901(a), redesignated subpars. (1) and (2) as (A) and (B), respectively.
+<b>2011</b>—Subsec. (a)(8). Pub. L. 111–350, which directed amendment of subsec. (h) by substituting “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”, was executed by making the substitution in subsec. (a)(8) to reflect the probable intent of Congress and the amendment by Pub. L. 108–293, §201. See 2004 Amendment note below.
+
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–259 substituted “function, including research, development, test, or evaluation related to intelligence systems and capabilities,” for “function”.
+
+Subsecs. (c), (d). Pub. L. 111–281 added subsecs. (c) and (d).
+
+<b>2006</b>—Subsec. (a)(19). Pub. L. 109–241, §901(a), redesignated subpars. (1) and (2) as (A) and (B), respectively.
 
 Subsec. (a)(24). Pub. L. 109–241, §901(c), redesignated par. (y) as (24).
 
-2004—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (<i>l</i>) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
+<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (<i>l</i>) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
 
 Pub. L. 108–293, §217, which directed amendment of this section by striking out “and” after semicolon at end of “paragraph (w)”, substituting “; and” for period at end of “paragraph (x)”, and adding a paragraph designated “(y)” at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
 
-2002—Subsec. (h). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (h). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-1998—Subsec. (w). Pub. L. 105–383, §202, added subsec. (w).
+<b>1998</b>—Subsec. (w). Pub. L. 105–383, §202, added subsec. (w).
 
 Subsec. (x). Pub. L. 105–383, §203, added subsec. (x).
 
-1996—Subsec. (v). Pub. L. 104–324 added subsec. (v).
+<b>1996</b>—Subsec. (v). Pub. L. 104–324 added subsec. (v).
 
-1993—Subsec. (t). Pub. L. 103–206, §202, added subsec. (t).
+<b>1993</b>—Subsec. (t). Pub. L. 103–206, §202, added subsec. (t).
 
 Subsec. (u). Pub. L. 103–206, §316, added subsec. (u).
 
-1991—Subsec. (s). Pub. L. 102–241 added subsec. (s).
+<b>1991</b>—Subsec. (s). Pub. L. 102–241 added subsec. (s).
 
-1982—Subsec. (h). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”.
 
 Subsec. (r). Pub. L. 97–276 and Pub. L. 97–322 made identical amendments adding subsec. (r) relating to medical and dental care for personnel entitled thereto by law or regulation, including care in private facilities.
 
-1981—Subsec. (p). Pub. L. 97–136, inserted “including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration,” after “of such lines and cables,”.
+<b>1981</b>—Subsec. (p). Pub. L. 97–136, inserted “including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration,” after “of such lines and cables,”.
 
-1976—Subsec. (n). Pub. L. 94–546 substituted “to be deposited in the Treasury” for “to be covered into the Treasury”.
+<b>1976</b>—Subsec. (n). Pub. L. 94–546 substituted “to be deposited in the Treasury” for “to be covered into the Treasury”.
 
-1951—Subsec. (h). Act Oct. 31, 1951, §2(10), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out the requirement that net monies received from the disposition of patrol boats, etc., be covered into the Treasury.
+<b>1951</b>—Subsec. (h). Act Oct. 31, 1951, §2(10), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out the requirement that net monies received from the disposition of patrol boats, etc., be covered into the Treasury.
 
 Subsec. (i). Act Oct. 31, 1951, §4(1), inserted provision permitting discontinuance of aids to navigation, etc., and struck out provision permitting discontinuance or other disposition of obsolete, unsuitable, or unserviceable aids to navigation, etc., and the requirement that the net monies received from such disposition be covered into the Treasury.
 
 Subsec. (k). Act Oct. 31, 1951, §1(33), repealed subsec. (k) which empowered the Commandant to exchange aircraft, vehicles, and parts thereof, and obsolete, unsuitable, or unserviceable machines, tools, aids to navigation, appliances, equipment, and supplies in part payment for new items of the same or similar character.
 
-1950—Subsec. (<i>o</i>). Act Aug. 3, 1950, struck out “and” after the semicolon.
+<b>1950</b>—Subsec. (<i>o</i>). Act Aug. 3, 1950, struck out “and” after the semicolon.
 
 Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Report on Sexual Assaults in the Coast Guard
+
+Pub. L. 111–281, title II, §217, Oct. 15, 2010, 124 Stat. 2917, provided that:
+
+“(a)
+
+In General.—Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+“(b)
+
+Contents.—The report required under subsection (a) shall contain the following:
+
+&emsp;“(1) The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
+
+&emsp;“(2) A synopsis of, and the disciplinary action taken in, each substantiated case.
+
+&emsp;“(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned.
+
+&emsp;“(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned.”
 
 #### Marine Vessel and Cold Water Safety Education
 

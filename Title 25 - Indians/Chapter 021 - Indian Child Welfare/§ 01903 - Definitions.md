@@ -12,7 +12,7 @@ For the purposes of this chapter, except as may be specifically provided otherwi
 
 &emsp;&emsp;(iv) “adoptive placement” which shall mean the permanent placement of an Indian child for adoption, including any action resulting in a final decree of adoption.
 
-> &emsp;Such term or terms shall not include a placement based upon an act which, if committed by an adult, would be deemed a crime or upon an award, in a divorce proceeding, of custody to one of the parents.
+> &emsp;Such term or terms shall not include a placement based upon an act which, if committed by an adult, would be deemed a crime or uponan award, in a divorce proceeding, of custody to one of the parents.
 
 &emsp;(2) “extended family member” shall be as defined by the law or custom of the Indian child's tribe or, in the absence of such law or custom, shall be a person who has reached the age of eighteen and who is the Indian child's grandparent, aunt or uncle, brother or sister, brother-in-law or sister-in-law, niece or nephew, first or second cousin, or stepparent;
 

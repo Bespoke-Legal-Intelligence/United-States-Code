@@ -10,13 +10,13 @@ This chapter, referred to in text, was in the original, “this Act”, meaning 
 
 #### Amendments
 
-1996—Pub. L. 104–208, §308(g)(9)(A), substituted “part IV” for “Part V”.
+<b>1996</b>—Pub. L. 104–208, §308(g)(9)(A), substituted “part IV” for “Part V”.
 
 Pub. L. 104–208, §308(e)(1)(N), substituted “removal” for “deportation”.
 
 Pub. L. 104–208, §308(d)(4)(N), substituted “inadmissible” for “subject to exclusion” in two places.
 
-1981—Pub. L. 97–116 substituted “immigrant, special immigrant, immediate relative, or refugee” for “quota immigrant, or nonquota immigrant”.
+<b>1981</b>—Pub. L. 97–116 substituted “immigrant, special immigrant, immediate relative, or refugee” for “quota immigrant, or nonquota immigrant”.
 
 #### Effective Date of 1996 Amendment
 

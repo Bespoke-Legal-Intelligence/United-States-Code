@@ -36,9 +36,9 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-2005—Subsec. (a). Pub. L. 109–97 substituted “bison, horses, and deer” for “and bison”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–97 substituted “bison, horses, and deer” for “and bison”.
 
-2004—Pub. L. 108–447 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
+<b>2004</b>—Pub. L. 108–447 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 
 #### Effective Date of 2005 Amendment
 

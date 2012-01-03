@@ -78,7 +78,7 @@ It is unlawful for any person to import, export, or transport in interstate comm
 
 #### (d) False labeling offenses
 
-It is unlawful for any person to make or submit any false record, account, or label for, orany false identification of, any fish, wildlife, or plant which has been, or is intended to be—
+It is unlawful for any person to make or submit any false record, account, or label for, or any false identification of, any fish, wildlife, or plant which has been, or is intended to be—
 
 &emsp;(1) imported, exported, transported, sold, purchased, or received from any foreign country; or
 
@@ -150,7 +150,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (3) Exclusions
 
-&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging material to support, protect, or carry another item, unless the packaging material itself is the item being imported.
+&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging materialto support, protect, or carry another item, unless the packaging material itself is the item being imported.
 
 #### (4) Review
 
@@ -164,7 +164,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(i) the effectiveness of each type of information required under paragraphs (1) and (2) in assisting enforcement of this section; and
 
-&emsp;&emsp;&emsp;(ii) the potential to harmonize each requirement imposed by paragraphs (1) and\(2) with other applicable import regulations in existence as of the date of the report;
+&emsp;&emsp;&emsp;(ii) the potential to harmonize each requirement imposed by paragraphs (1) and (2) with other applicable import regulations in existence as of the date of the report;
 
 &emsp;&emsp;(B) recommendations for such legislation as the Secretary determines to be appropriate to assist in the identification of plants that are imported into the United States in violation of this section; and
 

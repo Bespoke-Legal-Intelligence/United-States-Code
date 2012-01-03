@@ -34,5 +34,5 @@ Section was enacted as part of the Department of Homeland Security Appropriation
 
 #### Amendments
 
-2008—Pub. L. 110–329 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2008</b>—Pub. L. 110–329 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

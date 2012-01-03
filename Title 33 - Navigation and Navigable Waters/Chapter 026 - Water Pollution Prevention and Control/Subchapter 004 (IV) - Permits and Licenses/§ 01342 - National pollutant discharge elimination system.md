@@ -102,7 +102,7 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (k) Compliance with permits
 
-Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
 
 #### (<i>l</i>) Limitation on permit requirement
 
@@ -116,7 +116,7 @@ Compliance with a permit issued pursuant to this section shall be deemed complia
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
-To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title,relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
+To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 
 #### (n) Partial permit program
 
@@ -148,7 +148,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) General prohibition
 
-&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
+&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C)or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
 
 #### (2) Exceptions
 
@@ -212,7 +212,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial and large municipal discharges
 
-&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February 4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, as the case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
+&emsp;&emsp;Not later than 2 years after February 4, 1987, the Administrator shall establish regulations setting forth the permit application requirements for stormwater discharges described in paragraphs (2)(B) and (2)(C). Applications for permits for such discharges shall be filed no later than 3 years after February 4, 1987. Not later than 4 years after February 4, 1987, the Administrator or the State, asthe case may be, shall issue or deny each such permit. Any such permit shall provide for compliance as expeditiously as practicable, but in no event later than 3 years after the date of issuance of such permit.
 
 #### (B) Other municipal discharges
 
@@ -238,7 +238,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed bythe Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the “CSO control policy”).
 
 #### (2) Water quality and designated use review guidance
 
@@ -324,7 +324,7 @@ Other terms.—The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, an
 
 “(a)
 
-No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the dateof the enactment of this Act \[July 31, 2008\] and ending on December 18, 2013, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
+No Permit Requirement.—Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2013, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342), shall not require a permit under that section for a covered vessel for—
 
 &emsp;“(1) any discharge of effluent from properly functioning marine engines;
 
@@ -384,7 +384,7 @@ Group applications.—With respect to group applications for permits for dischar
 
 Municipalities With Less Than 100,000
 
-Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
+Population.—The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality beforeOctober 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(p)(2)(A), (E)\].
 
 “(d)
 
@@ -430,7 +430,7 @@ Agreement.—The Administrator and Secretary of the Army shall enter into an agr
 
 “(b)
 
-Applications and Permits Before October 22, 1985.—Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301,302, 306, 307, 308, and 403 of such Act \[33 U.S.C. 1311, 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
+Applications and Permits Before October 22, 1985.—Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act \[33 U.S.C. 1311, 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
 
 “(c)
 

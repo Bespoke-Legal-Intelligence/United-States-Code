@@ -22,5 +22,5 @@ In order to carry out the purpose of this subchapter, the Secretary is authorize
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–624 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

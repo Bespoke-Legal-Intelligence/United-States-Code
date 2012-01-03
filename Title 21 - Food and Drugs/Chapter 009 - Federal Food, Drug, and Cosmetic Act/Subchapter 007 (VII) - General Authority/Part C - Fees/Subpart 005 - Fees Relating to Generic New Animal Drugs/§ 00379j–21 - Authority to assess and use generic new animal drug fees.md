@@ -68,7 +68,7 @@ Except as provided in subsection (a)(1) and subsections (c), (d), (f), and (g), 
 
 #### (2) Total fee revenues for product fees
 
-&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $1,691,000 for fiscal year2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
+&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $1,691,000 for fiscal year 2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
 
 #### (3) Total fee revenues for sponsor fees
 
@@ -192,7 +192,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;The term “costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs” means the expenses incurred in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
-&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisorycommittees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
 &emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources;
 
@@ -214,7 +214,7 @@ In this section and section 379j–22 of this title:
 
 #### (7) Generic new animal drug sponsor
 
-&emsp;The term “generic new animal drug sponsor” means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
+&emsp;The term “generic new animal drug sponsor” means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by theapplicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
 
 #### (8) Investigational submission for a generic new animal drug
 

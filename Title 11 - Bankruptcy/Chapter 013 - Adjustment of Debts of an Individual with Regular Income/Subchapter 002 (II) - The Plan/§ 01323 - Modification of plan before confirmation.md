@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-I74senate report no. 95–989
+#### senate report no. 95–989
 
 The debtor is permitted to modify the plan before confirmation without court approval so long as themodified plan, which becomes the plan on filing, complies with the requirements of section 1322.
 

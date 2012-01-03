@@ -10,7 +10,7 @@ Subchapter IX–A of this chapter, referred to in text, was repealed by Pub. L. 
 
 #### Amendments
 
-1989—Pub. L. 101–235 inserted “, as such subchapter existed immediately before December 15, 1989,” after “subchapter IX–A of this chapter”.
+<b>1989</b>—Pub. L. 101–235 inserted “, as such subchapter existed immediately before December 15, 1989,” after “subchapter IX–A of this chapter”.
 
-1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
 

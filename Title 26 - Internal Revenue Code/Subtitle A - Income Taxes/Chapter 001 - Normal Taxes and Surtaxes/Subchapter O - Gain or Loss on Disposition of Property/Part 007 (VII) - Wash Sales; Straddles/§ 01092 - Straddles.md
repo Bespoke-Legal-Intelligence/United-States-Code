@@ -388,7 +388,7 @@ Subsec. (a)(2)(C), (D). Pub. L. 110–172, §7(d)(3), (4), added subpar. (C), re
 
 Subsec. (a)(3)(B). Pub. L. 110–172, §7(d)(2)(C), substituted “offsetting position” for “identified offsetting position”.
 
-<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
+<b>2005</b>—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the orderingrules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
 
 <b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–357, §888(a)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “In the case of any straddle which is an identified straddle as of the close of any taxable year—
 
@@ -474,7 +474,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Identification requirement of amendment related to section 888 of the american jobs creation act of 2004.—The amendment made by subsection (d)(2)(A) \[amending this section\] shall apply to straddles acquired after the date of the enactment of this Act \[Dec. 29, 2007\].”
+Identification requirement of amendment related to section 888 of the american jobs creationact of 2004.—The amendment made by subsection (d)(2)(A) \[amending this section\] shall apply to straddles acquired after the date of the enactment of this Act \[Dec. 29, 2007\].”
 
 #### Effective Date of 2005 Amendment
 
@@ -572,7 +572,7 @@ Election With Respect to Property Held on June 23, 1981.—If the taxpayer so el
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Certain Losses on Straddles Entered Into Before Effective Date of Economic Recovery Tax Act of 1981
 

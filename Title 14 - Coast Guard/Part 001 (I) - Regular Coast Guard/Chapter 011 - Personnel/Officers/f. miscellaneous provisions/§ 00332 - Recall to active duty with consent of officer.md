@@ -8,11 +8,11 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–241, §14(b), substituted “that officer's” for “his” and “that officer” for “he”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–241, §14(b), substituted “that officer's” for “his” and “that officer” for “he”.
 
 Subsec. (b). Pub. L. 102–241, §14(a), substituted “2” for “1”.
 
-1970—Subsec. (a). Pub. L. 91–278 struck out prohibition against recall to duty in time of peace of any officer on retired list who reached age of sixty-two years.
+<b>1970</b>—Subsec. (a). Pub. L. 91–278 struck out prohibition against recall to duty in time of peace of any officer on retired list who reached age of sixty-two years.
 
-1966—Subsec. (b). Pub. L. 89–444 provided that the percentage limitation on the number of retired officers on active duty in the grade of lieutenant commander, commander, or captain should not apply to retired officers of those grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
+<b>1966</b>—Subsec. (b). Pub. L. 89–444 provided that the percentage limitation on the number of retired officers on active duty in the grade of lieutenant commander, commander, or captain should not apply to retired officers of those grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
 

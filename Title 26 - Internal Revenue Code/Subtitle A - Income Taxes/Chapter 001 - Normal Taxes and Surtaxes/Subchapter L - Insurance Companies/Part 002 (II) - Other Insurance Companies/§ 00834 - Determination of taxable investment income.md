@@ -30,7 +30,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (2) Investment expenses
 
-&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses are in part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 33/4 percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
+&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses are in part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 3¾ percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
 
 #### (3) Real estate expenses
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(105), (b)(1)(P)–(S) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(105), (b)(1)(P)–(S) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1966 Amendment
 

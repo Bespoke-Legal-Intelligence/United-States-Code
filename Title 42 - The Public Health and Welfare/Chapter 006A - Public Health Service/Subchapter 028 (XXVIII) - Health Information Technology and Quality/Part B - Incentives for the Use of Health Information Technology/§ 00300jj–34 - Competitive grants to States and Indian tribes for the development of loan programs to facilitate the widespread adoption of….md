@@ -108,7 +108,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (A) In general
 
-&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entitiesmay not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
+&emsp;&emsp;A Loan Fund established under this section may accept contributions from private sector entities, except that such entities may not specify the recipient or recipients of any loan issued under this subsection. An eligible entity may agree to reimburse a private sector entity for any contribution made under this subparagraph, except that the amount of such reimbursement may not be greater than the principal amount of the contribution made.
 
 #### (B) Availability of information
 
@@ -118,7 +118,7 @@ Except as otherwise limited by applicable State law, amounts deposited into a Lo
 
 #### (1) In general
 
-&emsp;The National Coordinator may not make a grant under subsection (a) to an eligible entity unless the entity agrees to make available (directly or through donations from public or private entities) non-Federal contributions in cash to the costs of carrying out the activities for which the grant is awarded in an amount equal to not less than $1 for each $5 of Federal funds provided under the grant.
+&emsp;The National Coordinator may not make a grant under subsection (a) to an eligible entity unless the entity agrees to make available (directly or through donations from public or private entities) non-Federal contributions incash to the costs of carrying out the activities for which the grant is awarded in an amount equal to not less than $1 for each $5 of Federal funds provided under the grant.
 
 #### (2) Determination of amount of non-Federal contribution
 

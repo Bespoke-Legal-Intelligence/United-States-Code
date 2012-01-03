@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 107–275, §2(b)(3)(B), struck out “, after consultatio
 
 <b>1994</b>—Subsecs. (a)(2), (b). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Codeof 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–119 substituted “section 9501(d) of title 26” for “section 934 of this title”.
 

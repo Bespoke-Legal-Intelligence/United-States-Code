@@ -134,6 +134,8 @@ Fort Marion National Monument, Florida \[Monument redesignated Castillo de San M
 
 Fort Matanzas National Monument, Florida.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; Proc. No. 2114, Jan. 9, 1935, 49 Stat. 3433; Proc. No. 2773, Mar. 24, 1948, 62 Stat. 1491; Pub. L. 106–524, Nov. 22, 2000, 114 Stat. 2493.
 
+Fort Monroe National Monument, Virginia.—Proc. No. 8750, Nov. 1, 2011, 76 F.R. 68625.
+
 Fort Niagara National Monument, New York.—Proc. No. 1745, Sept. 5, 1925, 44 Stat. 2582.
 
 Fort Pulaski National Monument, Georgia.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1968; June 26, 1936, ch. 844, 49 Stat. 1979; Pub. L. 104–333, div. I, title VIII, §807, Nov. 12, 1996, 110 Stat. 4188.
@@ -462,7 +464,7 @@ U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §
 
 USS Oklahoma Memorial, Hawaii.—Pub. L. 109–163, div. A, title X, §1017, Jan. 6, 2006, 119 Stat. 3425.
 
-Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348; Pub. L. 111–270, §1, Oct. 12, 2010, 124 Stat. 2851.
+Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348; Pub. L. 111–270, §1, Oct. 12, 2010, 124 Stat. 2851; Pub. L. 112–74, div. E, title IV, §420, Dec. 23, 2011, 125 Stat. 1045.
 
 Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
 

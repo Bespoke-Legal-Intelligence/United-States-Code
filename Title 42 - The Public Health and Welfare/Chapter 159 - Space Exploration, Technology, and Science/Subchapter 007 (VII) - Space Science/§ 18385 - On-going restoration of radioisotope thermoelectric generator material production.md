@@ -22,7 +22,7 @@ The Administrator shall, in coordination with the Secretary of Energy, pursue a 
 
 #### (c) Report
 
-Within 120 days after October 11, 2010, the Administrator and the Secretary of Energy shallsubmit a joint report to the appropriate committees of Congress on coordinated agreements, planned implementation, and anticipated schedule, production quantities, and mission applications under this section.
+Within 120 days after October 11, 2010, the Administrator and the Secretary of Energy shall submit a joint report to the appropriate committees of Congress on coordinated agreements, planned implementation, and anticipated schedule, production quantities, and mission applications under this section.
 
 (Pub. L. 111–267, title VIII, §806, Oct. 11, 2010, 124 Stat. 2833.)
 

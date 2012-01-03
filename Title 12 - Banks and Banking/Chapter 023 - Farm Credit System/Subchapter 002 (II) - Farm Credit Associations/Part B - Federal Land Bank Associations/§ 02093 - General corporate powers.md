@@ -66,7 +66,7 @@ A prior section 2093, Pub. L. 92–181, title II, §2.12, Dec. 10, 1971, 85 Stat
 
 #### Amendments
 
-1988—Par. (7). Pub. L. 100–399, §401(u)(1), substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
+<b>1988</b>—Par. (7). Pub. L. 100–399, §401(u)(1), substituted “provide by its board of directors for” for “elect by its board of directors” and “serve as” for “be elected or designated”.
 
 Par. (8). Pub. L. 100–399, §401(u)(2), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “prescribe by its board of directors, association bylaws, not inconsistent with law, providing for the classes of association stock and the manner in which such stock shall be issued, transferred, and retired; the officers and employees of the association elected or provided for, the property of the association that is acquired, held, and transferred, the general business of the association conducted, and the privileges granted to the association by law exercised and enjoyed;”.
 

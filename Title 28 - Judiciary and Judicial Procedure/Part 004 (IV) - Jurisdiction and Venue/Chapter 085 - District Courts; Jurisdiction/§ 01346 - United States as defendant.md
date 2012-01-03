@@ -18,7 +18,7 @@
 
 (f) The district courts shall have exclusive original jurisdiction of civil actions under section 2409a to quiet title to an estate or interest in real property in which an interest is claimed by the United States.
 
-(g) Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under section 453(2) of title 3, by a covered employee under chapter 5 of such title.
+(g) Subject to the provisions of chapter 179, the district courts of the United States shallhave exclusive jurisdiction over any civil action commenced under section 453(2) of title 3, by a covered employee under chapter 5 of such title.
 
 (June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, §2(a), 63 Stat. 62; May 24, 1949, ch. 139, §80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, §50(b), 65 Stat. 727; July 30, 1954, ch. 648, §1, 68 Stat. 589; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, §202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, §1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, §1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, §1204(c)(1), title XIII, §1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, §14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, §129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, §402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §806\], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, §3(b)(1), Oct. 26, 1996, 110 Stat. 4069; Pub. L. 111–350, §5(g)(6), Jan. 4, 2011, 124 Stat. 3848.)
 
@@ -38,7 +38,7 @@ The phrase in section 931(a) of title 28, U.S.C., 1940 ed., “accruing on and a
 
 Provisions in section 41(20) of title 28, U.S.C., 1940 ed., relating to time for commencing action against United States and jury trial constitute sections 2401 and 2402 of this title. (See reviser's notes under said sections.)
 
-Words in section 41(20) of title 28, U.S.C., 1940 ed., “commenced after passage of the Revenue Act of 1921”were not included in revised subsection (a)(1) because obsolete and superfluous. Actions under this section involving erroneous or illegal assessments by the collector of taxes would be barred unless filed within the 5-year limitation period of section 1113(a) of the Revenue Act of 1926, 44 Stat. 9, 116. (See <i>United States v. A. S. Kreider Co</i>., 1941, 61 S.Ct. 1007, 313 U.S. 443, 85 L.Ed. 1447.)
+Words in section 41(20) of title 28, U.S.C., 1940 ed., “commenced after passage of the Revenue Act of 1921” were not included in revised subsection (a)(1) because obsolete and superfluous. Actions under this section involving erroneous or illegal assessments by the collector of taxes would be barred unless filed within the 5-year limitation period of section 1113(a) of the Revenue Act of 1926, 44 Stat. 9, 116. (See <i>United States v. A. S. Kreider Co</i>., 1941, 61 S.Ct. 1007, 313 U.S. 443, 85 L.Ed. 1447.)
 
 Words in section 41(20) of title 28, U.S.C., 1940 ed., “if the collector of internal revenue is dead or is not in office at the time such action or proceeding is commenced” were omitted.
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1982 Amendments
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application,see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as an Effective Date note under section 6221 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 

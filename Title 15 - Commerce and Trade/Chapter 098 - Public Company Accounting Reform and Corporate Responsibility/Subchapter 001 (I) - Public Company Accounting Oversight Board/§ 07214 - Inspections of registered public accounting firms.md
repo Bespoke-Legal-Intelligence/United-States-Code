@@ -4,7 +4,7 @@
 
 #### (1) Inspections generally
 
-&emsp;The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits,issuance of audit reports, and related matters involving issuers.
+&emsp;The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits, issuance of audit reports, and related matters involving issuers.
 
 #### (2) Inspections of audit reports for brokers and dealers
 

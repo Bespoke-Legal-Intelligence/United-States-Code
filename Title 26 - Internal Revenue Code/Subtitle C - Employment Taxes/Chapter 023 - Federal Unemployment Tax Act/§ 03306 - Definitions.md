@@ -152,7 +152,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(9) service performed by an individual as an employee or employee representative as defined in section 1 of the Railroad Unemployment Insurance Act (45 U.S.C. 351);
 
-&emsp;(10)(A) service performed in any calendar quarter in the employ of any organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521, if the remuneration for such service is less than $50, or
+&emsp;(10)(A) service performed in any calendar quarter in the employ of any organization exempt from income tax under section 501(a)\(other than an organization described in section 401(a)) or under section 521, if the remuneration for such service is less than $50, or
 
 &emsp;(B) service performed in the employ of a school, college, or university, if such service is performed (i) by a student who is enrolled and is regularly attending classes at such school, college, or university, or (ii) by the spouse of such a student, if such spouse is advised, at the time such spouse commences to perform such service, that (I) the employment of such spouse to perform such service is provided under a program to provide financial assistance to such student by such school, college, or university, and (II) such employment will not be covered by any program of unemployment insurance, or
 
@@ -174,7 +174,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -260,7 +260,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) a corporation organized under the laws of the United States or of any State.
 
-> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (but not otherwise a citizen of the United States) shall be considered, for purposes of this section, as a citizen of the United States.
+> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (but not otherwise a citizen of the United States)shall be considered, for purposes of this section, as a citizen of the United States.
 
 #### (k) Agricultural labor
 
@@ -292,7 +292,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant andSeasonal Agricultural Worker Protection Act; or
+&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
 
 &emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
@@ -374,7 +374,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(1) individuals who meet the requirements described in paragraph (3) are eligible to receive an allowance in lieu of regular unemployment compensation under the State law for the purpose of assisting such individuals in establishing a business and becoming self-employed;
 
-&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the sameterms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
+&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the same terms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
 
 &emsp;&emsp;(A) State requirements relating to availability for work, active search for work, and refusal to accept work are not applicable to such individuals;
 
@@ -468,7 +468,7 @@ Subsec. (r)(1)(A). Pub. L. 102–318, §521(b)(35), substituted “402(e)(3)” 
 
 <b>1989</b>—Subsec. (t). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, §1011B(a)(22)(C), had not been enacted, see 1988 Amendment note below.
 
-<b>1988</b>—Subsec. (b)(5)(G). Pub. L. 100–647, §1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
+<b>1988</b>—Subsec. (b)(5)(G). Pub. L. 100–647, §1011B(a)(23)(A), inserted “if such payment would notbe treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
 
 Subsec. (b)(9). Pub. L. 100–647, §1001(g)(4)(B)(ii), inserted “(determined without regard to section 274(n))” after “section 217”.
 
@@ -514,7 +514,7 @@ Subsec. (s). Pub. L. 98–369, §1073(a), added subsec. (s).
 
 Pub. L. 98–21, §324(b)(4)(B), added sentence at end providing that, except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of parenthetical text contained in subpar. (A) of par. (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages.
 
-Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accidentdisability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
+Subsec. (b)(2). Pub. L. 98–21, §324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman's compensation law)” for “sickness or accident disability”.
 
 Subsec. (b)(3). Pub. L. 98–21, §324(b)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
@@ -616,7 +616,7 @@ Subsec. (k). Pub. L. 91–373, §103(a), substituted as definition of “agricul
 
 Subsec. (c)(4). Pub. L. 86–778, §532(b), excluded service performed on or in connection with an aircraft that is not an American aircraft.
 
-Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl.\(A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
+Subsec. (c)(6). Pub. L. 86–778, §531(c), substituted “wholly or partially owned” for “wholly owned” in cl. (A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
 
 Subsec. (c)(8). Pub. L. 86–778, §533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
 
@@ -738,7 +738,7 @@ Exception for certain states.—In the case of any State the legislature of whic
 
 &emsp;“(A) did not meet in a regular session which begins during 1984 and after the date of the enactment of this Act \[July 18, 1984\], and
 
-&emsp;“(B) did not meet in a session which began before the date of the enactment of this Act and remained in session for at least 25 calendar days after such date of enactment,
+&emsp;“(B) did not meet in a session which began before the date of the enactment of this Act and remainedin session for at least 25 calendar days after such date of enactment,
 
 > the amendment made by subsection (a) shall take effect on January 1, 1987.”
 

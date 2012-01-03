@@ -14,7 +14,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;&emsp;Amounts provided to the local educational agency under this subchapter shall be expended in accordance with the applicable provisions of this subchapter and—
 
-&emsp;&emsp;&emsp;(i) shall be used only to pay the excess costs of providing special education and related services to children with disabilities;
+&emsp;&emsp;&emsp;(i) shall be used only to pay the excess costs of providing special education andrelated services to children with disabilities;
 
 &emsp;&emsp;&emsp;(ii) shall be used to supplement State, local, and other Federal funds and not to supplant such funds; and
 
@@ -74,7 +74,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (A) Uses
 
-&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating tocommingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
+&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating to commingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
 
 #### (i) Services and aids that also benefit nondisabled children
 
@@ -138,7 +138,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (3) Modifications required by State educational agency
 
-&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal or State law or regulations, then the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
+&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by Federal or State courts, or there is an official finding of noncompliance with Federal orState law or regulations, then the State educational agency may require a local educational agency to modify its application only to the extent necessary to ensure the local educational agency's compliance with this subchapter or State law.
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 

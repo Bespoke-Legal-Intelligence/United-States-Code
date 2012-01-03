@@ -14,7 +14,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(2)(A) A description of the policies adopted, agreements concluded, and programs implemented by the Department of State in pursuit of its delegated responsibilities for international narcotics control, including appropriate information on the status of negotiations between the United States and other countries on updated extradition treaties, mutual legal assistance treaties, precursor chemical controls, money laundering, and agreements pursuant to section 2015 of the International Narcotics Act of 1986 (relating to interdiction procedures for vessels of foreign registry).
 
-&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United StatesGovernment agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+&emsp;(B) Information on multilateral and bilateral strategies with respect to money laundering pursued by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering and to demonstrate that all United States Government agencies are pursuing a common strategy with respect to major money laundering countries. The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
 
 &emsp;(3) The identity of those countries which are—
 
@@ -62,7 +62,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(i) criminalized narcotics money laundering;
 
-&emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significant transactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
+&emsp;&emsp;&emsp;(ii) required banks and other financial institutions to know and record the identity of customers engaging in significanttransactions, including the recording of large currency transactions at thresholds appropriate to that country's economic situation;
 
 &emsp;&emsp;&emsp;(iii) required banks and other financial institutions to maintain, for an adequate time, records necessary to reconstruct significant transactions through financial institutions in order to be able to respond quickly to information requests from appropriate government authorities in narcotics-related money laundering cases;
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 104–66, §1112(c)(2), struck out heading and text of subs
 
 Subsec. (a). Pub. L. 103–447, §101(f)(1)(B)(i), substituted “March 1” for “April 1” in introductory provisions.
 
-Subsec. (a)(3)(B) to (D). Pub. L. 103–447, §101(f)(1)(B)(ii), redesignated subpars. (C) and (D) as (B)and (C), respectively, and struck out former subpar. (B) which read as follows: “the significant direct or indirect sources of narcotics and psychotropic drugs and other controlled substances significantly affecting the United States;”.
+Subsec. (a)(3)(B) to (D). Pub. L. 103–447, §101(f)(1)(B)(ii), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “the significant direct or indirect sources of narcotics and psychotropic drugs and other controlled substances significantly affecting the United States;”.
 
 Subsec. (c). Pub. L. 103–447, §101(f)(1)(D), (E), redesignated subsec. (d) as (c) and amended heading and text generally. Prior to amendment, text read as follows: “This section applies only during fiscal years 1993 and 1994. Section 2291i of this title does not apply during those fiscal years.”
 

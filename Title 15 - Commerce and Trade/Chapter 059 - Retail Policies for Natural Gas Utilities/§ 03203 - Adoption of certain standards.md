@@ -82,7 +82,7 @@ This chapter, referred to in subsec. (b)(6), was in the original “this subtitl
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” insubsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a)(2). Pub. L. 110–140, §532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
 
 Subsec. (b)(5), (6). Pub. L. 110–140, §532(b), added pars. (5) and (6).
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 
-Section 115(e) of Pub. L. 102–486 provided that: “The report under section 111(e) of this Act \[16 U.S.C. 2621 note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
+Section 115(e) of Pub. L. 102–486 provided that: “The report under section 111(e) of this Act \[16 U.S.C. 2621note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[15 U.S.C. 3203(b)(3) and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
 
 #### Definitions
 

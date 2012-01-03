@@ -54,18 +54,14 @@
 | [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
 | [139B.](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md) | Benefits provided to volunteer firefighters and emergency medical responders. |
 | [139C.](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md) | COBRA premium assistance. |
-| 139D. | Free choice vouchers.<sup>3</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 139D. | Indian health care benefits.<sup>3</sup> |
+| [139D.](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md) | Indian health care benefits. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D “Free choice vouchers”.
 
 <b>2010</b>—Pub. L. 111–148, title X, §10108(f)(2), Mar. 23, 2010, 124 Stat. 913, added item 139D relating to free choice vouchers.
 
@@ -99,7 +95,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 <b>1986</b>—Pub. L. 99–514, title I, §123(b)(4), title VI, §612(b)(8), title XI, §1168(b), Oct. 22, 1986, 100 Stat. 2113, 2251, 2512, struck out item 116 “Partial exclusion of dividends received by individuals”, substituted in item 117 “Qualified scholarships” for “Scholarships and fellowship grants”, added item 134, and redesignated former item 134 as 135.
 
-<b>1984</b>—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” initem 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
+<b>1984</b>—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
 
 Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repealed an amendment made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 
@@ -107,7 +103,7 @@ Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repeale
 
 Pub. L. 97–473, title I, §102(b), Jan. 14, 1983, 96 Stat. 2607, struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 
-<b>1981</b>—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+<b>1981</b>—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) ofPub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 <b>1980</b>—Pub. L. 96–499, title XI, §1102(b), Dec. 5, 1980, 94 Stat. 2669, added item 103A.
 
@@ -181,8 +177,6 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 
 <i><sup>2</sup></i><i> Editorially supplied. Section 129 added by Pub. L. 97–34 without corresponding amendment of part analysis.</i>
 
-<i><sup>3</sup></i><i> So in original. Two sections 139D have been enacted.</i>
-
 
 ---
 
@@ -231,6 +225,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
 - [&sect; 00139B - Benefits provided to volunteer firefighters and emergency medical responders](%C2%A7%2000139B%20-%20Benefits%20provided%20to%20volunteer%20firefighters%20and%20emergency%20medical%20responders.md)
 - [&sect; 00139C - COBRA premium assistance](%C2%A7%2000139C%20-%20COBRA%20premium%20assistance.md)
-- [&sect; 00139D - 1 Free choice vouchers](%C2%A7%2000139D%20-%201%20Free%20choice%20vouchers.md)
-- [&sect; 00139D - 1 Indian health care benefits](%C2%A7%2000139D%20-%201%20Indian%20health%20care%20benefits.md)
+- [&sect; 00139D - Indian health care benefits](%C2%A7%2000139D%20-%20Indian%20health%20care%20benefits.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

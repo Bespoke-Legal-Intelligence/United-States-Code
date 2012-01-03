@@ -22,7 +22,7 @@ Funds for adult offender demonstration projects may be expended for—
 
 &emsp;(5) encouraging the involvement of prison, jail, or juvenile facility mentors in the reentry process and enabling those mentors to remain in contact with offenders while in custody and after reentry into the community;
 
-&emsp;(6) providing victim-appropriate services, encouraging the timely and complete payment of restitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders; and
+&emsp;(6) providing victim-appropriate services, encouraging the timely and complete payment ofrestitution and fines by offenders to victims, and providing services such as security and counseling to victims upon release of offenders; and
 
 &emsp;(7) protecting communities against dangerous offenders by using validated assessment tools to assess the risk factors of returning inmates and developing or adopting procedures to ensure that dangerous felons are not released from prison prematurely.
 
@@ -320,7 +320,7 @@ Subsecs. (d) to (<i>o</i>). Pub. L. 110–199, §101(c), added subsecs. (d) to (
 
 Subsec. (<i>o</i>)(1). Pub. L. 110–199, §101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
 
-Subsec. (<i>o</i>)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows:“Of the amount made available to carry out this section in any fiscal year—
+Subsec. (<i>o</i>)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Of the amount made available to carry out this section in any fiscal year—
 
 &emsp;“(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 

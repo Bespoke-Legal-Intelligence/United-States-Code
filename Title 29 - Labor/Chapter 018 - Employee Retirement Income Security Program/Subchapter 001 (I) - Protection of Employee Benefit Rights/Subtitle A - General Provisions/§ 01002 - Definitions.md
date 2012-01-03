@@ -92,7 +92,7 @@ For purposes of this subchapter:
 
 (B) The term “plan sponsor” means (i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, or (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
 
-(17) The term “separate account” means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance withthe applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
+(17) The term “separate account” means an account established or maintained by an insurance company under which income, gains, and losses, whether or not realized, from assets allocated to such account, are, in accordance with the applicable contract, credited to or charged against such account without regard to other income, gains, or losses of the insurance company.
 
 (18) The term “adequate consideration” when used in part 4 of subtitle B of this subchapter means (A) in the case of a security for which there is a generally recognized market, either (i) the price of the security prevailing on a national securities exchange which is registered under section 78f of title 15, or (ii) if the security is not traded on such a national securities exchange, a price not less favorable to the plan than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and (B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by the trustee or named fiduciary pursuant to the terms of the plan and in accordance with regulations promulgated by the Secretary.
 
@@ -136,7 +136,7 @@ For purposes of this subchapter:
 
 (27) The term “present value”, with respect to a liability, means the value adjusted to reflect anticipated events. Such adjustments shall conform to such regulations as the Secretary of the Treasury may prescribe.
 
-(28) The term “normal service cost” or “normal cost” means the annual cost of future pension benefits and administrative expenses assigned, under an actuarial cost method, to years subsequent to a particular valuation date of a pension plan. The Secretary of the Treasurymay prescribe regulations to carry out this paragraph.
+(28) The term “normal service cost” or “normal cost” means the annual cost of future pension benefits and administrative expenses assigned, under an actuarial cost method, to years subsequent to a particular valuation date of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
 (29) The term “accrued liability” means the excess of the present value, as of a particular valuation date of a pension plan, of the projected future benefit costs and administrative expenses for all plan participants and beneficiaries over the present value of future contributions for the normal cost of all applicable plan participants and beneficiaries. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
@@ -226,7 +226,7 @@ For purposes of this subchapter:
 
 &emsp;(II) notwithstanding section 401(k)(4)(B) of title 26, may include a qualified cash and deferred arrangement.
 
-(ii) For purposes of this subparagraph, the term “qualified football coaches plan” meansany defined contribution plan which is established and maintained by an organization—
+(ii) For purposes of this subparagraph, the term “qualified football coaches plan” means any defined contribution plan which is established and maintained by an organization—
 
 &emsp;(I) which is described in section 501(c) of title 26;
 
@@ -272,7 +272,7 @@ For purposes of this subchapter:
 
 (39) The terms “plan year” and “fiscal year of the plan” mean, with respect to a plan, the calendar, policy, or fiscal year on which the records of the plan are kept.
 
-(40)(A) The term “multiple employer welfare arrangement” means an employee welfare benefit plan, or any other arrangement (other than an employee welfare benefit plan), which is established or maintained for the purpose of offering or providing any benefit described in paragraph (1) to the employees of two or more employers (including one or more self-employed individuals), or to their beneficiaries, except that such term does not include any such plan orother arrangement which is established or maintained—
+(40)(A) The term “multiple employer welfare arrangement” means an employee welfare benefit plan, or any other arrangement (other than an employee welfare benefit plan), which is established or maintained for the purpose of offering or providing any benefit described in paragraph (1) to the employees of two or more employers (including one or more self-employed individuals), or to their beneficiaries, except that such term does not include any such plan or other arrangement which is established or maintained—
 
 &emsp;(i) under or pursuant to one or more agreements which the Secretary finds to be collective bargaining agreements,
 
@@ -318,7 +318,7 @@ The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 4
 
 Section 77b(1) of title 15, referred to in par. (20), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
-The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
@@ -348,7 +348,7 @@ Par. (37)(G)(vi). Pub. L. 110–28, §6611(b)(1), substituted “if it is a plan
 
 Par. (37)(G)(vii). Pub. L. 110–28, §6611(a)(1)(C), added cl. (vii).
 
-<b>2006</b>—Par. (2)(A). Pub. L. 109–280, §905(a), inserted at end “A distribution from a plan, fund, or program shall not be treated as made in a form other than retirement income or as a distribution prior to termination of covered employment solely because such distribution is made to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.”
+<b>2006</b>—Par. (2)(A). Pub. L. 109–280, §905(a), inserted at end “A distribution from a plan, fund, or program shallnot be treated as made in a form other than retirement income or as a distribution prior to termination of covered employment solely because such distribution is made to an employee who has attained age 62 and who is not separated from employment at the time of such distribution.”
 
 Par. (2)(B). Pub. L. 109–280, §1104(c), inserted at end “An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements.”
 
@@ -382,7 +382,7 @@ Par. (33)(D)(iii). Pub. L. 101–239, §7894(a)(1)(A), substituted “Secretary 
 
 Par. (37)(B). Pub. L. 101–239, §7893(a), substituted “section 1301(b)(1)” for “section 1301(c)(1)”.
 
-Par. (37)(F)(i)(II). Pub. L. 101–239, §7894(a)(2)(A)(i), substituted “the Internal Revenue Code of 1986” for “such Code”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
+Par. (37)(F)(i)(II). Pub. L. 101–239, §7894(a)(2)(A)(i), substituted “the Internal Revenue Code of 1986” for “such Code”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Par. (37)(F)(ii). Pub. L. 101–239, §7894(a)(2)(A)(ii), (iii), inserted “of such Code” after “section 501(c)” in subcl. (I) and after “section 170(b)(1)(A)(ii)” in subcl. (II), which for purposes of codification was translated as “of title 26” thus requiring no change in text.
 
@@ -488,7 +488,7 @@ Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 4
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry outamendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 #### Availability of Documents Via Filing Depository
 

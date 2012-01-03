@@ -26,13 +26,13 @@ Section was formerly classified to section 362 of this title.
 
 #### Amendments
 
-1998—Pub. L. 105–185 struck out “Alaska, Hawaii,” before “Puerto Rico” in second sentence.
+<b>1998</b>—Pub. L. 105–185 struck out “Alaska, Hawaii,” before “Puerto Rico” in second sentence.
 
-1974—Pub. L. 93–471 defined “State” to include the District of Columbia.
+<b>1974</b>—Pub. L. 93–471 defined “State” to include the District of Columbia.
 
-1972—Pub. L. 92–318 defined “State” to include Guam and the Virgin Islands.
+<b>1972</b>—Pub. L. 92–318 defined “State” to include Guam and the Virgin Islands.
 
-1955—Act Aug. 11, 1955, amended section generally to continue agricultural research at the agricultural experiment stations, to restate the declaration of purpose, and to insert definitions of “State” and “State agricultural experiment station.” Former provisions which required division of appropriations between colleges of same state are now contained in section 361h of this title.
+<b>1955</b>—Act Aug. 11, 1955, amended section generally to continue agricultural research at the agricultural experiment stations, to restate the declaration of purpose, and to insert definitions of “State” and “State agricultural experiment station.” Former provisions which required division of appropriations between colleges of same state are now contained in section 361h of this title.
 
 #### Effective Date of 1974 Amendment
 

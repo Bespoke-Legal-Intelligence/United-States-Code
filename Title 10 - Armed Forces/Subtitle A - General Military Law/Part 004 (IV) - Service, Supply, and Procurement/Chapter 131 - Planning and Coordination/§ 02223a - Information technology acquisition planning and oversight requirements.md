@@ -28,3 +28,123 @@ Program Components.—The program established under subsection (a) shall include
 
 (Added Pub. L. 111–383, div. A, title VIII, §805(a)(1), Jan. 7, 2011, 124 Stat. 4259.)
 
+#### Data Servers and Centers
+
+Pub. L. 112–81, div. B, title XXVIII, §2867, Dec. 31, 2011, 125 Stat. 1704, provided that:
+
+“(a)
+
+Limitations on Obligation of Funds.—
+
+&emsp;“(1)
+
+Limitations.—
+
+&emsp;&emsp;“(A)
+
+Before performance plan.—During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
+
+&emsp;&emsp;“(B)
+
+Under performance plan.—After May 1, 2012, a department, agency, or component of the Department may not obligate funds for a data center, or any information systems technology used therein, unless that obligation is in accordance with the performance plan required by subsection (b) and is approved as described in subparagraph (A).
+
+&emsp;“(2)
+
+Requirements for approvals.—
+
+&emsp;&emsp;“(A)
+
+Before performance plan.—An approval of the obligation of funds may not be granted under paragraph (1)(A) unless the official granting the approval determines, in writing, that existing resources of the agency, component, or element concerned cannot affordably or practically be used or modified to meet the requirements to be met through the obligation of funds.
+
+&emsp;&emsp;“(B)
+
+Under performance plan.—An approval of the obligation of funds may not be granted under paragraph (1)(B) unless the official granting the approval determines that—
+
+&emsp;&emsp;&emsp;“(i) existing resources of the Department do not meet the operation requirements to be met through the obligation of funds; and
+
+&emsp;&emsp;&emsp;“(ii) the proposed obligation is in accordance with the performance standards and measures established by the Chief Information Officer of the Department under subsection (b).
+
+&emsp;“(3)
+
+Reports.—Not later than 30 days after the end of each calendar quarter, each Chief Information Officer of a component of the Department who grants an approval under paragraph (1) during such calendar quarter shall submit to the Chief Information Officer of the Department a report on the approval or approvals so granted during such calendar quarter.
+
+“(b)
+
+Performance Plan for Reduction of Resources Required for Data Servers and Centers.—
+
+&emsp;“(1)
+
+Component plans.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than January 15, 2012, the Secretaries of the military departments and the heads of the Defense Agencies shall each submit to the Chief Information Officer of the Department a plan for the department or agency concerned to achieve the following:
+
+&emsp;&emsp;&emsp;“(i) A reduction in the square feet of floor space devoted to information systems technologies, attendant support technologies, and operations within data centers.
+
+&emsp;&emsp;&emsp;“(ii) A reduction in the use of all utilities necessary to power and cool information systems technologies and data centers.
+
+&emsp;&emsp;&emsp;“(iii) An increase in multi-organizational utilization of data centers, information systems technologies, and associated resources.
+
+&emsp;&emsp;&emsp;“(iv) A reduction in the investment for capital infrastructure or equipment required to support data centers as measured in cost per megawatt of data storage.
+
+&emsp;&emsp;&emsp;“(v) A reduction in the number of commercial and government developed applications running on data servers and within data centers.
+
+&emsp;&emsp;&emsp;“(vi) A reduction in the number of government and vendor provided full-time equivalent personnel, and in the cost of labor, associated with the operation of data servers and data centers.
+
+&emsp;&emsp;“(B)
+
+Specification of required elements.—The Chief Information Officer of the Department shall specify the particular performance standards and measures and implementation elements to be included in the plans submitted under this paragraph, including specific goals and schedules for achieving the matters specified in subparagraph (A).
+
+&emsp;“(2)
+
+Defense-wide plan.—
+
+&emsp;&emsp;“(A)
+
+In general.—Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resources required for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
+
+&emsp;&emsp;“(B)
+
+Elements.—The performance plan required under this paragraph shall include the following:
+
+&emsp;&emsp;&emsp;“(i) A Department-wide performance plan for achieving the matters specified in paragraph (1)(A), including performance standards and measures for data centers and information systems technologies, goals and schedules for achieving such matters, and an estimate of cost savings anticipated through implementation of the plan.
+
+&emsp;&emsp;&emsp;“(ii) A Department-wide strategy for each of the following:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) Desktop, laptop, and mobile device virtualization.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) Transitioning to cloud computing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) Migration of Defense data and government-provided services from Department-owned and operated data centers to cloud computing services generally available within the private sector that provide a better capability at a lower cost with the same or greater degree of security.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) Utilization of private sector-managed security services for data centers and cloud computing services.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) A finite set of metrics to accurately and transparently report on data center infrastructure (space, power and cooling): age, cost, capacity, usage, energy efficiency and utilization, accompanied with the aggregate data for each data center site in use by the Department in excess of 100 kilowatts of information technology power demand.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(VI) Transitioning to just-in-time delivery of Department-owned data center infrastructure (space, power and cooling) through use of modular data center technology and integrated data center infrastructure management software.
+
+&emsp;“(3)
+
+Responsibility.—The Chief Information Officer of the Department shall discharge the responsibility for establishing performance standards and measures for data centers and information systems technologies for purposes of this subsection. Such responsibility may not be delegated.
+
+“(c)
+
+Exception.—The Chief Information Officer of the Department and the Chief Information Officer of the Intelligence Community may jointly exempt from the applicability of this section such intelligence components of the Department of Defense (and the programs and activities thereof) that are funded through the National Intelligence Program (NIP) as the Chief Information Officers consider appropriate.
+
+“(d)
+
+Reports on Cost Savings.—
+
+&emsp;“(1)
+
+In general.—Not later than March 1 of each fiscal year, and ending in fiscal year 2016, the Chief Information Officer of the Department shall submit to the appropriate committees of Congress a report on the cost savings, cost reductions, cost avoidances, and performance gains achieved, and anticipated to be achieved, as of the date of such report as a result of activities undertaken under this section.
+
+&emsp;“(2)
+
+Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—
+
+&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.”
+

@@ -72,7 +72,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### References in Text
 
-Sections 182a to 182d of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended section 154 of this title, and enacted provisions set out as notes under this section and section 154 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 182a of this title and Tables.
+Sections 182a to 182d of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub.L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended section 154 of this title, and enacted provisions set out as notes under this section and section 154 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 182a of this title and Tables.
 
 #### Effective Date
 

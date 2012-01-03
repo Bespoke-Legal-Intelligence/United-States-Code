@@ -6,7 +6,11 @@ It shall be the duty of the Sergeant at Arms of the House of Representatives to 
 
 #### Amendments
 
-1996—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
+<b>1996</b>—Pub. L. 104–186 struck out “, keep the accounts for the pay and mileage of Members and Delegates, and pay them as provided by law” after “directed to him by the Speaker”.
+
+#### Transfer of Functions
+
+Effective Feb. 1, 2010, functions of House of Representatives Office of Emergency Planning, Preparedness, and Operations transferred to Sergeant at Arms of the House of Representatives, see section 105 of title I of div. G of Pub. L. 112–74, set out as a note under section 130i of this title.
 
 #### Law Enforcement Authority of Sergeant at Arms
 

@@ -30,7 +30,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 &emsp;(11) The term “Native land” means land owned by a Native Corporation or any Native Group and includes land which, as of December 2, 1980, had been selected under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] by a Native Corporation or Native Group and had not been conveyed by the Secretary (except to the extent such selection is determined to be invalid or has been relinquished) and land referred to in section 19(b) of the Alaska Native Claims Settlement Act \[43 U.S.C. 1618(b)\].
 
-&emsp;(12) The term “Secretary” means the Secretary of the Interior, except that when such term is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
+&emsp;(12) The term “Secretary” means the Secretary of the Interior, except that when suchterm is used with respect to any unit of the National Forest System, such term means the Secretary of Agriculture.
 
 &emsp;(13) The terms “wilderness” and “National Wilderness Preservation System” have the same meaning as when used in the Wilderness Act (78 Stat. 890) \[16 U.S.C. 1131 et seq.\].
 

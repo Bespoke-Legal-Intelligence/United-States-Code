@@ -14,7 +14,7 @@ Covered Items.—An item referred to in subsection (a) is any of the following:
 
 &emsp;&emsp;(B) clothing and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof);
 
-&emsp;&emsp;(C) tents, tarpaulins, or covers;
+&emsp;&emsp;(C) tents (and the structural components thereof), tarpaulins, or covers;
 
 &emsp;&emsp;(D) cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or
 
@@ -78,9 +78,9 @@ Geographic Coverage.—In this section, the term “United States” includes th
 
 Notification Required Within 7
 
-Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOps.gov <sup>1</sup> (or any successor site).
+Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the GeneralServices Administration known as FedBizOps.gov <sup>1</sup> (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502.)
 
 #### References in Text
 
@@ -88,7 +88,9 @@ The Internet site maintained by the General Services Administration known as Fed
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383, §847, substituted “subsection (b)” for “subsection (b)(1)”.
+<b>2011</b>—Subsec. (b)(1)(C). Pub. L. 112–81 inserted “(and the structural components thereof)” after “tents”.
+
+Subsec. (c). Pub. L. 111–383, §847, substituted “subsection (b)” for “subsection (b)(1)”.
 
 Subsec. (d)(1), (4). Pub. L. 111–383, §1075(b)(38), substituted “(b)(1)(A) or (b)(2)” for “(b)(1)(A), (b)(2), or (b)(3)”.
 
@@ -134,7 +136,7 @@ This section is popularly known as the “Berry Amendment”.
 
 Pub. L. 111–383, div. A, title VIII, §821(b), Jan. 7, 2011, 124 Stat. 4268, provided that: “No solicitation issued before January 1, 2015, by the Department of Defense may include a requirement that proposals submitted pursuant to such solicitation must include the use of fire resistant rayon fiber.”
 
-Pub. L. 110–181, div. A, title VIII, §829, Jan. 28, 2008, 122 Stat. 229, as amended by Pub. L. 111–383, div. A, title VIII, §821(a), Jan. 7, 2011, 124 Stat. 4267, provided that:
+Pub. L. 110–181, div. A, title VIII, §829, Jan. 28, 2008, 122 Stat. 229, as amended by Pub. L. 111–383, div. A, title VIII, §821(a), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 112–81, div. A, title VIII, §822, Dec. 31, 2011, 125 Stat. 1502, provided that:
 
 “(a)
 
@@ -166,11 +168,7 @@ Foreign Countries Covered.—The authority under subsection (a) applies with res
 
 “(e)
 
-National Technology and Industrial Base Defined.—In this section, the term ‘national technology and industrial base’ has the meaning given that term in section 2500 of title 10, United States Code.
-
-“(f)
-
-Sunset.—The authority under subsection (a) shall expire on January 1, 2015.”
+National Technology and Industrial Base Defined.—In this section, the term ‘national technology and industrial base’ has the meaning given that term in section 2500 of title 10, United States Code.”
 
 #### Training for Defense Acquisition Workforce on the Requirements of the Berry Amendment
 
@@ -186,7 +184,7 @@ Inclusion of Information in New Training Programs.—The Secretary shall ensure 
 
 #### Application of Exception to Seafood Products
 
-Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, provided that: “Notwithstanding any other provision of law, section 2533a(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 430) \[now 41 U.S.C. 1906\].”
+Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, provided that: “Notwithstanding any other provision of law, section 2533a(f) of title 10, United StatesCode, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 430) \[now 41 U.S.C. 1906\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ Subject to the availability of appropriations to carry out this section, the Sec
 
 #### (c) Criteria for grants
 
-Grants under this section shall be awarded to address priorities in United States agriculture, determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
+Grants under this section shall be awarded to address priorities in United States agriculture,determined by the Secretary in consultation with the Advisory Board, that involve integrated research, extension, and education activities.
 
 #### (d) Matching of funds
 
@@ -42,11 +42,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b). Pub. L. 110–246, §7129(c)(4), substituted “, 1994 Institutions, and Hispanic-serving agricultural colleges and universities” for “and 1994 Institutions”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7129(c)(4), substituted “, 1994 Institutions, and Hispanic-serving agricultural colleges and universities” for “and 1994 Institutions”.
 
 Subsec. (f). Pub. L. 110–246, §7306, substituted “2012” for “2007”.
 
-2002—Subsec. (b). Pub. L. 107–171, §7206, inserted “and 1994 Institutions” before “on a competitive basis”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–171, §7206, inserted “and 1994 Institutions” before “on a competitive basis”.
 
 Subsec. (e). Pub. L. 107–171, §7125(1), (2), added subsec. (e). Former subsec. (e) redesignated (f).
 

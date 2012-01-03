@@ -10,13 +10,13 @@ The period referred to in subsection (a) shall be the period beginning one year 
 
 &emsp;(1) 3 years after the close of the first taxable year in which the gain is realized, or
 
-&emsp;(2) subject to such terms and conditions as may be specified by the Secretary, on such later date as the Secretary may designate on application by the taxpayer.
+&emsp;(2) subject to such terms and conditions as may be specified by the Secretary, on suchlater date as the Secretary may designate on application by the taxpayer.
 
 > Such application shall be made at such time and in such manner as the Secretary may by regulations prescribe.
 
 #### (c) Application of section to noncorporate operators
 
-For purposes of this section, the term “qualifying vessel operator” includes any person whowould be a qualifying vessel operator were such person a corporation.
+For purposes of this section, the term “qualifying vessel operator” includes any person who would be a qualifying vessel operator were such person a corporation.
 
 #### (d) Time for assessment of deficiency attributable to gain
 

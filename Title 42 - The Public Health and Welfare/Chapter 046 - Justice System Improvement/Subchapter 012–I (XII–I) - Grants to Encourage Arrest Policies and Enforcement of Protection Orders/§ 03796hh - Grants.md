@@ -46,7 +46,7 @@ Eligible grantees are States, Indian tribal governments <sup>1</sup> State and 
 
 &emsp;(2) demonstrate that their laws, policies, or practices and their training programs discourage dual arrests of offender and victim;
 
-&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that both spouses acted primarily as aggressors and that neither spouse acted primarily in self-defense;
+&emsp;(3) certify that their laws, policies, or practices prohibit issuance of mutual restrainingorders of protection except in cases where both spouses file a claim and the court makes detailed findings of fact indicating that both spouses acted primarily as aggressors and that neither spouse acted primarily in self-defense;
 
 &emsp;(4) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, or in connection with the filing, issuance, registration, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction; and
 
@@ -78,7 +78,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 #### (1) In general
 
-&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under theprogram authorized by section 3796gg–10 of this title.
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 3796gg–10 of this title.
 
 #### (2) Applicability of subchapter
 

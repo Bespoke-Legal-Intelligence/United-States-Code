@@ -38,7 +38,7 @@ Circumstances.—The circumstance referred to in subsections (a) and (b) is that
 
 &emsp;(1) any communication involved in or made in furtherance of the offense is communicated or transported by the mail, or in interstate or foreign commerce by any means, including by computer, or any means or instrumentality of interstate or foreign commerce is otherwise used in committing or in furtherance of the commission of the offense;
 
-&emsp;(2) any communication involved in or made in furtherance of the offense contemplates the transmission or transportation of a visual depiction by the mail, or in interstate or foreign commerce by any means, including by computer;
+&emsp;(2) any communication involved in or made in furtherance of the offense contemplates the transmission or transportation of a visual depiction by the mail, or in interstate or foreigncommerce by any means, including by computer;
 
 &emsp;(3) any person travels or is transported in interstate or foreign commerce in the course of the commission or in furtherance of the commission of the offense;
 
@@ -52,7 +52,7 @@ Affirmative Defense.—It shall be an affirmative defense to a charge of violati
 
 &emsp;(1) possessed less than 3 such visual depictions; and
 
-&emsp;(2) promptly and in good faith, and without retaining or allowing any person, other than alaw enforcement agency, to access any such visual depiction—
+&emsp;(2) promptly and in good faith, and without retaining or allowing any person, other than a law enforcement agency, to access any such visual depiction—
 
 &emsp;&emsp;(A) took reasonable steps to destroy each such visual depiction; or
 

@@ -2,7 +2,7 @@
 
 #### (a) Foreign tax credit
 
-The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901.
+The amount of taxes imposed by foreign countries and possessions of the United States shallbe allowed as a credit against the tax imposed by this chapter to the extent provided in section 901.
 
 #### (b) Section 936 credit
 

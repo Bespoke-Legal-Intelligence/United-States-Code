@@ -84,7 +84,7 @@ Constructive Credit.—(1) The Secretary of Defense may accord constructive cred
 
 (2) For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div.A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097; Pub. L. 109–364, div. A, title V, §519(d)(1), Oct. 17, 2006, 120 Stat. 2191; Pub. L. 110–417, \[div. A\], title V, §524, Oct. 14, 2008, 122 Stat. 4446.)
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Subsec. (d)(3). Pub. L. 110–417, §524(a)(2), added par. (3) and struck out fo
 
 Subsec. (e)(2). Pub. L. 110–417, §524(b), added par. (2) and struck out former par. (2) which read as follows: “In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
 
-&emsp;“(A) Service described in subsection (c), except that not more than 121/2 percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year.
+&emsp;“(A) Service described in subsection (c), except that not more than 12½ percent of all joint duty assignments shown on the list published pursuant to section 668(b)(2)(A) of this title may be so excluded in any year.
 
 &emsp;“(B) Service described in subsection (d).
 
@@ -148,7 +148,7 @@ Subsec. (c)(1). Pub. L. 100–456, §514(2), substituted “is” for “has bee
 
 Subsec. (d)(2). Pub. L. 100–456, §514(3), inserted “which is less than the applicable standard prescribed in subsection (a)” after “Hawaii”.
 
-Subsec. (e)(2)(A). Pub. L. 100–456, §517(b), substituted “121/2 percent” for “10 percent”.
+Subsec. (e)(2)(A). Pub. L. 100–456, §517(b), substituted “12½ percent” for “10 percent”.
 
 Subsec. (f)(4), (5). Pub. L. 100–456, §514(4), added pars. (4) and (5).
 

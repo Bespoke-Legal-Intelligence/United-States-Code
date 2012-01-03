@@ -40,7 +40,7 @@ The Institute, acting through the Board, may—
 
 (2) The Board shall establish an advisory panel composed of persons eminent in peacemaking, diplomacy, public affairs, and scholarship, and such advisory panel shall advise the Board during its consideration of the selection of the recipient of the award.
 
-(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any othermatters relevant to making the award and emphasizing its prominence and significance.
+(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
 
 #### (d) Description of extension and outreach activities
 
@@ -104,11 +104,11 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 #### (n) Legislative influencing-activity prohibition; communications or testimony of personnel
 
-The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to doso by a legislative body, a committee, or a member thereof.
+The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 
 #### (<i>o</i>) Administrative services from General Services Administration
 
-The Institute may obtain administrative support services from the Administrator of General Services and use all sources of supply and services of the General Services Administration on a reimbursable basis.
+The Institute may obtain administrative support services from the Administrator of GeneralServices and use all sources of supply and services of the General Services Administration on a reimbursable basis.
 
 (Pub. L. 98–525, title XVII, §1705, Oct. 19, 1984, 98 Stat. 2651; Pub. L. 100–50, §25, June 3, 1987, 101 Stat. 363; Pub. L. 100–418, title VI, §6272, Aug. 23, 1988, 102 Stat. 1523; Pub. L. 101–520, title III, §319(a), Nov. 5, 1990, 104 Stat. 2284; Pub. L. 102–325, title XV, §1554(b), (c), July 23, 1992, 106 Stat. 839; Pub. L. 105–244, title IX, §931(1), Oct. 7, 1998, 112 Stat. 1834; Pub. L. 110–315, title IX, §921(a), Aug. 14, 2008, 122 Stat. 3456.)
 
@@ -149,6 +149,8 @@ Subsecs. (c) to (<i>o</i>). Pub. L. 101–520, §319(a)(2), (3), added subsec. (
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1998 Amendment
 

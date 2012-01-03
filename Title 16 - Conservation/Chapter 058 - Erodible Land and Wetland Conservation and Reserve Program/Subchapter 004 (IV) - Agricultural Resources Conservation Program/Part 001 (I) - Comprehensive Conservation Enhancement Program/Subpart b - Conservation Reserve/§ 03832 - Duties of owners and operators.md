@@ -72,7 +72,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(10) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
 
-&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carry out this subpart or to facilitate the practical administration of this subpart.
+&emsp;(11) to comply with such additional provisions as the Secretary determines are desirable and are included in the contract to carryout this subpart or to facilitate the practical administration of this subpart.
 
 #### (b) Conservation plans
 

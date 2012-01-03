@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-At the time the President submits to the Congress the final text of an agreement pursuant to section 3805(a)(1)(C) of this title, the President shall also submit a plan for implementing and enforcing the agreement. The implementation and enforcement plan shall include the following:
+At the time the President submits to the Congress the final text of an agreement pursuant to section 3805(a)(1)(C) of this title, the Presidentshall also submit a plan for implementing and enforcing the agreement. The implementation and enforcement plan shall include the following:
 
 #### (1) Border personnel requirements
 

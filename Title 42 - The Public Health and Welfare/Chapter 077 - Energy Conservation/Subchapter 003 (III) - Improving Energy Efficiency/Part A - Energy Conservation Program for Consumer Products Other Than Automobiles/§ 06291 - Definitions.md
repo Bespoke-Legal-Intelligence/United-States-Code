@@ -120,7 +120,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 
-&emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
+&emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with aninput of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
 &emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
@@ -202,7 +202,7 @@ For purposes of this part:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
-&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at leastpartially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
+&emsp;&emsp;(ii) Any lamp (commonly referred to as a reflector lamp) which is not colored or designed for rough or vibration service applications, that contains an inner reflective coating on the outer bulb to direct the light, an R, PAR, ER, BR, BPAR, or similar bulb shapes with E26 medium screw bases, a rated voltage or voltage range that lies at least partially within 115 and 130 volts, a diameter which exceeds 2.25 inches, and has a rated wattage that is 40 watts or higher <sup>2</sup>
 
 &emsp;&emsp;(iii) Any general service incandescent lamp (commonly referred to as a high- or higher-wattage lamp) that has a rated wattage above 199 watts (above 205 watts for a high wattage reflector lamp).
 
@@ -282,7 +282,7 @@ Exclusions.—The term “general service incandescent lamp” does not include 
 
 &emsp;(J) The term “color rendering index” or “CRI” means the measure of the degree of color shift objects undergo when illuminated by a light source as compared with the color of those same objects when illuminated by a reference source of comparable color temperature.
 
-&emsp;(K) The term “correlated color temperature” means the absolute temperature of a blackbody whose chromaticity most nearly resembles that of the light source.
+&emsp;(K) The term “correlated color temperature” means the absolute temperature of ablackbody whose chromaticity most nearly resembles that of the light source.
 
 &emsp;(L) The term “IES” means the Illuminating Engineering Society of North America.
 
@@ -442,7 +442,7 @@ Organic light-emitting diode; oled.—The terms “organic light-emitting diode�
 
 &emsp;(EE)
 
-Colored incandescent lamp.—The term “colored incandescent lamp” means anincandescent lamp designated and marketed as a colored lamp that has—
+Colored incandescent lamp.—The term “colored incandescent lamp” means an incandescent lamp designated and marketed as a colored lamp that has—
 
 &emsp;&emsp;(i) a color rendering index of less than 50, as determined according to the test method given in C.I.E. publication 13.3–1995; or
 
@@ -868,7 +868,7 @@ Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 
 Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
-<b>1978</b>—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaningAdministrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

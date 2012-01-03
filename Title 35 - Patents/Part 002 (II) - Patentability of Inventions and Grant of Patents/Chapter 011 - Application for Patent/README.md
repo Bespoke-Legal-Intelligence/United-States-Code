@@ -14,10 +14,19 @@
 | [120\.](%C2%A7%2000120%20-%20Benefit%20of%20earlier%20filing%20date%20in%20the%20United%20States.md) | Benefit of earlier filing date in the United States. |
 | [121\.](%C2%A7%2000121%20-%20Divisional%20applications.md) | Divisional applications. |
 | [122\.](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications%3B%20publication%20of%20patent%20applications.md) | Confidential status of applications; publication of patent applications. |
+| [123\.](%C2%A7%2000123%20-%20Micro%20entity%20defined.md) | Micro entity defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 112–29, §4(a)(4), (e), Sept. 16, 2011, 125 Stat. 296, 297, provided that, effective upon the</i><i>expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent application that is filed on or after that effective date, this analysis is amended by amending item 115 to read “Inventor's oath or declaration.” See 2011 Amendment note below.</i>
+
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–29, §10(g)(2), Sept. 16, 2011, 125 Stat. 319, which directed adding item 123 at the end of this chapter, was executed by adding the item at the end of the table of sections of this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 112–29, §4(a)(4), Sept. 16, 2011, 125 Stat. 296, amended item 115 generally, substituting “Inventor's oath or declaration” for “Oath of applicant”.
 
 <b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(7), Nov. 2, 2002, 116 Stat. 1904, substituted “Inventors” for “Joint inventors” in item 116.
 
@@ -42,3 +51,4 @@
 - [&sect; 00120 - Benefit of earlier filing date in the United States](%C2%A7%2000120%20-%20Benefit%20of%20earlier%20filing%20date%20in%20the%20United%20States.md)
 - [&sect; 00121 - Divisional applications](%C2%A7%2000121%20-%20Divisional%20applications.md)
 - [&sect; 00122 - Confidential status of applications; publication of patent applications](%C2%A7%2000122%20-%20Confidential%20status%20of%20applications%3B%20publication%20of%20patent%20applications.md)
+- [&sect; 00123 - Micro entity defined](%C2%A7%2000123%20-%20Micro%20entity%20defined.md)

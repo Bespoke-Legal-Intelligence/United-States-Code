@@ -156,7 +156,7 @@ Pub. L. 104–188, §1607(a), substituted “December 31, 2002” for “Decembe
 
 Subsec. (g). Pub. L. 104–188, §1607(b), redesignated subsec. (f) as (g).
 
-<b>1993</b>—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles” in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
+<b>1993</b>—Pub. L. 103–66 amended section generally, substituting “Imposition of tax” for “Passenger vehicles”in section catchline and “this subchapter” for “subsection (a)” in subsec. (b)(1) and adding subsecs. (d) to (f).
 
 #### Effective Date of 1997 Amendment
 
@@ -164,7 +164,7 @@ Section 906(c) of Pub. L. 105–34 provided that: “The amendments made by this
 
 Section 1601(f)(3)(C) of Pub. L. 105–34 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of this title.
+Amendment by section 1601(f)(3)(A), (B) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

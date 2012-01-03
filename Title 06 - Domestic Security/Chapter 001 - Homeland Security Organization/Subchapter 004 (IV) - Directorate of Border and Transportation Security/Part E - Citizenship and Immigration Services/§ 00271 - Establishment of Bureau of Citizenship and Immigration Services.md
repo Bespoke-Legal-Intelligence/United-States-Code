@@ -120,7 +120,7 @@ In accordance with subchapter XII of this chapter (relating to transition provis
 
 &emsp;The Chief of the Office of Citizenship for the Bureau of Citizenship and Immigration Services shall be responsible for promoting instruction and training on citizenship responsibilities for aliens interested in becoming naturalized citizens of the United States, including the development of educational materials.
 
-#### (g) Office of the FBI liaison
+#### (g) Office of the FBI Liaison
 
 #### (1) In general
 
@@ -154,7 +154,7 @@ For the effective date specified in section 455, referred to in subsecs. (a)(4) 
 
 #### Amendments
 
-2008—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g). See Termination Date of 2008 Amendment note below.
+<b>2008</b>—Subsec. (g). Pub. L. 110–382, §§2(a), 4, temporarily added subsec. (g). See Termination Date of 2008 Amendment note below.
 
 #### Change of Name
 
@@ -170,7 +170,7 @@ Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that
 
 #### Rulemaking
 
-Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 9, 2008\], the Secretaryof Homeland Security, in consultation with the Attorney General, shall promulgate rules to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 9, 2008\], the Secretary of Homeland Security, in consultation with the Attorney General, shall promulgate rules to carry out the amendment made by subsection (a) \[amending this section\].”
 
 \[Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, provided that section 2(b) of Pub. L. 110–382, set out as a note above, is repealed 5 years after Oct. 9, 2008.\]
 

@@ -146,7 +146,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the provisions of this paragraph, if the Company offers to convey to the Secretary all right, title, and interest of the Company in and to the non-Federal land generally depicted on the map as “Tract D”, and the offer is acceptable to the Secretary, the Secretary may, subject to valid existing rights, accept the offer and convey to the Company all right, title, and interest of the United States in and to the Federal land generally depicted on the map as “Tract B”, along with a perpetual easement on a corridor of land contiguous to Tract B for the purpose of vegetation management.
+&emsp;&emsp;Subject to the provisions of this paragraph, if the Company offers to convey tothe Secretary all right, title, and interest of the Company in and to the non-Federal land generally depicted on the map as “Tract D”, and the offer is acceptable to the Secretary, the Secretary may, subject to valid existing rights, accept the offer and convey to the Company all right, title, and interest of the United States in and to the Federal land generally depicted on the map as “Tract B”, along with a perpetual easement on a corridor of land contiguous to Tract B for the purpose of vegetation management.
 
 #### (B) Conditions
 
@@ -160,7 +160,7 @@
 
 #### (ii) Equalization
 
-&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation,payment using donated or appropriated funds, or the conveyance of additional parcels of land.
+&emsp;&emsp;&emsp;If the values of the land are not equal, the values may be equalized by donation, payment using donated or appropriated funds, or the conveyance of additional parcels of land.
 
 #### (D) Appraisal
 

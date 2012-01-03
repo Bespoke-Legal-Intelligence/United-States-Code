@@ -90,7 +90,7 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(6), 88 Stat. 2169; Nov. 3, 1981, Pub. L
 
 In subsection (a)(1), the word “recommending” is omitted as being included in “advocate” in 49 App.:1903(a)(3). The word “recurrence” is omitted as surplus. The text of 49 App.:1441(a)(3) and (5) (related to reducing accidents) is omitted as superseded by 49 App.:1903(a)(3).
 
-In subsection (b)(1), the words “carry out” are substituted for “initiate and conduct” in 49 App.:1903(a)(4) for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1441(a)(5) (related to studies) is omitted as superseded by 49 App.:1903(a)(4).
+In subsection (b)(1), the words “carry out” are substituted for “initiate and conduct” in 49 App.:1903(a)(4) for consistency in the revised title and with other titles of the United States Code. The text of 49 App.:1441(a)(5)\(related to studies) is omitted as superseded by 49 App.:1903(a)(4).
 
 In subsection (b)(2), the word “examine” is substituted for “assess and reassess” for clarity. The words “prepare and” are omitted as surplus.
 

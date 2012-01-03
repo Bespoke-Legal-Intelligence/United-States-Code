@@ -29,7 +29,7 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 | &nbsp;&nbsp;&nbsp;Before 1990 | 10 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1990 | 11 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1991 | 13 cents&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;During 1992 | 15 cents   |
+| &nbsp;&nbsp;&nbsp;During 1992 | 15 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1993 | 17 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;During 1994 | 19 cents&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;After 1994 | 20 cents. |
@@ -120,7 +120,7 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 
 &emsp;“(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon.”
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1,1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
+<b>1986</b>—Subsec. (b). Pub. L. 99–499 and Pub. L. 99–662 both amended subsec. (b) generally, effective Jan. 1, 1987. Pub. L. 100–647, §2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by Pub. L. 99–499 be treated as enacted after the amendment made by Pub. L. 99–662. Prior to amendment by Pub. L. 99–499 and Pub. L. 99–662, subsec. (b) read as follows:
 
 &nbsp;
 

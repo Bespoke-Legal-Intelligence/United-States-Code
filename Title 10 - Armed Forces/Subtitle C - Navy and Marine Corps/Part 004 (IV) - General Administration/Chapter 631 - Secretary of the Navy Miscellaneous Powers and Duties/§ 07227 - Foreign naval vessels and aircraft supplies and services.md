@@ -4,7 +4,7 @@
 
 &emsp;(1) Routine port services in territorial waters of the United States or in waters under United States control, including pilotage, tugs, garbage removal, line-handling, and utilities, to naval vessels of foreign countries.
 
-&emsp;(2) Routine airport services, including landing and takeoff assistance, use of runways, parking and servicing, to military aircraft of foreign countries.
+&emsp;(2) Routine airport services, including landing and takeoff assistance, use of runways,parking and servicing, to military aircraft of foreign countries.
 
 &emsp;(3) Miscellaneous supplies, including fuel, provisions, spare parts, and general stores, but not including ammunition, to naval vessels and military aircraft of foreign countries.
 

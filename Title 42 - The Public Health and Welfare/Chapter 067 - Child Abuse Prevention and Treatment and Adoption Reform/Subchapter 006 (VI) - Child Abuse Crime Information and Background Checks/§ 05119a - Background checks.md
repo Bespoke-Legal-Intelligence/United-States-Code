@@ -32,7 +32,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
-&emsp;(4) that the authorized agency shall make a determination whether the provider has been convicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
+&emsp;(4) that the authorized agency shall make a determination whether the provider has beenconvicted of, or is under pending indictment for, a crime that bears upon the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities and shall convey that determination to the qualified entity; and
 
 &emsp;(5) that any background check under subsection (a) of this section and the results thereof shall be handled in accordance with the requirements of Public Law 92–544, except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3) of this section.
 
@@ -50,7 +50,7 @@ A qualified entity shall not be liable in an action for damages solely for failu
 
 In the case of a background check pursuant to a State requirement adopted after December 20, 1993, conducted with fingerprints on a person who volunteers with a qualified entity, the fees collected by authorized State agencies and the Federal Bureau of Investigation may not exceed eighteen dollars, respectively, or the actual cost, whichever is less, of the background check conducted with fingerprints. The States shall establish fee systems that insure that fees to non-profit entities for background checks do not discourage volunteers from participating in child care programs.
 
-(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L.105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885.)
+(Pub. L. 103–209, §3, Dec. 20, 1993, 107 Stat. 2491; Pub. L. 103–322, title XXXII, §320928(a)(1), (2), (c), (e), Sept. 13, 1994, 108 Stat. 2131, 2132; Pub. L. 105–251, title II, §222(a), (b), Oct. 9, 1998, 112 Stat. 1885.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Volunteer information required.—An organization authorized to request a backgr
 
 &emsp;&emsp;&emsp;“(ii) obtain a statement completed and signed by the volunteer that—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 oftitle 18, United States Code, and a photocopy of the valid identifying document;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) sets out the provider or volunteer's name, address, date of birth appearing on a valid identification document as defined in section 1028 of title 18, United States Code, and a photocopy of the valid identifying document;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) states whether the volunteer has a criminal record, and, if so, sets out the particulars of such record;
 

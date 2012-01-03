@@ -14,7 +14,7 @@
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §1031(a)(37)(A), substituted “$1,000,000” for “$500,000”, struck out “not less than 21 days” after “of such services”, and inserted last sentence.
 
-Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of thereport is provided in an electronic medium pursuant to section 480 of this title”.
+Subsec. (c)(2). Pub. L. 108–136, §1031(a)(37)(B), inserted before period at end “or, if over sooner, a period of 14 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261, §2801(a), substituted “$500,000” for “$300,000”.
 

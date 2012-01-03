@@ -32,7 +32,7 @@ The regulations prescribed under this section shall set forth factors which are 
 
 &emsp;The Secretary is authorized to require such information as the Secretary determines to be necessary to carry out the provisions of this subsection.
 
-(Added Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, §1936(a), Oct. 24, 1992, 106 Stat. 3032.)
+(Added Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 101–239, title VII, §7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, §1936(a), Oct. 24, 1992, 106 Stat. 3032.)
 
 #### Amendments
 

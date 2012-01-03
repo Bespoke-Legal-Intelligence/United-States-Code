@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(A) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of the participant or beneficiary under the plan which are guaranteed under section 1322 of this title, over
 
-&emsp;&emsp;(B) the current value (as of such date) of the assets of the plan which are required tobe allocated to those benefits under section 1344 of this title;
+&emsp;&emsp;(B) the current value (as of such date) of the assets of the plan which are required to be allocated to those benefits under section 1344 of this title;
 
 &emsp;(18) “amount of unfunded benefit liabilities” means, as of any date, the excess (if any) of—
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(D) the corporation,
 
-> &emsp;except that, in connection with any notice required to be provided to the affected party, if an affected party has designated, in writing, a person to receive such notice on behalf of the affected party, any reference to the affected party shall be construed to refer to such person.
+> &emsp;except that, in connection with any notice required to be provided to the affected party, ifan affected party has designated, in writing, a person to receive such notice on behalf of the affected party, any reference to the affected party shall be construed to refer to such person.
 
 (b)(1) An individual who owns the entire interest in an unincorporated trade or business is treated as his own employer, and a partnership is treated as the employer of each partner who is an employee within the meaning of section 401(c)(1) of title 26. For purposes of this subchapter, under regulations prescribed by the corporation, all employees of trades or businesses (whether or not incorporated) which are under common control shall be treated as employed by a single employer and all such trades and businesses as a single employer. The regulations prescribed under the preceding sentence shall be consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under section 414(c) of title 26.
 
@@ -144,7 +144,7 @@ In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted 
 
 &emsp;“(B) who is a member of the controlled group of a person described in subparagraph (A), has been responsible for meeting such funding requirements, and has employed a significant number (as may be defined in regulations of the corporation) of participants under such plan while such person was so responsible;”.
 
-<b>1991</b>—Subsec. (a)(14)(C). Pub. L. 102–229, which directed the amendment of section 4001(a)(14) of the Employment Retirement Income Security Act of 1974 byadding subpar. (C), was executed to section 4001(a)(14) of the Employee Retirement Income Security Act of 1974, which is classified to this section, to reflect the probable intent of Congress.
+<b>1991</b>—Subsec. (a)(14)(C). Pub. L. 102–229, which directed the amendment of section 4001(a)(14) of the Employment Retirement Income Security Act of 1974 by adding subpar. (C), was executed to section 4001(a)(14) of the Employee Retirement Income Security Act of 1974, which is classified to this section, to reflect the probable intent of Congress.
 
 <b>1989</b>—Subsecs. (a)(8), (13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–349, §13(g)(1), substituted “one person (or the successor of the person)” for “one (or his successor)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–349, §13(g)(1), substituted “one person (or the successor of the person)” for “one (or his successor)”.
 
 Subsec. (b). Pub. L. 103–349, §13(g)(2), substituted “the Secretary” for “he” before “may”.
 

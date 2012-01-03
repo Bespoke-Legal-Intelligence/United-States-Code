@@ -20,7 +20,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(C) not to exceed $8,100 per family unit for such part of such property or project as may be attributable to dwelling use.
 
-> The mortgage shall provide for complete amortization by periodic payment within such term as the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release.
+> The mortgage shall provide for complete amortization by periodic payment within such term as the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 4½ per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release.
 
 #### (c) Payments; default; insurance benefits for mortgagee; value of mortgage; foreclosure of mortgage
 
@@ -50,27 +50,27 @@ The General Insurance Fund, referred to in subsecs. (b) and (d), was established
 
 #### Amendments
 
-1967—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
 
 Subsec. (b)(3)(B). Pub. L. 90–19, §1(a)(4), substituted “Secretary's” for “Commissioner's”.
 
-1965—Subsecs. (b)(1), (d). Pub. L. 89–117, §1108(q)(1), substituted “General Insurance Fund” for “War Housing Insurance Fund”.
+<b>1965</b>—Subsecs. (b)(1), (d). Pub. L. 89–117, §1108(q)(1), substituted “General Insurance Fund” for “War Housing Insurance Fund”.
 
 Subsec. (f). Pub. L. 89–117, §1108(q)(2), struck out provisions that, as applied to mortgages insured under this section, all references in section 1713(k) of this title to the “Housing Fund” shall be construed to refer to the “War Housing Insurance Fund”.
 
-1951—Subsec. (g). Act Sept. 1, 1951, inserted references to subchapters I, VIII and X of this chapter.
+<b>1951</b>—Subsec. (g). Act Sept. 1, 1951, inserted references to subchapters I, VIII and X of this chapter.
 
-1950—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
 
-1948—Subsec. (b). Act Aug. 10, 1948, inserted second proviso in par. (3)(B), substituted “$8,100 per family unit” for “$1,500 per room” and struck out proviso relating to authority to increase “$1,500” to “$1,800” per room.
+<b>1948</b>—Subsec. (b). Act Aug. 10, 1948, inserted second proviso in par. (3)(B), substituted “$8,100 per family unit” for “$1,500 per room” and struck out proviso relating to authority to increase “$1,500” to “$1,800” per room.
 
-1946—Subsec. (b)(2). Act May 22, 1946, substituted “Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families, and for hardship cases as defined by the Administrator, shall be provided under such regulations and procedures as may be prescribed by the Administrator” for “The mortgaged property shall be designed for rent for residential use by warworkers”.
+<b>1946</b>—Subsec. (b)(2). Act May 22, 1946, substituted “Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families, and for hardship cases as defined by the Administrator, shall be provided under such regulations and procedures as may be prescribed by the Administrator” for “The mortgaged property shall be designed for rent for residential use by warworkers”.
 
 Subsec. (b)(3). Act May 22, 1946, substituted “necessary current cost” after “estimates will be the” for “reasonable replacement cost” in par. (B), and increased mortgage per room from $1,350 to $1,500 and inserted proviso in par. (C).
 
 Subsec. (c). Act May 22, 1946, inserted “and any mortgage insurance premiums paid after default” before semicolon in cl. (C) of third sentence.
 
-1945—Subsec. (g). Act Mar. 31, 1945, inserted provisions empowering Commissioner to insure mortgages without regard to any limitations upon time or aggregate amount contained in this subchapter.
+<b>1945</b>—Subsec. (g). Act Mar. 31, 1945, inserted provisions empowering Commissioner to insure mortgages without regard to any limitations upon time or aggregate amount contained in this subchapter.
 
 #### Construction of Act May 26, 1942, With Ex. Ord. No. 9070, Consolidating National Housing Agency
 

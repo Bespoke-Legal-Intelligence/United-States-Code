@@ -6,5 +6,5 @@ To effectuate the declared policy of this chapter, the Secretary shall, subject 
 
 #### Amendments
 
-1990—Pub. L. 101–624 substituted “handlers and importers” for “persons engaged in the handling of potatoes (hereinafter referred to as handlers)”, inserted “or imported”, substituted “50” for “forty-eight contiguous”, and inserted before period at end “and in foreign countries, if importers are subject to a plan and such potatoes are imported into the United States”.
+<b>1990</b>—Pub. L. 101–624 substituted “handlers and importers” for “persons engaged in the handling of potatoes (hereinafter referred to as handlers)”, inserted “or imported”, substituted “50” for “forty-eight contiguous”, and inserted before period at end “and in foreign countries, if importers are subject to a plan and such potatoes are imported into the United States”.
 

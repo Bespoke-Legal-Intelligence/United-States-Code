@@ -1,6 +1,6 @@
 ### §670f. Appropriations and expenditures
 
-#### (a) Expenditures exclusively under plans; availability of funds until expended
+#### (a) Expenditures of collected funds under integrated natural resources management plans
 
 The Secretary of Defense shall expend such funds as may be collected in accordance with the integrated natural resources management plans agreed to under sections 670a and 670b of this title and cooperative agreements agreed to under section 670c–1 of this title and for no other purpose. All funds that are so collected shall remain available until expended.
 
@@ -16,9 +16,11 @@ Of the amounts authorized to be appropriated to the Department of the Interior, 
 
 The Secretary of Defense and the Secretary of the Interior may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.
 
-(Pub. L. 86–797, title I, §108, formerly §6, as added Pub. L. 90–465, §2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §106, and amended Pub. L. 93–452, §§1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, §2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, §202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, §2845(b), Nov. 29, 1989, 103 Stat. 1664; renumbered §108, and amended Pub. L. 105–85, div. B, title XXIX, §§2904(b)(7), (8), 2909(1), 2914(a), Nov. 18, 1997, 111 Stat. 2018, 2021, 2022; Pub. L. 108–136, div. A, title III, §311(a), Nov. 24, 2003, 117 Stat. 1428; Pub. L. 111–84, div. A, title III, §312, Oct. 28, 2009, 123 Stat. 2247.)
+(Pub. L. 86–797, title I, §108, formerly §6, as added Pub. L. 90–465, §2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, §106, and amended Pub. L. 93–452, §§1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, §2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, §202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, §2845(b), Nov. 29, 1989, 103 Stat. 1664; renumbered §108, and amended Pub. L. 105–85, div. B, title XXIX, §§2904(b)(7), (8), 2909(1), 2914(a), Nov. 18, 1997, 111 Stat. 2018, 2021, 2022; Pub. L. 108–136, div. A, title III, §311(a), Nov. 24, 2003, 117 Stat. 1428; Pub. L. 111–84, div. A, title III, §312, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 112–81, div. A, title III, §312(b)(6), Dec. 31, 2011, 125 Stat. 1353.)
 
 #### Amendments
+
+<b>2011</b>—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) to (d).
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–84, §312(a), (b)(1), substituted “Of the amounts authorized to be appropriated to the Department of Defense, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
 

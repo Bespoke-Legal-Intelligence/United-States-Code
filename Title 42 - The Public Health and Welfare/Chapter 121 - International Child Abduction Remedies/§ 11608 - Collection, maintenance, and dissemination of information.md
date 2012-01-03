@@ -10,7 +10,7 @@ In performing its functions under the Convention, the United States Central Auth
 
 #### (b) Requests for information
 
-Requests for information under this section shall be submitted in such manner and form asthe United States Central Authority may prescribe by regulation and shall be accompanied or supported by such documents as the United States Central Authority may require.
+Requests for information under this section shall be submitted in such manner and form as the United States Central Authority may prescribe by regulation and shall be accompanied or supported by such documents as the United States Central Authority may require.
 
 #### (c) Responsibility of government entities
 

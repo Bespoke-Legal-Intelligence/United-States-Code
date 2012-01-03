@@ -98,7 +98,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (e) Advances to lenders that do not discriminate
 
-The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition tothe receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
+The Association, pursuant to such criteria as the Board of Directors may prescribe, shall make advances on security or purchase student loans pursuant to subsection (d) of this section only after the Association is assured that the lender (1) does not discriminate by pattern or practice against any particular class or category of students by requiring that, as a condition to the receipt of a loan, the student or his family maintain a business relationship with the lender, except that this clause shall not apply in the case of a loan made by a credit union, savings and loan association, mutual savings bank, institution of higher education, or any other lender with less than $75,000,000 in deposits, and (2) does not discriminate on the basis of race, sex, color, creed, or national origin.
 
 #### (f) Stock of the Association
 
@@ -136,7 +136,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (1) Approval by Secretaries of Education and the Treasury
 
-&emsp;The Association is authorized with the approval of the Secretary of Education and the Secretary of the Treasury to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Association. The authority of the Secretary of Education to approve the issuance of such obligations is limited to obligations issued by the Association and guaranteed by the Secretary pursuant to paragraph (2) of this subsection. Such obligations may be redeemable at the option of the Association before maturity in such manner as may be stipulated therein. The Secretary of the Treasury may not direct as a condition of his approval that any such issuance of obligations by the Association be made or sold to the Federal Financing Bank. To the extent that the average outstanding amount of the obligations owned by the Association pursuant to the authority contained in subsection (d)(1)(B) and (C) of this section and as to which the income is exempt from taxation under title 26 does not exceed the average stockholders’ equity of the Association, the interest on obligations issued under this paragraph shall not be deemed to be interest on indebtedness incurred or continued to purchase or carry obligations for the purpose of section 265 of title 26.
+&emsp;The Association is authorized with the approval of the Secretary of Education and theSecretary of the Treasury to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Association. The authority of the Secretary of Education to approve the issuance of such obligations is limited to obligations issued by the Association and guaranteed by the Secretary pursuant to paragraph (2) of this subsection. Such obligations may be redeemable at the option of the Association before maturity in such manner as may be stipulated therein. The Secretary of the Treasury may not direct as a condition of his approval that any such issuance of obligations by the Association be made or sold to the Federal Financing Bank. To the extent that the average outstanding amount of the obligations owned by the Association pursuant to the authority contained in subsection (d)(1)(B) and (C) of this section and as to which the income is exempt from taxation under title 26 does not exceed the average stockholders’ equity of the Association, the interest on obligations issued under this paragraph shall not be deemed to be interest on indebtedness incurred or continued to purchase or carry obligations for the purpose of section 265 of title 26.
 
 #### (2) Guarantee of debt
 
@@ -198,7 +198,7 @@ A report of each such audit for a fiscal year shall be made by the Secretary of 
 
 #### (<i>l</i>) Lawful investment instruments; effect of and exemptions from other laws
 
-All obligations issued by the Association including those made under subsection (d)(4) of this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States. The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shall not establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
+All obligations issued by the Association including those made under subsection (d)(4) of this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under authority or control of the United States or of any officer or officers thereof. All stock and obligations issued by the Association pursuant to this section shall be deemed to be exempt securities within the meaning of laws administered by the Securities and Exchange Commission, to the same extent as securities which are direct obligations of, or obligations guaranteed as to principal or interest by, the United States. The Association shall, for the purposes of section 355(2) of title 12, be deemed to be an agency of the United States. The obligations of the Association shall be deemed to be obligations of the United States for the purpose of section 3124 of title 31. For the purpose of the distribution of its property pursuant to section 726 of title 11, the Association shall be deemed a person within the meaning of such title. The priority established in favor of the United States by section 3713 of title 31 shallnot establish a priority over the indebtedness of the Association issued or incurred on or before September 30, 1992. The Federal Reserve Banks are authorized to act as depositaries, custodians, or fiscal agents, or a combination thereof, for the Association in the general performance of its powers under this section.
 
 #### (m) Preparation of obligations
 
@@ -318,7 +318,7 @@ Comparability.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—Subject to section 5373 of title 5, the Secretary of the Treasury may provide additional compensation and benefits to auditors and examiners appointed pursuant to subparagraph (A) if the same type of compensation or benefits are then being provided by any agency referred to in section 1833b of title 12 or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation.
+In general.—Subject to section 5373 of title 5, the Secretary of the Treasurymay provide additional compensation and benefits to auditors and examiners appointed pursuant to subparagraph (A) if the same type of compensation or benefits are then being provided by any agency referred to in section 1833b of title 12 or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -336,7 +336,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (A) Submission, approval, and implementation
 
-&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to anycapital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
+&emsp;&emsp;The Secretary of the Treasury and the Association shall consult with respect to any capital restoration plan submitted pursuant to paragraph (4) and the Secretary of the Treasury shall approve such plan (or a modification thereof accepted by the Association) or disapprove such plan within 30 days after such plan is first submitted to the Secretary of the Treasury by the Association, unless the Association and Secretary of the Treasury mutually agree to a longer consideration period. If the Secretary of the Treasury approves a capital restoration plan (including a modification of a plan accepted by the Association), the Association shall forthwith proceed with diligence to implement such plan to the best of its ability.
 
 #### (B) Disapproval
 
@@ -398,7 +398,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (9) Additional reports to committees
 
-&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the Congressional Budget Office and Government Accountability Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and Government Accountability Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and Government Accountability Office shall each submit a report within 30 days of the Secretary of the Treasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
+&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the CongressionalBudget Office and Government Accountability Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and Government Accountability Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and Government Accountability Office shall each submit a report within 30 days of the Secretary of the Treasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
 
 &emsp;&emsp;(A) analyzing the financial condition of the Association;
 
@@ -440,7 +440,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;&emsp;&emsp;(i) the capital ratio to be restored pursuant to paragraph (7)(D) shall be 2.25 percent; and
 
-&emsp;&emsp;&emsp;(ii) if the relevant capital ratio is in excess of or equal to 2 percent for such quarter, the Secretary of the Treasury shall defer taking any of the actions set forth in paragraph (7) until the next succeeding quarter and may then proceed with any such action only if the capital ratio of the Association remains below 2.25 percent.
+&emsp;&emsp;&emsp;(ii) if the relevant capital ratio is in excess of or equal to 2 percent for such quarter, the Secretary of the Treasury shall defer taking any of the actions set forth inparagraph (7) until the next succeeding quarter and may then proceed with any such action only if the capital ratio of the Association remains below 2.25 percent.
 
 #### (B) Applicability
 
@@ -518,7 +518,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Use of trust assets
 
-&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, anyremaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
+&emsp;&emsp;All money, obligations, or financial assets deposited into the trust pursuant to this subsection shall be applied by the trustee to the payment of the remaining obligations assumed by the trust. Upon the fulfillment of the trustee's duties under the trust, any remaining assets of the trust shall be transferred to the persons who, at the time of the dissolution, were the shareholders of the Association, or to the legal successors or assigns of such persons.
 
 #### (C) Obligations not transferred to the trust
 
@@ -552,7 +552,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;&emsp;The Association may not transfer or permit the use of the name “Student Loan Marketing Association”, “Sallie Mae”, or any variation thereof, to or by any entity other than a subsidiary of the Association.
 
-(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367; Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(2)–(4), (c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–284 to 3009–286; Pub. L. 106–554, §1(a)(1) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–291, §4(b)(5), Sept. 29, 2006, 120 Stat. 1338.)
+(Pub. L. 89–329, title IV, §439, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1418; amended Pub. L. 100–50, §10(dd), June 3, 1987, 101 Stat. 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §431, July 23, 1992, 106 Stat. 554; Pub. L. 103–66, title IV, §§4041(c), 4104, Aug. 10, 1993, 107 Stat. 356, 367;Pub. L. 103–208, §2(c)(69), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 103–382, title III, §358, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(2)–(4), (c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–284 to 3009–286; Pub. L. 106–554, §1(a)(1) \[title III, §309\], Dec. 21, 2000, 114 Stat. 2763, 2763A–45; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–291, §4(b)(5), Sept. 29, 2006, 120 Stat. 1338.)
 
 #### Repeal of Section
 
@@ -626,7 +626,7 @@ Subsec. (d)(1)(C). Pub. L. 102–325, §431(b), amended subpar. (C) generally. P
 
 Subsec. (d)(5). Pub. L. 102–325, §431(c), substituted “second highest rating” for “third highest rating”.
 
-Subsec. (f). Pub. L. 102–325, §431(d), amended subsec. (f) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), common stock to insured lenders and eligible institutions only; in par. (2), voting rights; in par. (3), number of shares and transferability; in par. (4), dividends; and in par. (5), nonvoting common stock.
+Subsec. (f). Pub. L. 102–325, §431(d), amended subsec. (f) generally, substituting present provisions consistingof pars. (1) to (4) for former provisions which provided for: in par. (1), common stock to insured lenders and eligible institutions only; in par. (2), voting rights; in par. (3), number of shares and transferability; in par. (4), dividends; and in par. (5), nonvoting common stock.
 
 Subsec. (r). Pub. L. 102–325, §431(e), added subsec. (r).
 
@@ -637,6 +637,8 @@ Subsec. (r). Pub. L. 102–325, §431(e), added subsec. (r).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 1996 Amendment
 

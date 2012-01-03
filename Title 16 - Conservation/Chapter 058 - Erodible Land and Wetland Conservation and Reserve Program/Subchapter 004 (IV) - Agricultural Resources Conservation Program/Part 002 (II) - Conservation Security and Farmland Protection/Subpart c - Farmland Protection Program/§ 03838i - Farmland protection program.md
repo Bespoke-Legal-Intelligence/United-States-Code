@@ -16,7 +16,7 @@ The purpose of the program is to protect the agricultural use and related conser
 
 #### (2) Federal share
 
-&emsp;The share of the cost provided by the Secretary for purchasing a conservation easementor other interest in eligible land shall not exceed 50 percent of the appraised fair market value of the conservation easement or other interest in eligible land.
+&emsp;The share of the cost provided by the Secretary for purchasing a conservation easement or other interest in eligible land shall not exceed 50 percent of the appraised fair market value of the conservation easement or other interest in eligible land.
 
 #### (3) Non-Federal share
 

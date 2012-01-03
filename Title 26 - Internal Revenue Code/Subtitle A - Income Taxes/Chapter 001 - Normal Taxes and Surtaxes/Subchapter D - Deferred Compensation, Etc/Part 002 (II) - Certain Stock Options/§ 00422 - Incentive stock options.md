@@ -44,7 +44,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 #### (3) Certain transfers by insolvent individuals
 
-&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
+&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of anincentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
 
 #### (4) Permissible provisions
 

@@ -38,7 +38,7 @@ Section 712(b)(2) provided that: “The amendment made by paragraph (1) \[amendi
 
 #### Effective Date of 1985 Amendment
 
-Section 672(j) of Pub. L. 99–145, which provided that amendment made by that section was to take effect on Oct. 1, 1985, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
+Section 672(j) of Pub. L. 99–145, which provided that amendment made by that section was to take effect onOct. 1, 1985, was repealed by Pub. L. 100–180, §711(c)(1), (e)(1), eff. Dec. 4, 1987.
 
 #### Repeals
 

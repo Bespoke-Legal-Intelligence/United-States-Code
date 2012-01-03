@@ -28,7 +28,7 @@
 
 #### (2) Use for interim projects
 
-&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are theproceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 57102, 57103, or 57104 of title 46 are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
+&emsp;Amounts available for the Program under subsection (a)(1)(C) of this section that are the proceeds of any of the first 8 obsolete vessels in the National Defense Reserve Fleet that are sold or scrapped after July 1, 1994, under section 57102, 57103, or 57104 of title 46 are available to the Secretary for grants for interim projects approved under section 5403(j) of this title.
 
 #### (3) Administrative expenses
 
@@ -72,7 +72,7 @@
 
 Amounts available under this section shall not be considered in any determination of the amounts available to the Department of the Interior.
 
-(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18, 1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(n), Jan. 7, 2011, 124 Stat. 4378.)
+(Pub. L. 103–451, §6, Nov. 2, 1994, 108 Stat. 4776; Pub. L. 105–85, div. A, title X, §1026(c), Nov. 18,1997, 111 Stat. 1878; Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490; Pub. L. 110–181, div. C, title XXXV, §3514, Jan. 28, 2008, 122 Stat. 594; Pub. L. 111–84, div. C, title XXXV, §3509, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(n), Jan. 7, 2011, 124 Stat. 4378.)
 
 #### Codification
 
@@ -134,7 +134,7 @@ Construction.—Nothing in this section shall be construed to establish a prefer
 
 #### Scrapping of National Defense Reserve Fleet Vessels
 
-Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, §3505(a), Jan. 6, 2006, 119 Stat. 3551, provided that:
+Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(b)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–490 to 1654A–492, as amended by Pub. L. 109–163, div. C, title XXXV, §3505(a), Jan. 6, 2006, 119 Stat. 3551; Pub. L. 112–81, div. C, title XXXV, §3504, Dec. 31, 2011, 125 Stat. 1717, provided that:
 
 “(b)
 
@@ -154,7 +154,7 @@ Comprehensive Management Plan.—
 
 &emsp;“(1)
 
-Requirement to develop plan.—The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after the date of the enactment of this Act \[probably should be “this subsection”, Jan. 6, 2006\] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005.
+Requirement to develop plan.—The Secretary of Transportation shall prepare, publish, and submit to the Congress by not later than 180 days after thedate of the enactment of this Act \[probably should be “this subsection”, Jan. 6, 2006\] a comprehensive plan for management of the vessel disposal program of the Maritime Administration in accordance with the recommendations made in the Government Accountability Office in report number GAO–05–264, dated March 2005.
 
 &emsp;“(2)
 
@@ -204,5 +204,5 @@ Application.—This subsection shall apply beginning 180 days after the date of 
 
 “(f)
 
-Report.—No later than 1 year after the date of the enactment of this subsection \[Jan. 6, 2006\], and every 6 months thereafter, the Secretary of Transportation, in coordination with the Secretary of the Navy, shall report to the Committee on Transportation and Infrastructure, the Committee on Resources \[now Committee on Natural Resources\], and the Committee on Armed Services of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in implementing the vessel disposal plan developed under subsection (c). In particular, the report shall address the performance measures required to be established under subsection (c)(2)(C).”
+Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal.”
 

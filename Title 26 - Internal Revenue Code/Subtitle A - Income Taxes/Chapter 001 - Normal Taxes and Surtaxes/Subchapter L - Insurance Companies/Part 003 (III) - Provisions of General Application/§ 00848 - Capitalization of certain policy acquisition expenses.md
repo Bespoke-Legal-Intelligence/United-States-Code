@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “specified policy acquisition expenses” means, with respect to any taxableyear, so much of the general deductions for such taxable year as does not exceed the sum of—
+&emsp;The term “specified policy acquisition expenses” means, with respect to any taxable year, so much of the general deductions for such taxable year as does not exceed the sum of—
 
 &emsp;&emsp;(A) 1.75 percent of the net premiums for such taxable year on specified insurance contracts which are annuity contracts,
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B\(sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 

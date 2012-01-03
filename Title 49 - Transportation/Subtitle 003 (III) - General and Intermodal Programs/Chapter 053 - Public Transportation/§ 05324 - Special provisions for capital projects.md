@@ -30,7 +30,7 @@ Approval of applications for assistance.—
 
 &emsp;&emsp;(A)
 
-Findings by the secretary.—The Secretary may approve an application for financial assistance for a capital project in accordance with this chapter only if the Secretary makes written findings, after reviewing the application and the transcript of anyhearing held before a State or local governmental authority under section 5323(b), that—
+Findings by the secretary.—The Secretary may approve an application for financial assistance for a capital project in accordance with this chapter only if the Secretary makes written findings, after reviewing the application and the transcript of any hearing held before a State or local governmental authority under section 5323(b), that—
 
 &emsp;&emsp;&emsp;(i) an adequate opportunity to present views was given to all parties having a significant economic, social, or environmental interest;
 
@@ -96,7 +96,7 @@ July 9, 1964, Pub. L. 88–365, §14(a) (last sentence)–(c), 78 Stat. 308; Sep
 
 July 9, 1964, Pub. L. 88–365, §12(d), 78 Stat. 307; Aug. 10, 1965, Pub. L. 89–117, §1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, §2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Nov. 6, 1978, Pub. L. 95–599, §308(c), 92 Stat. 2747.
 
-In subsection (a), before clause (1), the word “provided” is substituted for “extended” for clarity. The words “to any project” are omitted as surplus. In clause (2), the words “available . . . displaced” are omitted as surplus.
+In subsection (a), before clause (1), the word “provided” is substituted for “extended” for clarity. The words “to any project” are omitted as surplus. Inclause (2), the words “available . . . displaced” are omitted as surplus.
 
 In subsection (b)(1), the words “Health and Human Services” are substituted for “Health, Education, and Welfare” in section 14(a) (last sentence) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 308) \[subsequently changed to the Federal Transit Act by section 3003(a) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2087)\] because of 20:3508(b).
 
@@ -110,7 +110,7 @@ In subsection (c), the words “The Secretary of Transportation may not” are s
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified generally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
 

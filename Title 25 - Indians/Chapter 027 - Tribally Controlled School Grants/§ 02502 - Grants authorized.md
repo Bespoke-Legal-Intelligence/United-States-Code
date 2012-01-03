@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) operate contract schools under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] and notify the Secretary of their election to operate the schools with assistance under this chapter rather than continuing the schools as contract schools;
 
-&emsp;&emsp;(B) operate other tribally controlled schools eligible for assistance under thischapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants; or
+&emsp;&emsp;(B) operate other tribally controlled schools eligible for assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants; or
 
 &emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
 

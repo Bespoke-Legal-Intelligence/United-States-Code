@@ -6,7 +6,7 @@ To carry out the purposes of this chapter, the Administrator of the Federal Emer
 
 #### (b) Additional coverage for compliance with land use and control measures
 
-The national flood insurance program established pursuant to subsection (a) of this section shall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
+The national flood insurance program established pursuant to subsection (a) of this sectionshall enable the purchase of insurance to cover the cost of implementing measures that are consistent with land use and control measures established by the community under section 4102 of this title for—
 
 &emsp;(1) properties that are repetitive loss structures;
 
@@ -42,7 +42,7 @@ In carrying out the flood insurance program the Director shall, to the maximum e
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIIIof Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
@@ -330,7 +330,7 @@ Officers.—The chairperson of the Task Force may appoint any officers to carry 
 
 “(h)
 
-Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis, any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
+Staff of Federal Agencies.—Upon request of the chairperson of the Task Force, the head of any of the Federal agencies and entities referred to under subsection (b)(1) may detail, on a nonreimbursable basis,any of the personnel of such agency to the Task Force to assist the Task Force in carrying out its duties under this section.
 
 “(i)
 

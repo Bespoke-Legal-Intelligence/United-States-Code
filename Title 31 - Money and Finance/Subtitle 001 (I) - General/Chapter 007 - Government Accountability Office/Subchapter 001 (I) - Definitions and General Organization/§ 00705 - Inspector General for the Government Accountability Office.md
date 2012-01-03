@@ -46,7 +46,7 @@ Complaints by Employees.—
 
 &emsp;(1) The Inspector General—
 
-&emsp;&emsp;(A) subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, orregulation, mismanagement, or a gross waste of funds; and
+&emsp;&emsp;(A) subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, or regulation, mismanagement, or a gross waste of funds; and
 
 &emsp;&emsp;(B) shall refer complaints or information concerning violations of personnel law, rules, or regulations to established investigative and adjudicative entities of the Government Accountability Office.
 
@@ -86,7 +86,7 @@ Experts and consultants.—The Inspector General may procure temporary and inter
 
 &emsp;(3)
 
-Independence in appointing staff.—No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
+Independence in appointing staff.—No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed bythe Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
 
 &emsp;(4)
 

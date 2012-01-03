@@ -18,7 +18,7 @@ A prior section 8148, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555, provided fo
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–247 substituted “or receipt” for “a receipt”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–247 substituted “or receipt” for “a receipt”.
 
 #### Effective Date
 

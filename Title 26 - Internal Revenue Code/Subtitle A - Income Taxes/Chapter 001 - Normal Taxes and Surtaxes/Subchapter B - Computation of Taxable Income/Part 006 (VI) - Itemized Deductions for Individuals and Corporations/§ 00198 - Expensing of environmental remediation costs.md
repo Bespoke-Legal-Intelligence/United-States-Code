@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Special rule for expenditures for depreciable property
 
-&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that theportion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
+&emsp;Such term shall not include any expenditure for the acquisition of property of a character subject to the allowance for depreciation which is used in connection with the abatement or control of hazardous substances at a qualified contaminated site; except that the portion of the allowance under section 167 for such property which is otherwise allocated to such site shall be treated as a qualified environmental remediation expenditure.
 
 #### (c) Qualified contaminated site
 

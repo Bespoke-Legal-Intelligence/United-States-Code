@@ -30,7 +30,7 @@
 
 #### Amendments
 
-1978—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
+<b>1978</b>—Pub. L. 95–454, §906(c)(1)(B), renumbered section 3392 of this title as this section.
 
 Subsec. (a)(1)(B). Pub. L. 95–454, §906(c)(2)(B)(i), substituted “3403” for “3393”.
 

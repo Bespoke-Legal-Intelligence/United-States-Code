@@ -92,7 +92,7 @@ Executive Order 12906, referred to in subsec. (b)(2)(D)(iii), is set out as a no
 
 #### Amendments
 
-2004—Pub. L. 108–458 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2004</b>—Pub. L. 108–458 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Findings
 

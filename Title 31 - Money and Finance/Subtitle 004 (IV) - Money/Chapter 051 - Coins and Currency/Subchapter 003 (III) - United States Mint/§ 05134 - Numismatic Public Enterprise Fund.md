@@ -42,7 +42,7 @@ Payment of expenses.—Any expense incurred by the Secretary for numismatic oper
 
 &emsp;(2)
 
-Deposit of receipts.—All receipts from numismatic operations and programs shall bedeposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
+Deposit of receipts.—All receipts from numismatic operations and programs shall be deposited into the Fund, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item.
 
 &emsp;(3)
 
@@ -162,7 +162,7 @@ Contents of annual report.—The annual report required under subparagraph (A) f
 
 &emsp;&emsp;&emsp;(v) a summary of the corrective actions taken with respect to material weaknesses relating to numismatic operations and programs identified in the reports prepared under section 3512(c);
 
-&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform theCongress concerning the financial management of the Fund; and
+&emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform the Congress concerning the financial management of the Fund; and
 
 &emsp;&emsp;&emsp;(vii) a statement of the total amount of excess funds transferred to the Treasury.
 
@@ -196,7 +196,7 @@ In general.—Notwithstanding any other provision of law, no amount derived from
 
 &emsp;&emsp;&emsp;(i) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 
-&emsp;&emsp;&emsp;(ii) the designated recipient organization submits an audited financial statement that demonstrates, to the satisfaction of the Secretary, that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the total amount of the proceeds of such surcharge derived from the sale of such numismatic item.
+&emsp;&emsp;&emsp;(ii) the designated recipient organization submits an audited financial statement that demonstrates, to the satisfaction of the Secretary, that, with respect to allprojects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the total amount of the proceeds of such surcharge derived from the sale of such numismatic item.
 
 &emsp;&emsp;(B)
 
@@ -244,7 +244,7 @@ Use of surcharges for audits.—Any designated recipient organization that recei
 
 &emsp;&emsp;(F)
 
-Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization forany fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
+Waiver of paragraph.—The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization for any fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
 
 &emsp;&emsp;(G)
 
@@ -256,7 +256,7 @@ Availability of books and records.—An organization that receives any payment f
 
 &emsp;(3)
 
-Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support orinfluence in any way legislative action of the Congress relating to such numismatic item.
 
 &emsp;(4)
 

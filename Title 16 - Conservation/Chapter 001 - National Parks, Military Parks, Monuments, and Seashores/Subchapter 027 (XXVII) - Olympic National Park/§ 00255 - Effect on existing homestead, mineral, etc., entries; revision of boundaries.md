@@ -1,6 +1,6 @@
 ### §255. Effect on existing homestead, mineral, etc., entries; revision of boundaries
 
-Nothing contained herein shall affect any valid existing claim, location, or entry madeunder the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land, nor the rights reserved by treaty to the Indians of any tribes. The boundaries of Olympic National Park may be revised only by Act of Congress.
+Nothing contained herein shall affect any valid existing claim, location, or entry made under the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purpose whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land, nor the rights reserved by treaty to the Indians of any tribes. The boundaries of Olympic National Park may be revised only by Act of Congress.
 
 (June 29, 1938, ch. 812, §5, 52 Stat. 1242; Pub. L. 94–578, title III, §320(c), Oct. 21, 1976, 90 Stat. 2739.)
 

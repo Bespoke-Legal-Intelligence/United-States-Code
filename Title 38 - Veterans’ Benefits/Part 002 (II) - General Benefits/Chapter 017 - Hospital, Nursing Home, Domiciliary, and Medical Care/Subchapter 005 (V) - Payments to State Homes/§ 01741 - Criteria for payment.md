@@ -36,7 +36,7 @@ Subsec. (f). Pub. L. 109–461, §211(b)(2), added subsec. (f).
 
 <b>1999</b>—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+<b>1996</b>—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, and added par. (2).
 
 <b>1995</b>—Subsecs. (c) to (e). Pub. L. 104–66 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “The Secretary shall submit every three years to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the adequacy of the rates provided in subsection (a) of this section in light of projections over each of the following five years of the demand on the Department for the provision of nursing home care to veterans eligible for such care under this section and sections 1710 and 1720 of this title. The first such report shall be submitted not later than June 30, 1986.”
 

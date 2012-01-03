@@ -12,7 +12,7 @@ Except as otherwise provided by regulations, for purposes of this title—
 
 #### (b) Secretary to prescribe regulations
 
-The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulations providing the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation.
+The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulationsproviding the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation.
 
 #### (c) Definitions
 
@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (1) Entity
 
-&emsp;The term “entity” means any corporation, partnership, trust, association, estate, orother form of carrying on a business or activity.
+&emsp;The term “entity” means any corporation, partnership, trust, association, estate, or other form of carrying on a business or activity.
 
 #### (2) Stapled entities
 
@@ -112,7 +112,7 @@ Election.—Any election under subparagraph (A) shall be made not later than 180
 
 &emsp;“(C)
 
-Election irrevocable.—Any election under subparagraph (A), once made, may be revoked only with the consent of the Secretary of the Treasury or his delegate.
+Election irrevocable.—Any election under subparagraph (A), once made, may be revoked onlywith the consent of the Secretary of the Treasury or his delegate.
 
 “(7)
 
@@ -248,7 +248,7 @@ Special rules for determining ownership.—For purposes of this subsection—
 
 &emsp;&emsp;“(A) percentage ownership of an entity shall be determined in accordance with subsection (e)(4);
 
-&emsp;&emsp;“(B) interests in the entity which are acquired by an exempt REIT or a member of the stapled REITgroup in any acquisition described in an agreement, announcement, or filing described in subsection (b)(2) shall be treated as acquired on March 26, 1998; and
+&emsp;&emsp;“(B) interests in the entity which are acquired by an exempt REIT or a member of the stapled REIT group in any acquisition described in an agreement, announcement, or filing described in subsection (b)(2) shall be treated as acquired on March 26, 1998; and
 
 &emsp;&emsp;“(C) except as provided in guidance prescribed by the Secretary, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
 

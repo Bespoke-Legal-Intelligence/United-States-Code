@@ -48,7 +48,7 @@
 
 #### (B) Effect of withdrawal of an opposing candidate
 
-&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contribution and a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
+&emsp;&emsp;A candidate and a candidate's authorized committee shall not accept any contributionand a party shall not make any expenditure under the increased limit after the date on which an opposing candidate ceases to be a candidate to the extent that the amount of such increased limit is attributable to such an opposing candidate.
 
 #### (4) Disposal of excess contributions
 

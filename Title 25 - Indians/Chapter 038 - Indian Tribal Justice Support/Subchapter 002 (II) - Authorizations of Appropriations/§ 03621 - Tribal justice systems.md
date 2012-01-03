@@ -22,7 +22,7 @@ For carrying out the survey under section 3612 of this title, there is authorize
 
 #### (f) Indian priority system
 
-Funds appropriated pursuant to the authorizations provided by this section and available for a tribal justice system shall not be subject to the Indian priority system. Nothing in this chapter shall preclude a tribal government fromsupplementing any funds received under this chapter with funds received from any other source including the Bureau or any other Federal agency.
+Funds appropriated pursuant to the authorizations provided by this section and available for a tribal justice system shall not be subject to the Indian priority system. Nothing in this chapter shall preclude a tribal government from supplementing any funds received under this chapter with funds received from any other source including the Bureau or any other Federal agency.
 
 #### (g) Allocation of funds
 

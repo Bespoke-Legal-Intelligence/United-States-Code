@@ -50,7 +50,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (10) Process
 
-&emsp;The term “process” means to shell, clean, dry, and prepare popcorn for the market, but does not include packaging popcorn for the market without also engaging in another activity described in this paragraph.
+&emsp;The term “process” means to shell, clean, dry, and prepare popcorn for the market, butdoes not include packaging popcorn for the market without also engaging in another activity described in this paragraph.
 
 #### (11) Processor
 

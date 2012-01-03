@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-I74legislative statements
+#### legislative statements
 
 The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
 
@@ -42,9 +42,9 @@ Subsection (e) gives governmental units (including tax authorities) at least six
 
 #### Amendments
 
-2005—Subsec. (e). Pub. L. 109–8 added subsec. (e).
+<b>2005</b>—Subsec. (e). Pub. L. 109–8 added subsec. (e).
 
-1984—Subsec. (d). Pub. L. 98–353 inserted “502(e)(2),”.
+<b>1984</b>—Subsec. (d). Pub. L. 98–353 inserted “502(e)(2),”.
 
 #### Effective Date of 2005 Amendment
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Child Support Creditors or Their Representatives; Appearance Before Court
 

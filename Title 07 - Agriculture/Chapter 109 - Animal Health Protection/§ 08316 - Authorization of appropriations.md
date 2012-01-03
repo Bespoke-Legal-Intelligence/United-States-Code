@@ -38,7 +38,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(3). Pub. L. 110–246, §11011(3), struck out “of longer than 60 days” after “review”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–246, §11011(3), struck out “of longer than 60 days” after “review”.
 
 #### Effective Date of 2008 Amendment
 

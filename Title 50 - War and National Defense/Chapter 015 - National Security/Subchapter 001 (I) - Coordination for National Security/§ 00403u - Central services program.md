@@ -98,7 +98,7 @@ Subsec. (h). Pub. L. 107–108, §401(b), redesignated pars. (2) and (3) as (1) 
 
 Subsec. (e)(1). Pub. L. 106–567, §401(b), in second sentence, inserted “other than structures owned by the Agency” after “depreciation of plant and equipment”.
 
-Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted “financial statements to be prepared with respect to the program. Office of Management and Budget guidanceshall also determine the procedures for conducting annual audits under paragraph (1).” for “annual audits under paragraph (1)”.
+Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted “financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1).” for “annual audits under paragraph (1)”.
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–120, §401(a), substituted “, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other” for “and to other”.
 
@@ -118,9 +118,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 111–118, div. A, title VIII, §8035, Dec. 19, 2009, 123 Stat. 3436, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 112–74, div. A, title VIII, §8032, Dec. 23, 2011, 125 Stat. 812, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–10, div. A, title VIII, §8033, Apr. 15, 2011, 125 Stat. 64.
+
+Pub. L. 111–118, div. A, title VIII, §8035, Dec. 19, 2009, 123 Stat. 3436.
 
 Pub. L. 110–329, div. C, title VIII, §8035, Sept. 30, 2008, 122 Stat. 3629.
 

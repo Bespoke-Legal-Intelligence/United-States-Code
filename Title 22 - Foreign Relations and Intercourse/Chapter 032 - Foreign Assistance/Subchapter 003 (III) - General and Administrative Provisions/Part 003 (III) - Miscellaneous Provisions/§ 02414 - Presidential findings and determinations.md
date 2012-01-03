@@ -6,7 +6,7 @@ In any case in which the President is required to make a report to the Congress,
 
 #### (b) Action prohibition prior to execution of report
 
-No action shall be taken pursuant to any such finding or determination prior to the date onwhich that finding or determination has been reduced to writing and signed by the President.
+No action shall be taken pursuant to any such finding or determination prior to the date on which that finding or determination has been reduced to writing and signed by the President.
 
 #### (c) Publication in Federal Register
 

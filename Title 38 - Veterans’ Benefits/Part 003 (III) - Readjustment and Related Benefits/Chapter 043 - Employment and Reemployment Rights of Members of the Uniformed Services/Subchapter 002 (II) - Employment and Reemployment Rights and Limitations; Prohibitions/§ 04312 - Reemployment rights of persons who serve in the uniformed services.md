@@ -26,9 +26,11 @@
 
 &emsp;&emsp;(C) ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10;
 
-&emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services; or
+&emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;
 
-&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 12406 of title 10.
+&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 12406 of title 10; or
+
+&emsp;&emsp;(F) ordered to full-time National Guard duty (other than for training) under section 502(f)(2)(A) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds, as determined by the Secretary concerned.
 
 (d)(1) An employer is not required to reemploy a person under this chapter if—
 
@@ -46,7 +48,7 @@
 
 &emsp;(C) the employment referred to in paragraph (1)(C) is for a brief, nonrecurrent period and there is no reasonable expectation that such employment will continue indefinitely or for a significant period,
 
-> the employer shall have the burden of proving the impossibility or unreasonableness, undue hardship, or the brief or nonrecurrent nature of the employment without a reasonable expectation of continuing indefinitely or for a significant period.
+> the employer shall have the burden of proving the impossibility or unreasonableness, unduehardship, or the brief or nonrecurrent nature of the employment without a reasonable expectation of continuing indefinitely or for a significant period.
 
 (e)(1) Subject to paragraph (2), a person referred to in subsection (a) shall, upon the completion of a period of service in the uniformed services, notify the employer referred to in such subsection of the person's intent to return to a position of employment with such employer as follows:
 
@@ -84,17 +86,19 @@
 
 (4) An employer may not delay or attempt to defeat a reemployment obligation by demanding documentation that does not then exist or is not then readily available.
 
-(g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under theprovisions of title 5, United States Code, relating to veterans and other preference eligibles.
+(g) The right of a person to reemployment under this section shall not entitle such person to retention, preference, or displacement rights over any person with a superior claim under the provisions of title 5, United States Code, relating to veterans and other preference eligibles.
 
-(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
+(h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notificationrequirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428.)
 
 #### Prior Provisions
 
 A prior section 4312 was renumbered section 7612 of this title.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (c)(4)(F). Pub. L. 112–81 added subpar. (F).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–275, §311(4)(A), substituted “whose absence from a position of employment is necessitated” for “who is absent from a position of employment”.
 

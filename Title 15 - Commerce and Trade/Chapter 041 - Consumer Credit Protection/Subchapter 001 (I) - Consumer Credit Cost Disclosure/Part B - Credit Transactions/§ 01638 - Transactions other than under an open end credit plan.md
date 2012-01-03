@@ -34,7 +34,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the “total sale price”, using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Bureau. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
@@ -46,9 +46,9 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(13) In any residential mortgage transaction, a statement indicating whether a subsequent purchaser or assignee of the consumer may assume the debt obligation on its original terms and conditions.
 
-&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
+&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Bureau for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Bureau, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
-&emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of thedwelling, a clear and conspicuous statement that—
+&emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of the dwelling, a clear and conspicuous statement that—
 
 &emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -56,9 +56,9 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 #### (b) Form and timing of disclosures; residential mortgage transaction requirements
 
-(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
+(1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms,data, or information provided in connection with a transaction, including any computations or itemization.
 
-(2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
+(2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
 (B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
 
@@ -70,7 +70,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(i) Label the payment schedule as follows: “Payment Schedule: Payments Will Vary Based on Interest Rate Changes”.
 
-&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Board. Prior to issuing any rules pursuant to this clause, the Board shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
@@ -80,7 +80,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 Waiver of timeliness of disclosures.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide personal financial emergency, the consumer may waive or modify the timing requirements for disclosures under subparagraph (A), provided that—
 
-&emsp;(i) the term “bona fide personal emergency” may be further defined in regulations issued by the Board;
+&emsp;(i) the term “bona fide personal emergency” may be further defined in regulations issued by the Bureau;
 
 &emsp;(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of all consumers entitled to receive the disclosures required by this paragraph; and
 
@@ -90,7 +90,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Board under section 1631(c) of this title before suchcredit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -154,7 +154,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(Q) that the consumer may obtain additional information concerning such Federal student financial assistance from their institution of higher education, or at the website of the Department of Education; and
 
-&emsp;&emsp;(R) such other information as the Board shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
+&emsp;&emsp;(R) such other information as the Bureau shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
 
 #### (2) Disclosures at the time of private education loan approval
 
@@ -198,7 +198,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(O) the maximum monthly payment, calculated using the maximum rate of interest actually offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof; and
 
-&emsp;&emsp;(P) such other information as the Board shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
+&emsp;&emsp;(P) such other information as the Bureau shall prescribe, by rule, as necessary or appropriate for consumers to make informed borrowing decisions.
 
 #### (3) Self-certification of information
 
@@ -224,7 +224,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (A) Model form
 
-&emsp;&emsp;Not later than 2 years after August 14, 2008, the Board shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue model forms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
+&emsp;&emsp;Not later than 2 years after August 14, 2008, the Bureau shall, based on consumer testing, and in consultation with the Secretary of Education, develop and issue model forms that may be used, at the option of the private educational lender, for the provision of disclosures required under this subsection.
 
 #### (B) Format
 
@@ -234,7 +234,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;&emsp;(ii) provide for clear and conspicuous disclosures;
 
-&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to compare such terms among private education loans; and
+&emsp;&emsp;&emsp;(iii) enable borrowers easily to identify material terms of the loan and to comparesuch terms among private education loans; and
 
 &emsp;&emsp;&emsp;(iv) be succinct, and use an easily readable type font.
 
@@ -264,9 +264,9 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;No funds may be disbursed with respect to a private education loan until the expiration of the 3-day period described in paragraph (7).
 
-#### (9) Board regulations
+#### (9) Bureau regulations
 
-&emsp;In issuing regulations under this subsection, the Board shall prevent, to the extent possible, duplicative disclosure requirements for private educational lenders that are otherwise required to make disclosures under this subchapter, except that in any case in which the disclosure requirements of this subsection differ or conflict with the disclosure requirements of any other provision of this subchapter, the requirements of this subsection shall be controlling.
+&emsp;In issuing regulations under this subsection, the Bureau shall prevent, to the extent possible, duplicative disclosure requirements for private educational lenders that are otherwise required to make disclosures under this subchapter, except that in any case in which the disclosure requirements of this subsection differ or conflict with the disclosure requirements of any other provision of this subchapter, the requirements of this subsection shall be controlling.
 
 #### (10) Definitions
 
@@ -274,13 +274,11 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Board, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Board determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 (Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
 
 #### Amendment of Section
-
-<i>Pub. L. 111–203, title X, §§1100A(2), 1100H, July 21, 2010, 124 Stat. 2107, 2113, provided that, effective on the designated transfer date, this section is amended by striking “Board” each place that term appears and inserting “Bureau”.</i>
 
 <i>Pub. L. 111–203, title XIV, §§1400(c), 1419, 1420, 1465, July 21, 2010, 124 Stat. 2136, 2154, 2155, 2185, provided that, effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, this section is amended as follows:</i>
 
@@ -292,7 +290,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;<i>“(B) the amount of the fully indexed monthly payment due under the loan for the payment of principal and interest, and the amount of such fully indexed monthly payment including the monthly payment deposited in the account for the payment of all applicable taxes, insurance, and assessments.</i>
 
-&emsp;<i>“(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of other fees or required payments in connection with the loan.</i>
+&emsp;<i>“(17) In the case of a residential mortgage loan, the aggregate amount of settlement charges for all settlement services provided in connection with the loan, the amount of charges that are included in the loan and the amount of such charges the borrower must pay at closing, the approximate amount of the wholesale rate of funds in connection with the loan, and the aggregate amount of</i><i>other fees or required payments in connection with the loan.</i>
 
 &emsp;<i>“(18) In the case of a residential mortgage loan, the aggregate amount of fees paid to the mortgage originator in connection with the loan, the amount of such fees paid directly by the consumer, and any additional amount received by the originator from the creditor.</i>
 
@@ -350,9 +348,11 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(A), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(1)(M), (N), (2)(M)(i), (N), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2502(a)(1), designated existing provisions as subpar. (A).
 
@@ -362,7 +362,7 @@ Pub. L. 110–289, §2502(a)(5), (6), struck out “, whichever is earlier” a
 
 Pub. L. 110–289, §2502(a)(4), which directed insertion of “, which shall be at least 7 business days before consummation of the transaction” after “written application”, was executed by making the insertion after “written application” the first place appearing.
 
-Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, as defined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
+Pub. L. 110–289, §2502(a)(2), (3), substituted “any extension of credit that is secured by the dwelling of a consumer” for “a residential mortgage transaction, asdefined in section 1602(w) of this title” and “and” for “before the credit is extended, or”.
 
 Subsec. (b)(2)(B) to (F). Pub. L. 110–289, §2502(a)(6), added subpars. (B) to (F).
 

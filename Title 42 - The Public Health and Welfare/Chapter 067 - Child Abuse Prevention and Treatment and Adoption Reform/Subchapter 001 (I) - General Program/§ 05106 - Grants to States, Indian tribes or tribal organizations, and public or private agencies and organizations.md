@@ -8,7 +8,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;The Secretary may award grants to public or private organizations under this subsection—
 
-&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification,and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
+&emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of health care, medicine, law enforcement, judiciary, social work and child protection, education, child care, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem, who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse and neglect;
 
 &emsp;&emsp;(B) to improve the recruitment, selection, and training of volunteers serving in public and private children, youth, and family service organizations in order to prevent child abuse and neglect;
 
@@ -40,7 +40,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 #### (2) Triage procedures
 
-&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies, developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
+&emsp;The Secretary may award grants under this subsection to public and private agencies that demonstrate innovation in responding to reports of child abuse and neglect, including programs of collaborative partnerships between the State child protective services agency, community social service agencies and family support programs, law enforcement agencies,developmental disability agencies, substance abuse treatment entities, health care entities, domestic violence prevention entities, mental health service entities, schools, churches and synagogues, and other community agencies, to allow for the establishment of a triage system that—
 
 &emsp;&emsp;(A) accepts, screens, and assesses reports received to determine which such reports require an intensive intervention and which require voluntary referral to another agency, program, or project;
 
@@ -132,7 +132,7 @@ In addition to grants or contracts made under subsection (a) of this section, gr
 
 In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
-(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2),\(5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
+(Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465.)
 
 #### Prior Provisions
 
@@ -180,7 +180,7 @@ Pub. L. 108–36, §113(a)(1), substituted “Grants for” for “Demonstration
 
 Subsec. (a)(1). Pub. L. 108–36, §113(a)(3)(A), struck out “nonprofit” after “public or private” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted “law enforcement, judiciary, social work and child protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
+Subsec. (a)(1)(A). Pub. L. 108–36, §113(a)(3)(B), substituted “law enforcement, judiciary, social work andchild protection, education, and other relevant fields, or individuals such as court appointed special advocates (CASAs) and guardian ad litem,” for “law, education, social work, and other relevant fields”.
 
 Subsec. (a)(1)(B). Pub. L. 108–36, §113(a)(3)(C), substituted “children, youth and family service organizations in order to prevent child abuse and neglect;” for “nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and”.
 
@@ -208,7 +208,7 @@ Subsec. (c). Pub. L. 108–36, §113(c), struck out “demonstration” before �
 
 <b>1996</b>—Pub. L. 104–235, §106(1), struck out “or service” after “demonstration” in section catchline.
 
-Subsec. (a). Pub. L. 104–235, §106(2), amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enterinto contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
+Subsec. (a). Pub. L. 104–235, §106(2), amended heading and text of subsec. (a) generally. Prior to amendment, text consisted of pars. (1) and (2) which related to general authority of Secretary to make grants and enter into contracts for demonstration or service programs and projects and to evaluate the effectiveness of those demonstration projects.
 
 Subsec. (b). Pub. L. 104–235, §106(3), (4), redesignated subsec. (c) as (b) and pars. (3) to (7) thereof as (1) to (5), respectively, struck out former pars. (1) and (2) which related to training programs and other innovative programs, respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary shall, directly or through grants or contracts with public or private nonprofit organizations under this section, provide for the establishment of resource centers—
 

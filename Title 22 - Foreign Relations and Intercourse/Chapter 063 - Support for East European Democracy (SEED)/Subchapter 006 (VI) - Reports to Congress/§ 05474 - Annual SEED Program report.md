@@ -12,25 +12,19 @@ The Congress finds that—
 
 #### (b) Initial SEED Program report
 
-Accordingly, the first report pursuant to subsection (c) of this section shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
+Accordingly, the first report pursuant to subsection (c) <sup>1</sup> of this section shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
 
-#### (c) Annual SEED Program report
-
-Not later than January 31 of each year (beginning in 1991), the President shall submit to the Congress a “Report on the United States Program of Support for East European Democracy (the SEED Program)”. Each such report shall describe the assistance provided to each East European country under this chapter during the preceding fiscal year. In addition, each such report shall contain an assessment of the progress made by each such recipient country in—
-
-&emsp;(1) implementing economic policies designed to promote sustained economic growth, develop economic freedom, and increase opportunities for the people of that country; and
-
-&emsp;(2) adopting and implementing constitutional, legal, and administrative measures that—
-
-&emsp;&emsp;(A) affect the powers of the executive and legislative authorities and the independence of the judiciary,
-
-&emsp;&emsp;(B) affect the formation and operation of independent political parties, groups, associations, or organizations, or
-
-&emsp;&emsp;(C) affect fundamental human rights and civil liberties.
-
-(Pub. L. 101–179, title VII, §704, Nov. 28, 1989, 103 Stat. 1321.)
+(Pub. L. 101–179, title VII, §704, Nov. 28, 1989, 103 Stat. 1321; Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+Subsection (c) of this section, referred to in subsec. (b), was repealed by Pub. L. 112–74, div. I, title VII, §7034(n), Dec. 23, 2011, 125 Stat. 1217.
+
+#### Amendments
+
+<b>2011</b>—Subsec. (c). Pub. L. 112–74 struck out subsec. (c), which required President to submit annual SEED Program report.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

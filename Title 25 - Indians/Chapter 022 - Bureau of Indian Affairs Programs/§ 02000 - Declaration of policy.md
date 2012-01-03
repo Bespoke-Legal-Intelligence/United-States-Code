@@ -24,6 +24,30 @@ Pub. L. 99–89, §1(a), Aug. 15, 1985, 99 Stat. 379, provided that: “This Act
 
 Pub. L. 98–511, title V, §501(a), Oct. 19, 1984, 98 Stat. 2391, provided that: “This title \[enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under section 241ff of Title 20\] may be cited as the ‘Indian Education Amendments of 1984’.”
 
+#### Bureau of Indian Education Operated Schools
+
+Pub. L. 112–74, div. E, title I, §115, Dec. 23, 2011, 125 Stat. 1009, provided that:
+
+“(a)(1) Notwithstanding any other provision of law or Federal regulation, including section 586(c) of title 40,United States Code, the Director of the BIE \[Bureau of Indian Education\], or the Director's designee, is authorized to enter into agreements with public and private persons and entities that provide for such persons and entities to rent or lease the land or facilities of a Bureau-operated school for such periods of time as the school is Bureau operated, in exchange for a consideration (in the form of funds) that benefits the school, as determined by the head of the school.
+
+“(2) Funds received under paragraph (1) shall be retained by the school and used for school purposes otherwise authorized by law. Any funds received under paragraph (1) are hereby made available until expended for such purposes, notwithstanding section 3302 of title 31, United States Code.
+
+“(3) Nothing in this section shall be construed to allow for the diminishment of, or otherwise affect, the appropriation of funds to the budget accounts for the operation and maintenance of Bureau-operated schools. No funds shall be withheld from the distribution to the budget of any Bureau-operated school due to the receipt by the school of a benefit in accordance with this section.
+
+“(b) Notwithstanding any provision of title 5, United States Code, or any regulation promulgated under such title, education personnel who are under the direction and supervision of the Secretary of the Interior may participate in a fundraising activity for the benefit of a Bureau-operated school in an official capacity as part of their official duties. When participating in such an official capacity, the employee may use the employee's official title, position, and authority. Nothing in this subsection shall be construed to authorize participation in political activity (as such term is used in section 7324 of title 5, United States Code) otherwise prohibited by law.
+
+“(c) The Secretary of the Interior shall promulgate regulations to carry out this section not later than 16 months after the date of the enactment of this Act \[Dec. 23, 2011\]. Such regulations shall include—
+
+&emsp;“(1) standards for the appropriate use of Bureau-operated school lands and facilities by third parties under a rental or lease agreement;
+
+&emsp;“(2) provisions for the establishment and administration of mechanisms for the acceptance of consideration for the use and benefit of a school in accordance with this section (including, in appropriate cases, the establishment and administration of trust funds);
+
+&emsp;“(3) accountability standards to ensure ethical conduct; and
+
+&emsp;“(4) provisions for monitoring the amount and terms of consideration received, the manner in which the consideration is used, and any results achieved by such use.
+
+“(d) Provisions of this section shall apply to fiscal years 2012 through 2014.”
+
 #### Therapeutic Model Demonstration Schools
 
 Pub. L. 103–382, title V, §566, Oct. 20, 1994, 108 Stat. 4059, provided that:
@@ -94,5 +118,5 @@ Assistance.—The Secretary is authorized to enter into agreements with other or
 
 “(g)
 
-Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
+Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
 

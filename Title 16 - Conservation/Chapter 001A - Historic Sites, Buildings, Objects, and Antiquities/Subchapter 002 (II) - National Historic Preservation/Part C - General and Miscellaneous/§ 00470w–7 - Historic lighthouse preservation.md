@@ -18,11 +18,11 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (1) Process and policy
 
-&emsp;Not later than 1 year after October 24, 2000, the Secretary and the Administrator shall establish a process and policies for identifying, and selecting, an eligible entity to which a historic light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of such light station by the eligible entity.
+&emsp;Not later than 1 year after October 24, 2000, the Secretary and the Administrator shall establish a process and policies for identifying, and selecting, an eligible entity to which ahistoric light station could be conveyed for education, park, recreation, cultural, or historic preservation purposes, and to monitor the use of such light station by the eligible entity.
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station,when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in section 102(3) of title 40, and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in section 102(3) of title 40, and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 

@@ -10,7 +10,7 @@ Returns and return information shall be confidential, and except as authorized b
 
 &emsp;(3) no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (e)(1)(D)(iii), paragraph (6), (10), (12), (16), (19), (20), or (21) of subsection (<i>l</i>), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
 
-> shall disclose any return or return information obtained by him in any manner in connection with his service as such an officer or an employee or otherwise or under the provisions of this section. For purposes of this subsection, the term “officer or employee” includes a former officer or employee.
+> shall disclose any return or return information obtained by him in any manner in connectionwith his service as such an officer or an employee or otherwise or under the provisions of this section. For purposes of this subsection, the term “officer or employee” includes a former officer or employee.
 
 #### (b) Definitions
 
@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) Return
 
-&emsp;The term “return” means any tax or information return, declaration of estimated tax, or claim for refund required by, or provided foror permitted under, the provisions of this title which is filed with the Secretary by, on behalf of, or with respect to any person, and any amendment or supplement thereto, including supporting schedules, attachments, or lists which are supplemental to, or part of, the return so filed.
+&emsp;The term “return” means any tax or information return, declaration of estimated tax, or claim for refund required by, or provided for or permitted under, the provisions of this title which is filed with the Secretary by, on behalf of, or with respect to any person, and any amendment or supplement thereto, including supporting schedules, attachments, or lists which are supplemental to, or part of, the return so filed.
 
 #### (2) Return information
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (ii) References to State law, etc.
 
-&emsp;&emsp;&emsp;For purposes of applying subparagraph (A)(iii) to the subsections referred to in such subparagraph, any reference in such subsections to State law, proceedings, or tax returns shall be treated as references to the law, proceedings, or tax returns, as the case may be, of the municipalities which form and operate the governmental entity referred to in such subparagraph.
+&emsp;&emsp;&emsp;For purposes of applying subparagraph (A)(iii) to the subsections referred to in such subparagraph, any reference in such subsections to State law, proceedings, ortax returns shall be treated as references to the law, proceedings, or tax returns, as the case may be, of the municipalities which form and operate the governmental entity referred to in such subparagraph.
 
 #### (iii) Disclosure to contractors and other agents
 
@@ -142,7 +142,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;Any returns or return information obtained under paragraph (1) by any State agency, body, or commission may be open to inspection by, or disclosure to, officers and employees of the State audit agency for the purpose of, and only to the extent necessary in, making an audit of the State agency, body, or commission referred to in paragraph (1).
+&emsp;&emsp;Any returns or return information obtained under paragraph (1) by any State agency, body, or commission may be open to inspection by, or disclosure to, officers and employees of the State audit agency for the purpose of, and only to the extent necessary in, making an audit of the State agency,body, or commission referred to in paragraph (1).
 
 #### (B) State audit agency
 
@@ -286,7 +286,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (10) Limitation on certain disclosures under this subsection
 
-&emsp;In the case of an inspection or disclosure under this subsection relating to the return of a partnership, S corporation, trust, or an estate, the information inspected or disclosed shall not include any supporting schedule, attachment, or list which includes the taxpayer identity information of a person other than the entity making the return or the person conducting the inspection or to whom the disclosure is made.
+&emsp;In the case of an inspection or disclosure under this subsection relating to the return of a partnership, S corporation, trust, or an estate, the information inspected or disclosed shall not include any supporting schedule, attachment, or list which includes the taxpayer identity information of a person other thanthe entity making the return or the person conducting the inspection or to whom the disclosure is made.
 
 #### (f) Disclosure to Committees of Congress
 
@@ -378,7 +378,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 &emsp;&emsp;(A) if the Secretary has referred the case to the Department of Justice, or if the proceeding is authorized by subchapter B of chapter 76, the Secretary may make such disclosure on his own motion, or
 
-&emsp;&emsp;(B) if the Secretary receives a written request from the Attorney General, the Deputy Attorney General, or an Assistant Attorney General for a return of, or return information relating to, a person named in such request and setting forth the need forthe disclosure, the Secretary shall disclose return or return the information so requested.
+&emsp;&emsp;(B) if the Secretary receives a written request from the Attorney General, the Deputy Attorney General, or an Assistant Attorney General for a return of, or return information relating to, a person named in such request and setting forth the need for the disclosure, the Secretary shall disclose return or return the information so requested.
 
 #### (4) Disclosure in judicial and administrative tax proceedings
 
@@ -432,7 +432,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (B) Application for order
 
-&emsp;&emsp;The Attorney General, the Deputy Attorney General, the Associate Attorney General, any Assistant Attorney General, any United States attorney, any special prosecutor appointed under section 593 of title 28, United States Code, or any attorney in charge of a criminal division organized crime strike force established pursuant to section 510 of title 28, United States Code, may authorize an application to a Federal district court judge or magistrate judge for the order referred to in subparagraph (A). Upon such application, such judge or magistrate judge may grant such order if he determines on the basis of the facts submitted by the applicant that—
+&emsp;&emsp;The Attorney General, the Deputy Attorney General, the Associate Attorney General, any Assistant Attorney General, any United States attorney, any special prosecutor appointed under section 593 of title 28, United States Code, or any attorney in charge of a criminal division organized crime strike force established pursuant to section 510 of title 28, United States Code,may authorize an application to a Federal district court judge or magistrate judge for the order referred to in subparagraph (A). Upon such application, such judge or magistrate judge may grant such order if he determines on the basis of the facts submitted by the applicant that—
 
 &emsp;&emsp;&emsp;(i) there is reasonable cause to believe, based upon information believed to be reliable, that a specific criminal act has been committed,
 
@@ -500,7 +500,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (ii) Disclosure to the Department of Justice
 
-&emsp;&emsp;&emsp;Returns and taxpayer return information may also be disclosed to the AttorneyGeneral under clause (i) to the extent necessary for, and solely for use in preparing, an application under paragraph (7)(D).
+&emsp;&emsp;&emsp;Returns and taxpayer return information may also be disclosed to the Attorney General under clause (i) to the extent necessary for, and solely for use in preparing, an application under paragraph (7)(D).
 
 #### (iii) Taxpayer identity
 
@@ -562,7 +562,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (ii) Disclosure to State and local law enforcement agencies
 
-&emsp;&emsp;&emsp;The head of any Federal law enforcement agency may disclose return information obtained under clause (i) to officers and employees of any State or local law enforcement agency but only if such agency is part of a team with the Federal lawenforcement agency in such response or investigation and such information is disclosed only to officers and employees who are personally and directly engaged in such response or investigation.
+&emsp;&emsp;&emsp;The head of any Federal law enforcement agency may disclose return information obtained under clause (i) to officers and employees of any State or local law enforcement agency but only if such agency is part of a team with the Federal law enforcement agency in such response or investigation and such information is disclosed only to officers and employees who are personally and directly engaged in such response or investigation.
 
 #### (iii) Requirements
 
@@ -624,7 +624,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in paragraph (6), the Secretary may authorize an application to a Federal district court judge or magistrate for the order referred to in subparagraph (C)(i). Upon such application, such judge or magistrate may grant such order if he determines on the basis of the factssubmitted by the applicant that the requirements of subparagraph (C)(ii)(I) are met.
+&emsp;&emsp;&emsp;Except as provided in paragraph (6), the Secretary may authorize an application to a Federal district court judge or magistrate for the order referred to in subparagraph (C)(i). Upon such application, such judge or magistrate may grant such order if he determines on the basis of the facts submitted by the applicant that the requirements of subparagraph (C)(ii)(I) are met.
 
 #### (ii) Limitation on use of information
 
@@ -918,7 +918,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;Upon written request, the Commissioner of Social Security shall disclose directly to officers and employees of a Federal or State or local child support enforcement agency return information from returns with respect to social security account numbers, net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5) of this subsection.
+&emsp;&emsp;Upon written request, the Commissioner of Social Security shall disclose directly to officers and employees of a Federal or State orlocal child support enforcement agency return information from returns with respect to social security account numbers, net earnings from self-employment (as defined in section 1402), wages (as defined in section 3121(a) or 3401(a)), and payments of retirement income which have been disclosed to the Social Security Administration as provided by paragraph (1) or (5) of this subsection.
 
 #### (B) Restriction on disclosure
 
@@ -974,7 +974,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) Return information from Internal Revenue Service
 
-&emsp;&emsp;The Secretary shall, upon written request from the Commissioner of Social Security, disclose to the Commissioner available filing status and taxpayer identity information from the individual master files of the Internal Revenue Service relating to whether any medicare beneficiary identified by the Commissioner was a married individual (as defined in section 7703) for any specified year after 1986, and, if so, the name of the spouse of such individual and such spouse's TIN.
+&emsp;&emsp;The Secretary shall, upon written request from the Commissioner of Social Security, disclose to the Commissioner available filingstatus and taxpayer identity information from the individual master files of the Internal Revenue Service relating to whether any medicare beneficiary identified by the Commissioner was a married individual (as defined in section 7703) for any specified year after 1986, and, if so, the name of the spouse of such individual and such spouse's TIN.
 
 #### (B) Return information from Social Security Administration
 
@@ -1044,7 +1044,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (B) Restriction on use of disclosed information
 
-&emsp;&emsp;Return information disclosed under subparagraph (A) may be used by officers and employees of the Department of Education only for the purposes of, and to the extent necessary in, establishing the appropriate income contingent repayment amount for an applicable student loan.
+&emsp;&emsp;Return information disclosed under subparagraph (A) may be used by officers andemployees of the Department of Education only for the purposes of, and to the extent necessary in, establishing the appropriate income contingent repayment amount for an applicable student loan.
 
 #### (C) Applicable student loan
 
@@ -1158,7 +1158,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, upon written request from the Secretary of Health and Human Services, shall disclose to officers, employees,and contractors of the Department of Health and Human Services return information of any taxpayer whose income is relevant in determining any premium tax credit under section 36B or any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act or eligibility for participation in a State medicaid program under title XIX of the Social Security Act, a State's children's health insurance program under title XXI of the Social Security Act, or a basic health program under section 1331 of Patient Protection and Affordable Care Act. Such return information shall be limited to—
+&emsp;&emsp;The Secretary, upon written request from the Secretary of Health and Human Services, shall disclose to officers, employees, and contractors of the Department of Health and Human Services return information of any taxpayer whose income is relevant in determining any premium tax credit under section 36B or any cost-sharing reduction under section 1402 of the Patient Protection and Affordable Care Act or eligibility for participation in a State medicaid program under title XIX of the Social Security Act, a State's children's health insurance program under title XXI of the Social Security Act, or a basic health program under section 1331 of Patient Protection and Affordable Care Act. Such return information shall be limited to—
 
 &emsp;&emsp;&emsp;(i) taxpayer identity information with respect to such taxpayer,
 
@@ -1214,7 +1214,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary may, upon written request, disclose the mailing address of a taxpayer for use by officers, employees, or agents of a Federal agency for purposes of locating such taxpayer to collect or compromise a Federal claim against the taxpayer in accordance with sections 3711, 3717, and 3718 of title 31.
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary may, upon written request,disclose the mailing address of a taxpayer for use by officers, employees, or agents of a Federal agency for purposes of locating such taxpayer to collect or compromise a Federal claim against the taxpayer in accordance with sections 3711, 3717, and 3718 of title 31.
 
 #### (B) Special rule for consumer reporting agency
 
@@ -1278,7 +1278,7 @@ The Secretary may, subject to such requirements and conditions as he may prescri
 
 #### (C) Safeguards
 
-&emsp;&emsp;The Secretary shall destroy all related blood donor records (as defined in section 1141(h)(2) of the Social Security Act) in the possession of the Department of the Treasury upon completion of their use in makingthe disclosure required under subparagraph (A), so as to make such records undisclosable.
+&emsp;&emsp;The Secretary shall destroy all related blood donor records (as defined in section1141(h)(2) of the Social Security Act) in the possession of the Department of the Treasury upon completion of their use in making the disclosure required under subparagraph (A), so as to make such records undisclosable.
 
 #### (7) Social security account statement furnished by Social Security Administration
 
@@ -1332,7 +1332,7 @@ Pursuant to regulations prescribed by the Secretary, returns and return informat
 
 #### (B) Report by the Secretary
 
-&emsp;&emsp;The Secretary shall, within 90 days after the close of each calendar year, furnish to the Joint Committee on Taxation a report with respect to, or summary of, the records or accountings described in subparagraph (A) in such form and containing such information as such joint committee or the Chief of Staff of such joint committee may designate. Such report or summary shall not, however, include a record or accounting of any request by the President under subsection (g) for, or the disclosure in response to such request of, any return or return information with respect to any individual who, at the time of such request, was an officer or employee of the executive branch of the Federal Government. Such report or summary, or any part thereof, may be disclosed by such joint committee to such persons and for such purposes as the joint committee may, by record vote of a majority of the members of the joint committee, determine.
+&emsp;&emsp;The Secretary shall, within 90 days after the close of each calendar year, furnish to the Joint Committee on Taxation a report with respect to, or summary of, the records or accountings described in subparagraph (A) in such form and containing such information as such joint committee or the Chiefof Staff of such joint committee may designate. Such report or summary shall not, however, include a record or accounting of any request by the President under subsection (g) for, or the disclosure in response to such request of, any return or return information with respect to any individual who, at the time of such request, was an officer or employee of the executive branch of the Federal Government. Such report or summary, or any part thereof, may be disclosed by such joint committee to such persons and for such purposes as the joint committee may, by record vote of a majority of the members of the joint committee, determine.
 
 #### (C) Public report on disclosures
 

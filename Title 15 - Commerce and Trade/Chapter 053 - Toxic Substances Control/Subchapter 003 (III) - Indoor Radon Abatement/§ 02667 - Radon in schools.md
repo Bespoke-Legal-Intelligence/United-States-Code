@@ -32,7 +32,7 @@
 
 #### (6) Diagnostic and remedial efforts
 
-&emsp;The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enablingthe Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
+&emsp;The Administrator is authorized to select, from high-risk areas identified in paragraph (2), school buildings for purposes of enabling the Administrator to undertake diagnostic and remedial efforts to reduce the levels of radon in such school buildings. Such diagnostic and remedial efforts shall be carried out with a view to developing technology and expertise for the purpose of making such technology and expertise available to any local educational agency and the several States.
 
 #### (7) Status report
 

@@ -14,7 +14,7 @@ Pub. L. 111–11, title V, §5002(a), Mar. 30, 2009, 123 Stat. 1147, provided th
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
+Pub. L. 109–452, §1, Dec. 22, 2006, 120 Stat. 3363, provided that: “This Act \[amending section 1274 of thistitle and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Musconetcong Wild and Scenic Rivers Act’.”
 
 Pub. L. 109–370, §1, Nov. 27, 2006, 120 Stat. 2643, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lower Farmington River and Salmon Brook Wild and Scenic River Study Act of 2005’.”
 
@@ -28,7 +28,7 @@ Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Ac
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\]may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
+Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
 
 #### Short Title of 2000 Amendments
 

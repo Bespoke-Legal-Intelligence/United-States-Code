@@ -54,7 +54,7 @@ This chapter, referred to in text, was in the original “this Act” meaning Pu
 
 #### Amendments
 
-2007—Pub. L. 110–81, §210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
+<b>2007</b>—Pub. L. 110–81, §210, designated existing provisions as subsec. (a), inserted heading, and added par. (11) and subsec. (b).
 
 Par. (4). Pub. L. 110–81, §209(b), inserted before semicolon at end “and, in the case of a report filed in electronic form under section 1604(e) of this title, make such report available for public inspection over the Internet as soon as technically practicable after the report is so filed”.
 

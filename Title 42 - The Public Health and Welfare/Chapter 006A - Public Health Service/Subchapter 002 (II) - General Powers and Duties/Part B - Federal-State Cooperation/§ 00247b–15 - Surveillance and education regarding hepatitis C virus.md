@@ -84,5 +84,5 @@ Report to congress.—Not later than 180 days after the date on which all grants
 
 “(c)
 
-Authorization of Appropriations.—For the purpose of carrying out this section, there is authorized to be appropriated to the Department of Health and Human Services and the Department of Labor $10,000,000 for fiscal year 2001.”
+Authorization of Appropriations.—For the purpose of carrying out this section, there is authorized tobe appropriated to the Department of Health and Human Services and the Department of Labor $10,000,000 for fiscal year 2001.”
 

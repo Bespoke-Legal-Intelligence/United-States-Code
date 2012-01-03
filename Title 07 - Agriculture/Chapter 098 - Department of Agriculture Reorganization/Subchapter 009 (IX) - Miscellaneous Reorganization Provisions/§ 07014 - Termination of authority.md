@@ -42,13 +42,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-2008—Subsec. (b)(6). Pub. L. 110–246, §7511(b), added par. (6).
+<b>2008</b>—Subsec. (b)(6). Pub. L. 110–246, §7511(b), added par. (6).
 
 Subsec. (b)(7). Pub. L. 110–246, §14013(b), added par. (7).
 
-2002—Subsec. (b)(5). Pub. L. 107–171 added par. (5).
+<b>2002</b>—Subsec. (b)(5). Pub. L. 107–171 added par. (5).
 
-1998—Subsec. (b)(4). Pub. L. 105–277 added par. (4).
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–277 added par. (4).
 
 #### Effective Date of 2008 Amendment
 

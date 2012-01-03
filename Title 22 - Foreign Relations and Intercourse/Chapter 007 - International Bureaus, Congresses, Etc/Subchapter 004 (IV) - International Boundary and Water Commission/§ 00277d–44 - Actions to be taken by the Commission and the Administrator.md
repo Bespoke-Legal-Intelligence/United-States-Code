@@ -110,7 +110,7 @@ Subsec. (c)(2)(L), (M). Pub. L. 108–425, §1(b)(4), added subpars. (L) and (M)
 
 Pub. L. 108–425, §1(b)(3), redesignated subpars. (J) and (K) as (L) and (M), respectively. Former subpars. (L) and (M) redesignated (N) and (O), respectively.
 
-Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted “under applicable law” after “competitive procedures”. Former subpar. (N) redesignated (P).
+Subsec. (c)(2)(N). Pub. L. 108–425, §1(b)(3), (5), redesignated subpar. (L) as (N) and inserted “under applicablelaw” after “competitive procedures”. Former subpar. (N) redesignated (P).
 
 Subsec. (c)(2)(O) to (R). Pub. L. 108–425, §1(b)(3), redesignated subpars. (M) to (P) as (O) to (R), respectively.
 

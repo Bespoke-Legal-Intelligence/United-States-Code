@@ -76,9 +76,9 @@ Applicability.—Paragraph (1) shall not apply to the research and other program
 
 #### Transfer of Duties and Powers of Research and Special Programs Administration
 
-Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49, United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
+Pub. L. 108–426, §4(d), Nov. 30, 2004, 118 Stat. 2426, provided that: “The authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of title 49,United States Code, is transferred to the Administrator of the Research and Innovative Technology Administration.”
 
-For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator ofthe Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+For transfer of authority of the Research and Special Programs Administration exercised under chapters 51, 57, 61, 601, and 603 of this title to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
 #### Development of Underground Utility Location Technologies
 

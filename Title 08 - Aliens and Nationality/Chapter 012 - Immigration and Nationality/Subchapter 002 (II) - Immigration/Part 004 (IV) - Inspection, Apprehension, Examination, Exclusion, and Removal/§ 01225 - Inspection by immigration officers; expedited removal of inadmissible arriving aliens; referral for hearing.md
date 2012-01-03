@@ -30,11 +30,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearing or review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title, the officer shall order the alien removed from the United States without further hearingor review unless the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution.
 
 #### (ii) Claims for asylum
 
-&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention toapply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
+&emsp;&emsp;&emsp;If an immigration officer determines that an alien (other than an alien described in subparagraph (F)) who is arriving in the United States or is described in clause (iii) is inadmissible under section 1182(a)(6)(C) or 1182(a)(7) of this title and the alien indicates either an intention to apply for asylum under section 1158 of this title or a fear of persecution, the officer shall refer the alien for an interview by an asylum officer under subparagraph (B).
 
 #### (iii) Application to certain other aliens
 
@@ -84,7 +84,7 @@
 
 #### (C) Limitation on administrative review
 
-&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanent residence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
+&emsp;&emsp;Except as provided in subparagraph (B)(iii)(III), a removal order entered in accordance with subparagraph (A)(i) or (B)(iii)(I) is not subject to administrative appeal, except that the Attorney General shall provide by regulation for prompt review of such an order under subparagraph (A)(i) against an alien who claims under oath, or as permitted under penalty of perjury under section 1746 of title 28, after having been warned of the penalties for falsely making such claim under such conditions, to have been lawfully admitted for permanentresidence, to have been admitted as a refugee under section 1157 of this title, or to have been granted asylum under section 1158 of this title.
 
 #### (D) Limit on collateral attacks
 
@@ -192,9 +192,9 @@ This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the orig
 
 #### Amendments
 
-2008—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
+<b>2008</b>—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
 
-1996—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
+<b>1996</b>—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
 Pub. L. 104–208, §371(b)(4), substituted “an immigration judge” for “a special inquiry officer”, “immigration judge” for “special inquiry officer”, and “immigration judges” for “special inquiry officers”, wherever appearing in subsecs. (a) to (c).
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 104–132, §422(a), which directed the general amendment o
 
 Subsec. (d). Pub. L. 104–132, §423(b), added subsec. (d) which read as follows: “In any action brought for the assessment of penalties for improper entry or re-entry of an alien under section 1325 or section 1326 of this title, no court shall have jurisdiction to hear claims collaterally attacking the validity of orders of exclusion, special exclusion, or deportation entered under this section or sections 1226 and 1252 of this title.”
 
-1990—Subsec. (c). Pub. L. 101–649 substituted “subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title” for “paragraph (27), (28), or (29) of section 1182(a) of this title”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted “subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title” for “paragraph (27), (28), or (29) of section 1182(a) of this title”.
 
 #### Effective Date of 2008 Amendment
 
@@ -236,7 +236,7 @@ Section 302(b) of div. C of Pub. L. 104–208 provided that:
 
 “(1)
 
-Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigration and Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
+Study.—The Comptroller General shall conduct a study on the implementation of the expedited removal procedures under section 235(b)(1) of the Immigrationand Nationality Act \[8 U.S.C. 1225(b)(1)\], as amended by subsection (a). The study shall examine—
 
 &emsp;“(A) the effectiveness of such procedures in deterring illegal entry,
 

@@ -14,7 +14,7 @@ In General.—The Secretary may authorize a State to proceed with a project auth
 
 (b)
 
-Obligation of Federal Share.—The Secretary, on the request of a State and execution of a project agreement, may obligate all or a portion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
+Obligation of Federal Share.—The Secretary, on the request of a State and execution of a project agreement, may obligate all or aportion of the Federal share of a project authorized to proceed under this section from any category of funds for which the project is eligible.
 
 (c)
 

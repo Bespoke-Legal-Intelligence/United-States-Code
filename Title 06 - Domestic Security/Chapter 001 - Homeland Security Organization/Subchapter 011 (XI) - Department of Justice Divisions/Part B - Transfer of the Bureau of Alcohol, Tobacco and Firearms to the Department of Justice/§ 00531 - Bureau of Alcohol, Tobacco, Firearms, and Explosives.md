@@ -30,5 +30,5 @@
 
 #### Amendments
 
-2006—Pub. L. 109–162 transferred section catchline and subsecs. (a)–(c)(1), (3), to section 599A of Title 28, Judiciary and Judicial Procedure.
+<b>2006</b>—Pub. L. 109–162 transferred section catchline and subsecs. (a)–(c)(1), (3), to section 599A of Title 28, Judiciary and Judicial Procedure.
 

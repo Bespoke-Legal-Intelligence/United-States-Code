@@ -6,5 +6,5 @@ Shares may be issued in the name of a minor or in trust, subject to such conditi
 
 #### Amendments
 
-1959—Pub. L. 86–354 substituted “When shares are issued in trust, the” for “The” in second sentence.
+<b>1959</b>—Pub. L. 86–354 substituted “When shares are issued in trust, the” for “The” in second sentence.
 

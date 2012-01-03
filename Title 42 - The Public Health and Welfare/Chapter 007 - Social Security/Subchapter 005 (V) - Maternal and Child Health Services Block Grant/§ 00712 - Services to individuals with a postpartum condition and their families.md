@@ -44,7 +44,7 @@ The Secretary may provide technical assistance to entities seeking a grant under
 
 #### (2) Exceptions
 
-&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
+&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner assuch provisions apply to allotments made under section 702(c) of this title:
 
 &emsp;&emsp;(A) Section 704(b)(6) of this title (relating to prohibition on payments to excluded individuals and entities).
 

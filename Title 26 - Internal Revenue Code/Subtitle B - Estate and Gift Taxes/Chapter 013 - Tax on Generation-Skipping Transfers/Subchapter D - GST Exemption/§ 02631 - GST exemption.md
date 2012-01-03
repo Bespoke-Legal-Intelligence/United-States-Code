@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any propertywith respect to which such individual is the transferor.
+For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
 
 #### (b) Allocations irrevocable
 
@@ -46,7 +46,7 @@ Section 901 of Pub. L. 107–16 applicable to amendments by section 303(b)(2) of
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2012, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 

@@ -80,7 +80,7 @@ No grant may be made under subsection (a) of this section, unless an application
 
 #### (2) Applicability to certain secondary agreements for provision of services
 
-&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary has provided a waiver under subsection (b)(2) of this section regarding the provider.
+&emsp;Paragraph (1) shall not apply in the case of a provider through which a grantee under subsection (a) of this section provides services under such subsection if the Secretary hasprovided a waiver under subsection (b)(2) of this section regarding the provider.
 
 #### (f) Method and amount of payment
 
@@ -150,7 +150,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### References in Text
 
-The reference to section 254b of this title the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
+The reference to section 254b of this title the first place appearing, referred to in subsec. (a)(2), was in theoriginal a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
 
 Section 256a of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
@@ -196,7 +196,7 @@ In general.—The Director of the Centers for Disease Control and Prevention sha
 
 &emsp;“(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
 
-&emsp;“(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program forwomen, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+&emsp;“(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
 
 &emsp;“(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
 

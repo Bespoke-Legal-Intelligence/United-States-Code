@@ -100,7 +100,7 @@ The effective date of this section, referred to in subsec. (h)(5), probably mean
 
 <b>2000</b>—Subsec. (c)(8). Pub. L. 106–258, §1(b), substituted “Main” for “Williams”.
 
-Subsec. (d). Pub. L. 106–258, §1(a), in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+Subsec. (d). Pub. L. 106–258, §1(a), in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removedall structures from the property that are not relevant to the historic integrity of the McClintock House.”
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–333, §505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par.
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
 
-<b>1984</b>—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16East Williams Street” for “McClintock House, 16 East Williams Street”.
+<b>1984</b>—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
 
 Subsec. (d). Pub. L. 98–402, §1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
 

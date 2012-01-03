@@ -6,5 +6,5 @@ Any agency action relating to establishing, assisting, or terminating a negotiat
 
 #### Amendments
 
-1992—Pub. L. 102–354 renumbered section 590 of this title as this section.
+<b>1992</b>—Pub. L. 102–354 renumbered section 590 of this title as this section.
 

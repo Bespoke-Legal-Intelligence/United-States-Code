@@ -4,7 +4,7 @@
 
 (b) It shall be the duty and responsibility of the Director—
 
-&emsp;(1) to advise the Secretary with respect to the physical research program transferred tothe Department from the Energy Research and Development Administration;
+&emsp;(1) to advise the Secretary with respect to the physical research program transferred to the Department from the Energy Research and Development Administration;
 
 &emsp;(2) to monitor the Department's energy research and development programs in order to advise the Secretary with respect to any undesirable duplication or gaps in such programs;
 

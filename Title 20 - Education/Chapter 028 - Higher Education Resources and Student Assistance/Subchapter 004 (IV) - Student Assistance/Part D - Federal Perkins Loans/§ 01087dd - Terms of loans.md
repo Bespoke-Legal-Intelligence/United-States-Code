@@ -38,7 +38,7 @@
 
 &emsp;(C)(i) may provide, at the option of the institution, in accordance with regulations of the Secretary, that during the repayment period of the loan, payments of principal and interest by the borrower with respect to all outstanding loans made to the student from a student loan fund assisted under this part shall be at a rate equal to not less than $40 per month, except that the institution may, subject to such regulations, permit a borrower to pay less than $40 per month for a period of not more than one year where necessary to avoid hardship to the borrower, but without extending the 10-year maximum repayment period provided for in subparagraph (A) of this paragraph; and
 
-&emsp;(ii) may provide that the total payments by a borrower for a monthly or similar payment period with respect to the aggregate of all loans held by the institution may, when theamount of a monthly or other similar payment is not a multiple of $5, be rounded to the next highest whole dollar amount that is a multiple of $5;
+&emsp;(ii) may provide that the total payments by a borrower for a monthly or similar payment period with respect to the aggregate of all loans held by the institution may, when the amount of a monthly or other similar payment is not a multiple of $5, be rounded to the next highest whole dollar amount that is a multiple of $5;
 
 &emsp;(D) shall provide that the loan shall bear interest, on the unpaid balance of the loan, at the rate of 5 percent per year in the case of any loan made on or after October 1, 1981, except that no interest shall accrue (i) prior to the beginning date of repayment determined under paragraph (2)(A)(i), or (ii) during any period in which repayment is suspended by reason of paragraph (2);
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) if the borrower becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;
 
-&emsp;&emsp;(iii) if the borrower is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months; or
+&emsp;&emsp;(iii) if the borrower is unable to engage in any substantial gainful activity by reason of any medically determinable physical ormental impairment that can be expected to result in death, has lasted for a continuous period of not less than 60 months, or can be expected to last for a continuous period of not less than 60 months; or
 
 &emsp;&emsp;(iv) if the borrower is determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected disability;
 
@@ -98,13 +98,13 @@
 
 (5) The institution may elect—
 
-&emsp;(A) to add the amount of any charge imposed under paragraph (1)(H) to the principalamount of the loan as of the first day after the day on which the installment was due and to notify the borrower of the assessment of the charge; or
+&emsp;(A) to add the amount of any charge imposed under paragraph (1)(H) to the principal amount of the loan as of the first day after the day on which the installment was due and to notify the borrower of the assessment of the charge; or
 
 &emsp;(B) to make the amount of the charge payable to the institution not later than the due date of the next installment.
 
 (6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant) outside the United States shall be approved until completion of the period of the fellowship.
 
-(7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30 days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
+(7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
 
 #### (d) Availability of loan fund to all eligible students
 
@@ -224,7 +224,7 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 &emsp;(2) the Secretary determines necessary.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat.160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947.)
 
 #### References in Text
 
@@ -232,7 +232,7 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 
 #### Prior Provisions
 
-A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI,§16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

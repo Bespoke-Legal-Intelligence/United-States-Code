@@ -6,11 +6,11 @@
 
 (c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
 
-(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1443 of this title shall be reviewable by appeal or otherwise.
+(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
 
 (e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
 
-(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, §84, 63 Stat. 102; Pub. L. 88–352, title IX, §901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, §1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 102–198, §10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, §1, Oct. 1, 1996, 110 Stat. 3022.)
+(June 25, 1948, ch. 646, 62 Stat. 939; May 24, 1949, ch. 139, §84, 63 Stat. 102; Pub. L. 88–352, title IX, §901, July 2, 1964, 78 Stat. 266; Pub. L. 100–702, title X, §1016(c), Nov. 19, 1988, 102 Stat. 4670; Pub. L. 102–198, §10(b), Dec. 9, 1991, 105 Stat. 1626; Pub. L. 104–219, §1, Oct. 1, 1996, 110 Stat. 3022; Pub. L. 112–51, §2(d), Nov. 9, 2011, 125 Stat. 546.)
 
 #### Historical and Revision Notes
 
@@ -43,6 +43,8 @@ The provisions in section 80 of title 28, U.S.C., 1940 ed., relating to actions 
 This section strikes out subsections (c) and (d) of section 1447 of title 28, U.S.C., as covered by the Federal Rules of Civil Procedure, and adds a new subsection to such section 1447 to remove any doubt that the former law as to the finality of an order of remand to a State court is continued. This section also amends renumbered subsection (c) to remove any doubt that the former law authorizing the district court upon remand to order payment of costs is continued.
 
 #### Amendments
+
+<b>2011</b>—Subsec. (d). Pub. L. 112–51 inserted “1442 or” before “1443”.
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–219 substituted “any defect other than lack of subject matter jurisdiction” for “any defect in removal procedure” in first sentence.
 

@@ -30,7 +30,7 @@
 
 #### (1) Authorization of payment
 
-&emsp;The Board may authorize the Chief to pay an allowance to an officer or employee of theUnited States Capitol Police if the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.
+&emsp;The Board may authorize the Chief to pay an allowance to an officer or employee of the United States Capitol Police if the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in retention efforts.
 
 #### (2) Amount of payment
 
@@ -66,7 +66,7 @@ Upon the approval of the Chief—
 
 #### (1) In general
 
-&emsp;The payment of bonuses, allowances, step increases, compensation, and other payments pursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
+&emsp;The payment of bonuses, allowances, step increases, compensation, and other paymentspursuant to this section shall be carried out in accordance with regulations prescribed by the Board.
 
 #### (2) Repealed. Pub. L. 108–7, div. H, title I, §1004(2), Feb. 20, 2003, 117 Stat. 358
 
@@ -82,7 +82,7 @@ Section was classified to section 207b–2 of former Title 40, prior to the enac
 
 #### Amendments
 
-2003—Subsec. (a)(1). Pub. L. 108–7, §1004(1)(A), substituted “the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–7, §1004(1)(A), substituted “the Chief, in the Chief's sole discretion, determines that such a bonus will assist the Capitol Police in recruitment efforts” for “the Board determines that the Capitol Police would be likely, in the absence of such a bonus, to encounter difficulty in filling the position”.
 
 Subsec. (a)(6). Pub. L. 108–7, §1004(1)(B), added par. (6).
 

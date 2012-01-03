@@ -50,7 +50,7 @@ Pub. L. 107–95, §4, Dec. 21, 2001, 115 Stat. 904, provided that: “It is the
 
 #### Evaluation Centers for Homeless Veterans Programs
 
-Pub. L. 107–95, §6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department ofVeterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
+Pub. L. 107–95, §6(a), Dec. 21, 2001, 115 Stat. 919, provided that: “The Secretary of Veterans Affairs shall support the continuation within the Department of Veterans Affairs of at least one center for evaluation to monitor the structure, process, and outcome of programs of the Department of Veterans Affairs that address homeless veterans.”
 
 #### Definitions in Pub. L. 107–95
 

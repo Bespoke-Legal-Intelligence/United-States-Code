@@ -56,7 +56,7 @@ In this part, the following definitions apply:
 
 #### (6) Participation agreement
 
-&emsp;The term “participation agreement” means an agreement, between the Administrator anda company granted final approval under section 689c(e) of this title, that—
+&emsp;The term “participation agreement” means an agreement, between the Administrator and a company granted final approval under section 689c(e) of this title, that—
 
 &emsp;&emsp;(A) details the company's operating plan and investment criteria; and
 
